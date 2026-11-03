@@ -96,7 +96,7 @@ export function About() {
         <section className="panel">
           <h3 className="eyebrow">内容从哪里来</h3>
           <p className="muted">
-            重合词头的插画、词音和例句录音复用词光原作（CC BY 4.0，署名 Word Atlas contributors（词光）），画风仍是那套复古图鉴。高考词条的释义、例句和提示按考场与校园语境整理，经过结构校验，还没有逐条人工审校。看到错的地方，欢迎在 GitHub 提 Issue，或者直接改数据提 PR。
+            重合词头的插画、词音和例句录音复用词光原作（CC BY 4.0，署名 Word Atlas contributors（词光）），画风仍是那套复古图鉴。absorb、aware、calculate、conclude、daily、entire、likely 这七个词上游没有图，这里补了同风格的新图鉴，不是词光原文件，也还没有英美发音和例句录音。高考词条的释义、例句和提示按考场与校园语境整理，经过结构校验，还没有逐条人工审校。看到错的地方，欢迎在 GitHub 提 Issue，或者直接改数据提 PR。
           </p>
           <p className="muted">
             高考词图不是教育部、考试院或任何官方考纲词表，也不承诺提分。它只想把背单词这件事，做得好看一点、扎实一点。

@@ -1,4 +1,4 @@
-import { BookOpen, ChevronLeft, ChevronRight, Compass, Github, Keyboard, Moon, Search, Sun, User } from "lucide-react";
+import { ArrowRight, BookOpen, ChevronLeft, ChevronRight, Compass, Github, Keyboard, Moon, Search, Sun, User } from "lucide-react";
 import { useCallback, useEffect, useState } from "react";
 import { AtlasContext, useAtlas, useEntry } from "./atlas/context";
 import { loadOpenAtlas, loadPrivateAtlas } from "./atlas/data";
@@ -232,14 +232,19 @@ function WordSheet({ id }: { id: string | null }) {
       )}
       {ref && (
         <nav className="sheet-nav" aria-label="切换词条">
-          <button className="icon-btn" onClick={() => neighbor(-1)} disabled={ref.order === 0} aria-label="上一个">
-            <ChevronLeft size={20} />
-          </button>
-          <span>
-            {(ref.order + 1).toLocaleString()} / {atlas.count.toLocaleString()}
-          </span>
-          <button className="icon-btn" onClick={() => neighbor(1)} disabled={ref.order >= atlas.count - 1} aria-label="下一个">
-            <ChevronRight size={20} />
+          <div className="sheet-nav-meta">
+            <button className="icon-btn" onClick={() => neighbor(-1)} disabled={ref.order === 0} aria-label="上一个">
+              <ChevronLeft size={20} />
+            </button>
+            <span>
+              {(ref.order + 1).toLocaleString()} / {atlas.count.toLocaleString()}
+            </span>
+            <button className="icon-btn" onClick={() => neighbor(1)} disabled={ref.order >= atlas.count - 1} aria-label="下一个">
+              <ChevronRight size={20} />
+            </button>
+          </div>
+          <button className="btn btn-primary btn-xl sheet-continue" onClick={() => neighbor(1)} disabled={ref.order >= atlas.count - 1}>
+            继续 <ArrowRight size={20} />
           </button>
         </nav>
       )}
