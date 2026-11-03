@@ -1,6 +1,6 @@
 # 参与贡献 / Contributing
 
-谢谢你愿意让词光·高考变得更好。本仓库基于词光 Word Atlas（代码 MIT，内容 CC BY 4.0），署名 Word Atlas contributors（词光）。不要把它写成教育部或考试院的官方词表。
+谢谢你愿意让高考词图变得更好。本仓库 fork 自 Word Atlas（词光）（代码 MIT，内容 CC BY 4.0），署名 Word Atlas contributors（词光）。不要把它写成教育部或考试院的官方词表。
 
 ## 修正词条
 

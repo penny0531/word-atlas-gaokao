@@ -145,7 +145,7 @@ def main():
     meta = {
         "id": "word-atlas-open",
         "version": 1,
-        "name": "Word Atlas Open",
+        "name": "高考词图",
         "license": "CC BY 4.0",
         "count": len(index),
         "examples": sum(len(c["ex"]) for c in entries),

@@ -11,17 +11,17 @@ export function About() {
       <header className="about-hero">
         <img src={`${BASE}brand/og.webp`} alt="" />
         <div>
-          <p className="eyebrow">关于词光·高考</p>
-          <h1 className="display">一词一画，点亮高考。</h1>
+          <p className="eyebrow">关于高考词图</p>
+          <h1 className="display">一词一画，看图记高考词。</h1>
           <p className="lede">
-            词光·高考把高考英语里的核心词收成 {atlas.count.toLocaleString()} 个词条。每个词有中英释义和例句，配常用搭配和易混提示。学会一个，就在你的星图上点亮一颗星。
+            高考词图把高考英语里的核心词收成 {atlas.count.toLocaleString()} 个词条。每个词有中英释义和例句，配常用搭配和易混提示。学会一个，就在你的星图上点亮一颗星。
           </p>
           <p className="lede">
-            它免费、开源、无需注册。代码用 MIT，词库和媒体用 CC BY 4.0。本项目基于{" "}
+            它免费、开源、无需注册。高考词图 fork 自{" "}
             <a href={UPSTREAM_URL} target="_blank" rel="noreferrer">
-              词光 Word Atlas
+              Word Atlas（词光）
             </a>
-            。高考词条为衍生作品；请一并署名 Word Atlas contributors（词光）。
+            ，由 Word Atlas contributors 的作品派生。代码 MIT，词库与媒体 CC BY 4.0。请署名 Word Atlas contributors（词光）。
           </p>
           <div className="about-actions">
             <a className="btn btn-primary" href={REPO_URL} target="_blank" rel="noreferrer">
@@ -99,7 +99,7 @@ export function About() {
             重合词头的插画、词音和例句录音复用词光原作（CC BY 4.0，署名 Word Atlas contributors（词光）），画风仍是那套复古图鉴。高考词条的释义、例句和提示按考场与校园语境整理，经过结构校验，还没有逐条人工审校。看到错的地方，欢迎在 GitHub 提 Issue，或者直接改数据提 PR。
           </p>
           <p className="muted">
-            词光·高考不是教育部、考试院或任何官方考纲词表，也不承诺提分。它只想把背单词这件事，做得好看一点、扎实一点。
+            高考词图不是教育部、考试院或任何官方考纲词表，也不承诺提分。它只想把背单词这件事，做得好看一点、扎实一点。
           </p>
         </section>
 
