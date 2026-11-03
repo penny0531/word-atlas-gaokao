@@ -81,8 +81,8 @@ const shot = async (html, w, h, out, type = "jpeg") => {
   console.log("wrote", path.relative(root, out));
 };
 
-const title = `一词一画，<br><em>点亮雅思</em>。`;
-const sub = `${fmt(index.count)} 个雅思词，每个都有一幅画<br>${fmt(index.examples)} 条原创例句 · 英美发音 · 免费开源`;
+const title = `一词一画，<br><em>点亮高考</em>。`;
+const sub = `${fmt(index.count)} 个高考词，一词一画<br>${fmt(index.examples)} 条例句 · 英美发音 · 免费开源`;
 await shot(card({ width: 1200, height: 630, cols: 6, rows: 7, tile: 150, title, sub, chips: ["无需注册", "手机可用", "CC BY 4.0 词库"] }), 1200, 630, path.join(root, "public/brand/og-card.jpg"));
 await shot(card({ width: 1600, height: 720, cols: 7, rows: 7, tile: 170, title, sub, chips: ["无需注册", "词汇星图", "JSON / CSV 下载"] }), 1600, 720, path.join(root, "docs/assets/banner.jpg"));
 

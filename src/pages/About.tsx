@@ -1,6 +1,6 @@
 import { ArrowUpRight, Database, Github, Heart } from "lucide-react";
 import { useAtlas } from "../atlas/context";
-import { REPO_URL } from "../config";
+import { REPO_URL, UPSTREAM_URL } from "../config";
 
 const BASE = import.meta.env.BASE_URL;
 
@@ -11,12 +11,18 @@ export function About() {
       <header className="about-hero">
         <img src={`${BASE}brand/og.webp`} alt="" />
         <div>
-          <p className="eyebrow">关于词光</p>
-          <h1 className="display">一词一画，点亮雅思。</h1>
+          <p className="eyebrow">关于词光·高考</p>
+          <h1 className="display">一词一画，点亮高考。</h1>
           <p className="lede">
-            词光把雅思阅读 8000 词整理成 {atlas.count.toLocaleString()} 个词条。每个词一幅原创插画，一句日常例句，一句雅思例句，配英美发音、常用搭配和易混提示。学会一个，就在你的星图上点亮一颗星。
+            词光·高考把高考英语里的核心词收成 {atlas.count.toLocaleString()} 个词条。每个词有中英释义和例句，配常用搭配和易混提示。学会一个，就在你的星图上点亮一颗星。
           </p>
-          <p className="lede">它免费、开源、无需注册。代码用 MIT，词库用 CC BY 4.0，谁都可以拿去用。</p>
+          <p className="lede">
+            它免费、开源、无需注册。代码用 MIT，词库和媒体用 CC BY 4.0。本项目基于{" "}
+            <a href={UPSTREAM_URL} target="_blank" rel="noreferrer">
+              词光 Word Atlas
+            </a>
+            。高考词条为衍生作品；请一并署名 Word Atlas contributors（词光）。
+          </p>
           <div className="about-actions">
             <a className="btn btn-primary" href={REPO_URL} target="_blank" rel="noreferrer">
               <Github size={18} /> 在 GitHub 上查看
@@ -90,9 +96,11 @@ export function About() {
         <section className="panel">
           <h3 className="eyebrow">内容从哪里来</h3>
           <p className="muted">
-            释义、例句、搭配和提示由大语言模型按统一的词典规范重新撰写；插画由图像模型按统一画风逐词绘制；发音和朗读由 ElevenLabs 合成（英音 Alice，美音 Sarah）。所有内容都经过结构和一致性的自动校验，但没有逐条人工审校。看到错的地方，欢迎在 GitHub 提 Issue，或者直接改数据提 PR。
+            重合词头的插画、词音和例句录音复用词光原作（CC BY 4.0，署名 Word Atlas contributors（词光）），画风仍是那套复古图鉴。高考词条的释义、例句和提示按考场与校园语境整理，经过结构校验，还没有逐条人工审校。看到错的地方，欢迎在 GitHub 提 Issue，或者直接改数据提 PR。
           </p>
-          <p className="muted">词光不是官方雅思词表，也不承诺提分。它只想把背单词这件事，做得好看一点、扎实一点。</p>
+          <p className="muted">
+            词光·高考不是教育部、考试院或任何官方考纲词表，也不承诺提分。它只想把背单词这件事，做得好看一点、扎实一点。
+          </p>
         </section>
 
         <section className="panel">

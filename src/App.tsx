@@ -125,7 +125,7 @@ function Shell({ privateAvailable }: { privateAvailable: boolean }) {
     <div className={`app ${focus ? "is-focus" : ""}`}>
       {!focus && (
         <header className="topbar">
-          <a className="topbar-logo" href="#/" aria-label="词光 Word Atlas 首页">
+          <a className="topbar-logo" href="#/" aria-label="词光·高考 Word Atlas 首页">
             <Logo />
           </a>
           <nav className="topnav" aria-label="主导航">
@@ -165,7 +165,7 @@ function Shell({ privateAvailable }: { privateAvailable: boolean }) {
         <footer className="footer">
           <Logo compact />
           <p>
-            一词一画，点亮雅思 · 免费开源 ·{" "}
+            一词一画，点亮高考 · 免费开源 · 基于 Word Atlas contributors（词光） ·{" "}
             <a href={REPO_URL} target="_blank" rel="noreferrer">
               GitHub
             </a>{" "}

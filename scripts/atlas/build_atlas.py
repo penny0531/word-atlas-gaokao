@@ -1,5 +1,9 @@
 """Compile forge output into the public Word Atlas dataset.
 
+The published Gaokao P1 set is already in `data/word-atlas.json` and
+`public/atlas/`. This script still expects `.local/forge` text from the
+upstream pipeline. Running it against an empty forge replaces that set.
+
 Writes:
   public/atlas/index.json            compact list for search, grid and scheduling
   public/atlas/entries/<n>.json      full entries in chunks of 100 (learning order)

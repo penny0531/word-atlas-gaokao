@@ -587,7 +587,12 @@ code {
 }
 .logo-text b {
   font: 700 21px/1 "Songti SC", "STSong", "Noto Serif SC", "Source Han Serif SC", serif;
-  letter-spacing: 0.06em;
+  letter-spacing: 0.04em;
+}
+@media (max-width: 420px) {
+  .logo-text small {
+    display: none;
+  }
 }
 .logo-text small {
   font: italic 500 14px/1 var(--serif);
@@ -3762,7 +3767,7 @@ a:hover .mark-needle,
   place-content: center;
   justify-items: center;
   gap: 8px;
-  font: 700 72px "Songti SC", serif;
+  font: 700 clamp(40px, 12vw, 72px) "Songti SC", serif;
   transition: opacity 0.4s;
 }
 .splash-static small {

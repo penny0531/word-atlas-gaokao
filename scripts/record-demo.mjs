@@ -32,7 +32,7 @@ await ctx.addInitScript((ids) => {
     const cards = Object.fromEntries(
       ids.map((id, i) => [id, { due: now + (1 + (i % 9)) * 86400000, s: i % 3 ? 8 : 40, d: 5, el: 3, sd: 6, ls: 0, reps: 4, lapses: 0, st: 2, seen: i < 18 ? now - 3600000 : now - (10 + (i % 20)) * 86400000 }]),
     );
-    localStorage.setItem("word-atlas:v2:word-atlas-open", JSON.stringify({ version: 2, datasetId: "word-atlas-open", cards, bookmarks: [], days: {}, typing: [], session: null, mistakes: [] }));
+    localStorage.setItem("word-atlas:v2:word-atlas-gaokao", JSON.stringify({ version: 2, datasetId: "word-atlas-gaokao", cards, bookmarks: [], days: {}, typing: [], session: null, mistakes: [] }));
     sessionStorage.setItem("demo", "1");
   }
 }, seeded);
