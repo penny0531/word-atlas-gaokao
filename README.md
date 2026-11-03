@@ -1,13 +1,13 @@
 <div align="center">
 
-# 词光·高考 · Word Atlas
+# 高考词图 · Gaokao Word Map
 
-**一词一画，点亮高考。**
+**一词一画，看图记高考词。**
 
 约 200 个高考英语核心词。一词一画，例句、英美发音，和一套刚刚好的复习节奏。<br>
 免费，开源，无需注册。不是官方考纲。
 
-[**打开词光·高考 →**](https://penny0531.github.io/word-atlas-gaokao/) &nbsp;·&nbsp; [下载词库](data/) &nbsp;·&nbsp; [English](README.en.md)
+[**打开高考词图 →**](https://penny0531.github.io/word-atlas-gaokao/) &nbsp;·&nbsp; [下载词库](data/) &nbsp;·&nbsp; [English](README.en.md)
 
 ![MIT](https://img.shields.io/badge/code-MIT-1E2640) ![CC BY 4.0](https://img.shields.io/badge/content-CC%20BY%204.0-C4573A) ![words](https://img.shields.io/badge/words-200-7F9B77) ![FSRS](https://img.shields.io/badge/scheduler-FSRS%206-D9A03A) ![no login](https://img.shields.io/badge/login-not%20required-6F93AE)
 
@@ -17,7 +17,7 @@
 
 ---
 
-词光·高考是词光的高考向 fork：交互、四种主动回忆题型、FSRS、词汇星图和声音设计都留着，词表换成高考英语核心词。第一版先放进大约 200 个高频词，后面再扩到约 3,500。
+高考词图 fork 自 Word Atlas（词光）：交互、四种主动回忆题型、FSRS、词汇星图和声音设计都留着，词表换成高考英语核心词。第一版先放进大约 200 个高频词，后面再扩到约 3,500。
 
 背单词最难的不是“看过”，而是“想得起来”。每个词一幅画，让你先看见它；主动回忆让你想起它；FSRS 在你快要忘记的时候让你和它重逢。学会一个，星图上就多一颗星。
 
@@ -146,6 +146,6 @@ GitHub Pages workflow 已把 `ATLAS_BASE` 设为 `/word-atlas-gaokao/`。部署�
 
 <div align="center">
 
-如果词光·高考帮到了你，点一颗 ⭐️，也算帮它点亮一颗星。
+如果高考词图帮到了你，点一颗 ⭐️，也算帮它点亮一颗星。
 
 </div>

@@ -1,4 +1,4 @@
-/* Word Atlas — design system
+/* 高考词图 — design system
    Paper, ink and four field-guide pigments, matched to the illustration palette. */
 
 :root {
@@ -589,7 +589,7 @@ code {
   font: 700 21px/1 "Songti SC", "STSong", "Noto Serif SC", "Source Han Serif SC", serif;
   letter-spacing: 0.04em;
 }
-@media (max-width: 420px) {
+@media (max-width: 980px) {
   .logo-text small {
     display: none;
   }
@@ -3772,7 +3772,7 @@ a:hover .mark-needle,
 }
 .splash-static small {
   font: 600 14px var(--serif);
-  letter-spacing: 0.4em;
+  letter-spacing: 0.16em;
   opacity: 0.7;
 }
 .splash.is-reduced .door {

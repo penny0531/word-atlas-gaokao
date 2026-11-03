@@ -1,8 +1,8 @@
 <div align="center">
 
-# 词光·高考 · Word Atlas
+# 高考词图 · Gaokao Word Map
 
-**One word, one picture. Light up Gaokao vocabulary.**<br>
+**One picture per word. Learn Gaokao words from the picture.**<br>
 About 200 core words · examples · reused illustrations and UK/US audio · FSRS spaced repetition
 
 [**Open the app →**](https://penny0531.github.io/word-atlas-gaokao/) &nbsp;·&nbsp; [Download the dataset](data/) &nbsp;·&nbsp; [中文](README.md)
@@ -13,7 +13,7 @@ Based on [Word Atlas](https://github.com/designfuchen/word-atlas) contributors�
 
 ---
 
-词光·高考 is a Gaokao fork of Word Atlas. The interface, four recall question types, FSRS scheduler, word galaxy and sound design stay. The 7,298-word IELTS list is replaced by about 200 high-frequency Gaokao English words (a later pass can grow toward ~3,500).
+Gaokao Word Map is a fork of Word Atlas（词光）. The interface, four recall question types, FSRS scheduler, word galaxy and sound design stay. The 7,298-word IELTS list is replaced by about 200 high-frequency Gaokao English words (a later pass can grow toward ~3,500).
 
 It is free, needs no account, and keeps progress on the device. The UI is in Chinese. This is not an official curriculum list and it does not promise a higher score.
 

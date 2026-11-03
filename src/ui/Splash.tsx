@@ -70,15 +70,15 @@ function targets(w: number, h: number, count: number) {
   g.lineTo(cx, cy + R * 0.1);
   g.closePath();
   g.fill();
-  const zh = Math.min(w * 0.3, s * 0.24);
+  const zh = Math.min(w * 0.2, s * 0.16);
   g.font = `700 ${zh}px "Songti SC", "STSong", "Noto Serif SC", "Source Han Serif SC", serif`;
   g.textAlign = "center";
   g.textBaseline = "middle";
-  g.fillText("词光", cx, cy + R + zh * 0.78);
-  const en = Math.max(18, zh * 0.24);
+  g.fillText("高考词图", cx, cy + R + zh * 0.85);
+  const en = Math.max(16, zh * 0.28);
   g.font = `700 ${en}px "Fraunces Variable", Georgia, serif`;
-  g.letterSpacing = `${en * 0.34}px`;
-  g.fillText("WORD ATLAS", cx, cy + R + zh * 1.52);
+  g.letterSpacing = `${en * 0.08}px`;
+  g.fillText("GAOKAO WORD MAP", cx, cy + R + zh * 1.72);
   const data = g.getImageData(0, 0, w, h).data;
   // Take every lit pixel, then a random subset: no visible sampling grid.
   const all: [number, number][] = [];
@@ -244,8 +244,8 @@ export function Splash({ onDone }: { onDone: () => void }) {
       <canvas ref={canvas} className="splash-canvas" aria-hidden="true" />
       {reduce && (
         <div className="splash-static">
-          <b>词光·高考</b>
-          <small>WORD ATLAS</small>
+          <b>高考词图</b>
+          <small>GAOKAO WORD MAP</small>
         </div>
       )}
       <div className="splash-copy">
