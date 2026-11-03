@@ -55,7 +55,7 @@ if (examples !== index.examples) fail(`examples ${examples} != ${index.examples}
 const bits = (b) => index.words.filter((r) => r[6] & b).length;
 console.log(
   JSON.stringify(
-    { words: index.count, examples, illustrated: bits(1), ukAudio: bits(2), usAudio: bits(4), sentenceAudio: bits(8), ieltsSentenceAudio: bits(16), warnings: warn, errors: errors.length },
+    { words: index.count, examples, illustrated: bits(1), ukAudio: bits(2), usAudio: bits(4), sentenceAudio: bits(8), secondExampleAudio: bits(16), warnings: warn, errors: errors.length },
     null,
     1,
   ),

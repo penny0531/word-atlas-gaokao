@@ -93,7 +93,7 @@ export function EntryView({ entry, mode = "detail", eager = true }: { entry: Ent
           <p className="specimen">
             № {String(ref.order + 1).padStart(4, "0")}
             <i />
-            Word Atlas
+            词光·高考
           </p>
         )}
         <h2 className="headword" lang="en">
@@ -121,7 +121,7 @@ export function EntryView({ entry, mode = "detail", eager = true }: { entry: Ent
             <ul className="examples">
               {entry.ex.map((x, i) => (
                 <li key={i}>
-                  {entry.ex.length > 1 && <span className={`ex-tag ${i ? "is-ielts" : ""}`}>{i ? "雅思语境" : "日常"}</span>}
+                  {entry.ex.length > 1 && <span className={`ex-tag ${i ? "is-ielts" : ""}`}>{i ? "高考语境" : "日常"}</span>}
                   <p className="ex-en" lang="en">
                     <Highlight text={x.en} word={entry.w} />
                     <Speak url={exUrls[i] ?? null} text={x.en} accent={i === 1 && exUrls[1] ? "us" : accent} size="sm" className="ex-speak" />

@@ -2,7 +2,7 @@
   "name": "word-atlas",
   "version": "1.0.0",
   "type": "module",
-  "description": "A beautiful, open IELTS vocabulary atlas: 7,000+ illustrated words with UK/US audio, original examples and FSRS spaced repetition.",
+  "description": "词光·高考 / Word Atlas · Gaokao: about 200 Gaokao English core words, one picture per word, examples, UK/US audio and FSRS. Based on Word Atlas.",
   "scripts": {
     "dev": "vite --host 0.0.0.0",
     "build": "tsc -b && vite build",

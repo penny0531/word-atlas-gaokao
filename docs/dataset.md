@@ -10,7 +10,7 @@
 | `w` | string | 词头 |
 | `uk` / `us` | string | 英式 / 美式 IPA，带斜杠 |
 | `senses` | `{pos, zh, en}[]` | 1–3 个义项：词性、中文释义、简明英文释义 |
-| `ex` | `{en, zh}[]` | 两条原创例句：`ex[0]` 日常短句，`ex[1]` 雅思语境长句 |
+| `ex` | `{en, zh}[]` | 一到两条例句：`ex[0]` 日常或校园短句（绑插画），`ex[1]` 高考语境长句。P1 里少数词暂时只有 `ex[0]` |
 | `col` | string[] | 常用搭配，格式 `english｜中文` |
 | `fam` | string[] | 词族，格式 `word (pos)` |
 | `syn` / `ant` | string[] | 近义 / 反义 |
@@ -18,6 +18,7 @@
 | `cefr` | `A1`…`C2` | 估计难度 |
 | `topic` | string | 19 个话题之一：education, work, technology, science, environment, health, society, government, economy, media, arts, travel, city, nature, daily, emotion, thinking, sport, history |
 | `note` | string | 可选：用法提醒（冒犯性、过时用法、拼写说明等） |
+| `meta` | object | 可选，解析器可忽略。高考子集用 `gaokaoFreq`（`high` / `mid` / `low`）、`source`、`mediaReuseCandidate` |
 
 ## `data/word-atlas.csv`
 
@@ -34,4 +35,4 @@
 
 ## 授权
 
-CC BY 4.0，署名 “Word Atlas contributors”。见 [CONTENT_LICENSE.md](../CONTENT_LICENSE.md)。
+CC BY 4.0，署名 “Word Atlas contributors（词光）”。见 [CONTENT_LICENSE.md](../CONTENT_LICENSE.md)。本子集不是教育部、考试院或官方考纲词表。

@@ -4,10 +4,10 @@ import { useAtlas } from "../atlas/context";
 import { store } from "../store/store";
 
 const LEVELS = [
-  ["A2", "基础", "日常词还不太稳"],
-  ["B1", "进阶", "目标 5.5 – 6 分"],
-  ["B2", "中高", "目标 6.5 – 7 分"],
-  ["C1", "高级", "冲刺 7.5 分以上"],
+  ["A2", "基础", "先把日常词站稳"],
+  ["B1", "进阶", "高中阅读里常见"],
+  ["B2", "中高", "高考阅读的常见难度"],
+  ["C1", "高级", "冲刺阅读与写作"],
 ];
 
 export function Onboarding() {
@@ -20,7 +20,7 @@ export function Onboarding() {
       <div className="onboard-card">
         <img className="onboard-art" src={`${import.meta.env.BASE_URL}brand/hero.webp`} alt="" />
         <div className="onboard-body">
-          <p className="eyebrow">欢迎来到词光</p>
+          <p className="eyebrow">欢迎来到词光·高考</p>
           <h1 className="display">
             {atlas.count.toLocaleString()} 颗星，
             <br />

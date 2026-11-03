@@ -20,7 +20,9 @@ location ^~ /words/ {
 
 ## GitHub Pages
 
-仓库带有 `.github/workflows/pages.yml`。在仓库 Settings → Pages 选择 “GitHub Actions”，然后手动运行 “Deploy to GitHub Pages”。
+仓库带有 `.github/workflows/pages.yml`。在仓库 Settings → Pages 选择 “GitHub Actions”，推送到 `main` 或手动运行 “Deploy to GitHub Pages”。
+
+本 fork 的 workflow 使用 `ATLAS_BASE=/word-atlas-gaokao/`，预览地址是 <https://penny0531.github.io/word-atlas-gaokao/>。
 
 ## 体积
 
