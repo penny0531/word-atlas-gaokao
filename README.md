@@ -4,12 +4,12 @@
 
 **一词一画，看图记高考词。**
 
-约 200 个高考英语核心词。一词一画，例句、英美发音，和一套刚刚好的复习节奏。<br>
+约 400 个高考英语核心词。一词一画，例句、英美发音，和一套刚刚好的复习节奏。<br>
 免费，开源，无需注册。不是官方考纲。
 
 [**打开高考词图 →**](https://penny0531.github.io/word-atlas-gaokao/) &nbsp;·&nbsp; [下载词库](data/) &nbsp;·&nbsp; [English](README.en.md)
 
-![MIT](https://img.shields.io/badge/code-MIT-1E2640) ![CC BY 4.0](https://img.shields.io/badge/content-CC%20BY%204.0-C4573A) ![words](https://img.shields.io/badge/words-200-7F9B77) ![FSRS](https://img.shields.io/badge/scheduler-FSRS%206-D9A03A) ![no login](https://img.shields.io/badge/login-not%20required-6F93AE)
+![MIT](https://img.shields.io/badge/code-MIT-1E2640) ![CC BY 4.0](https://img.shields.io/badge/content-CC%20BY%204.0-C4573A) ![words](https://img.shields.io/badge/words-400-7F9B77) ![FSRS](https://img.shields.io/badge/scheduler-FSRS%206-D9A03A) ![no login](https://img.shields.io/badge/login-not%20required-6F93AE)
 
 基于 [词光 Word Atlas](https://github.com/designfuchen/word-atlas) contributors（词光）。代码 MIT，词库与媒体 CC BY 4.0。
 
@@ -17,7 +17,7 @@
 
 ---
 
-高考词图 fork 自 Word Atlas（词光）：交互、四种主动回忆题型、FSRS、词汇星图和声音设计都留着，词表换成高考英语核心词。第一版先放进大约 200 个高频词，后面再扩到约 3,500。
+高考词图 fork 自 Word Atlas（词光）：交互、四种主动回忆题型、FSRS、词汇星图和声音设计都留着，词表换成高考英语核心词。现在有 400 个词：先是约 200 个精选词，再按公开词频补进下一批最高频考纲词。后面再扩到约 3,500。
 
 背单词最难的不是“看过”，而是“想得起来”。每个词一幅画，让你先看见它；主动回忆让你想起它；FSRS 在你快要忘记的时候让你和它重逢。学会一个，星图上就多一颗星。
 
@@ -25,10 +25,10 @@
 
 | 数量 | 内容 |
 |---:|---|
-| **200** | 高考英语核心词，CEFR A1–B2，沿用 19 个话题旋臂 |
-| **200** | 幅复古图鉴插画。193 幅复用词光原作（CC BY 4.0）；absorb、aware、calculate、conclude、daily、entire、likely 为同风格新图，不是上游原文件 |
-| **393** | 条例句：日常或校园短句，多数词另有一条高考语境长句 |
-| **193** | 个词有英音、美音和例句录音。上面 7 个新图词仍没有录音 |
+| **400** | 高考英语核心词，CEFR A1–B2，沿用 19 个话题旋臂 |
+| **373** | 幅复古图鉴插画。能对上的词复用词光原作（CC BY 4.0）；没有原文件的词先不配图 |
+| **793** | 条例句：一条日常或校园短句，一条高考语境长句 |
+| **366** | 个词有英音、美音和例句录音。没有原录音的词先不配音 |
 | **0** | 账号、广告、追踪。进度只在你自己的设备上 |
 
 ## 看一看
@@ -63,7 +63,7 @@
 
 | | |
 |---|---|
-| 🖼 **一幅插画** | 200 个词都有图。193 幅复用词光原画。`absorb`、`aware`、`calculate`、`conclude`、`daily`、`entire`、`likely` 是同风格新图，这 7 个词仍没有录音。 |
+| 🖼 **一幅插画** | 373 个词有图，优先复用词光原画。没有原文件的 27 个高频功能词先以文字学习，不借用别的词的图。 |
 | 🔊 **英美发音** | 词头英音、美音，以及例句录音（复用词光原文件）。新例句和旧录音不一定逐字相同。 |
 | ✍️ **例句** | `ex[0]` 日常或校园短句；多数词还有 `ex[1]` 高考语境长句，配中文翻译。 |
 | 📚 **中英释义** | 最多 3 个义项，按高考里更常见的意思排在前面。 |
@@ -71,7 +71,7 @@
 
 ## 词汇星图
 
-200 个词就是 200 颗星。19 个话题仍各占一条旋臂；这一版里自然和运动两条臂还没有词。简单的词靠近中心，难的在外缘。拖动旋转、滚动缩放，点一颗星打开词卡。
+400 个词就是 400 颗星。19 个话题仍各占一条旋臂；自然这一臂还没有词。简单的词靠近中心，难的在外缘。拖动旋转、滚动缩放，点一颗星打开词卡。
 
 ## 怎么帮你记住
 
@@ -83,7 +83,7 @@
 
 ## 词库
 
-`data/` 里是这 200 个词，内容 **CC BY 4.0**。请署名 Word Atlas contributors（词光），并说明做过修改。
+`data/` 里是这 400 个词，内容 **CC BY 4.0**。请署名 Word Atlas contributors（词光），并说明做过修改。选词说明见 [data/batch-2-notes.md](data/batch-2-notes.md)。
 
 | 文件 | 内容 |
 |---|---|
@@ -133,8 +133,8 @@ GitHub Pages workflow 已把 `ATLAS_BASE` 设为 `/word-atlas-gaokao/`。部署�
 ## 内容从哪来
 
 - 产品壳、题型、星图、音效来自 [词光 Word Atlas](https://github.com/designfuchen/word-atlas)。
-- 193 个重合词头复用词光的插画和录音，署名 Word Atlas contributors（词光）。
-- 高考词条的释义和例句是衍生文本。`absorb`、`aware`、`calculate`、`conclude`、`daily`、`entire`、`likely` 不在上游词库里：已补同风格新图，仍没有英音、美音和例句录音。
+- 有原文件的词复用词光的插画和录音，署名 Word Atlas contributors（词光）。新写的例句和旧录音不一定逐字相同。
+- 第二批里的 27 个高频词没有原图原音，先只保留文字。`absorb`、`aware`、`calculate`、`conclude`、`daily`、`entire`、`likely` 有同风格新图，仍没有录音。
 
 > **诚实说明**：这不是教育部、考试院或任何官方考纲词表，也不承诺提分。内容经过结构校验，没有逐条人工审校。发现问题请提 Issue，或直接改 `data/` 提 PR。
 
