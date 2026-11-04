@@ -20,12 +20,12 @@ It is free, needs no account, and keeps progress on the device. The UI is in Chi
 | | |
 |---:|---|
 | **200** | Gaokao core entries, CEFR A1–B2, the same 19 topic arms |
-| **193** | illustrations and voiced headwords reused from Word Atlas (CC BY 4.0) |
+| **200** | field-guide illustrations. 193 reused from Word Atlas (CC BY 4.0). absorb, aware, calculate, conclude, daily, entire, likely are new plates in the same style, not upstream files |
 | **393** | example sentences |
-| **7** | entries with text only, until art and audio exist: absorb, aware, calculate, conclude, daily, entire, likely |
+| **193** | voiced headwords (UK, US, and example audio). The seven new plates still have no audio |
 | **0** | accounts, ads or trackers |
 
-Illustrations keep the upstream retro field-guide style. Where the everyday example was rewritten, the picture and the example recording may still show the original Word Atlas scene. Headword audio still matches the word. Please credit **Word Atlas contributors（词光）**.
+Illustrations keep the upstream retro field-guide style. Where the everyday example was rewritten, the picture and the example recording may still show the original Word Atlas scene. Headword audio still matches the word. Please credit **Word Atlas contributors（词光）**. absorb, aware, calculate, conclude, daily, entire, and likely were not in the upstream set: they now have new plates in that style, and they still have no audio. The splash line, on screen and spoken, is 「欢迎进入高考词汇练习」.
 
 ## What every entry has
 
