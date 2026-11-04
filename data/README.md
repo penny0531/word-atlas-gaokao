@@ -1,6 +1,6 @@
 # 高考词图词库
 
-目前 400 个高考英语核心词，按 CEFR 由易到难排列。第二批 200 个的选词说明见 [batch-2-notes.md](batch-2-notes.md)。
+目前 600 个高考英语核心词，按 CEFR 由易到难排列。选词说明见 [batch-2-notes.md](batch-2-notes.md) 和 [batch-3-notes.md](batch-3-notes.md)。
 
 - `word-atlas.json`：结构化数据。可选 `meta.gaokaoFreq` 标记考纲频段。
 - `word-atlas.csv`：表格版
