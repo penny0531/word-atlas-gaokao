@@ -57,7 +57,7 @@
 | 英音 | [abandon /əˈbændən/](public/atlas/audio/uk/abandon.mp3) |
 | 美音 | [abandon /əˈbændən/](public/atlas/audio/us/abandon.mp3) |
 
-界面音效、星空音乐和环境声沿用词光的 `public/sfx/`。屏幕上的开屏文案是「欢迎打开高考词图」。现有的开屏口播文件仍是上游那句「欢迎打开雅思大门」，新录音还没做。
+界面音效、星空音乐和环境声沿用词光的 `public/sfx/`。开屏口播和屏幕文案都是「欢迎打开高考词图」。
 
 ## 每个词都有什么
 
