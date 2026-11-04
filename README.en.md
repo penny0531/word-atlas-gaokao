@@ -3,7 +3,7 @@
 # 高考词图 · Gaokao Word Map
 
 **One picture per word. Learn Gaokao words from the picture.**<br>
-About 400 core words · examples · reused illustrations and UK/US audio · FSRS spaced repetition
+About 600 core words · examples · reused illustrations and UK/US audio · FSRS spaced repetition
 
 [**Open the app →**](https://penny0531.github.io/word-atlas-gaokao/) &nbsp;·&nbsp; [Download the dataset](data/) &nbsp;·&nbsp; [中文](README.md)
 
@@ -13,16 +13,16 @@ Based on [Word Atlas](https://github.com/designfuchen/word-atlas) contributors�
 
 ---
 
-Gaokao Word Map is a fork of Word Atlas（词光）. The interface, four recall question types, FSRS scheduler, word galaxy and sound design stay. The playable list is 400 Gaokao English words so far (a later pass can grow toward ~3,500). The second 200 are the highest-frequency outline headwords not already included.
+Gaokao Word Map is a fork of Word Atlas（词光）. The interface, four recall question types, FSRS scheduler, word galaxy and sound design stay. The playable list is 600 Gaokao English words so far (a later pass can grow toward ~3,500). Later batches add the next highest-frequency outline headwords that are not already included.
 
 It is free, needs no account, and keeps progress on the device. The UI is in Chinese. This is not an official curriculum list and it does not promise a higher score.
 
 | | |
 |---:|---|
-| **400** | Gaokao core entries, CEFR A1–B2, the same 19 topic arms |
-| **373** | field-guide illustrations, reused from Word Atlas where the file already exists |
-| **793** | example sentences |
-| **366** | voiced headwords. 27 new high-frequency words have no picture or audio yet |
+| **600** | Gaokao core entries, CEFR A1–B2, the same 19 topic arms |
+| **559** | field-guide illustrations, reused from Word Atlas where the file already exists |
+| **1193** | example sentences |
+| **552** | voiced headwords. Words with no upstream file stay text-only |
 | **0** | accounts, ads or trackers |
 
 Illustrations keep the upstream retro field-guide style. Where the everyday example was rewritten, the picture and the example recording may still show the original Word Atlas scene. Headword audio still matches the word. Please credit **Word Atlas contributors（词光）**. absorb, aware, calculate, conclude, daily, entire, and likely were not in the upstream set: they now have new plates in that style, and they still have no audio. The splash line, on screen and spoken, is 「欢迎进入高考词汇练习」.
