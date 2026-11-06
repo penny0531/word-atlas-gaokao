@@ -2,7 +2,7 @@
   "name": "gaokao-word-map",
   "version": "1.0.0",
   "type": "module",
-  "description": "高考词图 / Gaokao Word Map: about 1398 Gaokao English core words, one picture per word, examples, UK/US audio and FSRS. A fork of Word Atlas（词光）.",
+  "description": "高考词图 / Gaokao Word Map: about 1598 Gaokao English core words, one picture per word, examples, UK/US audio and FSRS. A fork of Word Atlas（词光）.",
   "scripts": {
     "dev": "vite --host 0.0.0.0",
     "build": "tsc -b && vite build",
