@@ -98,7 +98,8 @@ export function Splash({ onDone }: { onDone: () => void }) {
   const reduce = typeof matchMedia !== "undefined" && matchMedia("(prefers-reduced-motion: reduce)").matches;
 
   useEffect(() => {
-    preloadFiles(["splash-voice.mp3", "splash-door.mp3", "splash-burst.mp3"]);
+    // v=2 misses the service-worker copy of the previous splash line.
+    preloadFiles(["splash-voice.mp3?v=2", "splash-door.mp3", "splash-burst.mp3"]);
     const t = window.setTimeout(() => setPhase((p) => (p === "gather" ? "ready" : p)), reduce ? 300 : 2100);
     return () => window.clearTimeout(t);
   }, [reduce]);
@@ -216,7 +217,7 @@ export function Splash({ onDone }: { onDone: () => void }) {
     if (sound && store.get().settings.sfx) {
       void playFile("splash-burst.mp3", 0.55);
       void playFile("splash-door.mp3", 0.6, 0.12);
-      void playFile("splash-voice.mp3", 0.95, 0.35);
+      void playFile("splash-voice.mp3?v=2", 0.95, 0.35);
       // Let the welcome line sit above the music that fades in with the doors.
       duck(true);
       window.setTimeout(() => duck(false), 3200);
@@ -237,7 +238,7 @@ export function Splash({ onDone }: { onDone: () => void }) {
   }); // eslint-disable-line react-hooks/exhaustive-deps
 
   return (
-    <div className={`splash is-${phase} ${reduce ? "is-reduced" : ""}`} onClick={() => open()} role="dialog" aria-label="欢迎进入高考词汇练习">
+    <div className={`splash is-${phase} ${reduce ? "is-reduced" : ""}`} onClick={() => open()} role="dialog" aria-label="欢迎打开高考词图，点击进入">
       <div className="door door-l" />
       <div className="door door-r" />
       <div className="splash-light" />
@@ -249,7 +250,7 @@ export function Splash({ onDone }: { onDone: () => void }) {
         </div>
       )}
       <div className="splash-copy">
-        <p className="splash-tag">欢迎进入高考词汇练习</p>
+        <p className="splash-tag">欢迎打开高考词图</p>
         <p className="splash-hint">
           <span className="splash-key" />
           点击开启 · 按任意键
