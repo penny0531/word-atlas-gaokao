@@ -26,8 +26,10 @@ AMBIENT = {
     "voyage": "amb-voyage-0",
     "cafe": "amb-cafe-1",
 }
-# Splash: voice line (Jason Chen, eleven_v3, verified by speech-to-text) and door/burst effects.
-SPLASH = {"splash-voice": ("splash/voice-jason-0", -16), "splash-door": ("splash/door-0", -21), "splash-burst": ("splash/burst-2", -22)}
+# Door and burst still come from the forge. public/sfx/splash-voice.mp3 is the
+# published line 「欢迎打开高考词图」 and is not rebuilt from splash/voice-jason-0,
+# which is the old IELTS line 「欢迎打开雅思大门」.
+SPLASH = {"splash-door": ("splash/door-0", -21), "splash-burst": ("splash/burst-2", -22)}
 # Word galaxy: hover twinkle, camera flight, star ignition, two verified voice lines.
 GALAXY = {
     "twinkle": ("galaxy/twinkle-0", -24),
@@ -67,11 +69,12 @@ def main():
         )
         run("-i", str(tmp), "-ac", "2", "-b:a", "112k", str(OUT / f"amb-{name}.mp3"))
         tmp.unlink()
+    print("keep splash-voice.mp3: published line is 「欢迎打开高考词图」, not rebuilt from the forge")
     for name, (src, lufs) in SPLASH.items():
         run(
             "-i", str(FORGE / f"{src}.mp3"),
             "-af", f"silenceremove=start_periods=1:start_threshold=-50dB,loudnorm=I={lufs}:TP=-2,afade=t=in:d=0.005",
-            "-ac", "1" if name == "splash-voice" else "2", "-b:a", "112k", str(OUT / f"{name}.mp3"),
+            "-ac", "2", "-b:a", "112k", str(OUT / f"{name}.mp3"),
         )
     for name, (src, lufs) in GALAXY.items():
         trim = ",atrim=0:0.4,afade=t=out:st=0.25:d=0.15" if name == "twinkle" else ""

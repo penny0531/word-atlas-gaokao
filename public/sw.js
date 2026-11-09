@@ -1,5 +1,5 @@
 /* 高考词图 offline cache: app shell network-first, everything else cache-first. */
-const VERSION = "atlas-gaokao-v1";
+const VERSION = "atlas-gaokao-v2";
 const SHELL = `${VERSION}-shell`;
 const MEDIA = `${VERSION}-media`;
 
