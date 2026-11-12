@@ -1,11 +1,11 @@
 import { Headphones, Keyboard, RotateCcw, Type } from "lucide-react";
-import { useEffect, useMemo, useRef, useState } from "react";
+import { useEffect, useMemo, useRef, useState, type PointerEvent } from "react";
 import { prefetch, useAtlas } from "../atlas/context";
 import type { Entry } from "../atlas/types";
 import { play, stopAudio } from "../lib/audio";
 import { cue } from "../lib/sound";
 import { hashSeed, shuffle } from "../lib/text";
-import { clean, commitAtEnd, correctCharacterCount, same, typingDelta, typingMetrics, typingSlots } from "../lib/typing";
+import { clean, commitAtEnd, correctCharacterCount, resetDictationItem, same, showDictationAnswer, typingDelta, typingMetrics, typingSlots } from "../lib/typing";
 import { store, useStore } from "../store/store";
 import { AmbiencePicker } from "../ui/Ambience";
 import { Illustration } from "../ui/Illustration";
@@ -120,6 +120,7 @@ function TypingRound({ mode, entries, onExit, onAgain }: { mode: Mode; entries: 
   const totalsRef = useRef({ typed: 0, correct: 0, accepted: 0, ms: 0 });
   const [totals, setTotals] = useState(totalsRef.current);
   const [done, setDone] = useState(false);
+  const [revealed, setRevealed] = useState(false);
   const started = useRef<number | null>(null);
   const input = useRef<HTMLInputElement>(null);
   const composing = useRef(false);
@@ -130,8 +131,10 @@ function TypingRound({ mode, entries, onExit, onAgain }: { mode: Mode; entries: 
   const target = mode === "word" ? e.w : e.ex[0].en;
 
   useEffect(() => {
-    valueRef.current = "";
-    setValue("");
+    const fresh = resetDictationItem();
+    valueRef.current = fresh.value;
+    setValue(fresh.value);
+    setRevealed(fresh.revealed);
     started.current = null;
     input.current?.focus();
     if (mode === "dictation") void play(atlas.audio(e, "ex"), e.ex[0].en, settings.accent);
@@ -170,6 +173,19 @@ function TypingRound({ mode, entries, onExit, onAgain }: { mode: Mode; entries: 
 
   const replay = () => {
     void play(atlas.audio(e, "ex"), e.ex[0].en, settings.accent);
+  };
+
+  const reveal = () => {
+    const shown = showDictationAnswer(valueRef.current);
+    setRevealed(shown.revealed);
+    if (shown.advance) finishItem(valueRef.current);
+  };
+
+  const pressControl = (ev: PointerEvent<HTMLButtonElement>, action: () => void) => {
+    if (ev.button !== 0) return;
+    ev.preventDefault();
+    ev.stopPropagation();
+    action();
   };
 
   const finishItem = (final: string) => {
@@ -243,29 +259,48 @@ function TypingRound({ mode, entries, onExit, onAgain }: { mode: Mode; entries: 
             </p>
           </div>
         )}
-        {mode !== "word" && (
-          <p className="typing-zh">
-            {mode === "dictation" && (
-              <button
-                type="button"
-                className="link typing-replay"
-                onPointerDown={(ev) => {
-                  if (ev.button !== 0) return;
-                  ev.preventDefault();
-                  ev.stopPropagation();
-                  replay();
-                }}
-                onClick={(ev) => {
-                  ev.preventDefault();
-                  ev.stopPropagation();
-                  if (ev.detail === 0) replay();
-                }}
-              >
-                再听一遍
-              </button>
-            )}
-            {e.ex[0].zh}
-          </p>
+        {mode === "dictation" && (
+          <div className="typing-actions">
+            <button
+              type="button"
+              className="link typing-replay"
+              onPointerDown={(ev) => pressControl(ev, replay)}
+              onClick={(ev) => {
+                ev.preventDefault();
+                ev.stopPropagation();
+                if (ev.detail === 0) replay();
+              }}
+            >
+              再听一遍
+            </button>
+            <button
+              type="button"
+              className="link typing-reveal"
+              aria-expanded={revealed}
+              aria-controls="dictation-answer"
+              onPointerDown={(ev) => pressControl(ev, reveal)}
+              onClick={(ev) => {
+                ev.preventDefault();
+                ev.stopPropagation();
+                if (ev.detail === 0) reveal();
+              }}
+            >
+              看答案
+            </button>
+          </div>
+        )}
+        {mode !== "word" && <p className="typing-zh">{e.ex[0].zh}</p>}
+        {mode === "dictation" && revealed && (
+          <div className="typing-compare" id="dictation-answer" role="region" aria-label="答案对照">
+            <article>
+              <span className="eyebrow">你的输入</span>
+              <p lang="en">{value ? value : "（还没有输入）"}</p>
+            </article>
+            <article className="is-key">
+              <span className="eyebrow">正确答案</span>
+              <p lang="en">{target}</p>
+            </article>
+          </div>
         )}
         <p className={`typing-text ${mode === "word" ? "is-word" : ""} ${mode === "dictation" ? "is-hidden" : ""}`} lang="en" aria-hidden="true">
           {chars.map((ch, k) => {
@@ -316,7 +351,7 @@ function TypingRound({ mode, entries, onExit, onAgain }: { mode: Mode; entries: 
           aria-label="在这里输入"
         />
         <p className="muted typing-help">
-          {mode === "dictation" ? "听不清可以点「再听一遍」。" : "直接开始输入，全部正确后自动进入下一项。"} 第 {i + 1}/{entries.length} 项
+          {mode === "dictation" ? "听不清可以点「再听一遍」。对一下可以点「看答案」，看过仍要自己打对才会进入下一句。" : "直接开始输入，全部正确后自动进入下一项。"} 第 {i + 1}/{entries.length} 项
         </p>
       </section>
     </div>
