@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import { test } from "node:test";
-import { clean, commitAtEnd, same, typingDelta, typingMetrics, typingSlots } from "./typing";
+import { clean, commitAtEnd, resetDictationItem, same, showDictationAnswer, typingDelta, typingMetrics, typingSlots } from "./typing";
 
 test("typing counts inserted characters and does not reward deletions", () => {
   assert.deepEqual(typingDelta("", "c", "cat"), { total: 1, correct: 1 });
@@ -106,6 +106,27 @@ test("a mobile caret insert is committed at the end and still matches the target
   assert.deepEqual(typingSlots(commitAtEnd("he", "lhe"), "hello"), ["ok", "ok", "ok", "empty", "empty"]);
   assert.deepEqual(typingSlots("Cafe\u0301", "café"), ["ok", "ok", "ok", "ok"]);
   assert.deepEqual(typingSlots("It’s", "It's"), ["ok", "ok", "ok", "ok"]);
+});
+
+test("revealing a dictation answer keeps the typed attempt and does not advance", () => {
+  const target = "Hello there.";
+  const attempt = "Hel";
+  const shown = showDictationAnswer(attempt);
+  assert.equal(shown.revealed, true);
+  assert.equal(shown.value, attempt);
+  assert.notEqual(shown.value, target);
+  assert.equal(shown.advance, false);
+  assert.equal(same(shown.value, target), false);
+  assert.equal(same(target, target), true);
+});
+
+test("a new dictation sentence hides the answer and clears the attempt", () => {
+  assert.deepEqual(resetDictationItem(), { revealed: false, value: "" });
+  const shown = showDictationAnswer("Hel");
+  const fresh = resetDictationItem();
+  assert.equal(fresh.revealed, false);
+  assert.equal(fresh.value, "");
+  assert.notEqual(fresh.value, shown.value);
 });
 
 test("metrics never emit NaN, Infinity, negatives or accuracy above 100", () => {

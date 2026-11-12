@@ -3025,12 +3025,46 @@ code {
   }
 }
 .typing-zh,
-.typing-replay {
+.typing-actions,
+.typing-replay,
+.typing-reveal,
+.typing-compare {
   position: relative;
   z-index: 2;
 }
-.typing-replay {
+.typing-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 18px;
+  justify-content: center;
+}
+.typing-replay,
+.typing-reveal {
   touch-action: manipulation;
+  min-height: 44px;
+  padding: 10px 2px;
+}
+.typing-compare {
+  width: min(100%, 36rem);
+  display: grid;
+  gap: 10px;
+  text-align: left;
+}
+.typing-compare article {
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  padding: 12px 14px;
+  background: var(--card);
+}
+.typing-compare article.is-key {
+  border-color: var(--terra);
+  background: var(--terra-soft);
+}
+.typing-compare p {
+  margin: 6px 0 0;
+  font: 500 18px/1.45 var(--mono);
+  word-break: break-word;
+  color: var(--ink);
 }
 .typing-input {
   position: absolute;

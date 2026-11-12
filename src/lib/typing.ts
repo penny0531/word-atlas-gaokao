@@ -55,6 +55,16 @@ export function typingSlots(value: string, target: string): TypingSlot[] {
   });
 }
 
+/** Opening the dictation answer leaves the attempt unchanged and does not finish the item. */
+export function showDictationAnswer(value: string) {
+  return { revealed: true as const, value, advance: false as const };
+}
+
+/** The next sentence starts hidden again, with an empty attempt. */
+export function resetDictationItem() {
+  return { revealed: false as const, value: "" };
+}
+
 /** Count newly inserted characters, including replacements, without rewarding deletions. */
 export function typingDelta(previous: string, next: string, target: string) {
   const before = Array.from(clean(previous));
