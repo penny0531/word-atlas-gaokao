@@ -5,6 +5,7 @@ import { splitHighlight, splitPair } from "../lib/text";
 import { formatInterval, isMastered } from "../store/srs";
 import { toggleBookmark, useStore } from "../store/store";
 import { Illustration } from "./Illustration";
+import { exampleAudioUrl } from "../lib/sentenceAudio";
 import { Speak } from "./Speak";
 import { shareWord } from "./share";
 import { openWord } from "../lib/router";
@@ -58,7 +59,7 @@ export function EntryView({ entry, mode = "detail", eager = true }: { entry: Ent
   const accent = useStore((s) => s.settings.accent);
   const topicIdx = atlas.topics.findIndex((t) => t[0] === entry.topic);
   const topic = atlas.topics[topicIdx];
-  const exUrls = [atlas.audio(entry, "ex"), atlas.audio(entry, "ex2")];
+  const exUrls = [exampleAudioUrl(atlas, entry, 0), exampleAudioUrl(atlas, entry, 1)];
   const famLinks = entry.fam.map((f) => {
     const w = f.replace(/\s*\(.*\)\s*$/, "").trim().toLowerCase();
     const hit = atlas.words.find((x) => x.word.toLowerCase() === w);

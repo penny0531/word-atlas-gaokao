@@ -1,0 +1,64 @@
+{
+  "source": "Recorded example scripts from designfuchen/word-atlas data/word-atlas.json. A sentence file may play only when the current example normalizes to this script.",
+  "upstreamRepo": "designfuchen/word-atlas",
+  "upstreamCommit": "c70d57d2b697f4de6ad512c62ba9495c4e5dc61c",
+  "verified": {
+    "different": {
+      "1": "students from different cultural backgrounds can contribute valuable perspectives to classroom discussions about global issues."
+    },
+    "conversation": {
+      "1": "regular conversation with fluent speakers helps language learners develop confidence and improve their listening skills."
+    },
+    "example": {
+      "1": "public buildings can set an example by using renewable energy and reducing unnecessary water consumption."
+    },
+    "agree": {
+      "1": "most researchers agree that regular physical activity can improve both mental health and academic performance."
+    },
+    "difficult": {
+      "1": "many graduates find it difficult to secure stable employment without previous experience in their chosen field."
+    },
+    "describe": {
+      "1": "the report describes how access to public parks influences physical activity among residents of crowded cities."
+    },
+    "design": {
+      "1": "cities should design public spaces that encourage social interaction while remaining accessible to people with disabilities."
+    },
+    "ability": {
+      "1": "regular reading can strengthen children's ability to understand complex ideas and express their own views clearly."
+    },
+    "distance": {
+      "1": "reducing the distance between residential areas and workplaces could lower transport emissions and improve urban quality of life."
+    },
+    "energy": {
+      "1": "investing in renewable energy can reduce dependence on fossil fuels while creating new employment opportunities."
+    },
+    "competition": {
+      "1": "competition between businesses can lower prices, but effective regulation is needed to protect consumers from unfair practices."
+    },
+    "discuss": {
+      "1": "students should discuss different solutions before deciding how to reduce waste on their campus."
+    },
+    "discover": {
+      "1": "scientists may discover new ways to treat diseases by studying plants in tropical forests."
+    },
+    "electric": {
+      "1": "electric buses can reduce urban air pollution, especially when their power comes from renewable sources."
+    },
+    "convenient": {
+      "1": "online learning offers a convenient way for working adults to develop skills without travelling to a campus."
+    },
+    "active": {
+      "1": "schools should encourage an active lifestyle to improve students' physical health and overall wellbeing."
+    },
+    "depend": {
+      "1": "many rural communities depend on reliable public transport to access healthcare, education, and employment opportunities."
+    },
+    "difference": {
+      "1": "understanding cultural differences can help international students adapt more successfully to life in a new country."
+    },
+    "high": {
+      "0": "the shelf is too high for me to reach."
+    }
+  }
+}

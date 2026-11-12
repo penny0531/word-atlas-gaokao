@@ -52,10 +52,49 @@ for (let n = 0; n * index.chunk < index.count; n++) {
 if (entries !== index.count) fail(`entries ${entries} != count ${index.count}`);
 if (examples !== index.examples) fail(`examples ${examples} != ${index.examples}`);
 
+function normalizeSentence(text) {
+  return text.normalize("NFKC").replace(/[’‘]/g, "'").replace(/[“”]/g, '"').replace(/[‐‑–—]/g, "-").replace(/\s/g, " ").toLowerCase();
+}
+const provenance = JSON.parse(fs.readFileSync(path.join(root, "data/sentence-audio-provenance.json"), "utf8"));
+const byEntry = new Map();
+for (let n = 0; n * index.chunk < index.count; n++) {
+  for (const e of JSON.parse(fs.readFileSync(path.join(pub, `entries/${n}.json`), "utf8"))) byEntry.set(e.id, e);
+}
+let verifiedSentenceAudio = 0;
+let verifiedSecondExampleAudio = 0;
+for (const [id, slots] of Object.entries(provenance.verified || {})) {
+  const e = byEntry.get(id);
+  if (!e) {
+    fail(`provenance names a missing card: ${id}`);
+    continue;
+  }
+  for (const [index, script] of Object.entries(slots)) {
+    const example = e.ex[Number(index)];
+    const file = Number(index) === 0 ? `audio/ex/${id}.mp3` : `audio/ex2/${id}.mp3`;
+    if (!example || normalizeSentence(example.en) !== script) fail(`sentence recording for ${id} [${index}] does not match the current example`);
+    if (!fs.existsSync(path.join(pub, file))) fail(`verified sentence recording missing ${file}`);
+    if (Number(index) === 0) verifiedSentenceAudio++;
+    else verifiedSecondExampleAudio++;
+  }
+}
 const bits = (b) => index.words.filter((r) => r[6] & b).length;
 console.log(
   JSON.stringify(
-    { words: index.count, examples, illustrated: bits(1), ukAudio: bits(2), usAudio: bits(4), sentenceAudio: bits(8), secondExampleAudio: bits(16), warnings: warn, errors: errors.length },
+    {
+        words: index.count,
+        examples,
+        illustrated: bits(1),
+        ukAudio: bits(2),
+        usAudio: bits(4),
+        sentenceAudio: bits(8),
+        secondExampleAudio: bits(16),
+        verifiedSentenceAudio,
+        verifiedSecondExampleAudio,
+        withheldSentenceAudio: bits(8) - verifiedSentenceAudio,
+        withheldSecondExampleAudio: bits(16) - verifiedSecondExampleAudio,
+        warnings: warn,
+        errors: errors.length,
+      },
     null,
     1,
   ),

@@ -1,6 +1,6 @@
 import { Volume2 } from "lucide-react";
 import { useState } from "react";
-import { play } from "../lib/audio";
+import { play, type PlayResult } from "../lib/audio";
 
 export function Speak({
   url,
@@ -22,11 +22,14 @@ export function Speak({
   kbd?: string;
 }) {
   const [on, setOn] = useState(false);
+  const [miss, setMiss] = useState<PlayResult | null>(null);
   const run = async (e: React.MouseEvent) => {
     e.stopPropagation();
     setOn(true);
+    setMiss(null);
     try {
-      await play(url, text, accent, rate);
+      const result = await play(url, text, accent, rate);
+      if (result === "failed" || result === "unsupported") setMiss(result);
     } finally {
       setOn(false);
     }
@@ -44,6 +47,7 @@ export function Speak({
         <span className="speak-waves" />
       </span>
       {label && <span className="speak-label">{label}</span>}
+      {miss && <span className="speak-miss">读不出来</span>}
     </button>
   );
 }

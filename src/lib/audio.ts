@@ -14,8 +14,10 @@ export function stopAudio() {
   if ("speechSynthesis" in window) window.speechSynthesis.cancel();
 }
 
-/** Play a recording, falling back to the device voice. Resolves when playback ends. */
-export async function play(url: string | null | undefined, text: string, accent: "uk" | "us" = "uk", rate = 1) {
+export type PlayResult = "recorded" | "device" | "stopped" | "failed" | "unsupported";
+
+/** Play a verified recording, otherwise the device voice for this exact text. */
+export async function play(url: string | null | undefined, text: string, accent: "uk" | "us" = "uk", rate = 1): Promise<PlayResult> {
   stopAudio();
   const mine = token;
   duck(true);
@@ -27,15 +29,15 @@ export async function play(url: string | null | undefined, text: string, accent:
   }
 }
 
-async function speak(url: string | null | undefined, text: string, accent: "uk" | "us", rate: number, mine: number) {
-  if (mine !== token) return "stopped" as const;
+async function speak(url: string | null | undefined, text: string, accent: "uk" | "us", rate: number, mine: number): Promise<PlayResult> {
+  if (mine !== token) return "stopped";
   if (url) {
     const a = new Audio(url);
     a.playbackRate = rate;
     current = a;
     try {
       await a.play();
-      if (mine !== token) return "stopped" as const;
+      if (mine !== token) return "stopped";
       await new Promise<void>((resolve) => {
         releaseWait = resolve;
         a.onended = () => {
@@ -43,23 +45,28 @@ async function speak(url: string | null | undefined, text: string, accent: "uk" 
           resolve();
         };
       });
-      return mine === token ? ("recorded" as const) : ("stopped" as const);
+      return mine === token ? "recorded" : "stopped";
     } catch {
-      if (mine !== token) return "stopped" as const;
+      if (mine !== token) return "stopped";
       current = null;
     }
   }
-  if (!("speechSynthesis" in window)) return "unsupported" as const;
+  if (!("speechSynthesis" in window) || typeof speechSynthesis.speak !== "function") return "unsupported";
   const u = new SpeechSynthesisUtterance(text);
   u.lang = accent === "uk" ? "en-GB" : "en-US";
   u.rate = rate * 0.95;
   const voices = speechSynthesis.getVoices().filter((v) => v.lang.replace("_", "-") === u.lang);
   const best = voices.find((v) => /premium|enhanced|natural|google/i.test(v.name)) || voices[0];
   if (best) u.voice = best;
-  await new Promise<void>((r) => {
-    u.onend = () => r();
-    u.onerror = () => r();
-    speechSynthesis.speak(u);
+  const outcome = await new Promise<"end" | "error">((resolve) => {
+    u.onend = () => resolve("end");
+    u.onerror = () => resolve("error");
+    try {
+      speechSynthesis.speak(u);
+    } catch {
+      resolve("error");
+    }
   });
-  return mine === token ? ("device" as const) : ("stopped" as const);
+  if (mine !== token) return "stopped";
+  return outcome === "end" ? "device" : "failed";
 }

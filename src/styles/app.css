@@ -3072,8 +3072,20 @@ code {
   inset: 0;
   font-size: 16px;
 }
-.typing-help {
+.typing-help,
+.typing-voice-note,
+.speak-miss {
   font-size: 13px;
+}
+.typing-voice-note {
+  position: relative;
+  z-index: 2;
+  margin: 0;
+  color: var(--terra-ink);
+  text-align: center;
+}
+.speak-miss {
+  color: var(--terra-ink);
 }
 .typing-done {
   max-width: 560px;
