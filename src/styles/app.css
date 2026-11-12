@@ -3024,6 +3024,14 @@ code {
     box-shadow: -2px 0 0 transparent;
   }
 }
+.typing-zh,
+.typing-replay {
+  position: relative;
+  z-index: 2;
+}
+.typing-replay {
+  touch-action: manipulation;
+}
 .typing-input {
   position: absolute;
   opacity: 0;

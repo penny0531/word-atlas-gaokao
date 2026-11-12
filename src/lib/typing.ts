@@ -17,6 +17,44 @@ export function correctCharacterCount(value: string, target: string) {
   ).length;
 }
 
+/**
+ * Apply an input edit at the end of the previous answer.
+ * A mobile tap on the hidden field moves the caret, so the browser may insert
+ * the next letter in the middle. The lesson caret is always at the end, and
+ * that letter would otherwise be compared with the wrong target character.
+ */
+export function commitAtEnd(previous: string, next: string) {
+  if (next === previous) return next;
+  const prev = Array.from(previous);
+  const nxt = Array.from(next);
+  let start = 0;
+  while (start < prev.length && start < nxt.length && prev[start] === nxt[start]) start++;
+  let endPrev = prev.length;
+  let endNext = nxt.length;
+  while (endPrev > start && endNext > start && prev[endPrev - 1] === nxt[endNext - 1]) {
+    endPrev--;
+    endNext--;
+  }
+  if (endPrev === prev.length) return next;
+  const added = nxt.slice(start, endNext);
+  const removed = endPrev - start;
+  if (!added.length) return prev.slice(0, Math.max(0, prev.length - removed)).join("");
+  return previous + added.join("");
+}
+
+export type TypingSlot = "ok" | "bad" | "empty";
+
+/** Slot marks use the same normalization as scoring, one grapheme at a time. */
+export function typingSlots(value: string, target: string): TypingSlot[] {
+  const expected = Array.from(clean(target));
+  const typed = Array.from(clean(value));
+  return expected.map((char, index) => {
+    const got = typed[index];
+    if (got === undefined) return "empty";
+    return same(got, char) ? "ok" : "bad";
+  });
+}
+
 /** Count newly inserted characters, including replacements, without rewarding deletions. */
 export function typingDelta(previous: string, next: string, target: string) {
   const before = Array.from(clean(previous));
