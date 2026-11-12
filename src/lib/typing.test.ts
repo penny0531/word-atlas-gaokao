@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import { test } from "node:test";
-import { clean, same, typingDelta, typingMetrics } from "./typing";
+import { clean, commitAtEnd, same, typingDelta, typingMetrics, typingSlots } from "./typing";
 
 test("typing counts inserted characters and does not reward deletions", () => {
   assert.deepEqual(typingDelta("", "c", "cat"), { total: 1, correct: 1 });
@@ -93,6 +93,19 @@ test("source nonbreaking spaces match keyboard spaces but omitted punctuation do
   assert.ok(same("a b", "a\u00a0b"));
   assert.deepEqual(typingDelta("", "a b", "a\u00a0b"), { total: 3, correct: 3 });
   assert.ok(!same("well being", "well-being"));
+});
+
+test("a mobile caret insert is committed at the end and still matches the target", () => {
+  assert.equal(commitAtEnd("he", "lhe"), "hel");
+  assert.equal(commitAtEnd("he", "hle"), "hel");
+  assert.equal(commitAtEnd("he", "hel"), "hel");
+  assert.equal(commitAtEnd("hel", "he"), "he");
+  assert.equal(commitAtEnd("abcd", "ad"), "ab");
+  assert.equal(commitAtEnd("", "h"), "h");
+  assert.equal(commitAtEnd("hello", "hello"), "hello");
+  assert.deepEqual(typingSlots(commitAtEnd("he", "lhe"), "hello"), ["ok", "ok", "ok", "empty", "empty"]);
+  assert.deepEqual(typingSlots("Cafe\u0301", "café"), ["ok", "ok", "ok", "ok"]);
+  assert.deepEqual(typingSlots("It’s", "It's"), ["ok", "ok", "ok", "ok"]);
 });
 
 test("metrics never emit NaN, Infinity, negatives or accuracy above 100", () => {

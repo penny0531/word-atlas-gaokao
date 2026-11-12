@@ -5,7 +5,7 @@ import type { Entry } from "../atlas/types";
 import { play, stopAudio } from "../lib/audio";
 import { cue } from "../lib/sound";
 import { hashSeed, shuffle } from "../lib/text";
-import { clean, correctCharacterCount, same, typingDelta, typingMetrics } from "../lib/typing";
+import { clean, commitAtEnd, correctCharacterCount, same, typingDelta, typingMetrics, typingSlots } from "../lib/typing";
 import { store, useStore } from "../store/store";
 import { AmbiencePicker } from "../ui/Ambience";
 import { Illustration } from "../ui/Illustration";
@@ -122,10 +122,15 @@ function TypingRound({ mode, entries, onExit, onAgain }: { mode: Mode; entries: 
   const [done, setDone] = useState(false);
   const started = useRef<number | null>(null);
   const input = useRef<HTMLInputElement>(null);
+  const composing = useRef(false);
+  const valueRef = useRef("");
+  const beforeComposition = useRef("");
+  const skipRaw = useRef<string | null>(null);
   const e = entries[i];
   const target = mode === "word" ? e.w : e.ex[0].en;
 
   useEffect(() => {
+    valueRef.current = "";
     setValue("");
     started.current = null;
     input.current?.focus();
@@ -134,16 +139,37 @@ function TypingRound({ mode, entries, onExit, onAgain }: { mode: Mode; entries: 
   }, [i]); // eslint-disable-line react-hooks/exhaustive-deps
   useEffect(() => () => stopAudio(), []);
 
-  const onChange = (next: string) => {
+  const snapCaret = () => {
+    const el = input.current;
+    if (!el || composing.current) return;
+    const end = el.value.length;
+    if (el.selectionStart === end && el.selectionEnd === end) return;
+    el.setSelectionRange(end, end);
+  };
+
+  const onChange = (raw: string) => {
     if (done) return;
+    if (composing.current) {
+      valueRef.current = raw;
+      setValue(raw);
+      return;
+    }
+    const prev = valueRef.current;
+    const next = commitAtEnd(prev, raw);
+    if (next === prev) return;
     if (started.current === null && next) started.current = performance.now();
-    const d = typingDelta(value, next, target);
+    const d = typingDelta(prev, next, target);
     if (settings.sfx && d.total > 0) void cue("key");
     const t = totalsRef.current;
     totalsRef.current = { ...t, typed: t.typed + d.total, correct: t.correct + d.correct };
     setTotals(totalsRef.current);
+    valueRef.current = next;
     setValue(next);
     if (clean(next).length >= clean(target).length && same(next.trimEnd(), target)) finishItem(next);
+  };
+
+  const replay = () => {
+    void play(atlas.audio(e, "ex"), e.ex[0].en, settings.accent);
   };
 
   const finishItem = (final: string) => {
@@ -162,8 +188,9 @@ function TypingRound({ mode, entries, onExit, onAgain }: { mode: Mode; entries: 
   };
 
   const m = typingMetrics(totals.correct, totals.typed, totals.accepted, totals.ms);
-  const chars = Array.from(target);
-  const typed = Array.from(value);
+  const chars = Array.from(clean(target));
+  const typed = Array.from(clean(value));
+  const slots = typingSlots(value, target);
 
   if (done)
     return (
@@ -200,7 +227,14 @@ function TypingRound({ mode, entries, onExit, onAgain }: { mode: Mode; entries: 
           <b>{m.wpm}</b> WPM · <b>{m.accuracy}%</b>
         </span>
       </header>
-      <section className="typing-stage" onClick={() => input.current?.focus()}>
+      <section
+        className="typing-stage"
+        onClick={(ev) => {
+          if ((ev.target as HTMLElement).closest("button")) return;
+          input.current?.focus();
+          snapCaret();
+        }}
+      >
         {mode === "word" && (
           <div className="typing-cue">
             <Illustration src={atlas.img(e)} word={e.w} topic={0} eager />
@@ -212,7 +246,21 @@ function TypingRound({ mode, entries, onExit, onAgain }: { mode: Mode; entries: 
         {mode !== "word" && (
           <p className="typing-zh">
             {mode === "dictation" && (
-              <button className="link" onClick={() => play(atlas.audio(e, "ex"), e.ex[0].en, settings.accent)}>
+              <button
+                type="button"
+                className="link typing-replay"
+                onPointerDown={(ev) => {
+                  if (ev.button !== 0) return;
+                  ev.preventDefault();
+                  ev.stopPropagation();
+                  replay();
+                }}
+                onClick={(ev) => {
+                  ev.preventDefault();
+                  ev.stopPropagation();
+                  if (ev.detail === 0) replay();
+                }}
+              >
                 再听一遍
               </button>
             )}
@@ -222,8 +270,10 @@ function TypingRound({ mode, entries, onExit, onAgain }: { mode: Mode; entries: 
         <p className={`typing-text ${mode === "word" ? "is-word" : ""} ${mode === "dictation" ? "is-hidden" : ""}`} lang="en" aria-hidden="true">
           {chars.map((ch, k) => {
             const t = typed[k];
-            const cls = t === undefined ? (k === typed.length ? "is-caret" : "") : same(t, ch) ? "is-ok" : "is-bad";
-            const show = mode === "dictation" && t === undefined ? (ch === " " ? " " : /[A-Za-z]/.test(ch) ? "·" : ch) : ch;
+            const slot = slots[k];
+            const cls = slot === "empty" ? (k === typed.length ? "is-caret" : "") : slot === "ok" ? "is-ok" : "is-bad";
+            const masked = mode === "dictation" && slot === "empty";
+            const show = masked ? (ch === " " ? " " : /[A-Za-z]/.test(ch) ? "·" : ch) : slot === "bad" && t ? t : ch;
             return (
               <span key={k} className={cls}>
                 {show}
@@ -235,12 +285,34 @@ function TypingRound({ mode, entries, onExit, onAgain }: { mode: Mode; entries: 
           ref={input}
           className="typing-input"
           value={value}
-          onChange={(ev) => onChange(ev.target.value)}
+          onChange={(ev) => {
+            const raw = ev.target.value;
+            if (skipRaw.current !== null) {
+              const skipped = skipRaw.current;
+              skipRaw.current = null;
+              if (skipped === raw) return;
+            }
+            onChange(raw);
+          }}
+          onCompositionStart={() => {
+            composing.current = true;
+            beforeComposition.current = valueRef.current;
+          }}
+          onCompositionEnd={(ev) => {
+            const raw = ev.currentTarget.value;
+            composing.current = false;
+            skipRaw.current = raw;
+            valueRef.current = beforeComposition.current;
+            onChange(raw);
+          }}
+          onSelect={snapCaret}
+          onFocus={snapCaret}
           autoFocus
-          autoCapitalize="off"
+          autoCapitalize="none"
           autoCorrect="off"
           autoComplete="off"
           spellCheck={false}
+          enterKeyHint="done"
           aria-label="在这里输入"
         />
         <p className="muted typing-help">
