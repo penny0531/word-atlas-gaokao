@@ -2,7 +2,8 @@ import { Headphones, Keyboard, RotateCcw, Type } from "lucide-react";
 import { useEffect, useMemo, useRef, useState, type PointerEvent } from "react";
 import { prefetch, useAtlas } from "../atlas/context";
 import type { Entry } from "../atlas/types";
-import { play, stopAudio } from "../lib/audio";
+import { play, stopAudio, type PlayResult } from "../lib/audio";
+import { exampleAudioUrl } from "../lib/sentenceAudio";
 import { cue } from "../lib/sound";
 import { hashSeed, shuffle } from "../lib/text";
 import { clean, commitAtEnd, correctCharacterCount, resetDictationItem, same, showDictationAnswer, typingDelta, typingMetrics, typingSlots } from "../lib/typing";
@@ -121,6 +122,7 @@ function TypingRound({ mode, entries, onExit, onAgain }: { mode: Mode; entries: 
   const [totals, setTotals] = useState(totalsRef.current);
   const [done, setDone] = useState(false);
   const [revealed, setRevealed] = useState(false);
+  const [voiceNote, setVoiceNote] = useState<string | null>(null);
   const started = useRef<number | null>(null);
   const input = useRef<HTMLInputElement>(null);
   const composing = useRef(false);
@@ -135,9 +137,10 @@ function TypingRound({ mode, entries, onExit, onAgain }: { mode: Mode; entries: 
     valueRef.current = fresh.value;
     setValue(fresh.value);
     setRevealed(fresh.revealed);
+    setVoiceNote(null);
     started.current = null;
     input.current?.focus();
-    if (mode === "dictation") void play(atlas.audio(e, "ex"), e.ex[0].en, settings.accent);
+    if (mode === "dictation") void speakSentence();
     if (mode === "word" && settings.autoplay) void play(atlas.audio(e, settings.accent), e.w, settings.accent);
   }, [i]); // eslint-disable-line react-hooks/exhaustive-deps
   useEffect(() => () => stopAudio(), []);
@@ -171,8 +174,17 @@ function TypingRound({ mode, entries, onExit, onAgain }: { mode: Mode; entries: 
     if (clean(next).length >= clean(target).length && same(next.trimEnd(), target)) finishItem(next);
   };
 
+  const noteFor = (result: PlayResult) =>
+    result === "failed" || result === "unsupported" ? "这台设备读不出这句。可以看中文，或点「看答案」。" : null;
+
+  const speakSentence = async () => {
+    const result = await play(exampleAudioUrl(atlas, e, 0), e.ex[0].en, settings.accent);
+    if (result === "stopped") return;
+    setVoiceNote(noteFor(result));
+  };
+
   const replay = () => {
-    void play(atlas.audio(e, "ex"), e.ex[0].en, settings.accent);
+    void speakSentence();
   };
 
   const reveal = () => {
@@ -288,6 +300,11 @@ function TypingRound({ mode, entries, onExit, onAgain }: { mode: Mode; entries: 
               看答案
             </button>
           </div>
+        )}
+        {mode === "dictation" && voiceNote && (
+          <p className="typing-voice-note" role="status">
+            {voiceNote}
+          </p>
         )}
         {mode !== "word" && <p className="typing-zh">{e.ex[0].zh}</p>}
         {mode === "dictation" && revealed && (
