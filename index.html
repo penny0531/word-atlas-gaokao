@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-    <meta name="theme-color" content="#0D1120" />
+    <meta name="theme-color" content="#F0EADC" />
     <meta name="twitter:title" content="高考词图 · 一词一画，看图记高考词" />
     <meta name="twitter:image" content="https://penny0531.github.io/word-atlas-gaokao/brand/og-card.jpg" />
     <title>高考词图 · 一词一画，看图记高考词</title>
@@ -18,9 +18,9 @@
     <link rel="manifest" href="%BASE_URL%manifest.webmanifest" />
     <link rel="preload" href="%BASE_URL%atlas/index.json" as="fetch" crossorigin="anonymous" />
     <script>
-      // Apply the saved theme (dark by default) before first paint.
+      // Apply the saved theme (eggshell by default) before first paint.
       (function () {
-        var t = "dark";
+        var t = "light";
         try {
           var s = JSON.parse(localStorage.getItem("word-atlas:settings") || "{}");
           if (s.theme) t = s.theme;

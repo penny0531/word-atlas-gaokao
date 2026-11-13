@@ -80,7 +80,7 @@ void main(){
   float size = 3.4 + aSeed * 1.6; float alpha = 0.78; vec3 col = mix(aColor, vec3(0.8, 0.84, 1.0), 0.28);
   if (aState > 0.5) { size = 7.5; alpha = 1.0; col = mix(aColor, vec3(1.0, 0.85, 0.5), 0.35); }
   if (aState > 1.5) { size = 10.0; alpha = 1.0; col = mix(aColor, vec3(1.0, 0.97, 0.9), 0.6); }
-  if (aState > 2.5) { size = 13.0; alpha = 1.0; col = vec3(1.0, 0.74, 0.34); }
+  if (aState > 2.5) { size = 13.0; alpha = 1.0; col = vec3(1.0, 0.851, 0.365); }
   if (abs(float(gl_VertexID) - uHover) < 0.5) { size *= 2.4; alpha = 1.0; col = vec3(1.0); }
   gl_PointSize = max(1.2, size * uScale / clip.w) * (aState > 0.5 ? 1.0 : tw);
   vColor = col;
@@ -122,14 +122,14 @@ void main(){
   vec2 uv = vUv; uv.x *= uAspect;
   vec2 q = uv * 2.2 + vec2(uYaw * 0.35, 0.0) + uTime * 0.008;
   float f = fbm(q + fbm(q * 1.7 + uTime * 0.01));
-  vec3 base = vec3(0.035, 0.047, 0.098);
-  vec3 c1 = vec3(0.23, 0.16, 0.42);   // plum
-  vec3 c2 = vec3(0.08, 0.27, 0.36);   // teal
-  vec3 c3 = vec3(0.55, 0.32, 0.18);   // ochre dust
-  vec3 col = base + c1 * smoothstep(0.45, 0.95, f) * 0.55 + c2 * smoothstep(0.55, 1.0, fbm(q * 0.8 - 3.0)) * 0.45;
+  vec3 base = vec3(0.141, 0.188, 0.102); // deep ink, not navy
+  vec3 c1 = vec3(0.28, 0.33, 0.18);      // moss
+  vec3 c2 = vec3(0.16, 0.22, 0.12);      // deeper moss
+  vec3 c3 = vec3(0.55, 0.42, 0.16);      // mustard dust
+  vec3 col = base + c1 * smoothstep(0.45, 0.95, f) * 0.4 + c2 * smoothstep(0.55, 1.0, fbm(q * 0.8 - 3.0)) * 0.32;
   vec2 cd = (vUv - uCore); cd.x *= uAspect;
   float core = exp(-dot(cd, cd) * 9.0);
-  col += c3 * core * 0.55 + vec3(1.0, 0.85, 0.6) * exp(-dot(cd, cd) * 60.0) * 0.18;
+  col += c3 * core * 0.28 + vec3(1.0, 0.851, 0.365) * exp(-dot(cd, cd) * 60.0) * 0.08;
   float vig = smoothstep(1.25, 0.25, length((vUv - 0.5) * vec2(uAspect, 1.0)));
   o = vec4(col * mix(0.55, 1.0, vig) * (0.35 + 0.65 * uIntro), 1.0);
 }`;
@@ -446,8 +446,8 @@ export class GalaxyEngine {
     if (!g) return;
     g.setTransform(this.dpr, 0, 0, this.dpr, 0, 0);
     const bg = g.createRadialGradient(this.w / 2, this.h / 2, 0, this.w / 2, this.h / 2, Math.max(this.w, this.h) * 0.7);
-    bg.addColorStop(0, "#1b1d38");
-    bg.addColorStop(1, "#090c18");
+    bg.addColorStop(0, "#576238");
+    bg.addColorStop(1, "#2F3820");
     g.fillStyle = bg;
     g.fillRect(0, 0, this.w, this.h);
     this.project();

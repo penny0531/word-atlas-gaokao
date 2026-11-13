@@ -47,7 +47,7 @@ export async function renderWordCard(atlas: Atlas, e: Entry) {
   const ctx = c.getContext("2d")!;
   await Promise.all([document.fonts.load(`600 120px ${SERIF}`), document.fonts.load(`italic 400 40px ${SERIF}`)]).catch(() => null);
 
-  ctx.fillStyle = "#F3ECDF";
+  ctx.fillStyle = "#F0EADC";
   ctx.fillRect(0, 0, W, H);
   const pad = 72;
   const art = W - pad * 2;
@@ -55,7 +55,7 @@ export async function renderWordCard(atlas: Atlas, e: Entry) {
   ctx.save();
   roundRect(ctx, pad, pad, art, art * 0.78, 36);
   ctx.clip();
-  ctx.fillStyle = "#EAE1D0";
+  ctx.fillStyle = "#E6DCC8";
   ctx.fillRect(pad, pad, art, art * 0.78);
   if (src) {
     try {
@@ -69,46 +69,46 @@ export async function renderWordCard(atlas: Atlas, e: Entry) {
   ctx.restore();
 
   let y = pad + art * 0.78 + 120;
-  ctx.fillStyle = "#1E2640";
+  ctx.fillStyle = "#2F3820";
   ctx.font = `600 ${e.w.length > 12 ? 92 : 120}px ${SERIF}`;
   ctx.fillText(e.w, pad, y);
   y += 62;
   ctx.font = `400 34px ${SANS}`;
-  ctx.fillStyle = "#6B6F80";
+  ctx.fillStyle = "#576238";
   ctx.fillText([e.uk && `英 ${e.uk}`, e.us && e.us !== e.uk && `美 ${e.us}`].filter(Boolean).join("    "), pad, y);
   y += 72;
   ctx.font = `600 40px ${SANS}`;
-  ctx.fillStyle = "#1E2640";
+  ctx.fillStyle = "#2F3820";
   const s0 = e.senses[0];
-  ctx.fillStyle = "#C4573A";
+  ctx.fillStyle = "#576238";
   ctx.font = `italic 400 38px ${SERIF}`;
   ctx.fillText(s0.pos, pad, y);
   const posW = ctx.measureText(s0.pos + "  ").width;
-  ctx.fillStyle = "#1E2640";
+  ctx.fillStyle = "#2F3820";
   ctx.font = `600 40px ${SANS}`;
   ctx.fillText(e.senses.slice(0, 2).map((s) => s.zh).join("；"), pad + posW, y);
   y += 76;
   if (e.ex[0]) {
     ctx.font = `italic 400 36px ${SERIF}`;
-    ctx.fillStyle = "#3C4560";
+    ctx.fillStyle = "#3C4A2C";
     for (const line of wrap(ctx, `“${e.ex[0].en}”`, art).slice(0, 3)) {
       ctx.fillText(line, pad, y);
       y += 50;
     }
     ctx.font = `400 30px ${SANS}`;
-    ctx.fillStyle = "#7A7C88";
+    ctx.fillStyle = "#576238";
     for (const line of wrap(ctx, e.ex[0].zh, art).slice(0, 2)) {
       ctx.fillText(line, pad, y + 6);
       y += 44;
     }
   }
-  ctx.fillStyle = "rgba(30,38,64,.14)";
+  ctx.fillStyle = "rgba(47,56,32,.16)";
   ctx.fillRect(pad, H - 120, art, 2);
-  ctx.fillStyle = "#1E2640";
+  ctx.fillStyle = "#2F3820";
   ctx.font = `600 34px ${SERIF}`;
   ctx.fillText("高考词图", pad, H - 62);
   ctx.font = `400 26px ${SANS}`;
-  ctx.fillStyle = "#7A7C88";
+  ctx.fillStyle = "#576238";
   const tag = "一词一画，看图记高考词";
   ctx.fillText(tag, W - pad - ctx.measureText(tag).width, H - 64);
   return c;

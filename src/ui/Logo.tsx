@@ -5,7 +5,7 @@ export function Mark({ size = 28 }: { size?: number }) {
       <circle cx="16" cy="16" r="10.5" fill="none" stroke="currentColor" strokeWidth="0.75" strokeDasharray="1.2 2.2" opacity=".55" />
       <g className="mark-needle">
         <path d="M16 3.5 19 16 16 28.5 13 16Z" fill="currentColor" opacity=".9" />
-        <path d="M16 3.5 19 16H13Z" fill="var(--terra)" />
+        <path d="M16 3.5 19 16H13Z" fill="var(--mustard)" />
       </g>
       <path d="M3.5 16 16 13.4 28.5 16 16 18.6Z" fill="currentColor" opacity=".35" />
       <circle cx="16" cy="16" r="1.6" fill="var(--paper)" />

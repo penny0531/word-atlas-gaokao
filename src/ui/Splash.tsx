@@ -4,11 +4,10 @@ import { dayKey, store } from "../store/store";
 
 const SEEN_KEY = "word-atlas:splash";
 const PALETTE: [string, number][] = [
-  ["243,236,223", 0.58],
-  ["230,180,87", 0.16],
-  ["229,124,90", 0.12],
-  ["151,184,142", 0.08],
-  ["143,178,204", 0.06],
+  ["240,234,220", 0.58],
+  ["255,217,93", 0.2],
+  ["87,98,56", 0.14],
+  ["47,56,32", 0.08],
 ];
 
 export function shouldShowSplash() {
@@ -155,7 +154,7 @@ export function Splash({ onDone }: { onDone: () => void }) {
       g.clearRect(0, 0, w, h);
       g.globalCompositeOperation = "lighter";
       for (const s of stars) {
-        g.fillStyle = `rgba(243,236,223,${0.15 + 0.25 * (0.5 + 0.5 * Math.sin(t * 1.3 + s.tw))})`;
+        g.fillStyle = `rgba(240,234,220,${0.15 + 0.25 * (0.5 + 0.5 * Math.sin(t * 1.3 + s.tw))})`;
         g.fillRect(s.x, s.y, s.r, s.r);
       }
       if (opening.current && !openAt) {
