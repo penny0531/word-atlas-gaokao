@@ -22,10 +22,11 @@ It is free, needs no account, and keeps progress on the device. The UI is in Chi
 | **2197** | Gaokao core entries, CEFR A1–B2, the same 19 topic arms |
 | **2042** | field-guide illustrations, reused from Word Atlas where the file already exists |
 | **4387** | example sentences |
-| **2035** | voiced headwords. Words with no upstream file stay text-only |
+| **2035** | headwords with UK and US clips. Words with no upstream headword file stay on device TTS for the headword |
+| **4368** | new example recordings, local Kokoro af_heart, US English, speed 1.0. 19 upstream example clips whose text still matched were kept |
 | **0** | accounts, ads or trackers |
 
-Illustrations keep the upstream retro field-guide style. Where the everyday example was rewritten, the picture and the example recording may still show the original Word Atlas scene. Headword audio still matches the word. Please credit **Word Atlas contributors（词光）**. absorb, aware, calculate, conclude, daily, entire, and likely were not in the upstream set: they now have new plates in that style, and they still have no audio. The splash line, on screen and spoken, is 「欢迎打开高考词图」. The product name remains 高考词图.
+Illustrations keep the upstream retro field-guide style. Where the everyday example was rewritten, the picture may still show the original Word Atlas scene. Example clips are new US recordings of the current sentence (Kokoro voice af_heart, speed 1.0), except upstream clips whose text still matches and were kept. They are not British. Headword UK/US clips are unchanged. The accent control still picks the headword clip only. Please credit **Word Atlas contributors（词光）**. absorb, aware, calculate, conclude, daily, entire, and likely were not in the upstream set: they now have new plates in that style, and they still have no headword audio. The splash line, on screen and spoken, is 「欢迎打开高考词图」. The product name remains 高考词图.
 
 ## What every entry has
 
