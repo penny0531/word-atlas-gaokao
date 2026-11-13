@@ -3097,6 +3097,43 @@ code {
   inset: 0;
   font-size: 16px;
 }
+.typing-next-wrap {
+  position: relative;
+  z-index: 3;
+  display: grid;
+  justify-items: center;
+  gap: 8px;
+  width: min(100%, 22rem);
+  margin-top: 4px;
+}
+.typing-next {
+  width: 100%;
+  min-height: 44px;
+  height: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  touch-action: manipulation;
+}
+.typing-next:disabled {
+  opacity: 1;
+  background: color-mix(in oklab, var(--mustard) 46%, var(--eggshell));
+  color: #2f3820;
+  border: 1px solid rgba(47, 56, 32, 0.35);
+  box-shadow: none;
+  cursor: not-allowed;
+}
+.typing-next-hint {
+  margin: 0;
+  width: 100%;
+  min-width: 0;
+  font-size: 13px;
+  line-height: 1.45;
+  text-align: center;
+  color: var(--ink-2);
+}
+.typing-next-hint.is-blocked {
+  color: var(--terra-ink);
+}
 .typing-help,
 .typing-voice-note,
 .speak-miss {

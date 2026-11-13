@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import { test } from "node:test";
-import { clean, commitAtEnd, resetDictationItem, same, showDictationAnswer, typingDelta, typingMetrics, typingSlots } from "./typing";
+import { applyDictationAdvance, clean, commitAtEnd, dictationAdvanceLabel, dictationCanAdvance, resetDictationItem, same, showDictationAnswer, typingDelta, typingMetrics, typingSlots } from "./typing";
 
 test("typing counts inserted characters and does not reward deletions", () => {
   assert.deepEqual(typingDelta("", "c", "cat"), { total: 1, correct: 1 });
@@ -118,6 +118,50 @@ test("revealing a dictation answer keeps the typed attempt and does not advance"
   assert.equal(shown.advance, false);
   assert.equal(same(shown.value, target), false);
   assert.equal(same(target, target), true);
+});
+
+test("dictation next stays blocked until the sentence matches, then advances once", () => {
+  const target = "Exercise can benefit both body and mind.";
+  const wrong = "excerise can benefit both body and mind.";
+  assert.equal(dictationCanAdvance("", target), false);
+  assert.equal(dictationCanAdvance("   ", target), false);
+  assert.equal(dictationCanAdvance(wrong, target), false);
+  assert.equal(dictationCanAdvance("Exercise", target), false);
+  assert.equal(dictationCanAdvance(target + " extra", target), false);
+  assert.equal(dictationCanAdvance(target.slice(0, -1), target), false);
+  assert.equal(dictationCanAdvance(target, target), true);
+  assert.equal(dictationCanAdvance(target.toLowerCase(), target), true);
+  assert.equal(dictationCanAdvance(target + "  ", target), true);
+  assert.equal(dictationCanAdvance("  " + target, target), false);
+  assert.equal(showDictationAnswer(wrong).advance, false);
+  assert.equal(showDictationAnswer(wrong).value, wrong);
+
+  const start = { claimed: false, index: 1, count: 10 };
+  const blocked = applyDictationAdvance(start, wrong, target);
+  assert.deepEqual(blocked, { claimed: false, index: 1, done: false, advanced: false });
+  const empty = applyDictationAdvance(start, "", target);
+  assert.equal(empty.advanced, false);
+  assert.equal(empty.index, 1);
+
+  const corrected = applyDictationAdvance(start, target, target);
+  assert.deepEqual(corrected, { claimed: true, index: 2, done: false, advanced: true });
+  const again = applyDictationAdvance({ claimed: true, index: 1, count: 10 }, target, target);
+  assert.deepEqual(again, { claimed: true, index: 1, done: false, advanced: false });
+
+  const firstTry = applyDictationAdvance({ claimed: false, index: 0, count: 3 }, target.toLowerCase(), target);
+  assert.equal(firstTry.advanced, true);
+  assert.equal(firstTry.index, 1);
+  assert.equal(firstTry.done, false);
+  const entered = applyDictationAdvance({ claimed: false, index: 0, count: 3 }, target, target);
+  assert.deepEqual(entered, firstTry);
+
+  const finale = applyDictationAdvance({ claimed: false, index: 9, count: 10 }, target, target);
+  assert.deepEqual(finale, { claimed: true, index: 9, done: true, advanced: true });
+  assert.equal(dictationAdvanceLabel(0, 10), "下一页");
+  assert.equal(dictationAdvanceLabel(9, 10), "完成练习");
+  const finaleBlocked = applyDictationAdvance({ claimed: false, index: 9, count: 10 }, wrong, target);
+  assert.equal(finaleBlocked.done, false);
+  assert.equal(finaleBlocked.advanced, false);
 });
 
 test("a new dictation sentence hides the answer and clears the attempt", () => {
