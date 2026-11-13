@@ -6,7 +6,7 @@ import { play, stopAudio, type PlayResult } from "../lib/audio";
 import { exampleAudioUrl, exampleClipAccent } from "../lib/sentenceAudio";
 import { cue } from "../lib/sound";
 import { hashSeed, shuffle } from "../lib/text";
-import { clean, commitAtEnd, correctCharacterCount, resetDictationItem, same, showDictationAnswer, typingDelta, typingMetrics, typingSlots } from "../lib/typing";
+import { applyDictationAdvance, clean, commitAtEnd, correctCharacterCount, dictationAdvanceLabel, dictationCanAdvance, resetDictationItem, same, showDictationAnswer, typingDelta, typingMetrics, typingSlots } from "../lib/typing";
 import { store, useStore } from "../store/store";
 import { AmbiencePicker } from "../ui/Ambience";
 import { Illustration } from "../ui/Illustration";
@@ -129,11 +129,13 @@ function TypingRound({ mode, entries, onExit, onAgain }: { mode: Mode; entries: 
   const valueRef = useRef("");
   const beforeComposition = useRef("");
   const skipRaw = useRef<string | null>(null);
+  const advancing = useRef(false);
   const e = entries[i];
   const target = mode === "word" ? e.w : e.ex[0].en;
 
   useEffect(() => {
     const fresh = resetDictationItem();
+    advancing.current = false;
     valueRef.current = fresh.value;
     setValue(fresh.value);
     setRevealed(fresh.revealed);
@@ -171,7 +173,8 @@ function TypingRound({ mode, entries, onExit, onAgain }: { mode: Mode; entries: 
     setTotals(totalsRef.current);
     valueRef.current = next;
     setValue(next);
-    if (clean(next).length >= clean(target).length && same(next.trimEnd(), target)) finishItem(next);
+    const complete = mode === "dictation" ? dictationCanAdvance(next, target) : clean(next).length >= clean(target).length && same(next.trimEnd(), target);
+    if (complete) finishItem(next);
   };
 
   const noteFor = (result: PlayResult) =>
@@ -201,6 +204,8 @@ function TypingRound({ mode, entries, onExit, onAgain }: { mode: Mode; entries: 
   };
 
   const finishItem = (final: string) => {
+    if (advancing.current) return;
+    advancing.current = true;
     const ms = started.current ? performance.now() - started.current : 0;
     const accepted = correctCharacterCount(final, target);
     if (settings.sfx) void cue("correct");
@@ -215,7 +220,15 @@ function TypingRound({ mode, entries, onExit, onAgain }: { mode: Mode; entries: 
     } else window.setTimeout(() => setI(i + 1), 260);
   };
 
+  const tryAdvance = () => {
+    if (mode !== "dictation" || done || advancing.current) return;
+    const step = applyDictationAdvance({ claimed: false, index: i, count: entries.length }, valueRef.current, target);
+    if (!step.advanced) return;
+    finishItem(valueRef.current);
+  };
+
   const m = typingMetrics(totals.correct, totals.typed, totals.accepted, totals.ms);
+  const dictationReady = mode === "dictation" && dictationCanAdvance(value, target);
   const chars = Array.from(clean(target));
   const typed = Array.from(clean(value));
   const slots = typingSlots(value, target);
@@ -357,6 +370,11 @@ function TypingRound({ mode, entries, onExit, onAgain }: { mode: Mode; entries: 
             valueRef.current = beforeComposition.current;
             onChange(raw);
           }}
+          onKeyDown={(ev) => {
+            if (ev.key !== "Enter" || composing.current || mode !== "dictation") return;
+            ev.preventDefault();
+            tryAdvance();
+          }}
           onSelect={snapCaret}
           onFocus={snapCaret}
           autoFocus
@@ -367,8 +385,32 @@ function TypingRound({ mode, entries, onExit, onAgain }: { mode: Mode; entries: 
           enterKeyHint="done"
           aria-label="在这里输入"
         />
+        {mode === "dictation" && (
+          <div className="typing-next-wrap">
+            <p id="dictation-next-hint" className={`typing-next-hint ${dictationReady ? "" : "is-blocked"}`} role="status">
+              {dictationReady ? (i + 1 >= entries.length ? "这句已经打对，可以完成本轮。" : "这句已经打对，可以进入下一句。") : "还没打对。看过答案也要自己改正确，按钮才会亮。"}
+            </p>
+            <button
+              type="button"
+              className="btn btn-primary typing-next"
+              disabled={!dictationReady}
+              aria-describedby="dictation-next-hint"
+              onPointerDown={(ev) => pressControl(ev, tryAdvance)}
+              onClick={(ev) => {
+                ev.preventDefault();
+                ev.stopPropagation();
+                if (ev.detail === 0) tryAdvance();
+              }}
+            >
+              {dictationAdvanceLabel(i, entries.length)}
+            </button>
+          </div>
+        )}
         <p className="muted typing-help">
-          {mode === "dictation" ? "听不清可以点「再听一遍」。对一下可以点「看答案」，看过仍要自己打对才会进入下一句。" : "直接开始输入，全部正确后自动进入下一项。"} 第 {i + 1}/{entries.length} 项
+          {mode === "dictation"
+            ? `听不清可以点「再听一遍」。对一下可以点「看答案」，看过仍要自己打对，再点「${dictationAdvanceLabel(i, entries.length)}」或按 Enter 才会${i + 1 >= entries.length ? "完成本轮" : "进入下一句"}。`
+            : "直接开始输入，全部正确后自动进入下一项。"}{" "}
+          第 {i + 1}/{entries.length} 项
         </p>
       </section>
     </div>

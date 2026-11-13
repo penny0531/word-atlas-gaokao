@@ -60,6 +60,43 @@ export function showDictationAnswer(value: string) {
   return { revealed: true as const, value, advance: false as const };
 }
 
+/**
+ * The same completion check the lesson already uses before it moves on:
+ * the attempt must match the sentence (existing case and punctuation rules)
+ * and must not be empty. Nothing is rewritten or filled in.
+ */
+export function dictationCanAdvance(value: string, target: string) {
+  const attempt = value.trimEnd();
+  if (!clean(attempt)) return false;
+  return clean(value).length >= clean(target).length && same(attempt, target);
+}
+
+/** Last item finishes the round; every earlier item is an explicit next step. */
+export function dictationAdvanceLabel(index: number, count: number) {
+  return index + 1 >= count ? "完成练习" : "下一页";
+}
+
+/**
+ * Enter and the next button share one claim. A second call while the item
+ * is already claimed does not move again.
+ */
+export function applyDictationAdvance(
+  state: { claimed: boolean; index: number; count: number },
+  value: string,
+  target: string,
+) {
+  if (state.claimed || !dictationCanAdvance(value, target)) {
+    return { claimed: state.claimed, index: state.index, done: false, advanced: false };
+  }
+  const last = state.index + 1 >= state.count;
+  return {
+    claimed: true,
+    index: last ? state.index : state.index + 1,
+    done: last,
+    advanced: true,
+  };
+}
+
 /** The next sentence starts hidden again, with an empty attempt. */
 export function resetDictationItem() {
   return { revealed: false as const, value: "" };
