@@ -26,10 +26,10 @@
 
 ## 网页数据 `public/atlas/`
 
-- `index.json`：紧凑索引，`words` 中每行为 `[id, word, zh, ipa, cefrIndex, topicIndex, media]`。`media` 是位标记：`1` 插画、`2` 英音、`4` 美音、`8` 例句朗读。
+- `index.json`：紧凑索引，`words` 中每行为 `[id, word, zh, ipa, cefrIndex, topicIndex, media]`。`media` 是位标记：`1` 插画、`2` 英音、`4` 美音、`8` 第一条例句朗读、`16` 第二条例句朗读。
 - `entries/<n>.json`：完整词条，每块 100 条，第 `n` 块对应索引中第 `n*100` 到 `n*100+99` 行。
 - `img/<id>.webp`（512px）、`thumb/<id>.webp`（256px）。
-- `audio/uk/<id>.mp3`、`audio/us/<id>.mp3`、`audio/ex/<id>.mp3`（`ex[0]` 的朗读）。
+- `audio/uk/<id>.mp3`、`audio/us/<id>.mp3` 是词头发音。`audio/ex/<id>.mp3` 是 `ex[0]`，`audio/ex2/<id>.mp3` 是 `ex[1]`。网页只在 `data/sentence-audio-provenance.json` 的脚本与当前例句规范化文本一致时播放例句文件；文本改了但录音脚本没更新时，校验失败，播放回退到设备朗读。Kokoro 例句是美式 `af_heart`，不是英音。
 
 媒体覆盖情况以 `index.json` 的位标记为准，不要假设每个词都有全部文件。
 

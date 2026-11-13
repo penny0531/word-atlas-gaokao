@@ -3,7 +3,7 @@ import { useEffect, useMemo, useRef, useState, type PointerEvent } from "react";
 import { prefetch, useAtlas } from "../atlas/context";
 import type { Entry } from "../atlas/types";
 import { play, stopAudio, type PlayResult } from "../lib/audio";
-import { exampleAudioUrl } from "../lib/sentenceAudio";
+import { exampleAudioUrl, exampleClipAccent } from "../lib/sentenceAudio";
 import { cue } from "../lib/sound";
 import { hashSeed, shuffle } from "../lib/text";
 import { clean, commitAtEnd, correctCharacterCount, resetDictationItem, same, showDictationAnswer, typingDelta, typingMetrics, typingSlots } from "../lib/typing";
@@ -178,7 +178,7 @@ function TypingRound({ mode, entries, onExit, onAgain }: { mode: Mode; entries: 
     result === "failed" || result === "unsupported" ? "这台设备读不出这句。可以看中文，或点「看答案」。" : null;
 
   const speakSentence = async () => {
-    const result = await play(exampleAudioUrl(atlas, e, 0), e.ex[0].en, settings.accent);
+    const result = await play(exampleAudioUrl(atlas, e, 0), e.ex[0].en, exampleClipAccent(e.id, 0) ?? settings.accent);
     if (result === "stopped") return;
     setVoiceNote(noteFor(result));
   };

@@ -1,5 +1,7 @@
 node_modules/
 dist/
+__pycache__/
+# Kokoro weights, voices, cache, and the generator virtualenv. Do not commit.
 .local/
 .env
 .env.*

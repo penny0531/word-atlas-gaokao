@@ -1,0 +1,478 @@
+{
+  "asr": {
+    "model": "faster-whisper base.en",
+    "checked": 38,
+    "flags": [
+      {
+        "id": "behavior",
+        "index": 1,
+        "ratio": 0.811,
+        "tailOk": false,
+        "text": "Schools can encourage responsible behavior by giving students meaningful opportunities to participate in decisions affecting their community.",
+        "heard": "Schools can encourage responsible behavior by giving students meaningful opportunities to participate in decisions affect the fact of the community.",
+        "sample": true,
+        "outlier": false
+      }
+    ],
+    "items": [
+      {
+        "id": "not",
+        "index": 0,
+        "ratio": 1.0,
+        "tailOk": true,
+        "text": "I am not ready for the oral test.",
+        "heard": "I am not ready for the oral test.",
+        "sample": true,
+        "outlier": false
+      },
+      {
+        "id": "if",
+        "index": 0,
+        "ratio": 1.0,
+        "tailOk": true,
+        "text": "If it rains, we will stay in the classroom.",
+        "heard": "If it rains, we will stay in the classroom.",
+        "sample": true,
+        "outlier": false
+      },
+      {
+        "id": "describe",
+        "index": 0,
+        "ratio": 1.0,
+        "tailOk": true,
+        "text": "Can you describe the scene in detail?",
+        "heard": "Can you describe the scene in detail?",
+        "sample": true,
+        "outlier": false
+      },
+      {
+        "id": "discuss",
+        "index": 0,
+        "ratio": 1.0,
+        "tailOk": true,
+        "text": "Let's discuss the plan after lunch.",
+        "heard": "Let's discuss the plan after lunch.",
+        "sample": true,
+        "outlier": false
+      },
+      {
+        "id": "electric",
+        "index": 0,
+        "ratio": 1.0,
+        "tailOk": true,
+        "text": "electric cars produce less smoke.",
+        "heard": "Electric cars produce less smoke.",
+        "sample": true,
+        "outlier": false
+      },
+      {
+        "id": "amazing",
+        "index": 0,
+        "ratio": 1.0,
+        "tailOk": true,
+        "text": "What an amazing view from the hill!",
+        "heard": "What an amazing view from the hill.",
+        "sample": true,
+        "outlier": false
+      },
+      {
+        "id": "behavior",
+        "index": 1,
+        "ratio": 0.811,
+        "tailOk": false,
+        "text": "Schools can encourage responsible behavior by giving students meaningful opportunities to participate in decisions affecting their community.",
+        "heard": "Schools can encourage responsible behavior by giving students meaningful opportunities to participate in decisions affect the fact of the community.",
+        "sample": true,
+        "outlier": false
+      },
+      {
+        "id": "km",
+        "index": 0,
+        "ratio": 1.0,
+        "tailOk": true,
+        "text": "The farm is 2 km from school.",
+        "heard": "The farm is 2 km from school.",
+        "sample": true,
+        "outlier": false
+      },
+      {
+        "id": "concentrate",
+        "index": 0,
+        "ratio": 1.0,
+        "tailOk": true,
+        "text": "It is hard to concentrate in a noisy room.",
+        "heard": "It is hard to concentrate in a noisy room.",
+        "sample": true,
+        "outlier": false
+      },
+      {
+        "id": "concentrate",
+        "index": 1,
+        "ratio": 0.909,
+        "tailOk": true,
+        "text": "Governments should concentrate resources on preventive healthcare to reduce pressure on hospitals in the long term.",
+        "heard": "Governments should concentrate resources on preventive health care to reduce pressure on hospitals in the long term.",
+        "sample": true,
+        "outlier": false
+      },
+      {
+        "id": "stable",
+        "index": 0,
+        "ratio": 1.0,
+        "tailOk": true,
+        "text": "The table is stable.",
+        "heard": "The table is stable.",
+        "sample": true,
+        "outlier": false
+      },
+      {
+        "id": "soldier",
+        "index": 0,
+        "ratio": 1.0,
+        "tailOk": true,
+        "text": "The museum shows a soldier's letter from 1940.",
+        "heard": "The museum shows a soldier's letter from 1940.",
+        "sample": true,
+        "outlier": false
+      },
+      {
+        "id": "mr",
+        "index": 0,
+        "ratio": 0.714,
+        "tailOk": true,
+        "text": "Mr. Li starts the lesson at eight.",
+        "heard": "Mr. Lye starts the lesson at 8.",
+        "sample": true,
+        "outlier": false
+      },
+      {
+        "id": "competition",
+        "index": 0,
+        "ratio": 1.0,
+        "tailOk": true,
+        "text": "She won first prize in the competition.",
+        "heard": "She won first prize in the competition.",
+        "sample": false,
+        "outlier": false
+      },
+      {
+        "id": "amazing",
+        "index": 1,
+        "ratio": 1.0,
+        "tailOk": true,
+        "text": "Recent medical research has produced amazing results, offering new hope to patients with previously untreatable conditions.",
+        "heard": "Recent medical research has produced amazing results, offering new hope to patients with previously untreatable conditions.",
+        "sample": false,
+        "outlier": false
+      },
+      {
+        "id": "advice",
+        "index": 1,
+        "ratio": 1.0,
+        "tailOk": true,
+        "text": "Schools should provide practical career advice so that students can make informed decisions about their future.",
+        "heard": "Schools should provide practical career advice so that students can make informed decisions about their future.",
+        "sample": false,
+        "outlier": false
+      },
+      {
+        "id": "many",
+        "index": 0,
+        "ratio": 1.0,
+        "tailOk": true,
+        "text": "Many students bring their own water bottles.",
+        "heard": "Many students bring their own water bottles.",
+        "sample": false,
+        "outlier": false
+      },
+      {
+        "id": "complete",
+        "index": 0,
+        "ratio": 1.0,
+        "tailOk": true,
+        "text": "Please hand in a complete form.",
+        "heard": "Please hand in a complete form.",
+        "sample": false,
+        "outlier": false
+      },
+      {
+        "id": "wake",
+        "index": 0,
+        "ratio": 0.857,
+        "tailOk": true,
+        "text": "I wake at six on school days.",
+        "heard": "I wake at 6 on school days.",
+        "sample": false,
+        "outlier": false
+      },
+      {
+        "id": "beneath",
+        "index": 1,
+        "ratio": 1.0,
+        "tailOk": true,
+        "text": "Beneath the poster, the real time is written in pencil.",
+        "heard": "Beneath the poster, the real time is written in pencil.",
+        "sample": false,
+        "outlier": false
+      },
+      {
+        "id": "sword",
+        "index": 1,
+        "ratio": 1.0,
+        "tailOk": true,
+        "text": "A history chapter can show a sword and still not teach how to use one.",
+        "heard": "A history chapter can show a sword and still not teach how to use one.",
+        "sample": false,
+        "outlier": false
+      },
+      {
+        "id": "medium",
+        "index": 1,
+        "ratio": 1.0,
+        "tailOk": true,
+        "text": "The medium of a message matters less than whether the last bus is named.",
+        "heard": "The medium of a message matters less than whether the last bus is named.",
+        "sample": false,
+        "outlier": false
+      },
+      {
+        "id": "room",
+        "index": 1,
+        "ratio": 1.0,
+        "tailOk": true,
+        "text": "There is little room for a safe pavement if cars are allowed to park on both sides.",
+        "heard": "There is little room for a safe pavement if cars are allowed to park on both sides.",
+        "sample": false,
+        "outlier": false
+      },
+      {
+        "id": "leave",
+        "index": 0,
+        "ratio": 0.857,
+        "tailOk": true,
+        "text": "We leave school at four on Fridays.",
+        "heard": "We leave school at 4 on Fridays.",
+        "sample": false,
+        "outlier": false
+      },
+      {
+        "id": "biology",
+        "index": 1,
+        "ratio": 1.0,
+        "tailOk": true,
+        "text": "Students learn the word and the warning sign, not a method for misuse.",
+        "heard": "Students learn the word and the warning sign, not a method for misuse.",
+        "sample": false,
+        "outlier": false
+      },
+      {
+        "id": "valley",
+        "index": 0,
+        "ratio": 0.875,
+        "tailOk": true,
+        "text": "Fog stays in the valley in the morning.",
+        "heard": "Fox stays in the valley in the morning.",
+        "sample": false,
+        "outlier": false
+      },
+      {
+        "id": "far",
+        "index": 1,
+        "ratio": 1.0,
+        "tailOk": true,
+        "text": "Families who live far from a hospital wait longer when a child is suddenly ill.",
+        "heard": "Families who live far from a hospital wait longer when a child is suddenly ill.",
+        "sample": false,
+        "outlier": false
+      },
+      {
+        "id": "incident",
+        "index": 1,
+        "ratio": 1.0,
+        "tailOk": true,
+        "text": "An incident at the gate should name the time, not a guess about who started it.",
+        "heard": "An incident at the gate should name the time, not a guess about who started it.",
+        "sample": false,
+        "outlier": false
+      },
+      {
+        "id": "easy",
+        "index": 1,
+        "ratio": 1.0,
+        "tailOk": true,
+        "text": "It is easy to blame students for being late when the bus itself never arrives on time.",
+        "heard": "It is easy to blame students for being late, when the bus itself never arrives on time.",
+        "sample": false,
+        "outlier": false
+      },
+      {
+        "id": "host",
+        "index": 0,
+        "ratio": 1.0,
+        "tailOk": true,
+        "text": "Our host showed us where to sit.",
+        "heard": "Our host showed us where to sit.",
+        "sample": false,
+        "outlier": false
+      },
+      {
+        "id": "sit",
+        "index": 0,
+        "ratio": 1.0,
+        "tailOk": true,
+        "text": "Please sit near the window if you need light.",
+        "heard": "Please sit near the window if you need light.",
+        "sample": false,
+        "outlier": false
+      },
+      {
+        "id": "bath",
+        "index": 0,
+        "ratio": 0.8,
+        "tailOk": true,
+        "text": "The bath is at the end of the hall.",
+        "heard": "at the end of the hall.",
+        "sample": false,
+        "outlier": true
+      },
+      {
+        "id": "challenge",
+        "index": 0,
+        "ratio": 1.0,
+        "tailOk": true,
+        "text": "This puzzle will challenge your mind.",
+        "heard": "This puzzle will challenge your mind.",
+        "sample": false,
+        "outlier": false
+      },
+      {
+        "id": "apple",
+        "index": 0,
+        "ratio": 1.0,
+        "tailOk": true,
+        "text": "She brought an apple for the break.",
+        "heard": "She brought an apple for the break.",
+        "sample": false,
+        "outlier": false
+      },
+      {
+        "id": "bother",
+        "index": 1,
+        "ratio": 1.0,
+        "tailOk": true,
+        "text": "Constant notifications can bother students during lessons and reduce their ability to concentrate on complex tasks.",
+        "heard": "Constant notifications can bother students during lessons and reduce their ability to concentrate on complex tasks.",
+        "sample": false,
+        "outlier": false
+      },
+      {
+        "id": "author",
+        "index": 1,
+        "ratio": 1.0,
+        "tailOk": true,
+        "text": "An author who hides their name makes it harder to judge the facts.",
+        "heard": "An author who hides their name makes it harder to judge the facts.",
+        "sample": false,
+        "outlier": false
+      },
+      {
+        "id": "officer",
+        "index": 1,
+        "ratio": 1.0,
+        "tailOk": true,
+        "text": "An officer who explains a rule in plain words is more useful than a sign nobody reads.",
+        "heard": "An officer who explains a rule in plain words is more useful than a sign nobody reads.",
+        "sample": false,
+        "outlier": false
+      },
+      {
+        "id": "suggest",
+        "index": 1,
+        "ratio": 1.0,
+        "tailOk": true,
+        "text": "Reports suggest that later school starts can improve attention in the first lesson.",
+        "heard": "Reports suggest that later school starts can improve attention in the first lesson.",
+        "sample": false,
+        "outlier": false
+      }
+    ]
+  },
+  "asrFollowUp": {
+    "model": "faster-whisper small.en",
+    "passes": 2,
+    "reason": "base.en flagged behavior[1] and under-heard bath[0]. small.en was used on the duration outlier, the ten fastest clips, the flagged long sentence, and concentrate.",
+    "results": [
+      {
+        "id": "bath",
+        "index": 0,
+        "passes": [
+          "The bath is at the end of the hall.",
+          "The bath is at the end of the hall."
+        ],
+        "exact": true
+      },
+      {
+        "id": "behavior",
+        "index": 1,
+        "passes": [
+          "Schools can encourage responsible behavior by giving students meaningful opportunities to participate in decisions affecting their community.",
+          "Schools can encourage responsible behavior by giving students meaningful opportunities to participate in decisions affecting their community."
+        ],
+        "exact": true
+      },
+      {
+        "id": "ad",
+        "index": 0,
+        "exact": true
+      },
+      {
+        "id": "art",
+        "index": 0,
+        "exact": true
+      },
+      {
+        "id": "cup",
+        "index": 0,
+        "exact": true
+      },
+      {
+        "id": "glad",
+        "index": 0,
+        "note": "Pass 1 stopped at 'back at...'; pass 2 matched 'I am glad to see you back at school.' exactly.",
+        "exactOnRepeat": true
+      },
+      {
+        "id": "lake",
+        "index": 0,
+        "exact": true
+      },
+      {
+        "id": "nice",
+        "index": 0,
+        "exact": true
+      },
+      {
+        "id": "screen",
+        "index": 0,
+        "exact": true
+      },
+      {
+        "id": "silly",
+        "index": 0,
+        "exact": true
+      },
+      {
+        "id": "smell",
+        "index": 0,
+        "exact": true
+      },
+      {
+        "id": "concentrate",
+        "index": 0,
+        "exact": true
+      }
+    ],
+    "listenedByHuman": false,
+    "limitation": "ASR was a spot check, not a listen-through of all 4368 clips. base.en sometimes rewrites numbers or misses a fast onset; small.en matched the flagged and fastest clips. Phoneme timings had to cover the full phonemization before a file was published, and every mp3 was fully decoded."
+  }
+}

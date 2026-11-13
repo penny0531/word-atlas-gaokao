@@ -5,7 +5,7 @@ import { splitHighlight, splitPair } from "../lib/text";
 import { formatInterval, isMastered } from "../store/srs";
 import { toggleBookmark, useStore } from "../store/store";
 import { Illustration } from "./Illustration";
-import { exampleAudioUrl } from "../lib/sentenceAudio";
+import { exampleAudioUrl, exampleClipAccent } from "../lib/sentenceAudio";
 import { Speak } from "./Speak";
 import { shareWord } from "./share";
 import { openWord } from "../lib/router";
@@ -125,7 +125,7 @@ export function EntryView({ entry, mode = "detail", eager = true }: { entry: Ent
                   {entry.ex.length > 1 && <span className={`ex-tag ${i ? "is-ielts" : ""}`}>{i ? "高考语境" : "日常"}</span>}
                   <p className="ex-en" lang="en">
                     <Highlight text={x.en} word={entry.w} />
-                    <Speak url={exUrls[i] ?? null} text={x.en} accent={i === 1 && exUrls[1] ? "us" : accent} size="sm" className="ex-speak" />
+                    <Speak url={exUrls[i] ?? null} text={x.en} accent={exampleClipAccent(entry.id, i) ?? accent} size="sm" className="ex-speak" />
                   </p>
                   <p className="ex-zh">{x.zh}</p>
                 </li>
