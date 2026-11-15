@@ -3019,11 +3019,24 @@ code {
   justify-items: center;
 }
 .typing-text {
+  /* Remaining prompt letters stay readable, but in a warmer, lighter stroke than typed ink. */
+  --prompt: #6b5e45;
+  --prompt-line: #6b5e45;
   font: 400 clamp(22px, 3.6vw, 32px) / 1.6 var(--mono);
   letter-spacing: 0.01em;
-  color: var(--ink-4);
+  color: var(--prompt);
   text-align: left;
   word-break: break-word;
+}
+:root[data-theme="dark"] .typing-text {
+  --prompt: #b5a484;
+  --prompt-line: #b5a484;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .typing-text {
+    --prompt: #b5a484;
+    --prompt-line: #b5a484;
+  }
 }
 .typing-text.is-word {
   font: 600 clamp(40px, 8vw, 64px) / 1.2 var(--serif);
@@ -3031,14 +3044,24 @@ code {
 }
 .typing-text span {
   border-radius: 3px;
-  transition: color 0.1s;
+  font-weight: 500;
+  text-decoration: underline dotted var(--prompt-line);
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 0.16em;
+  transition: color 0.1s, font-weight 0.1s;
 }
 .typing-text .is-ok {
   color: var(--ink);
+  font-weight: 750;
+  text-decoration: none;
 }
 .typing-text .is-bad {
   color: var(--terra);
+  font-weight: 750;
   background: var(--terra-soft);
+  text-decoration: underline solid currentColor;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0.12em;
 }
 .typing-text .is-caret {
   box-shadow: -2px 0 0 var(--moss);
