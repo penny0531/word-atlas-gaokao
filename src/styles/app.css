@@ -3019,9 +3019,12 @@ code {
   justify-items: center;
 }
 .typing-text {
-  /* Remaining prompt letters stay readable, but in a warmer, lighter stroke than typed ink. */
-  --prompt: #6b5e45;
-  --prompt-line: #6b5e45;
+  /* Local to this line: teal typed, neutral gray still-to-type, pure red mistakes. */
+  --prompt: #5a5a5a;
+  --prompt-line: #5a5a5a;
+  --typed: #0a6288;
+  --miss: #c40000;
+  --miss-bg: #ffe8e8;
   font: 400 clamp(22px, 3.6vw, 32px) / 1.6 var(--mono);
   letter-spacing: 0.01em;
   color: var(--prompt);
@@ -3029,13 +3032,19 @@ code {
   word-break: break-word;
 }
 :root[data-theme="dark"] .typing-text {
-  --prompt: #b5a484;
-  --prompt-line: #b5a484;
+  --prompt: #c8c8c8;
+  --prompt-line: #c8c8c8;
+  --typed: #2ad4ea;
+  --miss: #c40000;
+  --miss-bg: #ffe8e8;
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) .typing-text {
-    --prompt: #b5a484;
-    --prompt-line: #b5a484;
+    --prompt: #c8c8c8;
+    --prompt-line: #c8c8c8;
+    --typed: #2ad4ea;
+    --miss: #c40000;
+    --miss-bg: #ffe8e8;
   }
 }
 .typing-text.is-word {
@@ -3051,15 +3060,15 @@ code {
   transition: color 0.1s, font-weight 0.1s;
 }
 .typing-text .is-ok {
-  color: var(--ink);
+  color: var(--typed);
   font-weight: 750;
   text-decoration: none;
 }
 .typing-text .is-bad {
-  color: var(--terra);
+  color: var(--miss);
   font-weight: 750;
-  background: var(--terra-soft);
-  text-decoration: underline solid currentColor;
+  background: var(--miss-bg);
+  text-decoration: underline solid var(--miss);
   text-decoration-thickness: 2px;
   text-underline-offset: 0.12em;
 }
