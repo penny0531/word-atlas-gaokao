@@ -3019,11 +3019,33 @@ code {
   justify-items: center;
 }
 .typing-text {
+  /* Local to this line: teal typed, neutral gray still-to-type, pure red mistakes. */
+  --prompt: #5a5a5a;
+  --prompt-line: #5a5a5a;
+  --typed: #0a6288;
+  --miss: #c40000;
+  --miss-bg: #ffe8e8;
   font: 400 clamp(22px, 3.6vw, 32px) / 1.6 var(--mono);
   letter-spacing: 0.01em;
-  color: var(--ink-4);
+  color: var(--prompt);
   text-align: left;
   word-break: break-word;
+}
+:root[data-theme="dark"] .typing-text {
+  --prompt: #c8c8c8;
+  --prompt-line: #c8c8c8;
+  --typed: #2ad4ea;
+  --miss: #c40000;
+  --miss-bg: #ffe8e8;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .typing-text {
+    --prompt: #c8c8c8;
+    --prompt-line: #c8c8c8;
+    --typed: #2ad4ea;
+    --miss: #c40000;
+    --miss-bg: #ffe8e8;
+  }
 }
 .typing-text.is-word {
   font: 600 clamp(40px, 8vw, 64px) / 1.2 var(--serif);
@@ -3031,14 +3053,24 @@ code {
 }
 .typing-text span {
   border-radius: 3px;
-  transition: color 0.1s;
+  font-weight: 500;
+  text-decoration: underline dotted var(--prompt-line);
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 0.16em;
+  transition: color 0.1s, font-weight 0.1s;
 }
 .typing-text .is-ok {
-  color: var(--ink);
+  color: var(--typed);
+  font-weight: 750;
+  text-decoration: none;
 }
 .typing-text .is-bad {
-  color: var(--terra);
-  background: var(--terra-soft);
+  color: var(--miss);
+  font-weight: 750;
+  background: var(--miss-bg);
+  text-decoration: underline solid var(--miss);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0.12em;
 }
 .typing-text .is-caret {
   box-shadow: -2px 0 0 var(--moss);
