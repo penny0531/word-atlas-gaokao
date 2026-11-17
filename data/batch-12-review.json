@@ -1367,5 +1367,12 @@
       "This review did not run ASR and did not listen on a phone.",
       "Zipf is public corpus frequency, not an official exam ranking."
     ]
+  },
+  "languageHold": {
+    "status": "fixes applied on the same branch for parent re-review",
+    "artifact": "data/batch-12-language-fixes.json",
+    "changedCards": 90,
+    "rerecordedClips": 39,
+    "dummyCollocationsReplaced": 37
   }
 }

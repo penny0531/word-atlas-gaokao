@@ -25,7 +25,7 @@
     "failed": 0,
     "batch12Generated": 400
   },
-  "bytes": 134667906,
+  "bytes": 134288192,
   "durationOutliers": [
     {
       "id": "bath",
@@ -7481,12 +7481,12 @@
     {
       "id": "arrow",
       "index": 1,
-      "bytes": 35779,
-      "duration": 4.321,
-      "words": 15,
-      "phonemes": 79,
-      "sha256": "3406aa492846fb46d78645449fc4a53a073dc9f84ead9bcc0d5e751232ac8a6b",
-      "textSha256": "61978bb355dc123f0a2f539df4b18d1199cfc9d94d12e5360cde8359f03e2b81"
+      "bytes": 14672,
+      "duration": 1.679,
+      "words": 6,
+      "phonemes": 29,
+      "sha256": "dbd15e20ecdec3a6d47aa1cc2f1af778c345835276470b525bf0586f28d31357",
+      "textSha256": "83eacbc139c7aa564ba9a1b4cd258c81f83abdc1d4a57e57c5532897350de8f2"
     },
     {
       "id": "art",
@@ -10011,12 +10011,12 @@
     {
       "id": "bless",
       "index": 1,
-      "bytes": 36197,
-      "duration": 4.384,
-      "words": 13,
-      "phonemes": 80,
-      "sha256": "269d8edcce1586071c8f4a57655e6de7a50b115d4c4b49889c428940ee812f33",
-      "textSha256": "a504a26150b240755c926b0d656ae19dcc3fe6054948a016ec49ef91aeee220e"
+      "bytes": 18852,
+      "duration": 2.201,
+      "words": 10,
+      "phonemes": 43,
+      "sha256": "997cdf293e51cfdf6dde691727833866f296665c336e16f3bf2decd0cc659e16",
+      "textSha256": "dd3ca38485c8f77a82346f9ccad000df6432cb1bffe5c4ad25a304105b9f04cd"
     },
     {
       "id": "blind",
@@ -10611,12 +10611,12 @@
     {
       "id": "boxing",
       "index": 1,
-      "bytes": 36406,
-      "duration": 4.405,
-      "words": 16,
-      "phonemes": 82,
-      "sha256": "6b0f6cd2fb71d8d3e2dc67e5988900727a4cf207452b896b71b6214a2885c814",
-      "textSha256": "2492add40ee171d10bda52074d846158902810707aec967b67157a3641261f00"
+      "bytes": 19061,
+      "duration": 2.242,
+      "words": 7,
+      "phonemes": 41,
+      "sha256": "5143ca971ed6d3c59b56b285b113ca42fc184e224fab3f85a29c26615c9ebe4e",
+      "textSha256": "813f10193c4f5b94c68d2abfe0c8d1ab747b27d81d4f238819c740a69b8d1c54"
     },
     {
       "id": "boy",
@@ -11411,12 +11411,12 @@
     {
       "id": "cage",
       "index": 1,
-      "bytes": 30346,
-      "duration": 3.647,
-      "words": 12,
-      "phonemes": 62,
-      "sha256": "7a58faed5c334ab54aa364e4d5e99410fe40933fe5b518676e35dabaa7055fea",
-      "textSha256": "17ca9a374ae6cb03af842a8af28b63276ab2f10de0fe4d1992ba5fbf9d5795ac"
+      "bytes": 19061,
+      "duration": 2.222,
+      "words": 7,
+      "phonemes": 38,
+      "sha256": "b83563d37db669184329e9c6a58a810fb3111513585989e5bee8cdee678601f3",
+      "textSha256": "878e79b7c2c473e98733d3e8d32c57ab27a18429708398ef64e5fe0097564e07"
     },
     {
       "id": "cake",
@@ -13051,12 +13051,12 @@
     {
       "id": "cinema",
       "index": 0,
-      "bytes": 18852,
-      "duration": 2.211,
-      "words": 6,
-      "phonemes": 35,
-      "sha256": "32b328486fb7cbaaf8acc6e443d92058138f279801a72e8beb5f555569af3fcc",
-      "textSha256": "02f6bec4dffb742ac51fdccc542acb520dfbb77f180c6fd0345403a516ba3465"
+      "bytes": 15299,
+      "duration": 1.774,
+      "words": 5,
+      "phonemes": 28,
+      "sha256": "471fee882c14e0b42679bdedb27588cc5dd74daf3346c3596a809349ccd64a30",
+      "textSha256": "56548ed47b9ea7ca25401f380b3fb8d0cacefa226e7cf17c2b3d65b2e37f7f01"
     },
     {
       "id": "cinema",
@@ -13421,12 +13421,12 @@
     {
       "id": "clinic",
       "index": 1,
-      "bytes": 34943,
-      "duration": 4.213,
-      "words": 14,
-      "phonemes": 76,
-      "sha256": "c8fd034ee6959181ee3c9eb66412242e8b3b90de7ed456abf72389d2f8aa3c83",
-      "textSha256": "8b95b36b9e30636003c719fb0f434fb505b844a190901d82058488748f39d860"
+      "bytes": 17807,
+      "duration": 2.063,
+      "words": 7,
+      "phonemes": 42,
+      "sha256": "72bef108343e906c3aef4baae2dbe6fe0ba63bd17780a2c6bdd2f2f85d1a22b1",
+      "textSha256": "84ada2721a12fd0da8ecdf5413266843d781a7576956507322747514090994c1"
     },
     {
       "id": "clock",
@@ -14801,12 +14801,12 @@
     {
       "id": "consultant",
       "index": 1,
-      "bytes": 28256,
-      "duration": 3.381,
-      "words": 10,
-      "phonemes": 59,
-      "sha256": "cac331fc164fa58fa45114e9f953b6e60d988493fb6ff27a04f1682f77725044",
-      "textSha256": "1642acd45ff7c8df19164c4eea5c39a8c00e8867f13a4728918064089ccb83ca"
+      "bytes": 22613,
+      "duration": 2.689,
+      "words": 7,
+      "phonemes": 47,
+      "sha256": "d94a28667e67be26d44be8e42d2ba4627a673d71fc2bdfe3184e504e7a1b2327",
+      "textSha256": "a69134909007f183f4c9556bf380e195b6ae3653a451ab59e2dcdffae5c47919"
     },
     {
       "id": "contain",
@@ -14891,22 +14891,22 @@
     {
       "id": "contrary",
       "index": 0,
-      "bytes": 21359,
-      "duration": 2.508,
+      "bytes": 21777,
+      "duration": 2.572,
       "words": 8,
-      "phonemes": 41,
-      "sha256": "247e34296336f5927832fd8598dc9d9c6c676968abf78757d032000ddb67224f",
-      "textSha256": "15aadeec47db544c0673a83e2ad11990eb90e5d048828d8e5eeccf0843969260"
+      "phonemes": 42,
+      "sha256": "bc6526172517417d51df1a2c851afd879e69fb274ac86661b7c219bd1c6156f1",
+      "textSha256": "cff2ee3418b35a65ed3f4ef7b5659d4dff0f1e4b407e39bc7c02048e5a6f5ebb"
     },
     {
       "id": "contrary",
       "index": 1,
-      "bytes": 26793,
-      "duration": 3.199,
-      "words": 9,
-      "phonemes": 57,
-      "sha256": "199919a11e8c050ebf01396ad1958aacde33f7bb32624c8739b5225a92b721fc",
-      "textSha256": "16f48e4547fa6151ed67b230059f9cf6a7c048ccb91e26311da86ee651f18160"
+      "bytes": 22613,
+      "duration": 2.679,
+      "words": 8,
+      "phonemes": 48,
+      "sha256": "6370fa760bd0484956e02daab267afccf47edad352baf444ea5504fd6479731c",
+      "textSha256": "77bc0ef5932beafaa2f7f53eeba57ca718b77d76f946f81c9eb1615ccb02040d"
     },
     {
       "id": "contribute",
@@ -17141,12 +17141,12 @@
     {
       "id": "detective",
       "index": 1,
-      "bytes": 35361,
-      "duration": 4.277,
-      "words": 14,
-      "phonemes": 79,
-      "sha256": "64e5c6466e00a5ee8b61199e1f8b67fb548b31f60ffd0164f4a8917765a46727",
-      "textSha256": "55242ca7b285531ef2d2c58d1a80987f425a649b705bd2e8702041c187bc1b27"
+      "bytes": 25957,
+      "duration": 3.081,
+      "words": 8,
+      "phonemes": 50,
+      "sha256": "5a5ab708bb8bd7ae6a6a4f7ce894434f125ddf8538406ca11b212c2e4517d1bf",
+      "textSha256": "888487f945f2ed88508437ed3ff2bfcce8f8ecade5265ef46b261b23e15734ae"
     },
     {
       "id": "determine",
@@ -17531,12 +17531,12 @@
     {
       "id": "disability",
       "index": 1,
-      "bytes": 29301,
-      "duration": 3.509,
-      "words": 10,
-      "phonemes": 61,
-      "sha256": "fc8b7c2ea7e035a6beb5a171a3dcdb8efc2a13b718948d3cdb37b524c4748d5a",
-      "textSha256": "ee86df72536c4d6c22ceeff61e22a318768027502f2179efa145a508bf6614e2"
+      "bytes": 23449,
+      "duration": 2.785,
+      "words": 8,
+      "phonemes": 54,
+      "sha256": "6489d92177c41a56036192a70934758b2f47e72c5fc98c2c282932ec00791936",
+      "textSha256": "f8f3829bb87cd948236bb2a96800ab0bee768db99e12f23486a16da3473065a6"
     },
     {
       "id": "disabled",
@@ -17861,12 +17861,12 @@
     {
       "id": "dive",
       "index": 1,
-      "bytes": 27420,
-      "duration": 3.267,
-      "words": 11,
-      "phonemes": 59,
-      "sha256": "5a9c57168409ccd73d6c4b62dc3d1820d850a3b24350dc3ed1cd1eb78367132f",
-      "textSha256": "1df7d80923b1e9ecbddd00e80c0ee356e5e5b04fec091642904c397343f71012"
+      "bytes": 18016,
+      "duration": 2.105,
+      "words": 7,
+      "phonemes": 38,
+      "sha256": "8b9b00e454bb29b7c459851905151c4ae65d8f3797c8fcd8b83af3b54cb386af",
+      "textSha256": "36d217b6f432564d9df3cc7f841dae47090298a59633271699d2698b84a077ea"
     },
     {
       "id": "diverse",
@@ -18801,12 +18801,12 @@
     {
       "id": "easter",
       "index": 1,
-      "bytes": 34943,
-      "duration": 4.213,
-      "words": 12,
-      "phonemes": 79,
-      "sha256": "d9422dcd4d654cee87503ff6d0d7365472f151367c25ac89e5bafaeb1133d27b",
-      "textSha256": "e712cdafa121e396caa64711c334bc2a65bb23d7697a5eea5047aa3b7c5699ab"
+      "bytes": 16762,
+      "duration": 1.935,
+      "words": 6,
+      "phonemes": 35,
+      "sha256": "a754432edd6c2f136586704128e0e1d8e943805450dab4237e013947d4afc639",
+      "textSha256": "f7679cacecd94f4625ee6a02a2e5f8691f70787f76d5fe8abf4977eb32e812d6"
     },
     {
       "id": "eastern",
@@ -21351,12 +21351,12 @@
     {
       "id": "fever",
       "index": 0,
-      "bytes": 14045,
-      "duration": 1.603,
-      "words": 5,
-      "phonemes": 27,
-      "sha256": "30b5bf9e930426a7a908c7dc8d1837e5f1429c219482ddacdd5425087aeb2dd0",
-      "textSha256": "5fd6c938516896174d860f050ffd9d8ab10e9f0b1674ba93670b5c34966ba0eb"
+      "bytes": 19270,
+      "duration": 2.255,
+      "words": 10,
+      "phonemes": 44,
+      "sha256": "3a0a11c288e25857c2286339e7e5ba8fb87d8f26412c73eb536e7132dffeb4fb",
+      "textSha256": "64472592ec5cd3f91ef90493e8c7f21f07a1b58f96136da098fa52a2adca017d"
     },
     {
       "id": "fever",
@@ -21821,12 +21821,12 @@
     {
       "id": "flesh",
       "index": 1,
-      "bytes": 31599,
-      "duration": 3.797,
-      "words": 12,
-      "phonemes": 68,
-      "sha256": "ab19785a65ddb94ee3c64d2b338905522fe557bd9a8cc53021f85302d19f73a7",
-      "textSha256": "5b5db737535d83f4675761256625baf8546ec2b3575ffb16c21616bd10feba49"
+      "bytes": 21777,
+      "duration": 2.573,
+      "words": 10,
+      "phonemes": 43,
+      "sha256": "505f4aac712fa6044b596b2a6c6b0a9afa46ff4650711c684a3d5813c1ee5d52",
+      "textSha256": "56008cc3d8543983a1e657acd37e09b556235900ee9deb24952f1af4d375bc11"
     },
     {
       "id": "flexible",
@@ -25551,12 +25551,12 @@
     {
       "id": "humor",
       "index": 1,
-      "bytes": 32853,
-      "duration": 3.966,
-      "words": 13,
-      "phonemes": 68,
-      "sha256": "47d38e27b5dd3cdcefb3cc73f255f6233ff036ddfc97f74e9e9616cef071dbba",
-      "textSha256": "c33feb44281672c69ba28a29462a889da5e6598b40117b6ae2c3e4f80c066e7f"
+      "bytes": 17180,
+      "duration": 1.987,
+      "words": 7,
+      "phonemes": 36,
+      "sha256": "c153c64c46fe0c7ddc8a34c6e653859d8c2898726fe50dcb551d6cc6ebfcbeff",
+      "textSha256": "b60017ac991785e103b6cc9a1017a917da82cb121035b4e17c52321421057303"
     },
     {
       "id": "hungry",
@@ -28111,12 +28111,12 @@
     {
       "id": "lecture",
       "index": 1,
-      "bytes": 23031,
-      "duration": 2.723,
-      "words": 9,
-      "phonemes": 48,
-      "sha256": "a94564a113dd8569f06ee682162da60f65e35cb5d3d49d1dcf7065537488f93c",
-      "textSha256": "babcde3f65346d0ba5b502fecae74bee9822484aae2f3e5ebfa6b9de8c3f7679"
+      "bytes": 14045,
+      "duration": 1.592,
+      "words": 5,
+      "phonemes": 26,
+      "sha256": "579627288fa1570c48f459af730e9ae48ce48bceb21ac821131fa1ab64bb66ac",
+      "textSha256": "e74cabbea59b4d61d6c0a803f0dff5afe46cef26688d96fb068f2bb9a0dd769e"
     },
     {
       "id": "left",
@@ -29381,12 +29381,12 @@
     {
       "id": "marathon",
       "index": 1,
-      "bytes": 28883,
-      "duration": 3.465,
-      "words": 12,
-      "phonemes": 64,
-      "sha256": "57d174bb53c0f652cf9391db5c79d8a41a0c2ea921192a2aefea7e3b942395ca",
-      "textSha256": "b7231a2fc12ce526bcffc30cb07571d35ac003b5bc1241e703aded76f04ca7ba"
+      "bytes": 19688,
+      "duration": 2.297,
+      "words": 7,
+      "phonemes": 40,
+      "sha256": "60e1ae7002aa876cdf1e5f18d058b93d7b440bea2c51245283d162c75c508167",
+      "textSha256": "9754fcd90911803ce4b7f84f08caeb314daf059002e1342e3d8e3dac71c7067f"
     },
     {
       "id": "march",
@@ -30561,12 +30561,12 @@
     {
       "id": "missile",
       "index": 1,
-      "bytes": 33062,
-      "duration": 3.979,
-      "words": 13,
-      "phonemes": 73,
-      "sha256": "e796252afe65d2f95d562d2c71780277608ff321b28593cdfca76b044c650e22",
-      "textSha256": "fbfba3a5d52d73814c3fe43e77c8da41748cd0e8606575476498202138d3363a"
+      "bytes": 23658,
+      "duration": 2.819,
+      "words": 8,
+      "phonemes": 54,
+      "sha256": "db1444787923c037681708972dd207b6b7426e84f9d192aa2350de29abad1b8c",
+      "textSha256": "253eb2f4123b277ee54b2adc8c227b875d1f9bc647a311041452972015b6f33f"
     },
     {
       "id": "mistake",
@@ -30621,12 +30621,12 @@
     {
       "id": "mixture",
       "index": 1,
-      "bytes": 26793,
-      "duration": 3.199,
-      "words": 12,
-      "phonemes": 61,
-      "sha256": "da2a7566bc9d1926e5df6a5e76208d7f8287391fd15b080c9daa78343c395c11",
-      "textSha256": "e1b51e4c747e833c05b0b1c996dc90988286a8107c41373d983f26107b438079"
+      "bytes": 17389,
+      "duration": 2.02,
+      "words": 7,
+      "phonemes": 39,
+      "sha256": "3da994056cf484abcc102fa86feed9bdbf1d14c513f3ca9588f5bd8bbfefa8b6",
+      "textSha256": "34441e03c505704150cf48e82e3e7ceba40f61204f6cdd1e8245ba80bc6bfa0e"
     },
     {
       "id": "mm",
@@ -32481,12 +32481,12 @@
     {
       "id": "occupation",
       "index": 1,
-      "bytes": 32644,
-      "duration": 3.935,
-      "words": 10,
-      "phonemes": 68,
-      "sha256": "9bc7d3af0d254b8b33e0abd556a9e21b6a1dd04ea7043f5cd7d67660b9c218fd",
-      "textSha256": "976fb5f06fc10fbe06626ba8492501e403f69e5de560677d0b8629f5b5b2b83f"
+      "bytes": 26375,
+      "duration": 3.137,
+      "words": 8,
+      "phonemes": 57,
+      "sha256": "f3ac30e31d75936cc3171a8421b20918b527e3567712cd8d1fac5429374e9e3b",
+      "textSha256": "68533e974c49804fdba7fcc68efb185a4421c6645fc1a96c269f4f2c26080e18"
     },
     {
       "id": "occur",
@@ -33121,12 +33121,12 @@
     {
       "id": "organ",
       "index": 1,
-      "bytes": 29510,
-      "duration": 3.542,
-      "words": 11,
-      "phonemes": 64,
-      "sha256": "5a2e7aa82c33b663a91099bd36e7452aad80641962b9bcfd621f48340ba2dcf5",
-      "textSha256": "f0fb705be079488e3729ab4edbd3b15cfaf9059e430ffa88d9f282de933dacdb"
+      "bytes": 20941,
+      "duration": 2.465,
+      "words": 9,
+      "phonemes": 46,
+      "sha256": "fb5440cd51d72fbd31016d300b5a945b9aac5c7a6ea865f9f6e651cdb725b321",
+      "textSha256": "6bfcd3abfeefdd5a1af9537305d4819ba6774d7d2a103e495e27ad502b221d86"
     },
     {
       "id": "organisation",
@@ -35501,12 +35501,12 @@
     {
       "id": "plug",
       "index": 1,
-      "bytes": 33271,
-      "duration": 3.999,
-      "words": 15,
-      "phonemes": 71,
-      "sha256": "adf7330859af5561615db2b283b3dbefeae3265476914791cfa51fc860e4c5ac",
-      "textSha256": "1fb3f8d5d2700ead4fe9357088da510f4e584c0396eaf2270ba2b7947274c263"
+      "bytes": 18643,
+      "duration": 2.178,
+      "words": 9,
+      "phonemes": 43,
+      "sha256": "579d3a136d6e142eeb1724f91a78fde7f48539469a30b2655b5955c9b535c00b",
+      "textSha256": "7cf2bdb1bf249c34fe7b4d598d2560289cffb9dc58e67e10a14f517738b79676"
     },
     {
       "id": "plus",
@@ -36761,12 +36761,12 @@
     {
       "id": "prisoner",
       "index": 1,
-      "bytes": 32017,
-      "duration": 3.849,
-      "words": 13,
-      "phonemes": 69,
-      "sha256": "23ff01f6ddfd62ae9041ece43e64e57741bb7e991bb02d8205fb9a8dfb19c161",
-      "textSha256": "5070555722d4fba01b9d1bb77e5f4bf2fb581bc4b4f9bdbc02b13615e5ed8b34"
+      "bytes": 19479,
+      "duration": 2.287,
+      "words": 8,
+      "phonemes": 41,
+      "sha256": "25d1ffdc1c104fd641cf2acc00916ba37103383b8b0226ef8c00990503c02c7a",
+      "textSha256": "688a93f55e73ae66908774c41aa6aeaba38532856b90717a9d0311886aaecdbf"
     },
     {
       "id": "private",
@@ -36791,22 +36791,22 @@
     {
       "id": "privilege",
       "index": 0,
-      "bytes": 20106,
-      "duration": 2.36,
-      "words": 8,
-      "phonemes": 44,
-      "sha256": "da59eb770f337d388bb1e148799d142fa0eadcb05f38426c10d407b3e0c188ec",
-      "textSha256": "71810582e4dfc5bdd43efcfcb32bac16f949d2f312ccf37b61cf7e1fc9b85886"
+      "bytes": 21568,
+      "duration": 2.552,
+      "words": 9,
+      "phonemes": 48,
+      "sha256": "1d51ef4d206b7452756d9e4a6ac29c72704fd5cefa4d9338ef43f0eead91aa60",
+      "textSha256": "5a2e78cf4e64f7f5fac67103481c4ddf2c704e6241fdde6aaa1d707db23030e8"
     },
     {
       "id": "privilege",
       "index": 1,
-      "bytes": 28674,
-      "duration": 3.433,
-      "words": 11,
-      "phonemes": 61,
-      "sha256": "b7da1019fcb919d94e503a4a3c9c0e97294f6f213f9f8aac76506d6ba5b6091c",
-      "textSha256": "837338d851e63fcc68d191c9302b3bad3c1dd8b66ddb0aacf2e93dcfba420fd9"
+      "bytes": 15090,
+      "duration": 1.731,
+      "words": 6,
+      "phonemes": 33,
+      "sha256": "7c2bc0fabc217b1af35750a55b1b6a6db0bd7e1761545b497fa6e5a4e6bcef57",
+      "textSha256": "544ea206271efbcad13c088c94c3bb9a5ac85cbedc0f046b7a1f8c46b81e3681"
     },
     {
       "id": "prize",
@@ -36981,12 +36981,12 @@
     {
       "id": "profession",
       "index": 1,
-      "bytes": 32017,
-      "duration": 3.839,
-      "words": 11,
-      "phonemes": 68,
-      "sha256": "a2eb715b3b711ee4a32c30dfbe8b3328c60c00285bae609667b5d7c224716632",
-      "textSha256": "f1986e1534b7ea6fdd58300034dcab524501e76a2fb96ffb39e7f5468749882f"
+      "bytes": 26375,
+      "duration": 3.148,
+      "words": 9,
+      "phonemes": 51,
+      "sha256": "18436833b5c3594c946a45a33f5a8a90ba3dd05dc4e826cfcb96a663ff994475",
+      "textSha256": "89dd364f81e24945e1ed3e479127797832a17382e68c2ddaac72749bbfea22ce"
     },
     {
       "id": "professor",
@@ -40531,12 +40531,12 @@
     {
       "id": "satisfaction",
       "index": 0,
-      "bytes": 16344,
-      "duration": 1.879,
+      "bytes": 17389,
+      "duration": 2.01,
       "words": 6,
-      "phonemes": 33,
-      "sha256": "bd388640f1c99ff23f15495c0b64108225a225bb3781e94aa6877955abd79f03",
-      "textSha256": "019ce01a111a5666f026cb61be99df6a87757c869f9947bd366e31393ac7ba74"
+      "phonemes": 38,
+      "sha256": "05fe2bbf741aa58658c70c2cda02b9f76f58f123cb7322f778cf8d42b1ba960d",
+      "textSha256": "3bb8d1c704d8e6fddec5a6e088cee79251dc5315221667735e9e6f694dd6e3d1"
     },
     {
       "id": "satisfaction",
@@ -40741,12 +40741,12 @@
     {
       "id": "scientist",
       "index": 1,
-      "bytes": 27420,
-      "duration": 3.276,
-      "words": 10,
-      "phonemes": 58,
-      "sha256": "ddf86b7cd932ac8c84c50dc2926216069c5d8dc15acfb1024d31ba3e8ec65fa0",
-      "textSha256": "10cc1acf05f10d6f06848a17f9cfa2e3874456861260a994f81f9824dee5410e"
+      "bytes": 22404,
+      "duration": 2.656,
+      "words": 8,
+      "phonemes": 48,
+      "sha256": "ecf22c9a9f28d0cc5f5ddc99f6b23b25d73852bd25b4e449d77d55765070616f",
+      "textSha256": "664b42be4d2e1b6aa2987216926dd5fb551a25965ceb95709735f33529e3abf0"
     },
     {
       "id": "score",
@@ -41691,12 +41691,12 @@
     {
       "id": "sheep",
       "index": 0,
-      "bytes": 13418,
-      "duration": 1.529,
+      "bytes": 14881,
+      "duration": 1.71,
       "words": 6,
-      "phonemes": 25,
-      "sha256": "3e68a07108391113afde88b863bc1d2048c1dcc8b86b59f198ec05c91f3912f7",
-      "textSha256": "85a53f0209e93b1a79daaa47304b85a738a6af1562dff8e37ffb4d6149262f41"
+      "phonemes": 31,
+      "sha256": "44ec7dc6d58518ffa50783ea345d169668f0be9840a8f3f6168af8fe6f1ae004",
+      "textSha256": "cd24a6e75b3ac7b9dad8e19f25c0ec58623fbede30b0ba55946a52c60cdab4ea"
     },
     {
       "id": "sheep",
@@ -41761,12 +41761,12 @@
     {
       "id": "shine",
       "index": 1,
-      "bytes": 30346,
-      "duration": 3.636,
-      "words": 14,
-      "phonemes": 68,
-      "sha256": "ec33e3a0f1dbca54ea5dd0e59ab2f59256ac78b724b95de848de2dca4c7ff307",
-      "textSha256": "11da060cf9acfaf3260d4f2007379fd3356289f4a86ef63abcf07b1d28e588d5"
+      "bytes": 16971,
+      "duration": 1.966,
+      "words": 7,
+      "phonemes": 33,
+      "sha256": "389ef0f82b68bfd7046f0f5b2a1695dcfa4cbce78eff4d90ffe4e9dccb6f0960",
+      "textSha256": "6cfbb20cc915f852c0f6c8f8ea2bd871c404a9aec429dafd5c04290905b84c87"
     },
     {
       "id": "ship",
@@ -42441,12 +42441,12 @@
     {
       "id": "sink",
       "index": 1,
-      "bytes": 41630,
-      "duration": 5.045,
-      "words": 15,
-      "phonemes": 88,
-      "sha256": "d0990647a35daead075fa5cccfa76e9252c9ca8c37bdd87aae2e90686f1ab000",
-      "textSha256": "75a27024833483a962779d596ad0c6a4bf05aaf05eb78981344dbafdb20c06db"
+      "bytes": 16762,
+      "duration": 1.945,
+      "words": 7,
+      "phonemes": 35,
+      "sha256": "982b98ba5ca090447aed12ff88977a5bf848869b3571a20908a7023b0def9771",
+      "textSha256": "b42737ae45ec88d38f6c3598f3eed5d135186752aa50094790f1e5d3e117c08b"
     },
     {
       "id": "sir",
@@ -42561,12 +42561,12 @@
     {
       "id": "ski",
       "index": 1,
-      "bytes": 26793,
-      "duration": 3.201,
-      "words": 12,
-      "phonemes": 61,
-      "sha256": "0c0c7d6dd0e2946a81d6a9915323880deb59174cd99ad2a68da6af087b9ad0bf",
-      "textSha256": "1d3892be104334355d5da8b1baf70b36b9fb1f81c0985efda0c5acfba1325eab"
+      "bytes": 15299,
+      "duration": 1.771,
+      "words": 7,
+      "phonemes": 32,
+      "sha256": "d76b2124d16d000629430873ea8d0d3c281c9d91e05e935c034416dc6d213d11",
+      "textSha256": "c4a2021f065a77b62559bfaf16fca4e94ebcc9b06087256da7e2da8383b715b7"
     },
     {
       "id": "skill",
@@ -42681,12 +42681,12 @@
     {
       "id": "slavery",
       "index": 1,
-      "bytes": 34525,
-      "duration": 4.159,
-      "words": 13,
-      "phonemes": 72,
-      "sha256": "92ffd553ecfa66872ee3a012f2f5aa9e88909bcf3394759a0e9fae62bb2b0b4b",
-      "textSha256": "caed1c75b5fb6921207bd72be6f3345b83cf1db1fc34bc93a816cfd3bc96bead"
+      "bytes": 26375,
+      "duration": 3.139,
+      "words": 10,
+      "phonemes": 63,
+      "sha256": "9fa9fa29c970386cbf3fbb7c7ca7caa7f4c7aa06740b9071c4b32ccf2d13dc31",
+      "textSha256": "9b4a583b088150a98c0c53c80817751f7ab28f42f57cc6f86d3dfa985c1cbfde"
     },
     {
       "id": "sleep",
@@ -45521,12 +45521,12 @@
     {
       "id": "surgeon",
       "index": 1,
-      "bytes": 34943,
-      "duration": 4.213,
-      "words": 11,
-      "phonemes": 77,
-      "sha256": "198e92ab1ce228d463fe32f903e0802648bc5e222330b236cb1732e238192b0e",
-      "textSha256": "26278d5caba44c3e47db422646b4605327ec7fa29c35da6e8546fe5bfadb4622"
+      "bytes": 19061,
+      "duration": 2.232,
+      "words": 7,
+      "phonemes": 39,
+      "sha256": "39c05fc4ff8a200b636c6b96060bdc555c706b49df4936506ef944ed9f58b968",
+      "textSha256": "7d15d6f78967011876b6381346221a8bfe8ab4cd99e005959162ee90b167b7e5"
     },
     {
       "id": "surprise",
@@ -46761,12 +46761,12 @@
     {
       "id": "theft",
       "index": 1,
-      "bytes": 29092,
-      "duration": 3.487,
-      "words": 14,
-      "phonemes": 64,
-      "sha256": "f0f2a618af04966bec05658fe19d166c5894430493d91f3a278f1f66bbc4582e",
-      "textSha256": "6c8a3297172c63e3287f0bade60eb23e7fa8c540c597f340277ed5ddb1fa243a"
+      "bytes": 15299,
+      "duration": 1.753,
+      "words": 6,
+      "phonemes": 31,
+      "sha256": "a6296ee72698d84ccf82a763b6bfdeb9c465288e57b632a36ede45a32bb5a16a",
+      "textSha256": "bb523b8a6e9635881570c88c8a973096f78a0b2109228aa30e8eb5ae3a848e2f"
     },
     {
       "id": "theme",
@@ -47461,12 +47461,12 @@
     {
       "id": "tobacco",
       "index": 1,
-      "bytes": 32853,
-      "duration": 3.945,
-      "words": 12,
-      "phonemes": 68,
-      "sha256": "a08e47aa6b7451a355aab3521085618d470b36e108333f6d50c15ffa2d7a5290",
-      "textSha256": "2bac9f6f6f7acf0b56e6a7cc7bee216e94852488731cb349a045591cd306fd74"
+      "bytes": 18225,
+      "duration": 2.134,
+      "words": 5,
+      "phonemes": 35,
+      "sha256": "92888aa5b51dd0d91bf0e9a1c3f80d60e09c1db9871a63ce8dd0558e2078bf97",
+      "textSha256": "4fe3ab325cfe3a20e7b436111c638c7ce6b3312320a4e072fbc184b4a0eff4bc"
     },
     {
       "id": "today",
@@ -48641,12 +48641,12 @@
     {
       "id": "twist",
       "index": 1,
-      "bytes": 33062,
-      "duration": 3.987,
-      "words": 13,
-      "phonemes": 69,
-      "sha256": "3b39cb9e6975b85ab84a7d29c41bbb76ac8f6137407501b428a7f309e5ccac59",
-      "textSha256": "ea064832e027c5fe2c3905a5d75a84dad1bae5ebdab76d6ee5f7ddb2ea7b3c99"
+      "bytes": 18852,
+      "duration": 2.211,
+      "words": 8,
+      "phonemes": 41,
+      "sha256": "106338dcea816597198ee1e103a8883269cb01359bd1ae9f9edc3af41ab7ae54",
+      "textSha256": "66627914f0e986145e2ea8af556943d06639b62cdae9d106342bedaf61da00c6"
     },
     {
       "id": "type",
@@ -48881,12 +48881,12 @@
     {
       "id": "unfortunate",
       "index": 1,
-      "bytes": 30346,
-      "duration": 3.647,
-      "words": 11,
-      "phonemes": 67,
-      "sha256": "51f52ace194c4183d04444b2be54eedb9d790f316de69b322760f4490695c324",
-      "textSha256": "1a30ac297d21532d02dcabb3175904baf2d157953bd0333924355665df495956"
+      "bytes": 26584,
+      "duration": 3.178,
+      "words": 9,
+      "phonemes": 57,
+      "sha256": "3456c0c01943169289115daddc9fd2fb61320086c65405cd90b21989c6f7c30d",
+      "textSha256": "259257e236e82c93277a4d5f4a7e3d2b6de3f9e31f6d0e58b3a84abf2948f6b8"
     },
     {
       "id": "uniform",

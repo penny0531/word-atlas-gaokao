@@ -8232,8 +8232,8 @@
     "zh": "他们在学校出行时滑雪。"
    },
    {
-    "en": "A ski lesson should name the adult who stays with the group.",
-    "zh": "滑雪课应当写明哪位成年人留在组里。"
+    "en": "They ski when the snow is deep.",
+    "zh": "雪厚的时候他们滑雪。"
    }
   ],
   "col": [
@@ -8418,7 +8418,7 @@
    }
   ],
   "col": [
-   "a handful of｜一把；少数"
+   "a handful of seeds｜一把种子"
   ],
   "fam": [
    "hand (n.)"
@@ -10800,7 +10800,7 @@
   "id": "disability",
   "w": "disability",
   "uk": "/dɪsəˈbɪlɪtɪ/",
-  "us": "/dˌɪsəbˈɪləɾi/",
+  "us": "/ˌdɪsəˈbɪləti/",
   "senses": [
    {
     "pos": "n.",
@@ -10814,12 +10814,12 @@
     "zh": "表格在私下询问残疾情况。"
    },
    {
-    "en": "A disability does not decide who may use the library.",
-    "zh": "残疾不决定谁可以用图书馆。"
+    "en": "She talks about her disability only with friends.",
+    "zh": "她只和朋友谈自己的残疾。"
    }
   ],
   "col": [
-   "a disability of｜一种残疾"
+   "a physical disability｜身体残疾"
   ],
   "fam": [],
   "syn": [],
@@ -13062,7 +13062,7 @@
  {
   "id": "patience",
   "w": "patience",
-  "uk": "/'peɪʃəns/",
+  "uk": "/ˈpeɪʃəns/",
   "us": "/ˈpeɪʃəns/",
   "senses": [
    {
@@ -13733,7 +13733,7 @@
   "id": "handsome",
   "w": "handsome",
   "uk": "/ˈhænsəm/",
-  "us": "/ˈhændsʌm/",
+  "us": "/ˈhænsəm/",
   "senses": [
    {
     "pos": "adj.",
@@ -15394,7 +15394,7 @@
    }
   ],
   "col": [
-   "a poet of｜一位……诗人"
+   "a young poet｜青年诗人"
   ],
   "fam": [
    "poem (n.)"
@@ -15588,7 +15588,7 @@
   "id": "athletic",
   "w": "athletic",
   "uk": "/æθˈletɪk/",
-  "us": "/æθlˈɛɾɪk/",
+  "us": "/æθˈletɪk/",
   "senses": [
    {
     "pos": "adj.",
@@ -17382,13 +17382,12 @@
     "zh": "心脏是一个器官。"
    },
    {
-    "en": "A health lesson can name an organ and still stay respectful.",
-    "zh": "健康课可以提到器官，同时仍然保持尊重。"
+    "en": "She plays the organ in the hall on Sundays.",
+    "zh": "她星期天在礼堂里弹风琴。"
    }
   ],
   "col": [
-   "an organ of｜一个器官",
-   "a pipe organ｜管风琴"
+   "play the organ｜弹风琴"
   ],
   "fam": [],
   "syn": [],
@@ -21990,7 +21989,7 @@
   "ex": [
    {
     "en": "Her preference is a quiet seat.",
-    "zh": "她更喜欢安静的座位。"
+    "zh": "她的偏好是安静的座位。"
    },
    {
     "en": "Her preference for morning study shows in the timetable.",
@@ -23936,7 +23935,7 @@
    }
   ],
   "col": [
-   "a pig of｜一头猪"
+   "raise pigs｜养猪"
   ],
   "fam": [],
   "syn": [],
@@ -25226,7 +25225,7 @@
    }
   ],
   "col": [
-   "a weakness of｜……的弱点"
+   "a weakness in spelling｜拼写上的弱点"
   ],
   "fam": [
    "weak (adj.)"
@@ -25489,12 +25488,12 @@
     "zh": "历史课文写出囚犯的名字，而不只是牢房。"
    },
    {
-    "en": "News about a prisoner should give the date, not a method of escape.",
-    "zh": "关于囚犯的新闻应当给出日期，而不是逃脱的方法。"
+    "en": "The prisoner wrote a letter to his family.",
+    "zh": "这名囚犯给家人写了一封信。"
    }
   ],
   "col": [
-   "a prisoner of｜一名囚犯"
+   "a prisoner of war｜战俘"
   ],
   "fam": [],
   "syn": [],
@@ -27312,7 +27311,7 @@
    }
   ],
   "col": [
-   "a coin of｜一枚硬币"
+   "a gold coin｜一枚金币"
   ],
   "fam": [],
   "syn": [],
@@ -27348,8 +27347,8 @@
     "zh": "桃肉是甜的。"
    },
    {
-    "en": "A health lesson can use the word flesh and still stay respectful.",
-    "zh": "健康课可以用 flesh 这个词，同时仍然保持尊重。"
+    "en": "Cook the flesh of the fish until it is white.",
+    "zh": "把鱼肉煮到变白。"
    }
   ],
   "col": [
@@ -29656,8 +29655,8 @@
     "zh": "箭头指向诊所。"
    },
    {
-    "en": "A history chapter can show an arrow and still not teach how to use one.",
-    "zh": "历史课可以展示一支箭，同时仍然不教如何使用。"
+    "en": "Follow the arrow to the hall.",
+    "zh": "顺着箭头走到礼堂。"
    }
   ],
   "col": [
@@ -30387,7 +30386,7 @@
    }
   ],
   "col": [
-   "a neighbor of｜……的邻居"
+   "a next-door neighbor｜隔壁邻居"
   ],
   "fam": [
    "neighbour (n.)"
@@ -31264,8 +31263,8 @@
     "zh": "灯会照在地图上。"
    },
    {
-    "en": "A prize can shine on a poster and still hide who did the work.",
-    "zh": "奖可以在海报上闪光，同时仍然藏起是谁做的工作。"
+    "en": "The sun will shine after the rain.",
+    "zh": "雨停后太阳会照出来。"
    }
   ],
   "col": [
@@ -31478,12 +31477,12 @@
     "zh": "小说提到一次盗窃，然后就停住了。"
    },
    {
-    "en": "News of a theft should give the place and the date, not a method.",
-    "zh": "盗窃新闻应当给出地点和日期，而不是方法。"
+    "en": "The theft happened on a Sunday.",
+    "zh": "这次盗窃发生在星期天。"
    }
   ],
   "col": [
-   "theft of｜对……的盗窃"
+   "report a theft｜报告失窃"
   ],
   "fam": [
    "thief (n.)"
@@ -31528,7 +31527,7 @@
    }
   ],
   "col": [
-   "a potato of｜一个土豆"
+   "a baked potato｜烤土豆"
   ],
   "fam": [
    "potatoes (n.)"
@@ -32162,7 +32161,7 @@
  {
   "id": "advocate",
   "w": "advocate",
-  "uk": "/ˈædvəkət/",
+  "uk": "/ˈædvəkeɪt/",
   "us": "/ˈædvəkˌeɪt/",
   "senses": [
    {
@@ -32194,7 +32193,7 @@
    "support"
   ],
   "ant": [],
-  "tip": "advocate 作名词是倡导者，重音常在前。",
+  "tip": "动词末音节是 /eɪt/，名词“倡导者”末音节是 /ət/。重音都在第一个音节。",
   "cefr": "B1",
   "topic": "society",
   "note": "",
@@ -33725,7 +33724,7 @@
    }
   ],
   "col": [
-   "a farmer of｜一位农民"
+   "a rice farmer｜稻农"
   ],
   "fam": [
    "farm (n.)"
@@ -35062,16 +35061,16 @@
   ],
   "ex": [
    {
-    "en": "A quiet room should not be a privilege.",
-    "zh": "一间安静的房间不应当是特权。"
+    "en": "A seat by the window felt like a privilege.",
+    "zh": "靠窗的位子让人觉得是一种优待。"
    },
    {
-    "en": "Extra lab time should not be a privilege of one class.",
-    "zh": "实验室的额外时间不应当是一个班的特权。"
+    "en": "She called the trip a privilege.",
+    "zh": "她说这次出行是一种荣幸。"
    }
   ],
   "col": [
-   "a privilege of｜……的特权"
+   "a special privilege｜一项特权"
   ],
   "fam": [],
   "syn": [
@@ -36771,7 +36770,7 @@
   "id": "communicate",
   "w": "communicate",
   "uk": "/kəˈmjuːnɪkeɪt/",
-  "us": "/kəmjˈuːnɪkˌeɪt/",
+  "us": "/kəˈmjuːnɪˌkeɪt/",
   "senses": [
    {
     "pos": "v.",
@@ -38280,7 +38279,7 @@
   "id": "acknowledge",
   "w": "acknowledge",
   "uk": "/əkˈnɔlɪdʒ/",
-  "us": "/əknˈɑːlɪdʒ/",
+  "us": "/əkˈnɑlɪdʒ/",
   "senses": [
    {
     "pos": "v.",
@@ -39730,12 +39729,12 @@
     "zh": "新闻提到导弹，然后给出日期。"
    },
    {
-    "en": "A history page can name a missile without teaching how one is made.",
-    "zh": "历史页可以写出导弹，同时不教如何制造。"
+    "en": "The library keeps old articles about the missile.",
+    "zh": "图书馆保存着关于这种导弹的旧文章。"
    }
   ],
   "col": [
-   "a missile of｜一枚导弹"
+   "a missile test｜导弹试验"
   ],
   "fam": [],
   "syn": [],
@@ -39823,7 +39822,7 @@
    }
   ],
   "col": [
-   "a pension of｜一笔养老金"
+   "draw a pension｜领养老金"
   ],
   "fam": [],
   "syn": [],
@@ -40759,8 +40758,8 @@
     "zh": "外科医生和家属说了话。"
    },
    {
-    "en": "A school can explain the word surgeon without describing an operation.",
-    "zh": "学校可以解释 surgeon 这个词，而不描述手术。"
+    "en": "The family waited to see the surgeon.",
+    "zh": "家人等着见外科医生。"
    }
   ],
   "col": [
@@ -41870,7 +41869,7 @@
    }
   ],
   "col": [
-   "a sandwich of｜一个三明治"
+   "a cheese sandwich｜奶酪三明治"
   ],
   "fam": [],
   "syn": [],
@@ -42321,7 +42320,7 @@
    }
   ],
   "col": [
-   "a dish of｜一盘"
+   "do the dishes｜洗碗"
   ],
   "fam": [],
   "syn": [
@@ -45213,8 +45212,8 @@
     "zh": "不要在浅水区跳水。"
    },
    {
-    "en": "A dive lesson should name the adult who watches the pool.",
-    "zh": "跳水课应当写明哪位成年人看着泳池。"
+    "en": "The children dive from the low board.",
+    "zh": "孩子们从低跳板跳水。"
    }
   ],
   "col": [
@@ -45362,7 +45361,7 @@
    }
   ],
   "col": [
-   "a duck of｜一只鸭子"
+   "a wild duck｜野鸭"
   ],
   "fam": [],
   "syn": [],
@@ -45403,7 +45402,7 @@
    }
   ],
   "col": [
-   "an embassy of｜……的大使馆"
+   "at the embassy｜在大使馆"
   ],
   "fam": [],
   "syn": [],
@@ -45519,8 +45518,8 @@
  {
   "id": "motivation",
   "w": "motivation",
-  "uk": "/məʊtɪ'veɪʃn/",
-  "us": "/mˌoʊɾɪvˈeɪʃən/",
+  "uk": "/ˌməʊtɪˈveɪʃn/",
+  "us": "/ˌmoʊtɪˈveɪʃn/",
   "senses": [
    {
     "pos": "n.",
@@ -47886,8 +47885,8 @@
  {
   "id": "phenomenon",
   "w": "phenomenon",
-  "uk": "/fɪˈnɔmɪnən/",
-  "us": "/fɪnˈɑːmɪnən/",
+  "uk": "/fəˈnɒmɪnən/",
+  "us": "/fəˈnɑmənən/",
   "senses": [
    {
     "pos": "n.",
@@ -47906,7 +47905,7 @@
    }
   ],
   "col": [
-   "a phenomenon of｜一种现象"
+   "a natural phenomenon｜自然现象"
   ],
   "fam": [
    "phenomena (n.)"
@@ -47985,8 +47984,8 @@
   ],
   "ex": [
    {
-    "en": "The sheep are in the field.",
-    "zh": "羊在田里。"
+    "en": "The sheep stayed under the tree.",
+    "zh": "羊待在树下。"
    },
    {
     "en": "Wool from these sheep is sold at the Friday market.",
@@ -48108,7 +48107,7 @@
   "id": "acquire",
   "w": "acquire",
   "uk": "/əˈkwaɪə(r)/",
-  "us": "/əkwˈaɪər/",
+  "us": "/əˈkwaɪər/",
   "senses": [
    {
     "pos": "v.",
@@ -48430,8 +48429,8 @@
     "zh": "这次延误很不幸。"
    },
    {
-    "en": "An unfortunate score on one quiz is not the whole student.",
-    "zh": "一次小测的不幸分数不是整个学生。"
+    "en": "Missing the bus was unfortunate, but she still arrived.",
+    "zh": "没赶上车很倒霉，但她还是到了。"
    }
   ],
   "col": [
@@ -48487,7 +48486,7 @@
    }
   ],
   "col": [
-   "treasure of｜……的珍宝"
+   "buried treasure｜埋藏的财宝"
   ],
   "fam": [],
   "syn": [],
@@ -49049,8 +49048,8 @@
     "zh": "插头松了。"
    },
    {
-    "en": "A loose plug is a reason to switch the power off and call an adult.",
-    "zh": "松了的插头是关掉电源并叫成年人的理由。"
+    "en": "The lamp will not work with a loose plug.",
+    "zh": "插头松了，这盏灯就不亮。"
    }
   ],
   "col": [
@@ -49711,12 +49710,12 @@
   ],
   "ex": [
    {
-    "en": "The result was the contrary of the poster.",
-    "zh": "结果和海报相反。"
+    "en": "On the contrary, the hall was half empty.",
+    "zh": "正相反，礼堂空了一半。"
    },
    {
-    "en": "The measurements proved the contrary of the first report.",
-    "zh": "测量结果证明了和第一份报告相反的情况。"
+    "en": "The result was contrary to the first report.",
+    "zh": "结果和第一份报告相反。"
    }
   ],
   "col": [
@@ -50517,12 +50516,12 @@
     "zh": "教书是她的职业。"
    },
    {
-    "en": "A profession should not decide who may use the public library.",
-    "zh": "职业不应当决定谁可以用公共图书馆。"
+    "en": "Medicine is a profession that takes years of study.",
+    "zh": "医学是一份需要学很多年的职业。"
    }
   ],
   "col": [
-   "a profession of｜……的职业"
+   "by profession｜就职业来说"
   ],
   "fam": [
    "professional (n.)"
@@ -52086,12 +52085,12 @@
     "zh": "纸船开始下沉。"
    },
    {
-    "en": "A town that lets the old library sink into disrepair loses more than a building.",
-    "zh": "让旧图书馆破败下去的城镇，失去的不只是一栋楼。"
+    "en": "Watch the stone sink in the pond.",
+    "zh": "看那块石头在池塘里下沉。"
    }
   ],
   "col": [
-   "sink into｜陷入"
+   "sink below｜沉到……下面"
   ],
   "fam": [
    "sank (v.)",
@@ -52493,8 +52492,8 @@
     "zh": "商店把烟草放在柜台后面。"
    },
    {
-    "en": "A health lesson on tobacco should say that smoking harms the lungs.",
-    "zh": "关于烟草的健康课应当说明吸烟伤害肺。"
+    "en": "Smoking tobacco harms the lungs.",
+    "zh": "吸食烟草会伤害肺。"
    }
   ],
   "col": [
@@ -52759,8 +52758,8 @@
     "zh": "客人在喷嚏之后说了 bless you。"
    },
    {
-    "en": "A school can explain the word bless without telling every student to believe.",
-    "zh": "学校可以解释 bless 这个词，而不要求每个学生去信。"
+    "en": "He wrote bless you at the end of the card.",
+    "zh": "他在卡片末尾写了 bless you。"
    }
   ],
   "col": [
@@ -54170,12 +54169,12 @@
     "zh": "她的职业写在表格上。"
    },
    {
-    "en": "A person's occupation should not decide who may borrow books.",
-    "zh": "一个人的职业不应当决定谁可以借书。"
+    "en": "She hopes to change her occupation after college.",
+    "zh": "她希望大学毕业后换一个职业。"
    }
   ],
   "col": [
-   "occupation of｜……的职业"
+   "a full-time occupation｜一份全职工作"
   ],
   "fam": [],
   "syn": [
@@ -54850,7 +54849,7 @@
  {
   "id": "barrier",
   "w": "barrier",
-  "uk": "/'bærɪə/",
+  "uk": "/ˈbæriə(r)/",
   "us": "/ˈbæriər/",
   "senses": [
    {
@@ -56790,8 +56789,8 @@
     "zh": "今年的复活节在春天。"
    },
    {
-    "en": "A school can explain Easter without telling every student to celebrate it.",
-    "zh": "学校可以解释复活节，而不要求每个学生去过。"
+    "en": "We have no lessons over Easter.",
+    "zh": "复活节期间我们不上课。"
    }
   ],
   "col": [
@@ -57482,7 +57481,7 @@
  {
   "id": "hammer",
   "w": "hammer",
-  "uk": "/'hæmə(r)/",
+  "uk": "/ˈhæmə(r)/",
   "us": "/ˈhæmər/",
   "senses": [
    {
@@ -59991,7 +59990,7 @@
   "id": "politician",
   "w": "politician",
   "uk": "/pɔlɪˈtɪʃ(ə)n/",
-  "us": "/pˌɑːlɪtˈɪʃən/",
+  "us": "/ˌpɑləˈtɪʃən/",
   "senses": [
    {
     "pos": "n.",
@@ -61237,7 +61236,7 @@
   "id": "mathematics",
   "w": "mathematics",
   "uk": "/mæθəˈmætɪks/",
-  "us": "/mˌæθɪmˈæɾɪks/",
+  "us": "/ˌmæθəˈmætɪks/",
   "senses": [
    {
     "pos": "n.",
@@ -62196,8 +62195,8 @@
     "zh": "笼子里有水和阴凉。"
    },
    {
-    "en": "A cage without space is not a lesson the class should copy.",
-    "zh": "没有空间的笼子，不是班级该模仿的课。"
+    "en": "The bird's cage hangs by the window.",
+    "zh": "鸟笼挂在窗户旁边。"
    }
   ],
   "col": [
@@ -62596,7 +62595,7 @@
    }
   ],
   "col": [
-   "a cow of｜一头奶牛"
+   "milk a cow｜给奶牛挤奶"
   ],
   "fam": [],
   "syn": [],
@@ -62819,7 +62818,7 @@
    }
   ],
   "col": [
-   "sweat of｜汗水"
+   "break into a sweat｜出一身汗"
   ],
   "fam": [],
   "syn": [],
@@ -65858,7 +65857,7 @@
   "ex": [
    {
     "en": "She was awake at six.",
-    "zh": "她六点就醒了。"
+    "zh": "她六点时已经醒着。"
    },
    {
     "en": "A student awake all night still needs sleep, not a punishment.",
@@ -65911,7 +65910,7 @@
    }
   ],
   "col": [
-   "a creature of｜一种生物"
+   "a sea creature｜海洋生物"
   ],
   "fam": [],
   "syn": [
@@ -67370,7 +67369,7 @@
    }
   ],
   "col": [
-   "a leaf of｜一片叶子"
+   "a fallen leaf｜一片落叶"
   ],
   "fam": [
    "leaves (n.)"
@@ -68664,7 +68663,7 @@
   "id": "uncomfortable",
   "w": "uncomfortable",
   "uk": "/ʌnˈkʌmftəb(ə)l/",
-  "us": "/ʌŋkˈʌmftəbəl/",
+  "us": "/ʌnˈkʌmftərbəl/",
   "senses": [
    {
     "pos": "adj.",
@@ -72942,8 +72941,8 @@
  {
   "id": "bored",
   "w": "bored",
-  "uk": "/bɔrd/",
-  "us": "/ˈboːrd/",
+  "uk": "/bɔːd/",
+  "us": "/bɔrd/",
   "senses": [
    {
     "pos": "adj.",
@@ -73432,12 +73431,12 @@
     "zh": "这汤是豆子和玉米的混合。"
    },
    {
-    "en": "A mixture without a label in the lab should not be used.",
-    "zh": "实验室里没有标签的混合物不应当使用。"
+    "en": "Stir the mixture until it is smooth.",
+    "zh": "把混合物搅拌到顺滑。"
    }
   ],
   "col": [
-   "a mixture of｜……的混合物"
+   "a mixture of flour and water｜面粉和水的混合物"
   ],
   "fam": [
    "mix (v.)"
@@ -73924,7 +73923,7 @@
   "id": "satisfaction",
   "w": "satisfaction",
   "uk": "/sætɪsˈfækʃ(ə)n/",
-  "us": "/sˌæɾɪsfˈækʃən/",
+  "us": "/ˌsætɪsˈfækʃən/",
   "senses": [
    {
     "pos": "n.",
@@ -73934,8 +73933,8 @@
   ],
   "ex": [
    {
-    "en": "There was satisfaction in the hall.",
-    "zh": "礼堂里有一种满意。"
+    "en": "She read the score with satisfaction.",
+    "zh": "她满意地看了这个分数。"
    },
    {
     "en": "Satisfaction with a score should still leave room to thank the team.",
@@ -74159,7 +74158,7 @@
    }
   ],
   "col": [
-   "a crop of｜一季收成"
+   "harvest the crop｜收庄稼"
   ],
   "fam": [],
   "syn": [
@@ -74902,8 +74901,8 @@
     "zh": "讲座十点开始。"
    },
    {
-    "en": "A lecture without a source is harder to trust.",
-    "zh": "没有来源的讲座更难信任。"
+    "en": "The lecture filled the hall.",
+    "zh": "这场讲座坐满了礼堂。"
    }
   ],
   "col": [
@@ -76380,8 +76379,8 @@
     "zh": "拳击训练在体育馆。"
    },
    {
-    "en": "A boxing lesson should stop at the rules and the gloves, not a method of harm.",
-    "zh": "拳击课应当停在规则和手套上，而不是伤害的做法。"
+    "en": "The class watched a short boxing match.",
+    "zh": "全班看了一小段拳击比赛。"
    }
   ],
   "col": [
@@ -77812,7 +77811,7 @@
    }
   ],
   "col": [
-   "a poster of｜一张……海报"
+   "put up a poster｜贴海报"
   ],
   "fam": [],
   "syn": [
@@ -78018,6 +78017,11 @@
   "us": "/əlˈaɪk/",
   "senses": [
    {
+    "pos": "adj.",
+    "zh": "相似的",
+    "en": "similar; used after a verb such as look or be, not before a noun"
+   },
+   {
     "pos": "adv.",
     "zh": "相似地",
     "en": "in a similar way"
@@ -78026,7 +78030,7 @@
   "ex": [
    {
     "en": "The two clocks look alike.",
-    "zh": "这两块钟看起来一样。"
+    "zh": "这两块钟看起来很相似。"
    },
    {
     "en": "Treat the two classes alike when the fee is the same.",
@@ -78041,7 +78045,7 @@
    "similar"
   ],
   "ant": [],
-  "tip": "alike 只作表语或副词，不放在名词前。",
+  "tip": "作形容词时只放在系动词后面，如 look alike，不放在名词前。也可作副词。",
   "cefr": "B1",
   "topic": "thinking",
   "note": "",
@@ -80368,7 +80372,7 @@
    }
   ],
   "col": [
-   "a carpet of｜一块地毯"
+   "wall-to-wall carpet｜满铺地毯"
   ],
   "fam": [],
   "syn": [
@@ -82268,7 +82272,7 @@
    }
   ],
   "col": [
-   "an eagle of｜一只鹰"
+   "a golden eagle｜金雕"
   ],
   "fam": [],
   "syn": [],
@@ -82441,7 +82445,7 @@
    }
   ],
   "col": [
-   "a wallet of｜一个钱包"
+   "lose a wallet｜丢钱包"
   ],
   "fam": [],
   "syn": [
@@ -86793,7 +86797,7 @@
   "id": "appreciation",
   "w": "appreciation",
   "uk": "/əpriːʃɪˈeɪʃ(ə)n/",
-  "us": "/əprˌiːʃɪˈeɪʃən/",
+  "us": "/əˌpriːʃiˈeɪʃn/",
   "senses": [
    {
     "pos": "n.",
@@ -86938,8 +86942,8 @@
     "zh": "诊所八点开门。"
    },
    {
-    "en": "A school clinic that closes before the last class leaves is not a plan.",
-    "zh": "在最后一节课离开之前就关门的校医室，不是方案。"
+    "en": "He waited twenty minutes at the clinic.",
+    "zh": "他在诊所等了二十分钟。"
    }
   ],
   "col": [
@@ -87465,7 +87469,7 @@
   "id": "permit",
   "w": "permit",
   "uk": "/pəˈmɪt/",
-  "us": "/ˈpɜːmɪt/",
+  "us": "/pərˈmɪt/",
   "senses": [
    {
     "pos": "v.",
@@ -87498,7 +87502,7 @@
   "ant": [
    "forbid"
   ],
-  "tip": "动词重音常在后，名词“许可证”重音常在前。",
+  "tip": "动词重音在后，美音 /pərˈmɪt/。名词“许可证”重音在前，美音常作 /ˈpɜːrmɪt/。",
   "cefr": "B1",
   "topic": "government",
   "note": "",
@@ -90585,8 +90589,8 @@
     "zh": "把盖子拧紧。"
    },
    {
-    "en": "Do not twist an ankle story into a reason to finish the race.",
-    "zh": "不要把扭伤脚踝说成把比赛跑完的理由。"
+    "en": "She twisted her ankle on the wet step.",
+    "zh": "她在湿台阶上扭了脚踝。"
    }
   ],
   "col": [
@@ -91965,8 +91969,8 @@
     "zh": "历史课文写出奴隶制度，也写出那些人的名字。"
    },
    {
-    "en": "A lesson on slavery should say that forcing people to work was wrong.",
-    "zh": "关于奴隶制的课应当说明强迫人劳动是错的。"
+    "en": "The text says slavery forced people to work without pay.",
+    "zh": "课文写道，奴隶制强迫人无偿劳动。"
    }
   ],
   "col": [
@@ -92561,8 +92565,8 @@
     "zh": "科学家把图表核对了两遍。"
    },
    {
-    "en": "A scientist who names no source is harder to trust.",
-    "zh": "不写来源的科学家更难信任。"
+    "en": "The scientist explained the chart to the class.",
+    "zh": "科学家向全班解释了这张图表。"
    }
   ],
   "col": [
@@ -92604,8 +92608,8 @@
     "zh": "顾问核对了时刻表。"
    },
    {
-    "en": "A consultant who names no source is harder to trust.",
-    "zh": "不写来源的顾问更难信任。"
+    "en": "The consultant met the principal on Thursday.",
+    "zh": "顾问周四见了校长。"
    }
   ],
   "col": [
@@ -92972,7 +92976,7 @@
    }
   ],
   "col": [
-   "a companion of｜……的同伴"
+   "a travelling companion｜旅伴"
   ],
   "fam": [],
   "syn": [
@@ -94792,8 +94796,8 @@
   ],
   "ex": [
    {
-    "en": "The nurse checked her fever.",
-    "zh": "护士给她量了体温。"
+    "en": "The nurse checked to see if she had a fever.",
+    "zh": "护士查看她是否发烧。"
    },
    {
     "en": "A fever that lasts into the next morning is a reason to call the clinic.",
@@ -94867,7 +94871,7 @@
  {
   "id": "harbor",
   "w": "harbor",
-  "uk": "/'hɑːbə/",
+  "uk": "/ˈhɑːbə(r)/",
   "us": "/ˈhɑːrbər/",
   "senses": [
    {
@@ -96652,7 +96656,7 @@
    }
   ],
   "col": [
-   "an earthquake of｜一次地震"
+   "a strong earthquake｜强烈地震"
   ],
   "fam": [],
   "syn": [],
@@ -97656,7 +97660,7 @@
    }
   ],
   "col": [
-   "a pile of｜一堆"
+   "a pile of books｜一堆书"
   ],
   "fam": [],
   "syn": [
@@ -98852,7 +98856,7 @@
    }
   ],
   "col": [
-   "a grain of｜一粒"
+   "a grain of rice｜一粒米"
   ],
   "fam": [],
   "syn": [
@@ -99293,8 +99297,8 @@
     "zh": "小说里的侦探核对了钟。"
    },
    {
-    "en": "A detective story can name the place and the date without teaching a method.",
-    "zh": "侦探故事可以写出地点和日期，同时不教方法。"
+    "en": "In the story, the detective arrives after midnight.",
+    "zh": "故事里，侦探在午夜之后才到。"
    }
   ],
   "col": [
@@ -99376,8 +99380,8 @@
   ],
   "ex": [
    {
-    "en": "The cinema is beside the library.",
-    "zh": "电影院在图书馆旁边。"
+    "en": "The cinema opens at noon.",
+    "zh": "电影院正午开门。"
    },
    {
     "en": "The cinema shows a short film before the main feature.",
@@ -100850,7 +100854,7 @@
    }
   ],
   "col": [
-   "a salad of｜一份色拉"
+   "a green salad｜蔬菜色拉"
   ],
   "fam": [],
   "syn": [],
@@ -101628,7 +101632,7 @@
  {
   "id": "humor",
   "w": "humor",
-  "uk": "/'hjuːmə/",
+  "uk": "/ˈhjuːmə(r)/",
   "us": "/ˈhjuːmər/",
   "senses": [
    {
@@ -101643,8 +101647,8 @@
     "zh": "她的幽默让等待变短了。"
    },
    {
-    "en": "Humor that mocks a classmate's accent is not a gift to the class.",
-    "zh": "嘲笑同学口音的幽默，不是给班级的礼物。"
+    "en": "The play is full of quiet humor.",
+    "zh": "这出戏里有不少轻巧的幽默。"
    }
   ],
   "col": [
@@ -101693,7 +101697,7 @@
    }
   ],
   "col": [
-   "a deer of｜一只鹿"
+   "a herd of deer｜一群鹿"
   ],
   "fam": [],
   "syn": [],
@@ -101984,7 +101988,7 @@
   "id": "separation",
   "w": "separation",
   "uk": "/sepəˈreɪʃ(ə)n/",
-  "us": "/sˌɛpərrˈeɪʃən/",
+  "us": "/ˌsepəˈreɪʃn/",
   "senses": [
    {
     "pos": "n.",
@@ -102123,12 +102127,12 @@
     "zh": "马拉松经过学校。"
    },
    {
-    "en": "A marathon for charity should still leave a path for the clinic.",
-    "zh": "慈善马拉松仍然应当给诊所留出通路。"
+    "en": "She trained for the marathon all spring.",
+    "zh": "她整个春天都在为这场马拉松训练。"
    }
   ],
   "col": [
-   "a marathon of｜一场马拉松"
+   "run a marathon｜跑马拉松"
   ],
   "fam": [],
   "syn": [
@@ -104548,7 +104552,7 @@
    }
   ],
   "col": [
-   "a lap of｜一圈"
+   "run a lap｜跑一圈"
   ],
   "fam": [],
   "syn": [],
@@ -105555,7 +105559,7 @@
  {
   "id": "scratch",
   "w": "scratch",
-  "uk": "/krætʃ/",
+  "uk": "/skrætʃ/",
   "us": "/ˈskrætʃ/",
   "senses": [
    {

@@ -5030,7 +5030,7 @@
     },
     "arrow": {
       "0": "the arrow points to the clinic.",
-      "1": "a history chapter can show an arrow and still not teach how to use one."
+      "1": "follow the arrow to the hall."
     },
     "art": {
       "0": "there is an art show in the hall.",
@@ -5537,7 +5537,7 @@
     },
     "bless": {
       "0": "the visitor said bless you after the sneeze.",
-      "1": "a school can explain the word bless without telling every student to believe."
+      "1": "he wrote bless you at the end of the card."
     },
     "blind": {
       "0": "the sign is in large print for students who are not fully blind but cannot read small type.",
@@ -5657,7 +5657,7 @@
     },
     "boxing": {
       "0": "boxing practice is in the gym.",
-      "1": "a boxing lesson should stop at the rules and the gloves, not a method of harm."
+      "1": "the class watched a short boxing match."
     },
     "boy": {
       "0": "the boy by the door is new.",
@@ -5817,7 +5817,7 @@
     },
     "cage": {
       "0": "the cage has water and shade.",
-      "1": "a cage without space is not a lesson the class should copy."
+      "1": "the bird's cage hangs by the window."
     },
     "cake": {
       "0": "the cake is for the class, not for one person.",
@@ -6147,7 +6147,7 @@
       "1": "a church hall can become a shelter on the night a flood reaches the lower street."
     },
     "cinema": {
-      "0": "the cinema is beside the library.",
+      "0": "the cinema opens at noon.",
       "1": "the cinema shows a short film before the main feature."
     },
     "circle": {
@@ -6220,7 +6220,7 @@
     },
     "clinic": {
       "0": "the clinic opens at eight.",
-      "1": "a school clinic that closes before the last class leaves is not a plan."
+      "1": "he waited twenty minutes at the clinic."
     },
     "clock": {
       "0": "the clock in the hall is five minutes fast.",
@@ -6499,7 +6499,7 @@
     },
     "consultant": {
       "0": "the consultant checked the timetable.",
-      "1": "a consultant who names no source is harder to trust."
+      "1": "the consultant met the principal on thursday."
     },
     "contain": {
       "0": "this box may contain old letters.",
@@ -6518,8 +6518,8 @@
       "1": "if factories continue to pour waste at night, daytime clean-ups will not save the river."
     },
     "contrary": {
-      "0": "the result was the contrary of the poster.",
-      "1": "the measurements proved the contrary of the first report."
+      "0": "on the contrary, the hall was half empty.",
+      "1": "the result was contrary to the first report."
     },
     "contribute": {
       "0": "everyone can contribute to the project.",
@@ -6978,7 +6978,7 @@
     },
     "detective": {
       "0": "the detective in the novel checks the clock.",
-      "1": "a detective story can name the place and the date without teaching a method."
+      "1": "in the story, the detective arrives after midnight."
     },
     "determine": {
       "0": "tests help determine your progress.",
@@ -7062,7 +7062,7 @@
     },
     "disability": {
       "0": "the form asks about disability in private.",
-      "1": "a disability does not decide who may use the library."
+      "1": "she talks about her disability only with friends."
     },
     "disabled": {
       "0": "the disabled entrance is on the left.",
@@ -7134,7 +7134,7 @@
     },
     "dive": {
       "0": "do not dive into the shallow end.",
-      "1": "a dive lesson should name the adult who watches the pool."
+      "1": "the children dive from the low board."
     },
     "diverse": {
       "0": "the class is diverse.",
@@ -7322,7 +7322,7 @@
     },
     "easter": {
       "0": "easter is in spring this year.",
-      "1": "a school can explain easter without telling every student to celebrate it."
+      "1": "we have no lessons over easter."
     },
     "eastern": {
       "0": "the eastern sky was already bright.",
@@ -7840,7 +7840,7 @@
       "1": "a school festival should name which dates belong to which community, and not assume one calendar."
     },
     "fever": {
-      "0": "the nurse checked her fever.",
+      "0": "the nurse checked to see if she had a fever.",
       "1": "a fever that lasts into the next morning is a reason to call the clinic."
     },
     "few": {
@@ -7933,7 +7933,7 @@
     },
     "flesh": {
       "0": "the flesh of the peach is sweet.",
-      "1": "a health lesson can use the word flesh and still stay respectful."
+      "1": "cook the flesh of the fish until it is white."
     },
     "flexible": {
       "0": "keep a flexible schedule.",
@@ -8681,7 +8681,7 @@
     },
     "humor": {
       "0": "her humor made the wait shorter.",
-      "1": "humor that mocks a classmate's accent is not a gift to the class."
+      "1": "the play is full of quiet humor."
     },
     "hungry": {
       "0": "the class was hungry before lunch.",
@@ -9193,7 +9193,7 @@
     },
     "lecture": {
       "0": "the lecture starts at ten.",
-      "1": "a lecture without a source is harder to trust."
+      "1": "the lecture filled the hall."
     },
     "left": {
       "0": "turn left after the school gate.",
@@ -9448,7 +9448,7 @@
     },
     "marathon": {
       "0": "the marathon passes the school.",
-      "1": "a marathon for charity should still leave a path for the clinic."
+      "1": "she trained for the marathon all spring."
     },
     "march": {
       "0": "the band will march onto the field.",
@@ -9684,7 +9684,7 @@
     },
     "missile": {
       "0": "the news mentions a missile and then gives the date.",
-      "1": "a history page can name a missile without teaching how one is made."
+      "1": "the library keeps old articles about the missile."
     },
     "mistake": {
       "0": "i made a mistake in the date.",
@@ -9696,7 +9696,7 @@
     },
     "mixture": {
       "0": "the soup is a mixture of beans and corn.",
-      "1": "a mixture without a label in the lab should not be used."
+      "1": "stir the mixture until it is smooth."
     },
     "mm": {
       "0": "the line is 5 mm wide.",
@@ -10068,7 +10068,7 @@
     },
     "occupation": {
       "0": "her occupation is written on the form.",
-      "1": "a person's occupation should not decide who may borrow books."
+      "1": "she hopes to change her occupation after college."
     },
     "occur": {
       "0": "the delay occurred after lunch.",
@@ -10196,7 +10196,7 @@
     },
     "organ": {
       "0": "the heart is an organ.",
-      "1": "a health lesson can name an organ and still stay respectful."
+      "1": "she plays the organ in the hall on sundays."
     },
     "organisation": {
       "0": "the organisation runs the late bus.",
@@ -10672,7 +10672,7 @@
     },
     "plug": {
       "0": "the plug is loose.",
-      "1": "a loose plug is a reason to switch the power off and call an adult."
+      "1": "the lamp will not work with a loose plug."
     },
     "plus": {
       "0": "two plus three is five.",
@@ -10924,15 +10924,15 @@
     },
     "prisoner": {
       "0": "the history text names the prisoner, not only the cell.",
-      "1": "news about a prisoner should give the date, not a method of escape."
+      "1": "the prisoner wrote a letter to his family."
     },
     "private": {
       "0": "this is a private letter.",
       "1": "private buses may fill a gap, but they often skip the stops that make the least money."
     },
     "privilege": {
-      "0": "a quiet room should not be a privilege.",
-      "1": "extra lab time should not be a privilege of one class."
+      "0": "a seat by the window felt like a privilege.",
+      "1": "she called the trip a privilege."
     },
     "prize": {
       "0": "the prize was a book, not money.",
@@ -10968,7 +10968,7 @@
     },
     "profession": {
       "0": "teaching is her profession.",
-      "1": "a profession should not decide who may use the public library."
+      "1": "medicine is a profession that takes years of study."
     },
     "professor": {
       "0": "the professor answered questions after the talk.",
@@ -11679,7 +11679,7 @@
       "1": "a satellite picture of the flood still needs someone who can read it."
     },
     "satisfaction": {
-      "0": "there was satisfaction in the hall.",
+      "0": "she read the score with satisfaction.",
       "1": "satisfaction with a score should still leave room to thank the team."
     },
     "save": {
@@ -11720,7 +11720,7 @@
     },
     "scientist": {
       "0": "the scientist checked the chart twice.",
-      "1": "a scientist who names no source is harder to trust."
+      "1": "the scientist explained the chart to the class."
     },
     "score": {
       "0": "the final score was two to one.",
@@ -11911,7 +11911,7 @@
       "1": "a sharp rise in the fare hits the students who already walk."
     },
     "sheep": {
-      "0": "the sheep are in the field.",
+      "0": "the sheep stayed under the tree.",
       "1": "wool from these sheep is sold at the friday market."
     },
     "sheet": {
@@ -11924,7 +11924,7 @@
     },
     "shine": {
       "0": "the lamp will shine on the map.",
-      "1": "a prize can shine on a poster and still hide who did the work."
+      "1": "the sun will shine after the rain."
     },
     "ship": {
       "0": "the ship left the port at dawn.",
@@ -12060,7 +12060,7 @@
     },
     "sink": {
       "0": "the paper boat began to sink.",
-      "1": "a town that lets the old library sink into disrepair loses more than a building."
+      "1": "watch the stone sink in the pond."
     },
     "sir": {
       "0": "yes, sir, i will bring the form tomorrow.",
@@ -12084,7 +12084,7 @@
     },
     "ski": {
       "0": "they ski on the school trip.",
-      "1": "a ski lesson should name the adult who stays with the group."
+      "1": "they ski when the snow is deep."
     },
     "skill": {
       "0": "checking a source is a skill.",
@@ -12108,7 +12108,7 @@
     },
     "slavery": {
       "0": "the history text names slavery and also names the people.",
-      "1": "a lesson on slavery should say that forcing people to work was wrong."
+      "1": "the text says slavery forced people to work without pay."
     },
     "sleep": {
       "0": "i sleep for eight hours on school nights.",
@@ -12676,7 +12676,7 @@
     },
     "surgeon": {
       "0": "the surgeon spoke to the family.",
-      "1": "a school can explain the word surgeon without describing an operation."
+      "1": "the family waited to see the surgeon."
     },
     "surprise": {
       "0": "the result was a surprise to the whole class.",
@@ -12924,7 +12924,7 @@
     },
     "theft": {
       "0": "the novel mentions a theft and then stops.",
-      "1": "news of a theft should give the place and the date, not a method."
+      "1": "the theft happened on a sunday."
     },
     "theme": {
       "0": "the theme of the poster is water.",
@@ -13064,7 +13064,7 @@
     },
     "tobacco": {
       "0": "the shop keeps tobacco behind the counter.",
-      "1": "a health lesson on tobacco should say that smoking harms the lungs."
+      "1": "smoking tobacco harms the lungs."
     },
     "today": {
       "0": "today we will practise the listening section.",
@@ -13300,7 +13300,7 @@
     },
     "twist": {
       "0": "twist the cap until it is tight.",
-      "1": "do not twist an ankle story into a reason to finish the race."
+      "1": "she twisted her ankle on the wet step."
     },
     "type": {
       "0": "this type of question appears every year.",
@@ -13348,7 +13348,7 @@
     },
     "unfortunate": {
       "0": "the delay was unfortunate.",
-      "1": "an unfortunate score on one quiz is not the whole student."
+      "1": "missing the bus was unfortunate, but she still arrived."
     },
     "uniform": {
       "0": "the uniform is blue.",

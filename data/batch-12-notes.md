@@ -38,3 +38,5 @@ aboard, acknowledge, ash, athletic, bare, barrier, bored, boxing, burst, cheers,
 ## 送审前改过的例句
 
 对照 200 张新卡和 400 条例句之后，改了 69 个例句槽，并只重录这些槽。改动包括：九条“a lesson about … not how to harm”动物模板、反复出现的末班车/海报句、几乎重复的成对例句，以及几处义项用错（`occupation` 被写成地点、`corrupt` 用来形容费用、`permit` / `scratch` / `scream` 的第二句用成了名词）。机器可读记录在 `data/batch-12-review.json`。已有 2197 张卡的句子没有改。
+
+独立语言审读在 `2437ed8b` 给出 HOLD。同一分支又改了 90 张新卡：不自然或和中文错位的例句、重复的说明腔、37 条空的 “a/an + 词 + of” 搭配，以及和词性或音节对不上的音标。英文改动的 39 条用本地 Kokoro `af_heart`、美式、语速 1.0 重录；只改中文的不重录。逐条旧文、新文、搭配处置和音标对照在 `data/batch-12-language-fixes.json`。
