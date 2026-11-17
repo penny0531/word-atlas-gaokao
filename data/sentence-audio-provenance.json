@@ -4462,7 +4462,7 @@
     },
     "abstract": {
       "0": "the word is too abstract for the first line.",
-      "1": "an abstract promise fails when nobody writes the bus time."
+      "1": "the idea stayed abstract until they drew a picture of it."
     },
     "abuse": {
       "0": "drug abuse is discussed in health class without any instructions.",
@@ -4522,11 +4522,11 @@
     },
     "acknowledge": {
       "0": "she acknowledged the mistake.",
-      "1": "cities acknowledge a late bus when they write the new time."
+      "1": "he acknowledged the error in the chart and corrected it."
     },
     "acquire": {
-      "0": "she acquired the habit in one term.",
-      "1": "students acquire a seat on the late bus by arriving, not by a poster."
+      "0": "she acquired a library card on the first visit.",
+      "1": "students acquire the habit by writing one page each evening."
     },
     "acquisition": {
       "0": "the acquisition of a habit takes weeks.",
@@ -4962,7 +4962,7 @@
     },
     "appreciation": {
       "0": "the letter was a sign of appreciation.",
-      "1": "appreciation for a late bus still needs the written time."
+      "1": "the class wrote a note of appreciation to the cook."
     },
     "approach": {
       "0": "a new approach may solve the problem.",
@@ -5158,7 +5158,7 @@
     },
     "attraction": {
       "0": "the museum is the main attraction.",
-      "1": "an attraction that closes before the last bus has already chosen its visitors."
+      "1": "the old bridge is still the town's favourite attraction."
     },
     "attractive": {
       "0": "the poster is attractive, but the time is wrong.",
@@ -5169,7 +5169,7 @@
       "1": "online platforms enable museums to reach a wider audience, including people who cannot visit their collections in person."
     },
     "aunt": {
-      "0": "her aunt will meet the bus.",
+      "0": "her aunt sent a letter from the coast.",
       "1": "a form that says aunt should still leave space for another adult."
     },
     "author": {
@@ -5904,7 +5904,7 @@
     },
     "carpet": {
       "0": "the carpet by the door is wet.",
-      "1": "a wet carpet at the entrance is a reason to dry the floor."
+      "1": "someone dried the floor when the carpet got wet."
     },
     "carrier": {
       "0": "the carrier on the bicycle is loose.",
@@ -5952,7 +5952,7 @@
     },
     "cattle": {
       "0": "the cattle are in the field.",
-      "1": "a lesson about cattle should say who cares for them."
+      "1": "the cattle moved toward the river at dusk."
     },
     "cause": {
       "0": "pollution is a major cause of illness.",
@@ -6084,7 +6084,7 @@
     },
     "cheers": {
       "0": "she said cheers and put the cup down.",
-      "1": "cheers on a poster is not a record of the bus time."
+      "1": "he raised the cup, said cheers, and sat down."
     },
     "cheese": {
       "0": "the sandwich has cheese in it.",
@@ -6148,7 +6148,7 @@
     },
     "cinema": {
       "0": "the cinema is beside the library.",
-      "1": "a cinema that starts after the last bus has already chosen who can come."
+      "1": "the cinema shows a short film before the main feature."
     },
     "circle": {
       "0": "draw a circle around the answer.",
@@ -6356,7 +6356,7 @@
     },
     "companion": {
       "0": "her companion waited by the gate.",
-      "1": "a companion on the late bus still needs a seat."
+      "1": "his companion carried the map, and he carried the water."
     },
     "company": {
       "0": "her mother works for a bus company.",
@@ -6392,7 +6392,7 @@
     },
     "compromise": {
       "0": "the compromise is written on one sheet.",
-      "1": "a compromise that ignores the last bus is not yet fair."
+      "1": "the compromise gave each class one afternoon in the lab."
     },
     "computer": {
       "0": "the computer in the library is free to use.",
@@ -6519,7 +6519,7 @@
     },
     "contrary": {
       "0": "the result was the contrary of the poster.",
-      "1": "on the contrary, the late bus is the whole plan for many students."
+      "1": "the measurements proved the contrary of the first report."
     },
     "contribute": {
       "0": "everyone can contribute to the project.",
@@ -6586,7 +6586,7 @@
       "1": "a correct total still needs a source, or the class cannot tell how it was made."
     },
     "corrupt": {
-      "0": "the report calls the fee corrupt.",
+      "0": "the report calls the contract corrupt.",
       "1": "a corrupt practice is harder to hide when the number is public."
     },
     "cost": {
@@ -6639,7 +6639,7 @@
     },
     "cow": {
       "0": "the cow is in the field.",
-      "1": "a lesson about the cow should say who milks her, not how to harm her."
+      "1": "the cow is milked in the morning and again in the evening."
     },
     "crash": {
       "0": "the bus did not crash; it only stopped.",
@@ -6659,7 +6659,7 @@
     },
     "creature": {
       "0": "the story has a small creature, not a monster.",
-      "1": "a lesson about a wild creature should say where it can live."
+      "1": "every creature in the pond needs clean water."
     },
     "credit": {
       "0": "she got extra credit for the project.",
@@ -6735,7 +6735,7 @@
     },
     "customs": {
       "0": "customs is at the end of the hall.",
-      "1": "a long wait at customs should not hide the bus that meets the flight."
+      "1": "they waited forty minutes at customs with their passports."
     },
     "cut": {
       "0": "please cut the paper along the line.",
@@ -6870,7 +6870,7 @@
     },
     "deer": {
       "0": "the deer is in the nature book.",
-      "1": "a lesson about the deer should say where it can live, not how to harm it."
+      "1": "the deer crossed the road just after dawn."
     },
     "defeat": {
       "0": "the team did not defeat anyone; the match was cancelled.",
@@ -7110,7 +7110,7 @@
     },
     "dish": {
       "0": "the dish is still hot.",
-      "1": "a dish that hides nuts should say so on the card."
+      "1": "the dish of the day is written on the board."
     },
     "distance": {
       "0": "keep a safe distance from the fire.",
@@ -7118,7 +7118,7 @@
     },
     "distant": {
       "0": "the farm is distant, but the school is open.",
-      "1": "a distant village still needs a bus, not only a website."
+      "1": "the mountains look distant, but the walk takes only two hours."
     },
     "distinguish": {
       "0": "babies learn to distinguish colors early.",
@@ -7258,7 +7258,7 @@
     },
     "duck": {
       "0": "the duck is on the pond.",
-      "1": "a lesson about the duck should say where it can live, not how to harm it."
+      "1": "the duck stayed on the pond until the children left."
     },
     "due": {
       "0": "the report is due on friday.",
@@ -7294,7 +7294,7 @@
     },
     "eagle": {
       "0": "the eagle is on the nature poster.",
-      "1": "a lesson about the eagle should say where it can live, not how to harm it."
+      "1": "the eagle nested on the cliff above the valley."
     },
     "ear": {
       "0": "she whispered in his ear.",
@@ -7418,7 +7418,7 @@
     },
     "endless": {
       "0": "the queue felt endless.",
-      "1": "an endless meeting that never names the bus time wastes the evening."
+      "1": "the rain felt endless, but it stopped before noon."
     },
     "enemy": {
       "0": "the story has no simple enemy.",
@@ -7765,7 +7765,7 @@
     },
     "farmer": {
       "0": "the farmer sells corn on friday.",
-      "1": "a farmer who brings food to town still needs the morning bus."
+      "1": "the farmer loaded the corn before the rain started."
     },
     "fast": {
       "0": "the early bus is fast, but it is often full.",
@@ -8188,8 +8188,8 @@
       "1": "generous donations from local businesses can help community centres provide affordable activities for children and older residents."
     },
     "gentle": {
-      "0": "she used a gentle voice.",
-      "1": "a gentle reminder still has to include the bus time."
+      "0": "the rain was gentle all morning.",
+      "1": "a gentle voice helped the child finish the story."
     },
     "gentleman": {
       "0": "the gentleman held the door.",
@@ -8292,11 +8292,11 @@
       "1": "a form should accept grandfather or another adult name."
     },
     "grandma": {
-      "0": "her grandma will meet the bus.",
-      "1": "a form should accept grandma, grandmother, or another adult name."
+      "0": "her grandma makes soup every sunday.",
+      "1": "the children call her grandma at home."
     },
     "grandmother": {
-      "0": "her grandmother will meet the bus.",
+      "0": "her grandmother keeps the family photos in one box.",
       "1": "a form should accept grandmother or another adult name."
     },
     "grass": {
@@ -8401,7 +8401,7 @@
     },
     "ham": {
       "0": "there is ham in the sandwich.",
-      "1": "ham on a menu should say so, for the student who does not eat it."
+      "1": "the ham stays cold until lunch."
     },
     "hammer": {
       "0": "the hammer is in the drawer.",
@@ -8441,7 +8441,7 @@
     },
     "harbor": {
       "0": "the harbor is quiet at dawn.",
-      "1": "a harbor town should say which bus meets the boat."
+      "1": "fishing boats return to the harbor before dark."
     },
     "hard": {
       "0": "this question is hard, but not impossible.",
@@ -8513,7 +8513,7 @@
     },
     "helicopter": {
       "0": "the helicopter landed near the field.",
-      "1": "a helicopter on a poster does not replace the bus to the clinic."
+      "1": "the helicopter brought medicine after the flood."
     },
     "hello": {
       "0": "hello, is this the school office?",
@@ -8697,7 +8697,7 @@
     },
     "hurry": {
       "0": "do not hurry on the wet step.",
-      "1": "families hurry less when the bus time is written before they leave work."
+      "1": "there is no need to hurry; the doors stay open until six."
     },
     "hurt": {
       "0": "my knee hurts after the match.",
@@ -8921,7 +8921,7 @@
     },
     "invitation": {
       "0": "the invitation says four o'clock.",
-      "1": "an invitation that starts after the last bus has already chosen its guests."
+      "1": "the invitation arrived three days before the concert."
     },
     "invite": {
       "0": "invite the new student to the table.",
@@ -9001,7 +9001,7 @@
     },
     "jungle": {
       "0": "the map shows a jungle in the south.",
-      "1": "a lesson about the jungle should say who lives there."
+      "1": "rain falls almost every afternoon in the jungle."
     },
     "junior": {
       "0": "he is a junior member of the team.",
@@ -9496,7 +9496,7 @@
     },
     "mathematics": {
       "0": "mathematics is the first lesson.",
-      "1": "a mathematics problem about the bus is more useful than a number with no story."
+      "1": "mathematics explains how the bridge carries the trucks."
     },
     "matter": {
       "0": "this is a serious matter.",
@@ -9811,7 +9811,7 @@
       "1": "too much packaging makes recycling harder, even when the food inside is necessary."
     },
     "mud": {
-      "0": "the path is mud after the rain.",
+      "0": "the path turned to mud after the rain.",
       "1": "mud at the gate is a reason to lay a board before the first class."
     },
     "mum": {
@@ -9908,7 +9908,7 @@
     },
     "neighbor": {
       "0": "the neighbor watered the plants.",
-      "1": "a neighbor who works nights still needs the late bus."
+      "1": "the neighbor lent us a ladder without being asked."
     },
     "neighborhood": {
       "0": "the neighborhood shares one clinic.",
@@ -10068,7 +10068,7 @@
     },
     "occupation": {
       "0": "her occupation is written on the form.",
-      "1": "an occupation near the school should not decide who may borrow books."
+      "1": "a person's occupation should not decide who may borrow books."
     },
     "occur": {
       "0": "the delay occurred after lunch.",
@@ -10263,8 +10263,8 @@
       "1": "students overcome a hard text better when the source is named."
     },
     "owe": {
-      "0": "i owe the library one book.",
-      "1": "a town owes its night workers a bus, not only a speech."
+      "0": "i owe her a clear answer by friday.",
+      "1": "we owe the library two books from last term."
     },
     "own": {
       "0": "i wrote the speech in my own words.",
@@ -10412,7 +10412,7 @@
     },
     "patience": {
       "0": "the queue tested her patience.",
-      "1": "patience with a late bus is easier when the new time is on the wall."
+      "1": "patience grows when people can see the end of the queue."
     },
     "patient": {
       "0": "the patient waited in the school clinic.",
@@ -10444,7 +10444,7 @@
     },
     "pension": {
       "0": "the pension arrives on the first day.",
-      "1": "a pension that cannot cover rent pushes older workers back onto the late bus."
+      "1": "her pension covers the rent and little more."
     },
     "people": {
       "0": "many people wait for the bus in the rain.",
@@ -10452,7 +10452,7 @@
     },
     "pepper": {
       "0": "there is too much pepper in the soup.",
-      "1": "pepper that hides other spices should say so on the label."
+      "1": "black pepper is on the table, not in the soup yet."
     },
     "per": {
       "0": "the room costs twenty yuan per hour.",
@@ -10496,7 +10496,7 @@
     },
     "permit": {
       "0": "the school does not permit phones in the exam.",
-      "1": "a permit to build beside the river should name who checks the flood line."
+      "1": "a town should not permit a new road until the flood line is checked."
     },
     "person": {
       "0": "she is the right person to ask about the map.",
@@ -10556,7 +10556,7 @@
     },
     "physician": {
       "0": "the physician is in the clinic.",
-      "1": "a physician at school can notice a fever before it spreads."
+      "1": "the physician noticed the fever and called home."
     },
     "physics": {
       "0": "physics is the first lesson on tuesday.",
@@ -10576,7 +10576,7 @@
     },
     "pie": {
       "0": "the pie is for the class lunch.",
-      "1": "a pie that hides nuts should say so on the label."
+      "1": "they shared the pie after the concert."
     },
     "piece": {
       "0": "may i have a piece of paper?",
@@ -10584,7 +10584,7 @@
     },
     "pig": {
       "0": "the pig is in the yard.",
-      "1": "a lesson about the pig should say who feeds it, not how to harm it."
+      "1": "the farmer feeds the pig before sunrise."
     },
     "pile": {
       "0": "the pile of coats is by the door.",
@@ -10648,7 +10648,7 @@
     },
     "pleasant": {
       "0": "the courtyard is pleasant in the morning.",
-      "1": "a pleasant poster does not replace a seat on the last bus."
+      "1": "the garden stays pleasant even on a grey afternoon."
     },
     "please": {
       "0": "please close the window before you leave.",
@@ -10688,7 +10688,7 @@
     },
     "poet": {
       "0": "the poet read one short poem.",
-      "1": "a poet who writes about a flood can move a class, and the bus time still has to be fact."
+      "1": "the poet read the flood poem and then named the year."
     },
     "point": {
       "0": "the point of the story is to check your sources.",
@@ -10716,7 +10716,7 @@
     },
     "politician": {
       "0": "the politician visited the clinic.",
-      "1": "a speech by a politician does not replace the bus the town was promised."
+      "1": "the politician answered questions about the clinic hours."
     },
     "politics": {
       "0": "they discussed politics in the history club.",
@@ -10776,7 +10776,7 @@
     },
     "poster": {
       "0": "the poster names the time.",
-      "1": "a poster that hides the return bus has already chosen who can come."
+      "1": "the poster uses three colours and one clear sentence."
     },
     "pot": {
       "0": "the pot is still hot.",
@@ -10840,7 +10840,7 @@
     },
     "preference": {
       "0": "her preference is a quiet seat.",
-      "1": "a preference for one bus time should not hide the other."
+      "1": "her preference for morning study shows in the timetable."
     },
     "pregnant": {
       "0": "the form asks whether the patient is pregnant.",
@@ -10932,7 +10932,7 @@
     },
     "privilege": {
       "0": "a quiet room should not be a privilege.",
-      "1": "privilege shows up when only some families can reach the late bus."
+      "1": "extra lab time should not be a privilege of one class."
     },
     "prize": {
       "0": "the prize was a book, not money.",
@@ -11168,7 +11168,7 @@
     },
     "rat": {
       "0": "a rat got into the store room.",
-      "1": "a rat in the kitchen is a reason to close the food, not a joke."
+      "1": "they closed the food after they saw the rat."
     },
     "rate": {
       "0": "the heart rate rises when you run.",
@@ -11648,7 +11648,7 @@
     },
     "salad": {
       "0": "the salad is on the left.",
-      "1": "a salad that hides nuts should say so on the card."
+      "1": "the salad uses beans from the school garden."
     },
     "salary": {
       "0": "the salary is paid on the first day.",
@@ -11728,11 +11728,11 @@
     },
     "scratch": {
       "0": "the cat may scratch the chair.",
-      "1": "a scratch on the lab bench should be reported if the glass is near it."
+      "1": "do not scratch the lab bench with the glass."
     },
     "scream": {
       "0": "do not scream in the clinic.",
-      "1": "a scream from the yard is a reason to look, not to laugh."
+      "1": "someone screamed in the yard, and the teacher looked up."
     },
     "screen": {
       "0": "the screen at the back of the lab is new.",
@@ -11836,7 +11836,7 @@
     },
     "separation": {
       "0": "the separation lasted one term.",
-      "1": "a separation of two classes should not hide the shared bus."
+      "1": "the separation of the two rivers is clear on the map."
     },
     "serious": {
       "0": "this is a serious problem.",
@@ -11880,7 +11880,7 @@
     },
     "shade": {
       "0": "the bench is in the shade.",
-      "1": "shade at the gate matters when students wait for the late bus."
+      "1": "the oak gives shade to the whole yard."
     },
     "shadow": {
       "0": "the tree throws a shadow on the path.",
@@ -11912,7 +11912,7 @@
     },
     "sheep": {
       "0": "the sheep are in the field.",
-      "1": "a lesson about sheep should say who cares for them, not how to harm them."
+      "1": "wool from these sheep is sold at the friday market."
     },
     "sheet": {
       "0": "write both times on one sheet.",
@@ -12020,7 +12020,7 @@
     },
     "significance": {
       "0": "the date has significance for the town.",
-      "1": "the significance of a late bus is who cannot get home."
+      "1": "the significance of the date is explained in the first paragraph."
     },
     "silence": {
       "0": "there was silence after the question.",
@@ -12568,7 +12568,7 @@
     },
     "substitute": {
       "0": "the substitute teacher knows the class.",
-      "1": "a substitute bus should still stop at the clinic."
+      "1": "rice became the substitute when the noodles ran out."
     },
     "succeed": {
       "0": "the plan will succeed if the time is written.",
@@ -12708,7 +12708,7 @@
     },
     "sweat": {
       "0": "sweat ran down his face after the lap.",
-      "1": "sweat on a hot afternoon is a reason to drink water."
+      "1": "he drank water when the sweat would not stop."
     },
     "sweet": {
       "0": "this tea is too sweet for me.",
@@ -13012,7 +13012,7 @@
     },
     "thunder": {
       "0": "thunder followed the lightning.",
-      "1": "thunder is a reason to move the match indoors."
+      "1": "the match moved indoors when the thunder started."
     },
     "thus": {
       "0": "the bus was late; thus we missed the bell.",
@@ -13131,8 +13131,8 @@
       "1": "tourism that closes the local bus for visitors is not a gift to the town."
     },
     "tourist": {
-      "0": "the tourist asked for the museum.",
-      "1": "a tourist bus should not cancel the local students' last ride."
+      "0": "the tourist bought a map at the station.",
+      "1": "the tourist asked three people before finding the museum."
     },
     "tournament": {
       "0": "the tournament is next month.",
@@ -13780,7 +13780,7 @@
     },
     "widespread": {
       "0": "the practice is widespread in this town.",
-      "1": "widespread praise for a plan still fails if the last bus never comes."
+      "1": "sharing tools is widespread among the farms here."
     },
     "wife": {
       "0": "his wife teaches at the primary school.",

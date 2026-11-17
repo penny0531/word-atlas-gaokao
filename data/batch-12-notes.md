@@ -34,3 +34,7 @@
 新词的两条例句都用本地 Kokoro `af_heart`、美式、语速 1.0 录了，没有调用付费接口。稿和文件写进 `data/sentence-audio-provenance.json`。旧的 Heart 录音和开屏「欢迎打开高考词图」没有重录。35 个新词没有上游插画，也没有词头英音/美音，词头仍走设备朗读：
 
 aboard, acknowledge, ash, athletic, bare, barrier, bored, boxing, burst, cheers, corrupt, disability, distant, examine, grandma, gravity, harbor, humor, lap, leaf, lightning, marathon, missile, neighbor, ours, patience, pension, phenomenon, precise, separation, spray, theft, unemployment, widespread, zoo
+
+## 送审前改过的例句
+
+对照 200 张新卡和 400 条例句之后，改了 69 个例句槽，并只重录这些槽。改动包括：九条“a lesson about … not how to harm”动物模板、反复出现的末班车/海报句、几乎重复的成对例句，以及几处义项用错（`occupation` 被写成地点、`corrupt` 用来形容费用、`permit` / `scratch` / `scream` 的第二句用成了名词）。机器可读记录在 `data/batch-12-review.json`。已有 2197 张卡的句子没有改。

@@ -1,0 +1,1371 @@
+{
+  "batch": 12,
+  "base": "908ce5fdd3f63961cd287790ea209afe6bf30ee1",
+  "branch": "cursor/gaokao-batch12-freq-a797",
+  "method": {
+    "source": "busiyiworld/maimemo-export exported/list/高考英语大纲词汇3500.txt",
+    "outlineUniqueAfterLowercase": 3487,
+    "outlineNote": "3505 headword lines and 26 letter headers; 18 duplicate spellings. Earlier ~3464 was an approximation.",
+    "frequency": "wordfreq 3.1.1 zipf_frequency(word,'en'); max of hyphen-to-space and dot-stripped forms; rounded to 2 decimals",
+    "order": "Zipf descending, then id ascending",
+    "ties": "Include 4.22 headwords that sort after departure and were not already in the atlas. departure stays in batch 11.",
+    "skipFunctionWords": true,
+    "start": [
+      "dig",
+      4.22
+    ],
+    "end": [
+      "preference",
+      4.11
+    ],
+    "notExamFrequency": true
+  },
+  "counts": {
+    "previous": 2197,
+    "added": 200,
+    "total": 2397,
+    "examples": 4787,
+    "illustrated": 2207,
+    "headwordAudio": 2200,
+    "newExampleClips": 400,
+    "kokoroFilesInManifest": 4768,
+    "retainedUpstreamClips": 19
+  },
+  "checks": {
+    "zipfRecomputedMismatches": 0,
+    "duplicateIds": 0,
+    "chunkTextMismatches": 0,
+    "provenanceMismatches": 0,
+    "oldCardsChangedVersusMain": 0,
+    "missingArtAndHeadwordAudio": [
+      "aboard",
+      "acknowledge",
+      "ash",
+      "athletic",
+      "bare",
+      "barrier",
+      "bored",
+      "boxing",
+      "burst",
+      "cheers",
+      "corrupt",
+      "disability",
+      "distant",
+      "examine",
+      "grandma",
+      "gravity",
+      "harbor",
+      "humor",
+      "lap",
+      "leaf",
+      "lightning",
+      "marathon",
+      "missile",
+      "neighbor",
+      "ours",
+      "patience",
+      "pension",
+      "phenomenon",
+      "precise",
+      "separation",
+      "spray",
+      "theft",
+      "unemployment",
+      "widespread",
+      "zoo"
+    ],
+    "exampleAudioMissing": []
+  },
+  "words": [
+    {
+      "id": "dig",
+      "zipf": 4.22,
+      "pos": "v.",
+      "zh": "挖"
+    },
+    {
+      "id": "fever",
+      "zipf": 4.22,
+      "pos": "n.",
+      "zh": "发烧"
+    },
+    {
+      "id": "folk",
+      "zipf": 4.22,
+      "pos": "n.",
+      "zh": "人们；民间"
+    },
+    {
+      "id": "handsome",
+      "zipf": 4.22,
+      "pos": "adj.",
+      "zh": "英俊的"
+    },
+    {
+      "id": "leaf",
+      "zipf": 4.22,
+      "pos": "n.",
+      "zh": "叶子"
+    },
+    {
+      "id": "lightning",
+      "zipf": 4.22,
+      "pos": "n.",
+      "zh": "闪电"
+    },
+    {
+      "id": "motivation",
+      "zipf": 4.22,
+      "pos": "n.",
+      "zh": "动机"
+    },
+    {
+      "id": "pension",
+      "zipf": 4.22,
+      "pos": "n.",
+      "zh": "养老金"
+    },
+    {
+      "id": "permit",
+      "zipf": 4.22,
+      "pos": "v.",
+      "zh": "允许"
+    },
+    {
+      "id": "pleasant",
+      "zipf": 4.22,
+      "pos": "adj.",
+      "zh": "令人愉快的"
+    },
+    {
+      "id": "slight",
+      "zipf": 4.22,
+      "pos": "adj.",
+      "zh": "轻微的"
+    },
+    {
+      "id": "socialist",
+      "zipf": 4.22,
+      "pos": "adj.",
+      "zh": "社会主义的"
+    },
+    {
+      "id": "tension",
+      "zipf": 4.22,
+      "pos": "n.",
+      "zh": "紧张"
+    },
+    {
+      "id": "twist",
+      "zipf": 4.22,
+      "pos": "v.",
+      "zh": "扭转；弯曲"
+    },
+    {
+      "id": "unemployment",
+      "zipf": 4.22,
+      "pos": "n.",
+      "zh": "失业"
+    },
+    {
+      "id": "useless",
+      "zipf": 4.22,
+      "pos": "adj.",
+      "zh": "无用的"
+    },
+    {
+      "id": "advocate",
+      "zipf": 4.21,
+      "pos": "v.",
+      "zh": "提倡"
+    },
+    {
+      "id": "bitter",
+      "zipf": 4.21,
+      "pos": "adj.",
+      "zh": "苦的；痛苦的"
+    },
+    {
+      "id": "clever",
+      "zipf": 4.21,
+      "pos": "adj.",
+      "zh": "聪明的"
+    },
+    {
+      "id": "clinic",
+      "zipf": 4.21,
+      "pos": "n.",
+      "zh": "诊所"
+    },
+    {
+      "id": "detective",
+      "zipf": 4.21,
+      "pos": "n.",
+      "zh": "侦探"
+    },
+    {
+      "id": "disability",
+      "zipf": 4.21,
+      "pos": "n.",
+      "zh": "残疾"
+    },
+    {
+      "id": "dish",
+      "zipf": 4.21,
+      "pos": "n.",
+      "zh": "盘子；菜肴"
+    },
+    {
+      "id": "duck",
+      "zipf": 4.21,
+      "pos": "n.",
+      "zh": "鸭子"
+    },
+    {
+      "id": "fence",
+      "zipf": 4.21,
+      "pos": "n.",
+      "zh": "栅栏"
+    },
+    {
+      "id": "gravity",
+      "zipf": 4.21,
+      "pos": "n.",
+      "zh": "重力"
+    },
+    {
+      "id": "nail",
+      "zipf": 4.21,
+      "pos": "n.",
+      "zh": "钉子"
+    },
+    {
+      "id": "poet",
+      "zipf": 4.21,
+      "pos": "n.",
+      "zh": "诗人"
+    },
+    {
+      "id": "scientist",
+      "zipf": 4.21,
+      "pos": "n.",
+      "zh": "科学家"
+    },
+    {
+      "id": "sink",
+      "zipf": 4.21,
+      "pos": "v.",
+      "zh": "下沉"
+    },
+    {
+      "id": "skip",
+      "zipf": 4.21,
+      "pos": "v.",
+      "zh": "跳绳；跳过"
+    },
+    {
+      "id": "slavery",
+      "zipf": 4.21,
+      "pos": "n.",
+      "zh": "奴隶制度"
+    },
+    {
+      "id": "swim",
+      "zipf": 4.21,
+      "pos": "n.",
+      "zh": "游泳"
+    },
+    {
+      "id": "wealthy",
+      "zipf": 4.21,
+      "pos": "adj.",
+      "zh": "富有的"
+    },
+    {
+      "id": "bored",
+      "zipf": 4.2,
+      "pos": "adj.",
+      "zh": "厌倦的"
+    },
+    {
+      "id": "cave",
+      "zipf": 4.2,
+      "pos": "n.",
+      "zh": "洞穴"
+    },
+    {
+      "id": "communicate",
+      "zipf": 4.2,
+      "pos": "v.",
+      "zh": "交流；传达"
+    },
+    {
+      "id": "flesh",
+      "zipf": 4.2,
+      "pos": "n.",
+      "zh": "肉"
+    },
+    {
+      "id": "occupation",
+      "zipf": 4.2,
+      "pos": "n.",
+      "zh": "职业"
+    },
+    {
+      "id": "patience",
+      "zipf": 4.2,
+      "pos": "n.",
+      "zh": "耐心"
+    },
+    {
+      "id": "pollution",
+      "zipf": 4.2,
+      "pos": "n.",
+      "zh": "污染"
+    },
+    {
+      "id": "prisoner",
+      "zipf": 4.2,
+      "pos": "n.",
+      "zh": "囚犯"
+    },
+    {
+      "id": "privilege",
+      "zipf": 4.2,
+      "pos": "n.",
+      "zh": "特权"
+    },
+    {
+      "id": "resist",
+      "zipf": 4.2,
+      "pos": "v.",
+      "zh": "抵抗；忍住"
+    },
+    {
+      "id": "tourist",
+      "zipf": 4.2,
+      "pos": "n.",
+      "zh": "游客"
+    },
+    {
+      "id": "beside",
+      "zipf": 4.19,
+      "pos": "prep.",
+      "zh": "在……旁边"
+    },
+    {
+      "id": "boot",
+      "zipf": 4.19,
+      "pos": "n.",
+      "zh": "靴子"
+    },
+    {
+      "id": "coin",
+      "zipf": 4.19,
+      "pos": "n.",
+      "zh": "硬币"
+    },
+    {
+      "id": "corn",
+      "zipf": 4.19,
+      "pos": "n.",
+      "zh": "玉米；谷物"
+    },
+    {
+      "id": "customs",
+      "zipf": 4.19,
+      "pos": "n.",
+      "zh": "海关"
+    },
+    {
+      "id": "distant",
+      "zipf": 4.19,
+      "pos": "adj.",
+      "zh": "遥远的"
+    },
+    {
+      "id": "humor",
+      "zipf": 4.19,
+      "pos": "n.",
+      "zh": "幽默"
+    },
+    {
+      "id": "pie",
+      "zipf": 4.19,
+      "pos": "n.",
+      "zh": "馅饼"
+    },
+    {
+      "id": "poster",
+      "zipf": 4.19,
+      "pos": "n.",
+      "zh": "海报"
+    },
+    {
+      "id": "preserve",
+      "zipf": 4.19,
+      "pos": "v.",
+      "zh": "保护；保存"
+    },
+    {
+      "id": "sheep",
+      "zipf": 4.19,
+      "pos": "n.",
+      "zh": "绵羊"
+    },
+    {
+      "id": "taxi",
+      "zipf": 4.19,
+      "pos": "n.",
+      "zh": "出租车"
+    },
+    {
+      "id": "tobacco",
+      "zipf": 4.19,
+      "pos": "n.",
+      "zh": "烟草"
+    },
+    {
+      "id": "uncomfortable",
+      "zipf": 4.19,
+      "pos": "adj.",
+      "zh": "不舒服的"
+    },
+    {
+      "id": "weakness",
+      "zipf": 4.19,
+      "pos": "n.",
+      "zh": "弱点；虚弱"
+    },
+    {
+      "id": "widespread",
+      "zipf": 4.19,
+      "pos": "adj.",
+      "zh": "普遍的；分布广的"
+    },
+    {
+      "id": "accessible",
+      "zipf": 4.18,
+      "pos": "adj.",
+      "zh": "可到达的；易懂的"
+    },
+    {
+      "id": "acknowledge",
+      "zipf": 4.18,
+      "pos": "v.",
+      "zh": "承认"
+    },
+    {
+      "id": "bare",
+      "zipf": 4.18,
+      "pos": "adj.",
+      "zh": "赤裸的；空的"
+    },
+    {
+      "id": "basement",
+      "zipf": 4.18,
+      "pos": "n.",
+      "zh": "地下室"
+    },
+    {
+      "id": "carpet",
+      "zipf": 4.18,
+      "pos": "n.",
+      "zh": "地毯"
+    },
+    {
+      "id": "ceiling",
+      "zipf": 4.18,
+      "pos": "n.",
+      "zh": "天花板"
+    },
+    {
+      "id": "endless",
+      "zipf": 4.18,
+      "pos": "adj.",
+      "zh": "无止境的"
+    },
+    {
+      "id": "examine",
+      "zipf": 4.18,
+      "pos": "v.",
+      "zh": "检查"
+    },
+    {
+      "id": "garbage",
+      "zipf": 4.18,
+      "pos": "n.",
+      "zh": "垃圾"
+    },
+    {
+      "id": "grain",
+      "zipf": 4.18,
+      "pos": "n.",
+      "zh": "谷物；颗粒"
+    },
+    {
+      "id": "identification",
+      "zipf": 4.18,
+      "pos": "n.",
+      "zh": "身份证明；识别"
+    },
+    {
+      "id": "lap",
+      "zipf": 4.18,
+      "pos": "n.",
+      "zh": "一圈；膝部"
+    },
+    {
+      "id": "mixture",
+      "zipf": 4.18,
+      "pos": "n.",
+      "zh": "混合物"
+    },
+    {
+      "id": "patent",
+      "zipf": 4.18,
+      "pos": "n.",
+      "zh": "专利"
+    },
+    {
+      "id": "physician",
+      "zipf": 4.18,
+      "pos": "n.",
+      "zh": "内科医生"
+    },
+    {
+      "id": "significance",
+      "zipf": 4.18,
+      "pos": "n.",
+      "zh": "意义；重要性"
+    },
+    {
+      "id": "soap",
+      "zipf": 4.18,
+      "pos": "n.",
+      "zh": "肥皂"
+    },
+    {
+      "id": "spray",
+      "zipf": 4.18,
+      "pos": "v.",
+      "zh": "喷洒"
+    },
+    {
+      "id": "suite",
+      "zipf": 4.18,
+      "pos": "n.",
+      "zh": "套间；组曲"
+    },
+    {
+      "id": "bless",
+      "zipf": 4.17,
+      "pos": "v.",
+      "zh": "祝福"
+    },
+    {
+      "id": "boxing",
+      "zipf": 4.17,
+      "pos": "n.",
+      "zh": "拳击"
+    },
+    {
+      "id": "cinema",
+      "zipf": 4.17,
+      "pos": "n.",
+      "zh": "电影院"
+    },
+    {
+      "id": "contrary",
+      "zipf": 4.17,
+      "pos": "n.",
+      "zh": "相反"
+    },
+    {
+      "id": "dam",
+      "zipf": 4.17,
+      "pos": "n.",
+      "zh": "水坝"
+    },
+    {
+      "id": "gentle",
+      "zipf": 4.17,
+      "pos": "adj.",
+      "zh": "温柔的；轻的"
+    },
+    {
+      "id": "grammar",
+      "zipf": 4.17,
+      "pos": "n.",
+      "zh": "语法"
+    },
+    {
+      "id": "jam",
+      "zipf": 4.17,
+      "pos": "n.",
+      "zh": "果酱；堵塞"
+    },
+    {
+      "id": "rat",
+      "zipf": 4.17,
+      "pos": "n.",
+      "zh": "老鼠"
+    },
+    {
+      "id": "shine",
+      "zipf": 4.17,
+      "pos": "v.",
+      "zh": "发光；照耀"
+    },
+    {
+      "id": "substitute",
+      "zipf": 4.17,
+      "pos": "n.",
+      "zh": "代替者；代用品"
+    },
+    {
+      "id": "treasure",
+      "zipf": 4.17,
+      "pos": "n.",
+      "zh": "财富；珍宝"
+    },
+    {
+      "id": "unfair",
+      "zipf": 4.17,
+      "pos": "adj.",
+      "zh": "不公平的"
+    },
+    {
+      "id": "ash",
+      "zipf": 4.16,
+      "pos": "n.",
+      "zh": "灰"
+    },
+    {
+      "id": "aunt",
+      "zipf": 4.16,
+      "pos": "n.",
+      "zh": "姑；姨；伯母；舅母；婶"
+    },
+    {
+      "id": "creature",
+      "zipf": 4.16,
+      "pos": "n.",
+      "zh": "生物"
+    },
+    {
+      "id": "gentleman",
+      "zipf": 4.16,
+      "pos": "n.",
+      "zh": "先生；绅士"
+    },
+    {
+      "id": "hammer",
+      "zipf": 4.16,
+      "pos": "n.",
+      "zh": "锤子"
+    },
+    {
+      "id": "marathon",
+      "zipf": 4.16,
+      "pos": "n.",
+      "zh": "马拉松"
+    },
+    {
+      "id": "ours",
+      "zipf": 4.16,
+      "pos": "pron.",
+      "zh": "我们的"
+    },
+    {
+      "id": "politician",
+      "zipf": 4.16,
+      "pos": "n.",
+      "zh": "政治家；从政者"
+    },
+    {
+      "id": "react",
+      "zipf": 4.16,
+      "pos": "v.",
+      "zh": "反应"
+    },
+    {
+      "id": "satisfaction",
+      "zipf": 4.16,
+      "pos": "n.",
+      "zh": "满意"
+    },
+    {
+      "id": "scratch",
+      "zipf": 4.16,
+      "pos": "v.",
+      "zh": "划；挠"
+    },
+    {
+      "id": "shade",
+      "zipf": 4.16,
+      "pos": "n.",
+      "zh": "阴凉"
+    },
+    {
+      "id": "shy",
+      "zipf": 4.16,
+      "pos": "adj.",
+      "zh": "害羞的"
+    },
+    {
+      "id": "sunshine",
+      "zipf": 4.16,
+      "pos": "n.",
+      "zh": "阳光"
+    },
+    {
+      "id": "admission",
+      "zipf": 4.15,
+      "pos": "n.",
+      "zh": "准入；入场"
+    },
+    {
+      "id": "bacon",
+      "zipf": 4.15,
+      "pos": "n.",
+      "zh": "培根；熏肉"
+    },
+    {
+      "id": "barrier",
+      "zipf": 4.15,
+      "pos": "n.",
+      "zh": "障碍；栏杆"
+    },
+    {
+      "id": "burst",
+      "zipf": 4.15,
+      "pos": "v.",
+      "zh": "爆裂；突然发生"
+    },
+    {
+      "id": "cattle",
+      "zipf": 4.15,
+      "pos": "n.",
+      "zh": "牛（总称）"
+    },
+    {
+      "id": "classroom",
+      "zipf": 4.15,
+      "pos": "n.",
+      "zh": "教室"
+    },
+    {
+      "id": "compromise",
+      "zipf": 4.15,
+      "pos": "n.",
+      "zh": "妥协"
+    },
+    {
+      "id": "crop",
+      "zipf": 4.15,
+      "pos": "n.",
+      "zh": "庄稼；收成"
+    },
+    {
+      "id": "earthquake",
+      "zipf": 4.15,
+      "pos": "n.",
+      "zh": "地震"
+    },
+    {
+      "id": "farmer",
+      "zipf": 4.15,
+      "pos": "n.",
+      "zh": "农民"
+    },
+    {
+      "id": "harbor",
+      "zipf": 4.15,
+      "pos": "n.",
+      "zh": "港口"
+    },
+    {
+      "id": "inform",
+      "zipf": 4.15,
+      "pos": "v.",
+      "zh": "通知"
+    },
+    {
+      "id": "mathematics",
+      "zipf": 4.15,
+      "pos": "n.",
+      "zh": "数学"
+    },
+    {
+      "id": "salad",
+      "zipf": 4.15,
+      "pos": "n.",
+      "zh": "色拉"
+    },
+    {
+      "id": "scholarship",
+      "zipf": 4.15,
+      "pos": "n.",
+      "zh": "奖学金"
+    },
+    {
+      "id": "soup",
+      "zipf": 4.15,
+      "pos": "n.",
+      "zh": "汤"
+    },
+    {
+      "id": "swift",
+      "zipf": 4.15,
+      "pos": "adj.",
+      "zh": "迅速的"
+    },
+    {
+      "id": "urgent",
+      "zipf": 4.15,
+      "pos": "adj.",
+      "zh": "紧急的"
+    },
+    {
+      "id": "vertical",
+      "zipf": 4.15,
+      "pos": "adj.",
+      "zh": "垂直的"
+    },
+    {
+      "id": "wallet",
+      "zipf": 4.15,
+      "pos": "n.",
+      "zh": "钱包"
+    },
+    {
+      "id": "aboard",
+      "zipf": 4.14,
+      "pos": "adv.",
+      "zh": "在船上；上车"
+    },
+    {
+      "id": "abstract",
+      "zipf": 4.14,
+      "pos": "adj.",
+      "zh": "抽象的"
+    },
+    {
+      "id": "accent",
+      "zipf": 4.14,
+      "pos": "n.",
+      "zh": "口音"
+    },
+    {
+      "id": "awake",
+      "zipf": 4.14,
+      "pos": "adj.",
+      "zh": "醒着的"
+    },
+    {
+      "id": "blank",
+      "zipf": 4.14,
+      "pos": "adj.",
+      "zh": "空白的"
+    },
+    {
+      "id": "corrupt",
+      "zipf": 4.14,
+      "pos": "adj.",
+      "zh": "腐败的"
+    },
+    {
+      "id": "cow",
+      "zipf": 4.14,
+      "pos": "n.",
+      "zh": "奶牛；母牛"
+    },
+    {
+      "id": "grandmother",
+      "zipf": 4.14,
+      "pos": "n.",
+      "zh": "祖母；外祖母"
+    },
+    {
+      "id": "hurry",
+      "zipf": 4.14,
+      "pos": "v.",
+      "zh": "赶快"
+    },
+    {
+      "id": "instruction",
+      "zipf": 4.14,
+      "pos": "n.",
+      "zh": "说明；指示"
+    },
+    {
+      "id": "invitation",
+      "zipf": 4.14,
+      "pos": "n.",
+      "zh": "邀请；请帖"
+    },
+    {
+      "id": "lecture",
+      "zipf": 4.14,
+      "pos": "n.",
+      "zh": "讲座；讲课"
+    },
+    {
+      "id": "missile",
+      "zipf": 4.14,
+      "pos": "n.",
+      "zh": "导弹"
+    },
+    {
+      "id": "organ",
+      "zipf": 4.14,
+      "pos": "n.",
+      "zh": "器官；风琴"
+    },
+    {
+      "id": "pepper",
+      "zipf": 4.14,
+      "pos": "n.",
+      "zh": "胡椒"
+    },
+    {
+      "id": "pig",
+      "zipf": 4.14,
+      "pos": "n.",
+      "zh": "猪"
+    },
+    {
+      "id": "pile",
+      "zipf": 4.14,
+      "pos": "n.",
+      "zh": "一堆"
+    },
+    {
+      "id": "plug",
+      "zipf": 4.14,
+      "pos": "n.",
+      "zh": "插头；塞子"
+    },
+    {
+      "id": "scream",
+      "zipf": 4.14,
+      "pos": "v.",
+      "zh": "尖叫"
+    },
+    {
+      "id": "sweat",
+      "zipf": 4.14,
+      "pos": "n.",
+      "zh": "汗"
+    },
+    {
+      "id": "thunder",
+      "zipf": 4.14,
+      "pos": "n.",
+      "zh": "雷"
+    },
+    {
+      "id": "zoo",
+      "zipf": 4.14,
+      "pos": "n.",
+      "zh": "动物园"
+    },
+    {
+      "id": "acquire",
+      "zipf": 4.13,
+      "pos": "v.",
+      "zh": "获得"
+    },
+    {
+      "id": "alike",
+      "zipf": 4.13,
+      "pos": "adv.",
+      "zh": "相似地"
+    },
+    {
+      "id": "arrow",
+      "zipf": 4.13,
+      "pos": "n.",
+      "zh": "箭头；箭"
+    },
+    {
+      "id": "bend",
+      "zipf": 4.13,
+      "pos": "v.",
+      "zh": "弯曲"
+    },
+    {
+      "id": "cage",
+      "zipf": 4.13,
+      "pos": "n.",
+      "zh": "笼子"
+    },
+    {
+      "id": "cheers",
+      "zipf": 4.13,
+      "pos": "int.",
+      "zh": "干杯；谢谢"
+    },
+    {
+      "id": "companion",
+      "zipf": 4.13,
+      "pos": "n.",
+      "zh": "同伴"
+    },
+    {
+      "id": "consultant",
+      "zipf": 4.13,
+      "pos": "n.",
+      "zh": "顾问"
+    },
+    {
+      "id": "eagle",
+      "zipf": 4.13,
+      "pos": "n.",
+      "zh": "鹰"
+    },
+    {
+      "id": "embassy",
+      "zipf": 4.13,
+      "pos": "n.",
+      "zh": "大使馆"
+    },
+    {
+      "id": "helicopter",
+      "zipf": 4.13,
+      "pos": "n.",
+      "zh": "直升机"
+    },
+    {
+      "id": "homework",
+      "zipf": 4.13,
+      "pos": "n.",
+      "zh": "家庭作业"
+    },
+    {
+      "id": "lip",
+      "zipf": 4.13,
+      "pos": "n.",
+      "zh": "嘴唇"
+    },
+    {
+      "id": "mud",
+      "zipf": 4.13,
+      "pos": "n.",
+      "zh": "泥"
+    },
+    {
+      "id": "owe",
+      "zipf": 4.13,
+      "pos": "v.",
+      "zh": "欠"
+    },
+    {
+      "id": "phenomenon",
+      "zipf": 4.13,
+      "pos": "n.",
+      "zh": "现象"
+    },
+    {
+      "id": "precise",
+      "zipf": 4.13,
+      "pos": "adj.",
+      "zh": "精确的"
+    },
+    {
+      "id": "profession",
+      "zipf": 4.13,
+      "pos": "n.",
+      "zh": "职业"
+    },
+    {
+      "id": "sandwich",
+      "zipf": 4.13,
+      "pos": "n.",
+      "zh": "三明治"
+    },
+    {
+      "id": "separation",
+      "zipf": 4.13,
+      "pos": "n.",
+      "zh": "分离"
+    },
+    {
+      "id": "ski",
+      "zipf": 4.13,
+      "pos": "v.",
+      "zh": "滑雪"
+    },
+    {
+      "id": "surgeon",
+      "zipf": 4.13,
+      "pos": "n.",
+      "zh": "外科医生"
+    },
+    {
+      "id": "theft",
+      "zipf": 4.13,
+      "pos": "n.",
+      "zh": "盗窃"
+    },
+    {
+      "id": "visa",
+      "zipf": 4.13,
+      "pos": "n.",
+      "zh": "签证"
+    },
+    {
+      "id": "appreciation",
+      "zipf": 4.12,
+      "pos": "n.",
+      "zh": "欣赏；感谢"
+    },
+    {
+      "id": "athletic",
+      "zipf": 4.12,
+      "pos": "adj.",
+      "zh": "运动的；健壮的"
+    },
+    {
+      "id": "cruel",
+      "zipf": 4.12,
+      "pos": "adj.",
+      "zh": "残忍的"
+    },
+    {
+      "id": "curriculum",
+      "zipf": 4.12,
+      "pos": "n.",
+      "zh": "课程"
+    },
+    {
+      "id": "deadline",
+      "zipf": 4.12,
+      "pos": "n.",
+      "zh": "截止日期"
+    },
+    {
+      "id": "deer",
+      "zipf": 4.12,
+      "pos": "n.",
+      "zh": "鹿"
+    },
+    {
+      "id": "dive",
+      "zipf": 4.12,
+      "pos": "v.",
+      "zh": "跳水"
+    },
+    {
+      "id": "divide",
+      "zipf": 4.12,
+      "pos": "v.",
+      "zh": "划分；除"
+    },
+    {
+      "id": "easter",
+      "zipf": 4.12,
+      "pos": "n.",
+      "zh": "复活节"
+    },
+    {
+      "id": "ham",
+      "zipf": 4.12,
+      "pos": "n.",
+      "zh": "火腿"
+    },
+    {
+      "id": "jewelry",
+      "zipf": 4.12,
+      "pos": "n.",
+      "zh": "珠宝"
+    },
+    {
+      "id": "jungle",
+      "zipf": 4.12,
+      "pos": "n.",
+      "zh": "丛林"
+    },
+    {
+      "id": "unfortunate",
+      "zipf": 4.12,
+      "pos": "adj.",
+      "zh": "不幸的"
+    },
+    {
+      "id": "athlete",
+      "zipf": 4.11,
+      "pos": "n.",
+      "zh": "运动员"
+    },
+    {
+      "id": "attraction",
+      "zipf": 4.11,
+      "pos": "n.",
+      "zh": "吸引；景点"
+    },
+    {
+      "id": "drum",
+      "zipf": 4.11,
+      "pos": "n.",
+      "zh": "鼓"
+    },
+    {
+      "id": "freeze",
+      "zipf": 4.11,
+      "pos": "v.",
+      "zh": "结冰；冻住"
+    },
+    {
+      "id": "grandma",
+      "zipf": 4.11,
+      "pos": "n.",
+      "zh": "奶奶；外婆"
+    },
+    {
+      "id": "handful",
+      "zipf": 4.11,
+      "pos": "n.",
+      "zh": "一把；少数"
+    },
+    {
+      "id": "harmony",
+      "zipf": 4.11,
+      "pos": "n.",
+      "zh": "和睦；和谐"
+    },
+    {
+      "id": "keyboard",
+      "zipf": 4.11,
+      "pos": "n.",
+      "zh": "键盘"
+    },
+    {
+      "id": "mild",
+      "zipf": 4.11,
+      "pos": "adj.",
+      "zh": "温和的"
+    },
+    {
+      "id": "neighbor",
+      "zipf": 4.11,
+      "pos": "n.",
+      "zh": "邻居"
+    },
+    {
+      "id": "noon",
+      "zipf": 4.11,
+      "pos": "n.",
+      "zh": "正午"
+    },
+    {
+      "id": "nowadays",
+      "zipf": 4.11,
+      "pos": "adv.",
+      "zh": "如今"
+    },
+    {
+      "id": "potato",
+      "zipf": 4.11,
+      "pos": "n.",
+      "zh": "土豆"
+    },
+    {
+      "id": "preference",
+      "zipf": 4.11,
+      "pos": "n.",
+      "zh": "偏好"
+    }
+  ],
+  "review": {
+    "rewrittenExampleSlots": 69,
+    "fixed": [
+      "Replaced nine 'A lesson about X should say ... not how to harm it' animal examples with concrete scenes.",
+      "Replaced the repeated late-bus and 'already chosen who can come' sentences.",
+      "occupation example no longer treats the job sense as a place near the school.",
+      "corrupt example now names a contract, not a fee.",
+      "permit, scratch, and scream second examples use the verb, matching the card sense.",
+      "Near-duplicate pairs (tourist, owe, acquire, gentle, grandma/grandmother, nut-label dishes) were split."
+    ],
+    "audio": "Rewritten slots were re-recorded locally with Kokoro af_heart, en-us, speed 1.0. Provenance scripts match the new text. Existing Heart clips and splash 欢迎打开高考词图 were not overwritten.",
+    "representative": [
+      {
+        "id": "dig",
+        "zipf": 4.22,
+        "pos": "v.",
+        "zh": "挖",
+        "en": "They dig a small bed for the tomatoes.",
+        "zhExample": "他们挖一小块地种西红柿。",
+        "en2": "A city that digs up the pavement should leave a safe path for wheelchairs.",
+        "zh2": "挖开路面的城市应当给轮椅留出安全的路。"
+      },
+      {
+        "id": "fever",
+        "zipf": 4.22,
+        "pos": "n.",
+        "zh": "发烧",
+        "en": "The nurse checked her fever.",
+        "zhExample": "护士给她量了体温。",
+        "en2": "A fever that lasts into the next morning is a reason to call the clinic.",
+        "zh2": "烧到第二天早上，就该给诊所打电话。"
+      },
+      {
+        "id": "harbor",
+        "zipf": 4.15,
+        "pos": "n.",
+        "zh": "港口",
+        "en": "The harbor is quiet at dawn.",
+        "zhExample": "黎明时港口很安静。",
+        "en2": "Fishing boats return to the harbor before dark.",
+        "zh2": "渔船在天黑前回到港口。"
+      },
+      {
+        "id": "grandma",
+        "zipf": 4.11,
+        "pos": "n.",
+        "zh": "奶奶；外婆",
+        "en": "Her grandma makes soup every Sunday.",
+        "zhExample": "她奶奶每个星期天做汤。",
+        "en2": "The children call her grandma at home.",
+        "zh2": "孩子们在家里叫她奶奶。"
+      },
+      {
+        "id": "preference",
+        "zipf": 4.11,
+        "pos": "n.",
+        "zh": "偏好",
+        "en": "Her preference is a quiet seat.",
+        "zhExample": "她更喜欢安静的座位。",
+        "en2": "Her preference for morning study shows in the timetable.",
+        "zh2": "她对早晨学习的偏好写在时间表里。"
+      },
+      {
+        "id": "occupation",
+        "zipf": 4.2,
+        "pos": "n.",
+        "zh": "职业",
+        "en": "Her occupation is written on the form.",
+        "zhExample": "她的职业写在表格上。",
+        "en2": "A person's occupation should not decide who may borrow books.",
+        "zh2": "一个人的职业不应当决定谁可以借书。"
+      },
+      {
+        "id": "permit",
+        "zipf": 4.22,
+        "pos": "v.",
+        "zh": "允许",
+        "en": "The school does not permit phones in the exam.",
+        "zhExample": "学校不允许考试时使用手机。",
+        "en2": "A town should not permit a new road until the flood line is checked.",
+        "zh2": "在洪水线核对之前，城镇不应当允许修新路。"
+      }
+    ],
+    "remaining": [
+      "35 new words still have neither an illustration nor UK/US headword audio. They do have both example clips.",
+      "Some safety or civics sentences still share a 'should' frame. They are not copies of one another.",
+      "This review did not run ASR and did not listen on a phone.",
+      "Zipf is public corpus frequency, not an official exam ranking."
+    ]
+  }
+}
