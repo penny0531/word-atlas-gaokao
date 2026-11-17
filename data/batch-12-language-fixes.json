@@ -1,0 +1,2750 @@
+{
+  "branch": "cursor/gaokao-batch12-freq-a797",
+  "pr": 22,
+  "base": "908ce5fdd3f63961cd287790ea209afe6bf30ee1",
+  "reviewedCommit": "2437ed8b27979e913de369928773d89302a03f8c",
+  "scope": "batch 12 language hold. Existing 2197 cards were compared object-wise to that commit and left unchanged.",
+  "changedCardCount": 90,
+  "cards": [
+    {
+      "id": "ski",
+      "changes": {
+        "ex": {
+          "old": [
+            {
+              "en": "They ski on the school trip.",
+              "zh": "他们在学校出行时滑雪。"
+            },
+            {
+              "en": "A ski lesson should name the adult who stays with the group.",
+              "zh": "滑雪课应当写明哪位成年人留在组里。"
+            }
+          ],
+          "new": [
+            {
+              "en": "They ski on the school trip.",
+              "zh": "他们在学校出行时滑雪。"
+            },
+            {
+              "en": "They ski when the snow is deep.",
+              "zh": "雪厚的时候他们滑雪。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "handful",
+      "changes": {
+        "col": {
+          "old": [
+            "a handful of｜一把；少数"
+          ],
+          "new": [
+            "a handful of seeds｜一把种子"
+          ]
+        }
+      }
+    },
+    {
+      "id": "disability",
+      "changes": {
+        "us": {
+          "old": "/dˌɪsəbˈɪləɾi/",
+          "new": "/ˌdɪsəˈbɪləti/"
+        },
+        "ex": {
+          "old": [
+            {
+              "en": "The form asks about disability in private.",
+              "zh": "表格在私下询问残疾情况。"
+            },
+            {
+              "en": "A disability does not decide who may use the library.",
+              "zh": "残疾不决定谁可以用图书馆。"
+            }
+          ],
+          "new": [
+            {
+              "en": "The form asks about disability in private.",
+              "zh": "表格在私下询问残疾情况。"
+            },
+            {
+              "en": "She talks about her disability only with friends.",
+              "zh": "她只和朋友谈自己的残疾。"
+            }
+          ]
+        },
+        "col": {
+          "old": [
+            "a disability of｜一种残疾"
+          ],
+          "new": [
+            "a physical disability｜身体残疾"
+          ]
+        }
+      }
+    },
+    {
+      "id": "patience",
+      "changes": {
+        "uk": {
+          "old": "/'peɪʃəns/",
+          "new": "/ˈpeɪʃəns/"
+        }
+      }
+    },
+    {
+      "id": "handsome",
+      "changes": {
+        "us": {
+          "old": "/ˈhændsʌm/",
+          "new": "/ˈhænsəm/"
+        }
+      }
+    },
+    {
+      "id": "poet",
+      "changes": {
+        "col": {
+          "old": [
+            "a poet of｜一位……诗人"
+          ],
+          "new": [
+            "a young poet｜青年诗人"
+          ]
+        }
+      }
+    },
+    {
+      "id": "athletic",
+      "changes": {
+        "us": {
+          "old": "/æθlˈɛɾɪk/",
+          "new": "/æθˈletɪk/"
+        }
+      }
+    },
+    {
+      "id": "organ",
+      "changes": {
+        "ex": {
+          "old": [
+            {
+              "en": "The heart is an organ.",
+              "zh": "心脏是一个器官。"
+            },
+            {
+              "en": "A health lesson can name an organ and still stay respectful.",
+              "zh": "健康课可以提到器官，同时仍然保持尊重。"
+            }
+          ],
+          "new": [
+            {
+              "en": "The heart is an organ.",
+              "zh": "心脏是一个器官。"
+            },
+            {
+              "en": "She plays the organ in the hall on Sundays.",
+              "zh": "她星期天在礼堂里弹风琴。"
+            }
+          ]
+        },
+        "col": {
+          "old": [
+            "an organ of｜一个器官",
+            "a pipe organ｜管风琴"
+          ],
+          "new": [
+            "play the organ｜弹风琴",
+            "a pipe organ｜管风琴"
+          ]
+        }
+      }
+    },
+    {
+      "id": "preference",
+      "changes": {
+        "ex": {
+          "old": [
+            {
+              "en": "Her preference is a quiet seat.",
+              "zh": "她更喜欢安静的座位。"
+            },
+            {
+              "en": "Her preference for morning study shows in the timetable.",
+              "zh": "她对早晨学习的偏好写在时间表里。"
+            }
+          ],
+          "new": [
+            {
+              "en": "Her preference is a quiet seat.",
+              "zh": "她的偏好是安静的座位。"
+            },
+            {
+              "en": "Her preference for morning study shows in the timetable.",
+              "zh": "她对早晨学习的偏好写在时间表里。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "pig",
+      "changes": {
+        "col": {
+          "old": [
+            "a pig of｜一头猪"
+          ],
+          "new": [
+            "raise pigs｜养猪"
+          ]
+        }
+      }
+    },
+    {
+      "id": "weakness",
+      "changes": {
+        "col": {
+          "old": [
+            "a weakness of｜……的弱点"
+          ],
+          "new": [
+            "a weakness in spelling｜拼写上的弱点"
+          ]
+        }
+      }
+    },
+    {
+      "id": "prisoner",
+      "changes": {
+        "ex": {
+          "old": [
+            {
+              "en": "The history text names the prisoner, not only the cell.",
+              "zh": "历史课文写出囚犯的名字，而不只是牢房。"
+            },
+            {
+              "en": "News about a prisoner should give the date, not a method of escape.",
+              "zh": "关于囚犯的新闻应当给出日期，而不是逃脱的方法。"
+            }
+          ],
+          "new": [
+            {
+              "en": "The history text names the prisoner, not only the cell.",
+              "zh": "历史课文写出囚犯的名字，而不只是牢房。"
+            },
+            {
+              "en": "The prisoner wrote a letter to his family.",
+              "zh": "这名囚犯给家人写了一封信。"
+            }
+          ]
+        },
+        "col": {
+          "old": [
+            "a prisoner of｜一名囚犯"
+          ],
+          "new": [
+            "a prisoner of war｜战俘"
+          ]
+        }
+      }
+    },
+    {
+      "id": "coin",
+      "changes": {
+        "col": {
+          "old": [
+            "a coin of｜一枚硬币"
+          ],
+          "new": [
+            "a gold coin｜一枚金币"
+          ]
+        }
+      }
+    },
+    {
+      "id": "flesh",
+      "changes": {
+        "ex": {
+          "old": [
+            {
+              "en": "The flesh of the peach is sweet.",
+              "zh": "桃肉是甜的。"
+            },
+            {
+              "en": "A health lesson can use the word flesh and still stay respectful.",
+              "zh": "健康课可以用 flesh 这个词，同时仍然保持尊重。"
+            }
+          ],
+          "new": [
+            {
+              "en": "The flesh of the peach is sweet.",
+              "zh": "桃肉是甜的。"
+            },
+            {
+              "en": "Cook the flesh of the fish until it is white.",
+              "zh": "把鱼肉煮到变白。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "arrow",
+      "changes": {
+        "ex": {
+          "old": [
+            {
+              "en": "The arrow points to the clinic.",
+              "zh": "箭头指向诊所。"
+            },
+            {
+              "en": "A history chapter can show an arrow and still not teach how to use one.",
+              "zh": "历史课可以展示一支箭，同时仍然不教如何使用。"
+            }
+          ],
+          "new": [
+            {
+              "en": "The arrow points to the clinic.",
+              "zh": "箭头指向诊所。"
+            },
+            {
+              "en": "Follow the arrow to the hall.",
+              "zh": "顺着箭头走到礼堂。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "neighbor",
+      "changes": {
+        "col": {
+          "old": [
+            "a neighbor of｜……的邻居"
+          ],
+          "new": [
+            "a next-door neighbor｜隔壁邻居"
+          ]
+        }
+      }
+    },
+    {
+      "id": "shine",
+      "changes": {
+        "ex": {
+          "old": [
+            {
+              "en": "The lamp will shine on the map.",
+              "zh": "灯会照在地图上。"
+            },
+            {
+              "en": "A prize can shine on a poster and still hide who did the work.",
+              "zh": "奖可以在海报上闪光，同时仍然藏起是谁做的工作。"
+            }
+          ],
+          "new": [
+            {
+              "en": "The lamp will shine on the map.",
+              "zh": "灯会照在地图上。"
+            },
+            {
+              "en": "The sun will shine after the rain.",
+              "zh": "雨停后太阳会照出来。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "theft",
+      "changes": {
+        "ex": {
+          "old": [
+            {
+              "en": "The novel mentions a theft and then stops.",
+              "zh": "小说提到一次盗窃，然后就停住了。"
+            },
+            {
+              "en": "News of a theft should give the place and the date, not a method.",
+              "zh": "盗窃新闻应当给出地点和日期，而不是方法。"
+            }
+          ],
+          "new": [
+            {
+              "en": "The novel mentions a theft and then stops.",
+              "zh": "小说提到一次盗窃，然后就停住了。"
+            },
+            {
+              "en": "The theft happened on a Sunday.",
+              "zh": "这次盗窃发生在星期天。"
+            }
+          ]
+        },
+        "col": {
+          "old": [
+            "theft of｜对……的盗窃"
+          ],
+          "new": [
+            "report a theft｜报告失窃"
+          ]
+        }
+      }
+    },
+    {
+      "id": "potato",
+      "changes": {
+        "col": {
+          "old": [
+            "a potato of｜一个土豆"
+          ],
+          "new": [
+            "a baked potato｜烤土豆"
+          ]
+        }
+      }
+    },
+    {
+      "id": "advocate",
+      "changes": {
+        "uk": {
+          "old": "/ˈædvəkət/",
+          "new": "/ˈædvəkeɪt/"
+        },
+        "tip": {
+          "old": "advocate 作名词是倡导者，重音常在前。",
+          "new": "动词末音节是 /eɪt/，名词“倡导者”末音节是 /ət/。重音都在第一个音节。"
+        }
+      }
+    },
+    {
+      "id": "farmer",
+      "changes": {
+        "col": {
+          "old": [
+            "a farmer of｜一位农民"
+          ],
+          "new": [
+            "a rice farmer｜稻农"
+          ]
+        }
+      }
+    },
+    {
+      "id": "privilege",
+      "changes": {
+        "ex": {
+          "old": [
+            {
+              "en": "A quiet room should not be a privilege.",
+              "zh": "一间安静的房间不应当是特权。"
+            },
+            {
+              "en": "Extra lab time should not be a privilege of one class.",
+              "zh": "实验室的额外时间不应当是一个班的特权。"
+            }
+          ],
+          "new": [
+            {
+              "en": "A seat by the window felt like a privilege.",
+              "zh": "靠窗的位子让人觉得是一种优待。"
+            },
+            {
+              "en": "She called the trip a privilege.",
+              "zh": "她说这次出行是一种荣幸。"
+            }
+          ]
+        },
+        "col": {
+          "old": [
+            "a privilege of｜……的特权"
+          ],
+          "new": [
+            "a special privilege｜一项特权"
+          ]
+        }
+      }
+    },
+    {
+      "id": "communicate",
+      "changes": {
+        "us": {
+          "old": "/kəmjˈuːnɪkˌeɪt/",
+          "new": "/kəˈmjuːnɪˌkeɪt/"
+        }
+      }
+    },
+    {
+      "id": "acknowledge",
+      "changes": {
+        "us": {
+          "old": "/əknˈɑːlɪdʒ/",
+          "new": "/əkˈnɑlɪdʒ/"
+        }
+      }
+    },
+    {
+      "id": "missile",
+      "changes": {
+        "ex": {
+          "old": [
+            {
+              "en": "The news mentions a missile and then gives the date.",
+              "zh": "新闻提到导弹，然后给出日期。"
+            },
+            {
+              "en": "A history page can name a missile without teaching how one is made.",
+              "zh": "历史页可以写出导弹，同时不教如何制造。"
+            }
+          ],
+          "new": [
+            {
+              "en": "The news mentions a missile and then gives the date.",
+              "zh": "新闻提到导弹，然后给出日期。"
+            },
+            {
+              "en": "The library keeps old articles about the missile.",
+              "zh": "图书馆保存着关于这种导弹的旧文章。"
+            }
+          ]
+        },
+        "col": {
+          "old": [
+            "a missile of｜一枚导弹"
+          ],
+          "new": [
+            "a missile test｜导弹试验"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pension",
+      "changes": {
+        "col": {
+          "old": [
+            "a pension of｜一笔养老金"
+          ],
+          "new": [
+            "draw a pension｜领养老金"
+          ]
+        }
+      }
+    },
+    {
+      "id": "surgeon",
+      "changes": {
+        "ex": {
+          "old": [
+            {
+              "en": "The surgeon spoke to the family.",
+              "zh": "外科医生和家属说了话。"
+            },
+            {
+              "en": "A school can explain the word surgeon without describing an operation.",
+              "zh": "学校可以解释 surgeon 这个词，而不描述手术。"
+            }
+          ],
+          "new": [
+            {
+              "en": "The surgeon spoke to the family.",
+              "zh": "外科医生和家属说了话。"
+            },
+            {
+              "en": "The family waited to see the surgeon.",
+              "zh": "家人等着见外科医生。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "sandwich",
+      "changes": {
+        "col": {
+          "old": [
+            "a sandwich of｜一个三明治"
+          ],
+          "new": [
+            "a cheese sandwich｜奶酪三明治"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dish",
+      "changes": {
+        "col": {
+          "old": [
+            "a dish of｜一盘"
+          ],
+          "new": [
+            "do the dishes｜洗碗"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dive",
+      "changes": {
+        "ex": {
+          "old": [
+            {
+              "en": "Do not dive into the shallow end.",
+              "zh": "不要在浅水区跳水。"
+            },
+            {
+              "en": "A dive lesson should name the adult who watches the pool.",
+              "zh": "跳水课应当写明哪位成年人看着泳池。"
+            }
+          ],
+          "new": [
+            {
+              "en": "Do not dive into the shallow end.",
+              "zh": "不要在浅水区跳水。"
+            },
+            {
+              "en": "The children dive from the low board.",
+              "zh": "孩子们从低跳板跳水。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "duck",
+      "changes": {
+        "col": {
+          "old": [
+            "a duck of｜一只鸭子"
+          ],
+          "new": [
+            "a wild duck｜野鸭"
+          ]
+        }
+      }
+    },
+    {
+      "id": "embassy",
+      "changes": {
+        "col": {
+          "old": [
+            "an embassy of｜……的大使馆"
+          ],
+          "new": [
+            "at the embassy｜在大使馆"
+          ]
+        }
+      }
+    },
+    {
+      "id": "motivation",
+      "changes": {
+        "uk": {
+          "old": "/məʊtɪ'veɪʃn/",
+          "new": "/ˌməʊtɪˈveɪʃn/"
+        },
+        "us": {
+          "old": "/mˌoʊɾɪvˈeɪʃən/",
+          "new": "/ˌmoʊtɪˈveɪʃn/"
+        }
+      }
+    },
+    {
+      "id": "phenomenon",
+      "changes": {
+        "uk": {
+          "old": "/fɪˈnɔmɪnən/",
+          "new": "/fəˈnɒmɪnən/"
+        },
+        "us": {
+          "old": "/fɪnˈɑːmɪnən/",
+          "new": "/fəˈnɑmənən/"
+        },
+        "col": {
+          "old": [
+            "a phenomenon of｜一种现象"
+          ],
+          "new": [
+            "a natural phenomenon｜自然现象"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sheep",
+      "changes": {
+        "ex": {
+          "old": [
+            {
+              "en": "The sheep are in the field.",
+              "zh": "羊在田里。"
+            },
+            {
+              "en": "Wool from these sheep is sold at the Friday market.",
+              "zh": "这些羊的毛在周五的集市上出售。"
+            }
+          ],
+          "new": [
+            {
+              "en": "The sheep stayed under the tree.",
+              "zh": "羊待在树下。"
+            },
+            {
+              "en": "Wool from these sheep is sold at the Friday market.",
+              "zh": "这些羊的毛在周五的集市上出售。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "acquire",
+      "changes": {
+        "us": {
+          "old": "/əkwˈaɪər/",
+          "new": "/əˈkwaɪər/"
+        }
+      }
+    },
+    {
+      "id": "unfortunate",
+      "changes": {
+        "ex": {
+          "old": [
+            {
+              "en": "The delay was unfortunate.",
+              "zh": "这次延误很不幸。"
+            },
+            {
+              "en": "An unfortunate score on one quiz is not the whole student.",
+              "zh": "一次小测的不幸分数不是整个学生。"
+            }
+          ],
+          "new": [
+            {
+              "en": "The delay was unfortunate.",
+              "zh": "这次延误很不幸。"
+            },
+            {
+              "en": "Missing the bus was unfortunate, but she still arrived.",
+              "zh": "没赶上车很倒霉，但她还是到了。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "treasure",
+      "changes": {
+        "col": {
+          "old": [
+            "treasure of｜……的珍宝"
+          ],
+          "new": [
+            "buried treasure｜埋藏的财宝"
+          ]
+        }
+      }
+    },
+    {
+      "id": "plug",
+      "changes": {
+        "ex": {
+          "old": [
+            {
+              "en": "The plug is loose.",
+              "zh": "插头松了。"
+            },
+            {
+              "en": "A loose plug is a reason to switch the power off and call an adult.",
+              "zh": "松了的插头是关掉电源并叫成年人的理由。"
+            }
+          ],
+          "new": [
+            {
+              "en": "The plug is loose.",
+              "zh": "插头松了。"
+            },
+            {
+              "en": "The lamp will not work with a loose plug.",
+              "zh": "插头松了，这盏灯就不亮。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "contrary",
+      "changes": {
+        "ex": {
+          "old": [
+            {
+              "en": "The result was the contrary of the poster.",
+              "zh": "结果和海报相反。"
+            },
+            {
+              "en": "The measurements proved the contrary of the first report.",
+              "zh": "测量结果证明了和第一份报告相反的情况。"
+            }
+          ],
+          "new": [
+            {
+              "en": "On the contrary, the hall was half empty.",
+              "zh": "正相反，礼堂空了一半。"
+            },
+            {
+              "en": "The result was contrary to the first report.",
+              "zh": "结果和第一份报告相反。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "profession",
+      "changes": {
+        "ex": {
+          "old": [
+            {
+              "en": "Teaching is her profession.",
+              "zh": "教书是她的职业。"
+            },
+            {
+              "en": "A profession should not decide who may use the public library.",
+              "zh": "职业不应当决定谁可以用公共图书馆。"
+            }
+          ],
+          "new": [
+            {
+              "en": "Teaching is her profession.",
+              "zh": "教书是她的职业。"
+            },
+            {
+              "en": "Medicine is a profession that takes years of study.",
+              "zh": "医学是一份需要学很多年的职业。"
+            }
+          ]
+        },
+        "col": {
+          "old": [
+            "a profession of｜……的职业"
+          ],
+          "new": [
+            "by profession｜就职业来说"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sink",
+      "changes": {
+        "ex": {
+          "old": [
+            {
+              "en": "The paper boat began to sink.",
+              "zh": "纸船开始下沉。"
+            },
+            {
+              "en": "A town that lets the old library sink into disrepair loses more than a building.",
+              "zh": "让旧图书馆破败下去的城镇，失去的不只是一栋楼。"
+            }
+          ],
+          "new": [
+            {
+              "en": "The paper boat began to sink.",
+              "zh": "纸船开始下沉。"
+            },
+            {
+              "en": "Watch the stone sink in the pond.",
+              "zh": "看那块石头在池塘里下沉。"
+            }
+          ]
+        },
+        "col": {
+          "old": [
+            "sink into｜陷入"
+          ],
+          "new": [
+            "sink below｜沉到……下面"
+          ]
+        }
+      }
+    },
+    {
+      "id": "tobacco",
+      "changes": {
+        "ex": {
+          "old": [
+            {
+              "en": "The shop keeps tobacco behind the counter.",
+              "zh": "商店把烟草放在柜台后面。"
+            },
+            {
+              "en": "A health lesson on tobacco should say that smoking harms the lungs.",
+              "zh": "关于烟草的健康课应当说明吸烟伤害肺。"
+            }
+          ],
+          "new": [
+            {
+              "en": "The shop keeps tobacco behind the counter.",
+              "zh": "商店把烟草放在柜台后面。"
+            },
+            {
+              "en": "Smoking tobacco harms the lungs.",
+              "zh": "吸食烟草会伤害肺。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "bless",
+      "changes": {
+        "ex": {
+          "old": [
+            {
+              "en": "The visitor said bless you after the sneeze.",
+              "zh": "客人在喷嚏之后说了 bless you。"
+            },
+            {
+              "en": "A school can explain the word bless without telling every student to believe.",
+              "zh": "学校可以解释 bless 这个词，而不要求每个学生去信。"
+            }
+          ],
+          "new": [
+            {
+              "en": "The visitor said bless you after the sneeze.",
+              "zh": "客人在喷嚏之后说了 bless you。"
+            },
+            {
+              "en": "He wrote bless you at the end of the card.",
+              "zh": "他在卡片末尾写了 bless you。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "occupation",
+      "changes": {
+        "ex": {
+          "old": [
+            {
+              "en": "Her occupation is written on the form.",
+              "zh": "她的职业写在表格上。"
+            },
+            {
+              "en": "A person's occupation should not decide who may borrow books.",
+              "zh": "一个人的职业不应当决定谁可以借书。"
+            }
+          ],
+          "new": [
+            {
+              "en": "Her occupation is written on the form.",
+              "zh": "她的职业写在表格上。"
+            },
+            {
+              "en": "She hopes to change her occupation after college.",
+              "zh": "她希望大学毕业后换一个职业。"
+            }
+          ]
+        },
+        "col": {
+          "old": [
+            "occupation of｜……的职业"
+          ],
+          "new": [
+            "a full-time occupation｜一份全职工作"
+          ]
+        }
+      }
+    },
+    {
+      "id": "barrier",
+      "changes": {
+        "uk": {
+          "old": "/'bærɪə/",
+          "new": "/ˈbæriə(r)/"
+        }
+      }
+    },
+    {
+      "id": "easter",
+      "changes": {
+        "ex": {
+          "old": [
+            {
+              "en": "Easter is in spring this year.",
+              "zh": "今年的复活节在春天。"
+            },
+            {
+              "en": "A school can explain Easter without telling every student to celebrate it.",
+              "zh": "学校可以解释复活节，而不要求每个学生去过。"
+            }
+          ],
+          "new": [
+            {
+              "en": "Easter is in spring this year.",
+              "zh": "今年的复活节在春天。"
+            },
+            {
+              "en": "We have no lessons over Easter.",
+              "zh": "复活节期间我们不上课。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "hammer",
+      "changes": {
+        "uk": {
+          "old": "/'hæmə(r)/",
+          "new": "/ˈhæmə(r)/"
+        }
+      }
+    },
+    {
+      "id": "politician",
+      "changes": {
+        "us": {
+          "old": "/pˌɑːlɪtˈɪʃən/",
+          "new": "/ˌpɑləˈtɪʃən/"
+        }
+      }
+    },
+    {
+      "id": "mathematics",
+      "changes": {
+        "us": {
+          "old": "/mˌæθɪmˈæɾɪks/",
+          "new": "/ˌmæθəˈmætɪks/"
+        }
+      }
+    },
+    {
+      "id": "cage",
+      "changes": {
+        "ex": {
+          "old": [
+            {
+              "en": "The cage has water and shade.",
+              "zh": "笼子里有水和阴凉。"
+            },
+            {
+              "en": "A cage without space is not a lesson the class should copy.",
+              "zh": "没有空间的笼子，不是班级该模仿的课。"
+            }
+          ],
+          "new": [
+            {
+              "en": "The cage has water and shade.",
+              "zh": "笼子里有水和阴凉。"
+            },
+            {
+              "en": "The bird's cage hangs by the window.",
+              "zh": "鸟笼挂在窗户旁边。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "cow",
+      "changes": {
+        "col": {
+          "old": [
+            "a cow of｜一头奶牛"
+          ],
+          "new": [
+            "milk a cow｜给奶牛挤奶"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sweat",
+      "changes": {
+        "col": {
+          "old": [
+            "sweat of｜汗水"
+          ],
+          "new": [
+            "break into a sweat｜出一身汗"
+          ]
+        }
+      }
+    },
+    {
+      "id": "awake",
+      "changes": {
+        "ex": {
+          "old": [
+            {
+              "en": "She was awake at six.",
+              "zh": "她六点就醒了。"
+            },
+            {
+              "en": "A student awake all night still needs sleep, not a punishment.",
+              "zh": "整夜醒着的学生需要的是睡眠，不是惩罚。"
+            }
+          ],
+          "new": [
+            {
+              "en": "She was awake at six.",
+              "zh": "她六点时已经醒着。"
+            },
+            {
+              "en": "A student awake all night still needs sleep, not a punishment.",
+              "zh": "整夜醒着的学生需要的是睡眠，不是惩罚。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "creature",
+      "changes": {
+        "col": {
+          "old": [
+            "a creature of｜一种生物"
+          ],
+          "new": [
+            "a sea creature｜海洋生物"
+          ]
+        }
+      }
+    },
+    {
+      "id": "leaf",
+      "changes": {
+        "col": {
+          "old": [
+            "a leaf of｜一片叶子"
+          ],
+          "new": [
+            "a fallen leaf｜一片落叶"
+          ]
+        }
+      }
+    },
+    {
+      "id": "uncomfortable",
+      "changes": {
+        "us": {
+          "old": "/ʌŋkˈʌmftəbəl/",
+          "new": "/ʌnˈkʌmftərbəl/"
+        }
+      }
+    },
+    {
+      "id": "bored",
+      "changes": {
+        "uk": {
+          "old": "/bɔrd/",
+          "new": "/bɔːd/"
+        },
+        "us": {
+          "old": "/ˈboːrd/",
+          "new": "/bɔrd/"
+        }
+      }
+    },
+    {
+      "id": "mixture",
+      "changes": {
+        "ex": {
+          "old": [
+            {
+              "en": "The soup is a mixture of beans and corn.",
+              "zh": "这汤是豆子和玉米的混合。"
+            },
+            {
+              "en": "A mixture without a label in the lab should not be used.",
+              "zh": "实验室里没有标签的混合物不应当使用。"
+            }
+          ],
+          "new": [
+            {
+              "en": "The soup is a mixture of beans and corn.",
+              "zh": "这汤是豆子和玉米的混合。"
+            },
+            {
+              "en": "Stir the mixture until it is smooth.",
+              "zh": "把混合物搅拌到顺滑。"
+            }
+          ]
+        },
+        "col": {
+          "old": [
+            "a mixture of｜……的混合物"
+          ],
+          "new": [
+            "a mixture of flour and water｜面粉和水的混合物"
+          ]
+        }
+      }
+    },
+    {
+      "id": "satisfaction",
+      "changes": {
+        "us": {
+          "old": "/sˌæɾɪsfˈækʃən/",
+          "new": "/ˌsætɪsˈfækʃən/"
+        },
+        "ex": {
+          "old": [
+            {
+              "en": "There was satisfaction in the hall.",
+              "zh": "礼堂里有一种满意。"
+            },
+            {
+              "en": "Satisfaction with a score should still leave room to thank the team.",
+              "zh": "对分数的满意仍然应当留出位置去谢谢队伍。"
+            }
+          ],
+          "new": [
+            {
+              "en": "She read the score with satisfaction.",
+              "zh": "她满意地看了这个分数。"
+            },
+            {
+              "en": "Satisfaction with a score should still leave room to thank the team.",
+              "zh": "对分数的满意仍然应当留出位置去谢谢队伍。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "crop",
+      "changes": {
+        "col": {
+          "old": [
+            "a crop of｜一季收成"
+          ],
+          "new": [
+            "harvest the crop｜收庄稼"
+          ]
+        }
+      }
+    },
+    {
+      "id": "lecture",
+      "changes": {
+        "ex": {
+          "old": [
+            {
+              "en": "The lecture starts at ten.",
+              "zh": "讲座十点开始。"
+            },
+            {
+              "en": "A lecture without a source is harder to trust.",
+              "zh": "没有来源的讲座更难信任。"
+            }
+          ],
+          "new": [
+            {
+              "en": "The lecture starts at ten.",
+              "zh": "讲座十点开始。"
+            },
+            {
+              "en": "The lecture filled the hall.",
+              "zh": "这场讲座坐满了礼堂。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "boxing",
+      "changes": {
+        "ex": {
+          "old": [
+            {
+              "en": "Boxing practice is in the gym.",
+              "zh": "拳击训练在体育馆。"
+            },
+            {
+              "en": "A boxing lesson should stop at the rules and the gloves, not a method of harm.",
+              "zh": "拳击课应当停在规则和手套上，而不是伤害的做法。"
+            }
+          ],
+          "new": [
+            {
+              "en": "Boxing practice is in the gym.",
+              "zh": "拳击训练在体育馆。"
+            },
+            {
+              "en": "The class watched a short boxing match.",
+              "zh": "全班看了一小段拳击比赛。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "poster",
+      "changes": {
+        "col": {
+          "old": [
+            "a poster of｜一张……海报"
+          ],
+          "new": [
+            "put up a poster｜贴海报"
+          ]
+        }
+      }
+    },
+    {
+      "id": "alike",
+      "changes": {
+        "senses": {
+          "old": [
+            {
+              "pos": "adv.",
+              "zh": "相似地",
+              "en": "in a similar way"
+            }
+          ],
+          "new": [
+            {
+              "pos": "adj.",
+              "zh": "相似的",
+              "en": "similar; used after a verb such as look or be, not before a noun"
+            },
+            {
+              "pos": "adv.",
+              "zh": "相似地",
+              "en": "in a similar way"
+            }
+          ]
+        },
+        "ex": {
+          "old": [
+            {
+              "en": "The two clocks look alike.",
+              "zh": "这两块钟看起来一样。"
+            },
+            {
+              "en": "Treat the two classes alike when the fee is the same.",
+              "zh": "费用相同时，两个班应当同样对待。"
+            }
+          ],
+          "new": [
+            {
+              "en": "The two clocks look alike.",
+              "zh": "这两块钟看起来很相似。"
+            },
+            {
+              "en": "Treat the two classes alike when the fee is the same.",
+              "zh": "费用相同时，两个班应当同样对待。"
+            }
+          ]
+        },
+        "tip": {
+          "old": "alike 只作表语或副词，不放在名词前。",
+          "new": "作形容词时只放在系动词后面，如 look alike，不放在名词前。也可作副词。"
+        }
+      }
+    },
+    {
+      "id": "carpet",
+      "changes": {
+        "col": {
+          "old": [
+            "a carpet of｜一块地毯"
+          ],
+          "new": [
+            "wall-to-wall carpet｜满铺地毯"
+          ]
+        }
+      }
+    },
+    {
+      "id": "eagle",
+      "changes": {
+        "col": {
+          "old": [
+            "an eagle of｜一只鹰"
+          ],
+          "new": [
+            "a golden eagle｜金雕"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wallet",
+      "changes": {
+        "col": {
+          "old": [
+            "a wallet of｜一个钱包"
+          ],
+          "new": [
+            "lose a wallet｜丢钱包"
+          ]
+        }
+      }
+    },
+    {
+      "id": "appreciation",
+      "changes": {
+        "us": {
+          "old": "/əprˌiːʃɪˈeɪʃən/",
+          "new": "/əˌpriːʃiˈeɪʃn/"
+        }
+      }
+    },
+    {
+      "id": "clinic",
+      "changes": {
+        "ex": {
+          "old": [
+            {
+              "en": "The clinic opens at eight.",
+              "zh": "诊所八点开门。"
+            },
+            {
+              "en": "A school clinic that closes before the last class leaves is not a plan.",
+              "zh": "在最后一节课离开之前就关门的校医室，不是方案。"
+            }
+          ],
+          "new": [
+            {
+              "en": "The clinic opens at eight.",
+              "zh": "诊所八点开门。"
+            },
+            {
+              "en": "He waited twenty minutes at the clinic.",
+              "zh": "他在诊所等了二十分钟。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "permit",
+      "changes": {
+        "us": {
+          "old": "/ˈpɜːmɪt/",
+          "new": "/pərˈmɪt/"
+        },
+        "tip": {
+          "old": "动词重音常在后，名词“许可证”重音常在前。",
+          "new": "动词重音在后，美音 /pərˈmɪt/。名词“许可证”重音在前，美音常作 /ˈpɜːrmɪt/。"
+        }
+      }
+    },
+    {
+      "id": "twist",
+      "changes": {
+        "ex": {
+          "old": [
+            {
+              "en": "Twist the cap until it is tight.",
+              "zh": "把盖子拧紧。"
+            },
+            {
+              "en": "Do not twist an ankle story into a reason to finish the race.",
+              "zh": "不要把扭伤脚踝说成把比赛跑完的理由。"
+            }
+          ],
+          "new": [
+            {
+              "en": "Twist the cap until it is tight.",
+              "zh": "把盖子拧紧。"
+            },
+            {
+              "en": "She twisted her ankle on the wet step.",
+              "zh": "她在湿台阶上扭了脚踝。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "slavery",
+      "changes": {
+        "ex": {
+          "old": [
+            {
+              "en": "The history text names slavery and also names the people.",
+              "zh": "历史课文写出奴隶制度，也写出那些人的名字。"
+            },
+            {
+              "en": "A lesson on slavery should say that forcing people to work was wrong.",
+              "zh": "关于奴隶制的课应当说明强迫人劳动是错的。"
+            }
+          ],
+          "new": [
+            {
+              "en": "The history text names slavery and also names the people.",
+              "zh": "历史课文写出奴隶制度，也写出那些人的名字。"
+            },
+            {
+              "en": "The text says slavery forced people to work without pay.",
+              "zh": "课文写道，奴隶制强迫人无偿劳动。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "scientist",
+      "changes": {
+        "ex": {
+          "old": [
+            {
+              "en": "The scientist checked the chart twice.",
+              "zh": "科学家把图表核对了两遍。"
+            },
+            {
+              "en": "A scientist who names no source is harder to trust.",
+              "zh": "不写来源的科学家更难信任。"
+            }
+          ],
+          "new": [
+            {
+              "en": "The scientist checked the chart twice.",
+              "zh": "科学家把图表核对了两遍。"
+            },
+            {
+              "en": "The scientist explained the chart to the class.",
+              "zh": "科学家向全班解释了这张图表。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "consultant",
+      "changes": {
+        "ex": {
+          "old": [
+            {
+              "en": "The consultant checked the timetable.",
+              "zh": "顾问核对了时刻表。"
+            },
+            {
+              "en": "A consultant who names no source is harder to trust.",
+              "zh": "不写来源的顾问更难信任。"
+            }
+          ],
+          "new": [
+            {
+              "en": "The consultant checked the timetable.",
+              "zh": "顾问核对了时刻表。"
+            },
+            {
+              "en": "The consultant met the principal on Thursday.",
+              "zh": "顾问周四见了校长。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "companion",
+      "changes": {
+        "col": {
+          "old": [
+            "a companion of｜……的同伴"
+          ],
+          "new": [
+            "a travelling companion｜旅伴"
+          ]
+        }
+      }
+    },
+    {
+      "id": "fever",
+      "changes": {
+        "ex": {
+          "old": [
+            {
+              "en": "The nurse checked her fever.",
+              "zh": "护士给她量了体温。"
+            },
+            {
+              "en": "A fever that lasts into the next morning is a reason to call the clinic.",
+              "zh": "烧到第二天早上，就该给诊所打电话。"
+            }
+          ],
+          "new": [
+            {
+              "en": "The nurse checked to see if she had a fever.",
+              "zh": "护士查看她是否发烧。"
+            },
+            {
+              "en": "A fever that lasts into the next morning is a reason to call the clinic.",
+              "zh": "烧到第二天早上，就该给诊所打电话。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "harbor",
+      "changes": {
+        "uk": {
+          "old": "/'hɑːbə/",
+          "new": "/ˈhɑːbə(r)/"
+        }
+      }
+    },
+    {
+      "id": "earthquake",
+      "changes": {
+        "col": {
+          "old": [
+            "an earthquake of｜一次地震"
+          ],
+          "new": [
+            "a strong earthquake｜强烈地震"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pile",
+      "changes": {
+        "col": {
+          "old": [
+            "a pile of｜一堆"
+          ],
+          "new": [
+            "a pile of books｜一堆书"
+          ]
+        }
+      }
+    },
+    {
+      "id": "grain",
+      "changes": {
+        "col": {
+          "old": [
+            "a grain of｜一粒"
+          ],
+          "new": [
+            "a grain of rice｜一粒米"
+          ]
+        }
+      }
+    },
+    {
+      "id": "detective",
+      "changes": {
+        "ex": {
+          "old": [
+            {
+              "en": "The detective in the novel checks the clock.",
+              "zh": "小说里的侦探核对了钟。"
+            },
+            {
+              "en": "A detective story can name the place and the date without teaching a method.",
+              "zh": "侦探故事可以写出地点和日期，同时不教方法。"
+            }
+          ],
+          "new": [
+            {
+              "en": "The detective in the novel checks the clock.",
+              "zh": "小说里的侦探核对了钟。"
+            },
+            {
+              "en": "In the story, the detective arrives after midnight.",
+              "zh": "故事里，侦探在午夜之后才到。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "cinema",
+      "changes": {
+        "ex": {
+          "old": [
+            {
+              "en": "The cinema is beside the library.",
+              "zh": "电影院在图书馆旁边。"
+            },
+            {
+              "en": "The cinema shows a short film before the main feature.",
+              "zh": "电影院在正片之前放一部短片。"
+            }
+          ],
+          "new": [
+            {
+              "en": "The cinema opens at noon.",
+              "zh": "电影院正午开门。"
+            },
+            {
+              "en": "The cinema shows a short film before the main feature.",
+              "zh": "电影院在正片之前放一部短片。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "salad",
+      "changes": {
+        "col": {
+          "old": [
+            "a salad of｜一份色拉"
+          ],
+          "new": [
+            "a green salad｜蔬菜色拉"
+          ]
+        }
+      }
+    },
+    {
+      "id": "humor",
+      "changes": {
+        "uk": {
+          "old": "/'hjuːmə/",
+          "new": "/ˈhjuːmə(r)/"
+        },
+        "ex": {
+          "old": [
+            {
+              "en": "Her humor made the wait shorter.",
+              "zh": "她的幽默让等待变短了。"
+            },
+            {
+              "en": "Humor that mocks a classmate's accent is not a gift to the class.",
+              "zh": "嘲笑同学口音的幽默，不是给班级的礼物。"
+            }
+          ],
+          "new": [
+            {
+              "en": "Her humor made the wait shorter.",
+              "zh": "她的幽默让等待变短了。"
+            },
+            {
+              "en": "The play is full of quiet humor.",
+              "zh": "这出戏里有不少轻巧的幽默。"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "deer",
+      "changes": {
+        "col": {
+          "old": [
+            "a deer of｜一只鹿"
+          ],
+          "new": [
+            "a herd of deer｜一群鹿"
+          ]
+        }
+      }
+    },
+    {
+      "id": "separation",
+      "changes": {
+        "us": {
+          "old": "/sˌɛpərrˈeɪʃən/",
+          "new": "/ˌsepəˈreɪʃn/"
+        }
+      }
+    },
+    {
+      "id": "marathon",
+      "changes": {
+        "ex": {
+          "old": [
+            {
+              "en": "The marathon passes the school.",
+              "zh": "马拉松经过学校。"
+            },
+            {
+              "en": "A marathon for charity should still leave a path for the clinic.",
+              "zh": "慈善马拉松仍然应当给诊所留出通路。"
+            }
+          ],
+          "new": [
+            {
+              "en": "The marathon passes the school.",
+              "zh": "马拉松经过学校。"
+            },
+            {
+              "en": "She trained for the marathon all spring.",
+              "zh": "她整个春天都在为这场马拉松训练。"
+            }
+          ]
+        },
+        "col": {
+          "old": [
+            "a marathon of｜一场马拉松"
+          ],
+          "new": [
+            "run a marathon｜跑马拉松"
+          ]
+        }
+      }
+    },
+    {
+      "id": "lap",
+      "changes": {
+        "col": {
+          "old": [
+            "a lap of｜一圈"
+          ],
+          "new": [
+            "run a lap｜跑一圈"
+          ]
+        }
+      }
+    },
+    {
+      "id": "scratch",
+      "changes": {
+        "uk": {
+          "old": "/krætʃ/",
+          "new": "/skrætʃ/"
+        }
+      }
+    }
+  ],
+  "dummyCollocations": {
+    "count": 37,
+    "rule": "Replace 'a/an {headword} of' when it was only a measure-word frame. Keep handful, pile, mixture, and grain of, but complete them so the phrase is a real collocation and still contains the headword.",
+    "items": [
+      {
+        "id": "handful",
+        "old": "a handful of｜一把；少数",
+        "new": [
+          "a handful of seeds｜一把种子"
+        ],
+        "keptHeadword": true
+      },
+      {
+        "id": "disability",
+        "old": "a disability of｜一种残疾",
+        "new": [
+          "a physical disability｜身体残疾"
+        ],
+        "keptHeadword": true
+      },
+      {
+        "id": "poet",
+        "old": "a poet of｜一位……诗人",
+        "new": [
+          "a young poet｜青年诗人"
+        ],
+        "keptHeadword": true
+      },
+      {
+        "id": "organ",
+        "old": "an organ of｜一个器官",
+        "new": [
+          "play the organ｜弹风琴",
+          "a pipe organ｜管风琴"
+        ],
+        "keptHeadword": true
+      },
+      {
+        "id": "pig",
+        "old": "a pig of｜一头猪",
+        "new": [
+          "raise pigs｜养猪"
+        ],
+        "keptHeadword": true
+      },
+      {
+        "id": "weakness",
+        "old": "a weakness of｜……的弱点",
+        "new": [
+          "a weakness in spelling｜拼写上的弱点"
+        ],
+        "keptHeadword": true
+      },
+      {
+        "id": "prisoner",
+        "old": "a prisoner of｜一名囚犯",
+        "new": [
+          "a prisoner of war｜战俘"
+        ],
+        "keptHeadword": true
+      },
+      {
+        "id": "coin",
+        "old": "a coin of｜一枚硬币",
+        "new": [
+          "a gold coin｜一枚金币"
+        ],
+        "keptHeadword": true
+      },
+      {
+        "id": "neighbor",
+        "old": "a neighbor of｜……的邻居",
+        "new": [
+          "a next-door neighbor｜隔壁邻居"
+        ],
+        "keptHeadword": true
+      },
+      {
+        "id": "potato",
+        "old": "a potato of｜一个土豆",
+        "new": [
+          "a baked potato｜烤土豆"
+        ],
+        "keptHeadword": true
+      },
+      {
+        "id": "farmer",
+        "old": "a farmer of｜一位农民",
+        "new": [
+          "a rice farmer｜稻农"
+        ],
+        "keptHeadword": true
+      },
+      {
+        "id": "privilege",
+        "old": "a privilege of｜……的特权",
+        "new": [
+          "a special privilege｜一项特权"
+        ],
+        "keptHeadword": true
+      },
+      {
+        "id": "missile",
+        "old": "a missile of｜一枚导弹",
+        "new": [
+          "a missile test｜导弹试验"
+        ],
+        "keptHeadword": true
+      },
+      {
+        "id": "pension",
+        "old": "a pension of｜一笔养老金",
+        "new": [
+          "draw a pension｜领养老金"
+        ],
+        "keptHeadword": true
+      },
+      {
+        "id": "sandwich",
+        "old": "a sandwich of｜一个三明治",
+        "new": [
+          "a cheese sandwich｜奶酪三明治"
+        ],
+        "keptHeadword": true
+      },
+      {
+        "id": "dish",
+        "old": "a dish of｜一盘",
+        "new": [
+          "do the dishes｜洗碗"
+        ],
+        "keptHeadword": true
+      },
+      {
+        "id": "duck",
+        "old": "a duck of｜一只鸭子",
+        "new": [
+          "a wild duck｜野鸭"
+        ],
+        "keptHeadword": true
+      },
+      {
+        "id": "embassy",
+        "old": "an embassy of｜……的大使馆",
+        "new": [
+          "at the embassy｜在大使馆"
+        ],
+        "keptHeadword": true
+      },
+      {
+        "id": "phenomenon",
+        "old": "a phenomenon of｜一种现象",
+        "new": [
+          "a natural phenomenon｜自然现象"
+        ],
+        "keptHeadword": true
+      },
+      {
+        "id": "profession",
+        "old": "a profession of｜……的职业",
+        "new": [
+          "by profession｜就职业来说"
+        ],
+        "keptHeadword": true
+      },
+      {
+        "id": "cow",
+        "old": "a cow of｜一头奶牛",
+        "new": [
+          "milk a cow｜给奶牛挤奶"
+        ],
+        "keptHeadword": true
+      },
+      {
+        "id": "creature",
+        "old": "a creature of｜一种生物",
+        "new": [
+          "a sea creature｜海洋生物"
+        ],
+        "keptHeadword": true
+      },
+      {
+        "id": "leaf",
+        "old": "a leaf of｜一片叶子",
+        "new": [
+          "a fallen leaf｜一片落叶"
+        ],
+        "keptHeadword": true
+      },
+      {
+        "id": "mixture",
+        "old": "a mixture of｜……的混合物",
+        "new": [
+          "a mixture of flour and water｜面粉和水的混合物"
+        ],
+        "keptHeadword": true
+      },
+      {
+        "id": "crop",
+        "old": "a crop of｜一季收成",
+        "new": [
+          "harvest the crop｜收庄稼"
+        ],
+        "keptHeadword": true
+      },
+      {
+        "id": "poster",
+        "old": "a poster of｜一张……海报",
+        "new": [
+          "put up a poster｜贴海报"
+        ],
+        "keptHeadword": true
+      },
+      {
+        "id": "carpet",
+        "old": "a carpet of｜一块地毯",
+        "new": [
+          "wall-to-wall carpet｜满铺地毯"
+        ],
+        "keptHeadword": true
+      },
+      {
+        "id": "eagle",
+        "old": "an eagle of｜一只鹰",
+        "new": [
+          "a golden eagle｜金雕"
+        ],
+        "keptHeadword": true
+      },
+      {
+        "id": "wallet",
+        "old": "a wallet of｜一个钱包",
+        "new": [
+          "lose a wallet｜丢钱包"
+        ],
+        "keptHeadword": true
+      },
+      {
+        "id": "companion",
+        "old": "a companion of｜……的同伴",
+        "new": [
+          "a travelling companion｜旅伴"
+        ],
+        "keptHeadword": true
+      },
+      {
+        "id": "earthquake",
+        "old": "an earthquake of｜一次地震",
+        "new": [
+          "a strong earthquake｜强烈地震"
+        ],
+        "keptHeadword": true
+      },
+      {
+        "id": "pile",
+        "old": "a pile of｜一堆",
+        "new": [
+          "a pile of books｜一堆书"
+        ],
+        "keptHeadword": true
+      },
+      {
+        "id": "grain",
+        "old": "a grain of｜一粒",
+        "new": [
+          "a grain of rice｜一粒米"
+        ],
+        "keptHeadword": true
+      },
+      {
+        "id": "salad",
+        "old": "a salad of｜一份色拉",
+        "new": [
+          "a green salad｜蔬菜色拉"
+        ],
+        "keptHeadword": true
+      },
+      {
+        "id": "deer",
+        "old": "a deer of｜一只鹿",
+        "new": [
+          "a herd of deer｜一群鹿"
+        ],
+        "keptHeadword": true
+      },
+      {
+        "id": "marathon",
+        "old": "a marathon of｜一场马拉松",
+        "new": [
+          "run a marathon｜跑马拉松"
+        ],
+        "keptHeadword": true
+      },
+      {
+        "id": "lap",
+        "old": "a lap of｜一圈",
+        "new": [
+          "run a lap｜跑一圈"
+        ],
+        "keptHeadword": true
+      }
+    ]
+  },
+  "extraOfFrames": [
+    {
+      "id": "sweat",
+      "old": [
+        "sweat of｜汗水"
+      ],
+      "new": [
+        "break into a sweat｜出一身汗"
+      ]
+    },
+    {
+      "id": "theft",
+      "old": [
+        "theft of｜对……的盗窃"
+      ],
+      "new": [
+        "report a theft｜报告失窃"
+      ]
+    },
+    {
+      "id": "treasure",
+      "old": [
+        "treasure of｜……的珍宝"
+      ],
+      "new": [
+        "buried treasure｜埋藏的财宝"
+      ]
+    },
+    {
+      "id": "occupation",
+      "old": [
+        "occupation of｜……的职业"
+      ],
+      "new": [
+        "a full-time occupation｜一份全职工作"
+      ]
+    },
+    {
+      "id": "sink",
+      "old": [
+        "sink into｜陷入"
+      ],
+      "new": [
+        "sink below｜沉到……下面"
+      ]
+    }
+  ],
+  "phonetics": [
+    {
+      "id": "disability",
+      "old": {
+        "uk": "/dɪsəˈbɪlɪtɪ/",
+        "us": "/dˌɪsəbˈɪləɾi/"
+      },
+      "new": {
+        "uk": "/dɪsəˈbɪlɪtɪ/",
+        "us": "/ˌdɪsəˈbɪləti/"
+      }
+    },
+    {
+      "id": "patience",
+      "old": {
+        "uk": "/'peɪʃəns/",
+        "us": "/ˈpeɪʃəns/"
+      },
+      "new": {
+        "uk": "/ˈpeɪʃəns/",
+        "us": "/ˈpeɪʃəns/"
+      }
+    },
+    {
+      "id": "handsome",
+      "old": {
+        "uk": "/ˈhænsəm/",
+        "us": "/ˈhændsʌm/"
+      },
+      "new": {
+        "uk": "/ˈhænsəm/",
+        "us": "/ˈhænsəm/"
+      }
+    },
+    {
+      "id": "athletic",
+      "old": {
+        "uk": "/æθˈletɪk/",
+        "us": "/æθlˈɛɾɪk/"
+      },
+      "new": {
+        "uk": "/æθˈletɪk/",
+        "us": "/æθˈletɪk/"
+      }
+    },
+    {
+      "id": "advocate",
+      "old": {
+        "uk": "/ˈædvəkət/",
+        "us": "/ˈædvəkˌeɪt/"
+      },
+      "new": {
+        "uk": "/ˈædvəkeɪt/",
+        "us": "/ˈædvəkˌeɪt/"
+      }
+    },
+    {
+      "id": "communicate",
+      "old": {
+        "uk": "/kəˈmjuːnɪkeɪt/",
+        "us": "/kəmjˈuːnɪkˌeɪt/"
+      },
+      "new": {
+        "uk": "/kəˈmjuːnɪkeɪt/",
+        "us": "/kəˈmjuːnɪˌkeɪt/"
+      }
+    },
+    {
+      "id": "acknowledge",
+      "old": {
+        "uk": "/əkˈnɔlɪdʒ/",
+        "us": "/əknˈɑːlɪdʒ/"
+      },
+      "new": {
+        "uk": "/əkˈnɔlɪdʒ/",
+        "us": "/əkˈnɑlɪdʒ/"
+      }
+    },
+    {
+      "id": "motivation",
+      "old": {
+        "uk": "/məʊtɪ'veɪʃn/",
+        "us": "/mˌoʊɾɪvˈeɪʃən/"
+      },
+      "new": {
+        "uk": "/ˌməʊtɪˈveɪʃn/",
+        "us": "/ˌmoʊtɪˈveɪʃn/"
+      }
+    },
+    {
+      "id": "phenomenon",
+      "old": {
+        "uk": "/fɪˈnɔmɪnən/",
+        "us": "/fɪnˈɑːmɪnən/"
+      },
+      "new": {
+        "uk": "/fəˈnɒmɪnən/",
+        "us": "/fəˈnɑmənən/"
+      }
+    },
+    {
+      "id": "acquire",
+      "old": {
+        "uk": "/əˈkwaɪə(r)/",
+        "us": "/əkwˈaɪər/"
+      },
+      "new": {
+        "uk": "/əˈkwaɪə(r)/",
+        "us": "/əˈkwaɪər/"
+      }
+    },
+    {
+      "id": "barrier",
+      "old": {
+        "uk": "/'bærɪə/",
+        "us": "/ˈbæriər/"
+      },
+      "new": {
+        "uk": "/ˈbæriə(r)/",
+        "us": "/ˈbæriər/"
+      }
+    },
+    {
+      "id": "hammer",
+      "old": {
+        "uk": "/'hæmə(r)/",
+        "us": "/ˈhæmər/"
+      },
+      "new": {
+        "uk": "/ˈhæmə(r)/",
+        "us": "/ˈhæmər/"
+      }
+    },
+    {
+      "id": "politician",
+      "old": {
+        "uk": "/pɔlɪˈtɪʃ(ə)n/",
+        "us": "/pˌɑːlɪtˈɪʃən/"
+      },
+      "new": {
+        "uk": "/pɔlɪˈtɪʃ(ə)n/",
+        "us": "/ˌpɑləˈtɪʃən/"
+      }
+    },
+    {
+      "id": "mathematics",
+      "old": {
+        "uk": "/mæθəˈmætɪks/",
+        "us": "/mˌæθɪmˈæɾɪks/"
+      },
+      "new": {
+        "uk": "/mæθəˈmætɪks/",
+        "us": "/ˌmæθəˈmætɪks/"
+      }
+    },
+    {
+      "id": "uncomfortable",
+      "old": {
+        "uk": "/ʌnˈkʌmftəb(ə)l/",
+        "us": "/ʌŋkˈʌmftəbəl/"
+      },
+      "new": {
+        "uk": "/ʌnˈkʌmftəb(ə)l/",
+        "us": "/ʌnˈkʌmftərbəl/"
+      }
+    },
+    {
+      "id": "bored",
+      "old": {
+        "uk": "/bɔrd/",
+        "us": "/ˈboːrd/"
+      },
+      "new": {
+        "uk": "/bɔːd/",
+        "us": "/bɔrd/"
+      }
+    },
+    {
+      "id": "satisfaction",
+      "old": {
+        "uk": "/sætɪsˈfækʃ(ə)n/",
+        "us": "/sˌæɾɪsfˈækʃən/"
+      },
+      "new": {
+        "uk": "/sætɪsˈfækʃ(ə)n/",
+        "us": "/ˌsætɪsˈfækʃən/"
+      }
+    },
+    {
+      "id": "appreciation",
+      "old": {
+        "uk": "/əpriːʃɪˈeɪʃ(ə)n/",
+        "us": "/əprˌiːʃɪˈeɪʃən/"
+      },
+      "new": {
+        "uk": "/əpriːʃɪˈeɪʃ(ə)n/",
+        "us": "/əˌpriːʃiˈeɪʃn/"
+      }
+    },
+    {
+      "id": "permit",
+      "old": {
+        "uk": "/pəˈmɪt/",
+        "us": "/ˈpɜːmɪt/"
+      },
+      "new": {
+        "uk": "/pəˈmɪt/",
+        "us": "/pərˈmɪt/"
+      }
+    },
+    {
+      "id": "harbor",
+      "old": {
+        "uk": "/'hɑːbə/",
+        "us": "/ˈhɑːrbər/"
+      },
+      "new": {
+        "uk": "/ˈhɑːbə(r)/",
+        "us": "/ˈhɑːrbər/"
+      }
+    },
+    {
+      "id": "humor",
+      "old": {
+        "uk": "/'hjuːmə/",
+        "us": "/ˈhjuːmər/"
+      },
+      "new": {
+        "uk": "/ˈhjuːmə(r)/",
+        "us": "/ˈhjuːmər/"
+      }
+    },
+    {
+      "id": "separation",
+      "old": {
+        "uk": "/sepəˈreɪʃ(ə)n/",
+        "us": "/sˌɛpərrˈeɪʃən/"
+      },
+      "new": {
+        "uk": "/sepəˈreɪʃ(ə)n/",
+        "us": "/ˌsepəˈreɪʃn/"
+      }
+    },
+    {
+      "id": "scratch",
+      "old": {
+        "uk": "/krætʃ/",
+        "us": "/ˈskrætʃ/"
+      },
+      "new": {
+        "uk": "/skrætʃ/",
+        "us": "/ˈskrætʃ/"
+      }
+    }
+  ],
+  "clips": {
+    "rerecorded": 39,
+    "voice": "af_heart",
+    "lang": "en-us",
+    "speed": 1.0,
+    "engine": "kokoro-onnx 0.6.1 local",
+    "zhOnlyNoAudio": [
+      "awake ex0",
+      "alike ex0",
+      "preference ex0",
+      "tobacco ex1 zh polish"
+    ],
+    "items": [
+      {
+        "id": "ski",
+        "index": 1,
+        "text": "They ski when the snow is deep.",
+        "sha256": "d76b2124d16d000629430873ea8d0d3c281c9d91e05e935c034416dc6d213d11",
+        "bytes": 15299,
+        "duration": 1.771
+      },
+      {
+        "id": "disability",
+        "index": 1,
+        "text": "She talks about her disability only with friends.",
+        "sha256": "6489d92177c41a56036192a70934758b2f47e72c5fc98c2c282932ec00791936",
+        "bytes": 23449,
+        "duration": 2.785
+      },
+      {
+        "id": "organ",
+        "index": 1,
+        "text": "She plays the organ in the hall on Sundays.",
+        "sha256": "fb5440cd51d72fbd31016d300b5a945b9aac5c7a6ea865f9f6e651cdb725b321",
+        "bytes": 20941,
+        "duration": 2.465
+      },
+      {
+        "id": "prisoner",
+        "index": 1,
+        "text": "The prisoner wrote a letter to his family.",
+        "sha256": "25d1ffdc1c104fd641cf2acc00916ba37103383b8b0226ef8c00990503c02c7a",
+        "bytes": 19479,
+        "duration": 2.287
+      },
+      {
+        "id": "flesh",
+        "index": 1,
+        "text": "Cook the flesh of the fish until it is white.",
+        "sha256": "505f4aac712fa6044b596b2a6c6b0a9afa46ff4650711c684a3d5813c1ee5d52",
+        "bytes": 21777,
+        "duration": 2.573
+      },
+      {
+        "id": "arrow",
+        "index": 1,
+        "text": "Follow the arrow to the hall.",
+        "sha256": "dbd15e20ecdec3a6d47aa1cc2f1af778c345835276470b525bf0586f28d31357",
+        "bytes": 14672,
+        "duration": 1.679
+      },
+      {
+        "id": "shine",
+        "index": 1,
+        "text": "The sun will shine after the rain.",
+        "sha256": "389ef0f82b68bfd7046f0f5b2a1695dcfa4cbce78eff4d90ffe4e9dccb6f0960",
+        "bytes": 16971,
+        "duration": 1.966
+      },
+      {
+        "id": "theft",
+        "index": 1,
+        "text": "The theft happened on a Sunday.",
+        "sha256": "a6296ee72698d84ccf82a763b6bfdeb9c465288e57b632a36ede45a32bb5a16a",
+        "bytes": 15299,
+        "duration": 1.753
+      },
+      {
+        "id": "privilege",
+        "index": 0,
+        "text": "A seat by the window felt like a privilege.",
+        "sha256": "1d51ef4d206b7452756d9e4a6ac29c72704fd5cefa4d9338ef43f0eead91aa60",
+        "bytes": 21568,
+        "duration": 2.552
+      },
+      {
+        "id": "privilege",
+        "index": 1,
+        "text": "She called the trip a privilege.",
+        "sha256": "7c2bc0fabc217b1af35750a55b1b6a6db0bd7e1761545b497fa6e5a4e6bcef57",
+        "bytes": 15090,
+        "duration": 1.731
+      },
+      {
+        "id": "missile",
+        "index": 1,
+        "text": "The library keeps old articles about the missile.",
+        "sha256": "db1444787923c037681708972dd207b6b7426e84f9d192aa2350de29abad1b8c",
+        "bytes": 23658,
+        "duration": 2.819
+      },
+      {
+        "id": "surgeon",
+        "index": 1,
+        "text": "The family waited to see the surgeon.",
+        "sha256": "39c05fc4ff8a200b636c6b96060bdc555c706b49df4936506ef944ed9f58b968",
+        "bytes": 19061,
+        "duration": 2.232
+      },
+      {
+        "id": "dive",
+        "index": 1,
+        "text": "The children dive from the low board.",
+        "sha256": "8b9b00e454bb29b7c459851905151c4ae65d8f3797c8fcd8b83af3b54cb386af",
+        "bytes": 18016,
+        "duration": 2.105
+      },
+      {
+        "id": "sheep",
+        "index": 0,
+        "text": "The sheep stayed under the tree.",
+        "sha256": "44ec7dc6d58518ffa50783ea345d169668f0be9840a8f3f6168af8fe6f1ae004",
+        "bytes": 14881,
+        "duration": 1.71
+      },
+      {
+        "id": "unfortunate",
+        "index": 1,
+        "text": "Missing the bus was unfortunate, but she still arrived.",
+        "sha256": "3456c0c01943169289115daddc9fd2fb61320086c65405cd90b21989c6f7c30d",
+        "bytes": 26584,
+        "duration": 3.178
+      },
+      {
+        "id": "plug",
+        "index": 1,
+        "text": "The lamp will not work with a loose plug.",
+        "sha256": "579d3a136d6e142eeb1724f91a78fde7f48539469a30b2655b5955c9b535c00b",
+        "bytes": 18643,
+        "duration": 2.178
+      },
+      {
+        "id": "contrary",
+        "index": 0,
+        "text": "On the contrary, the hall was half empty.",
+        "sha256": "bc6526172517417d51df1a2c851afd879e69fb274ac86661b7c219bd1c6156f1",
+        "bytes": 21777,
+        "duration": 2.572
+      },
+      {
+        "id": "contrary",
+        "index": 1,
+        "text": "The result was contrary to the first report.",
+        "sha256": "6370fa760bd0484956e02daab267afccf47edad352baf444ea5504fd6479731c",
+        "bytes": 22613,
+        "duration": 2.679
+      },
+      {
+        "id": "profession",
+        "index": 1,
+        "text": "Medicine is a profession that takes years of study.",
+        "sha256": "18436833b5c3594c946a45a33f5a8a90ba3dd05dc4e826cfcb96a663ff994475",
+        "bytes": 26375,
+        "duration": 3.148
+      },
+      {
+        "id": "sink",
+        "index": 1,
+        "text": "Watch the stone sink in the pond.",
+        "sha256": "982b98ba5ca090447aed12ff88977a5bf848869b3571a20908a7023b0def9771",
+        "bytes": 16762,
+        "duration": 1.945
+      },
+      {
+        "id": "tobacco",
+        "index": 1,
+        "text": "Smoking tobacco harms the lungs.",
+        "sha256": "92888aa5b51dd0d91bf0e9a1c3f80d60e09c1db9871a63ce8dd0558e2078bf97",
+        "bytes": 18225,
+        "duration": 2.134
+      },
+      {
+        "id": "bless",
+        "index": 1,
+        "text": "He wrote bless you at the end of the card.",
+        "sha256": "997cdf293e51cfdf6dde691727833866f296665c336e16f3bf2decd0cc659e16",
+        "bytes": 18852,
+        "duration": 2.201
+      },
+      {
+        "id": "occupation",
+        "index": 1,
+        "text": "She hopes to change her occupation after college.",
+        "sha256": "f3ac30e31d75936cc3171a8421b20918b527e3567712cd8d1fac5429374e9e3b",
+        "bytes": 26375,
+        "duration": 3.137
+      },
+      {
+        "id": "easter",
+        "index": 1,
+        "text": "We have no lessons over Easter.",
+        "sha256": "a754432edd6c2f136586704128e0e1d8e943805450dab4237e013947d4afc639",
+        "bytes": 16762,
+        "duration": 1.935
+      },
+      {
+        "id": "cage",
+        "index": 1,
+        "text": "The bird's cage hangs by the window.",
+        "sha256": "b83563d37db669184329e9c6a58a810fb3111513585989e5bee8cdee678601f3",
+        "bytes": 19061,
+        "duration": 2.222
+      },
+      {
+        "id": "mixture",
+        "index": 1,
+        "text": "Stir the mixture until it is smooth.",
+        "sha256": "3da994056cf484abcc102fa86feed9bdbf1d14c513f3ca9588f5bd8bbfefa8b6",
+        "bytes": 17389,
+        "duration": 2.02
+      },
+      {
+        "id": "satisfaction",
+        "index": 0,
+        "text": "She read the score with satisfaction.",
+        "sha256": "05fe2bbf741aa58658c70c2cda02b9f76f58f123cb7322f778cf8d42b1ba960d",
+        "bytes": 17389,
+        "duration": 2.01
+      },
+      {
+        "id": "lecture",
+        "index": 1,
+        "text": "The lecture filled the hall.",
+        "sha256": "579627288fa1570c48f459af730e9ae48ce48bceb21ac821131fa1ab64bb66ac",
+        "bytes": 14045,
+        "duration": 1.592
+      },
+      {
+        "id": "boxing",
+        "index": 1,
+        "text": "The class watched a short boxing match.",
+        "sha256": "5143ca971ed6d3c59b56b285b113ca42fc184e224fab3f85a29c26615c9ebe4e",
+        "bytes": 19061,
+        "duration": 2.242
+      },
+      {
+        "id": "clinic",
+        "index": 1,
+        "text": "He waited twenty minutes at the clinic.",
+        "sha256": "72bef108343e906c3aef4baae2dbe6fe0ba63bd17780a2c6bdd2f2f85d1a22b1",
+        "bytes": 17807,
+        "duration": 2.063
+      },
+      {
+        "id": "twist",
+        "index": 1,
+        "text": "She twisted her ankle on the wet step.",
+        "sha256": "106338dcea816597198ee1e103a8883269cb01359bd1ae9f9edc3af41ab7ae54",
+        "bytes": 18852,
+        "duration": 2.211
+      },
+      {
+        "id": "slavery",
+        "index": 1,
+        "text": "The text says slavery forced people to work without pay.",
+        "sha256": "9fa9fa29c970386cbf3fbb7c7ca7caa7f4c7aa06740b9071c4b32ccf2d13dc31",
+        "bytes": 26375,
+        "duration": 3.139
+      },
+      {
+        "id": "scientist",
+        "index": 1,
+        "text": "The scientist explained the chart to the class.",
+        "sha256": "ecf22c9a9f28d0cc5f5ddc99f6b23b25d73852bd25b4e449d77d55765070616f",
+        "bytes": 22404,
+        "duration": 2.656
+      },
+      {
+        "id": "consultant",
+        "index": 1,
+        "text": "The consultant met the principal on Thursday.",
+        "sha256": "d94a28667e67be26d44be8e42d2ba4627a673d71fc2bdfe3184e504e7a1b2327",
+        "bytes": 22613,
+        "duration": 2.689
+      },
+      {
+        "id": "fever",
+        "index": 0,
+        "text": "The nurse checked to see if she had a fever.",
+        "sha256": "3a0a11c288e25857c2286339e7e5ba8fb87d8f26412c73eb536e7132dffeb4fb",
+        "bytes": 19270,
+        "duration": 2.255
+      },
+      {
+        "id": "detective",
+        "index": 1,
+        "text": "In the story, the detective arrives after midnight.",
+        "sha256": "5a5ab708bb8bd7ae6a6a4f7ce894434f125ddf8538406ca11b212c2e4517d1bf",
+        "bytes": 25957,
+        "duration": 3.081
+      },
+      {
+        "id": "cinema",
+        "index": 0,
+        "text": "The cinema opens at noon.",
+        "sha256": "471fee882c14e0b42679bdedb27588cc5dd74daf3346c3596a809349ccd64a30",
+        "bytes": 15299,
+        "duration": 1.774
+      },
+      {
+        "id": "humor",
+        "index": 1,
+        "text": "The play is full of quiet humor.",
+        "sha256": "c153c64c46fe0c7ddc8a34c6e653859d8c2898726fe50dcb551d6cc6ebfcbeff",
+        "bytes": 17180,
+        "duration": 1.987
+      },
+      {
+        "id": "marathon",
+        "index": 1,
+        "text": "She trained for the marathon all spring.",
+        "sha256": "60e1ae7002aa876cdf1e5f18d058b93d7b440bea2c51245283d162c75c508167",
+        "bytes": 19688,
+        "duration": 2.297
+      }
+    ],
+    "provenanceMismatchesAfterWrite": 0,
+    "asr": "not run",
+    "listened": false
+  }
+}

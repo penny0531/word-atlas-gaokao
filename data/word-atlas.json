@@ -7539,6 +7539,53 @@
   }
  },
  {
+  "id": "mild",
+  "w": "mild",
+  "uk": "/maɪld/",
+  "us": "/ˈmaɪld/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "温和的",
+    "en": "not strong, severe, or cold"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The winter was mild.",
+    "zh": "这个冬天很温和。"
+   },
+   {
+    "en": "A mild illness still belongs in the clinic note.",
+    "zh": "轻微的病仍然应当写进诊所记录。"
+   }
+  ],
+  "col": [
+   "mild weather｜温和的天气"
+  ],
+  "fam": [
+   "mildly (adv.)"
+  ],
+  "syn": [
+   "gentle"
+  ],
+  "ant": [
+   "severe"
+  ],
+  "tip": "mild 可形容天气、味道或疾病。",
+  "cefr": "B1",
+  "topic": "nature",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.11,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "let",
   "w": "let",
   "uk": "/ˈlɛt/",
@@ -8163,6 +8210,54 @@
   }
  },
  {
+  "id": "ski",
+  "w": "ski",
+  "uk": "/skiː/",
+  "us": "/ˈskiː/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "滑雪",
+    "en": "to move over snow on skis"
+   },
+   {
+    "pos": "n.",
+    "zh": "滑雪板",
+    "en": "one of a pair of long boards for snow"
+   }
+  ],
+  "ex": [
+   {
+    "en": "They ski on the school trip.",
+    "zh": "他们在学校出行时滑雪。"
+   },
+   {
+    "en": "They ski when the snow is deep.",
+    "zh": "雪厚的时候他们滑雪。"
+   }
+  ],
+  "col": [
+   "go skiing｜去滑雪"
+  ],
+  "fam": [
+   "skiing (n.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "ski 作名词是滑雪板。本条不写危险滑行的做法。",
+  "cefr": "B1",
+  "topic": "sport",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.13,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "awesome",
   "w": "awesome",
   "uk": "/ˈɔːsəm/",
@@ -8297,6 +8392,49 @@
   "meta": {
    "gaokaoFreq": "high",
    "source": "gaokao-mvp+word-atlas-overlap",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "handful",
+  "w": "handful",
+  "uk": "/ˈhændfʊl/",
+  "us": "/ˈhændfəl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "一把；少数",
+    "en": "an amount that fits in the hand, or a small number"
+   }
+  ],
+  "ex": [
+   {
+    "en": "She took a handful of seeds.",
+    "zh": "她抓了一把种子。"
+   },
+   {
+    "en": "A handful of notices is easier to read than a wall of paper.",
+    "zh": "几张通知比一整墙纸更容易读。"
+   }
+  ],
+  "col": [
+   "a handful of seeds｜一把种子"
+  ],
+  "fam": [
+   "hand (n.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "a handful of 后接复数名词。",
+  "cefr": "B1",
+  "topic": "thinking",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.11,
+   "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
  },
@@ -10659,6 +10797,47 @@
   }
  },
  {
+  "id": "disability",
+  "w": "disability",
+  "uk": "/dɪsəˈbɪlɪtɪ/",
+  "us": "/ˌdɪsəˈbɪləti/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "残疾",
+    "en": "a condition that limits movement or activity"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The form asks about disability in private.",
+    "zh": "表格在私下询问残疾情况。"
+   },
+   {
+    "en": "She talks about her disability only with friends.",
+    "zh": "她只和朋友谈自己的残疾。"
+   }
+  ],
+  "col": [
+   "a physical disability｜身体残疾"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "用“残疾”，不用“无能”。说话时要尊重。",
+  "cefr": "B1",
+  "topic": "society",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.21,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": false
+  }
+ },
+ {
   "id": "fast",
   "w": "fast",
   "uk": "/fɑːst/",
@@ -11406,6 +11585,54 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "batch": 5,
    "zipf": 4.95,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "scream",
+  "w": "scream",
+  "uk": "/skriːm/",
+  "us": "/ˈskriːm/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "尖叫",
+    "en": "to cry out in a loud high voice"
+   },
+   {
+    "pos": "n.",
+    "zh": "尖叫",
+    "en": "a loud high cry"
+   }
+  ],
+  "ex": [
+   {
+    "en": "Do not scream in the clinic.",
+    "zh": "不要在诊所里尖叫。"
+   },
+   {
+    "en": "Someone screamed in the yard, and the teacher looked up.",
+    "zh": "有人在院子里尖叫，老师抬起了头。"
+   }
+  ],
+  "col": [
+   "scream at｜对……尖叫"
+  ],
+  "fam": [],
+  "syn": [
+   "shout"
+  ],
+  "ant": [],
+  "tip": "scream 也可作名词。",
+  "cefr": "B1",
+  "topic": "emotion",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.14,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
@@ -12517,6 +12744,51 @@
   }
  },
  {
+  "id": "jewelry",
+  "w": "jewelry",
+  "uk": "/ˈdʒuːəlrɪ/",
+  "us": "/ˈdʒuːəlri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "珠宝",
+    "en": "objects such as rings worn for decoration; American spelling"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The jewelry is in the museum.",
+    "zh": "珠宝在博物馆里。"
+   },
+   {
+    "en": "Jewelry on a poster does not pay the canteen staff.",
+    "zh": "海报上的珠宝付不了食堂职工的工资。"
+   }
+  ],
+  "col": [
+   "a piece of jewelry｜一件珠宝"
+  ],
+  "fam": [
+   "jewellery (n.)"
+  ],
+  "syn": [
+   "jewellery"
+  ],
+  "ant": [],
+  "tip": "jewelry 是美式，jewellery 是英式。通常不可数。本库词头用考纲里的 jewelry。",
+  "cefr": "B1",
+  "topic": "economy",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.12,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "faith",
   "w": "faith",
   "uk": "/feɪθ/",
@@ -12785,6 +13057,49 @@
    "zipf": 4.37,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "patience",
+  "w": "patience",
+  "uk": "/ˈpeɪʃəns/",
+  "us": "/ˈpeɪʃəns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "耐心",
+    "en": "the ability to wait without getting angry"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The queue tested her patience.",
+    "zh": "排队考验了她的耐心。"
+   },
+   {
+    "en": "Patience grows when people can see the end of the queue.",
+    "zh": "人们看得到队伍尽头时，耐心会多一些。"
+   }
+  ],
+  "col": [
+   "patience with｜对……的耐心"
+  ],
+  "fam": [
+   "patient (adj.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "patience 通常不可数。patient 作名词是病人。",
+  "cefr": "B1",
+  "topic": "emotion",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.2,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": false
   }
  },
  {
@@ -13415,6 +13730,47 @@
   }
  },
  {
+  "id": "handsome",
+  "w": "handsome",
+  "uk": "/ˈhænsəm/",
+  "us": "/ˈhænsəm/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "英俊的",
+    "en": "good-looking, often said of a man or a building"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The old library is a handsome building.",
+    "zh": "这座旧图书馆是一栋好看的建筑。"
+   },
+   {
+    "en": "Calling one classmate handsome and another plain is not a fair class joke.",
+    "zh": "夸一个同学英俊、又说另一个平平，不是公平的课堂玩笑。"
+   }
+  ],
+  "col": [
+   "a handsome sum｜一笔可观的数目"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "handsome 多形容男性或建筑。形容女性更常用 beautiful 或 pretty。",
+  "cefr": "B1",
+  "topic": "daily",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.22,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "natural",
   "w": "natural",
   "uk": "/ˈnætʃər(ə)l/",
@@ -13860,6 +14216,49 @@
    "gaokaoFreq": "high",
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "zipf": 5.66,
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "attraction",
+  "w": "attraction",
+  "uk": "/əˈtrækʃ(ə)n/",
+  "us": "/ətrˈækʃən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "吸引；景点",
+    "en": "the feeling of being interested, or a place tourists visit"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The museum is the main attraction.",
+    "zh": "博物馆是主要景点。"
+   },
+   {
+    "en": "The old bridge is still the town's favourite attraction.",
+    "zh": "那座老桥仍是这座城镇最受欢迎的景点。"
+   }
+  ],
+  "col": [
+   "a tourist attraction｜旅游景点"
+  ],
+  "fam": [
+   "attract (v.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "attraction 可数。",
+  "cefr": "B1",
+  "topic": "travel",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.11,
+   "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
  },
@@ -14973,6 +15372,49 @@
   }
  },
  {
+  "id": "poet",
+  "w": "poet",
+  "uk": "/ˈpəʊɪt/",
+  "us": "/ˈpoʊɪt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "诗人",
+    "en": "a person who writes poems"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The poet read one short poem.",
+    "zh": "诗人读了一首短诗。"
+   },
+   {
+    "en": "The poet read the flood poem and then named the year.",
+    "zh": "诗人读了那首写洪水的诗，然后说出了年份。"
+   }
+  ],
+  "col": [
+   "a young poet｜青年诗人"
+  ],
+  "fam": [
+   "poem (n.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "poem 已在本库。",
+  "cefr": "B1",
+  "topic": "arts",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.21,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "ministry",
   "w": "ministry",
   "uk": "/ˈmɪnɪstrɪ/",
@@ -15138,6 +15580,90 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "batch": 10,
    "zipf": 4.38,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "athletic",
+  "w": "athletic",
+  "uk": "/æθˈletɪk/",
+  "us": "/æθˈletɪk/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "运动的；健壮的",
+    "en": "related to sport, or physically strong"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The athletic field is behind the hall.",
+    "zh": "运动场在礼堂后面。"
+   },
+   {
+    "en": "An athletic prize should not be the only way to be seen.",
+    "zh": "体育奖不应当是被看见的唯一方式。"
+   }
+  ],
+  "col": [
+   "athletic ability｜运动能力"
+  ],
+  "fam": [
+   "athlete (n.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "名词 athlete 是本批的另一词。",
+  "cefr": "B1",
+  "topic": "sport",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.12,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": false
+  }
+ },
+ {
+  "id": "drum",
+  "w": "drum",
+  "uk": "/drʌm/",
+  "us": "/ˈdrʌm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鼓",
+    "en": "a musical instrument that you hit"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The drum is too loud for the clinic.",
+    "zh": "鼓对诊所来说太响。"
+   },
+   {
+    "en": "A drum in the hall should stop when the warning bell rings.",
+    "zh": "礼堂里的鼓应当在警报铃响时停下。"
+   }
+  ],
+  "col": [
+   "play the drum｜打鼓"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "drum 可数。play the drum 要加 the。",
+  "cefr": "B1",
+  "topic": "arts",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.11,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
@@ -16339,6 +16865,49 @@
   }
  },
  {
+  "id": "vertical",
+  "w": "vertical",
+  "uk": "/ˈvɜːtɪk(ə)l/",
+  "us": "/ˈvɜːɾɪkəl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "垂直的",
+    "en": "standing straight up"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The line is vertical.",
+    "zh": "这条线是垂直的。"
+   },
+   {
+    "en": "A vertical sign at the gate is easier to read than one lying on the path.",
+    "zh": "门口竖直的牌子比躺在小路上的更容易读。"
+   }
+  ],
+  "col": [
+   "a vertical line｜垂直线"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [
+   "horizontal"
+  ],
+  "tip": "vertical 是形容词。",
+  "cefr": "B1",
+  "topic": "science",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.15,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "pet",
   "w": "pet",
   "uk": "/pet/",
@@ -16792,6 +17361,48 @@
    "gaokaoFreq": "high",
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "zipf": 5.61,
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "organ",
+  "w": "organ",
+  "uk": "/ˈɔːɡən/",
+  "us": "/ˈɔːrɡən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "器官；风琴",
+    "en": "a part of the body, or a musical instrument"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The heart is an organ.",
+    "zh": "心脏是一个器官。"
+   },
+   {
+    "en": "She plays the organ in the hall on Sundays.",
+    "zh": "她星期天在礼堂里弹风琴。"
+   }
+  ],
+  "col": [
+   "play the organ｜弹风琴",
+   "a pipe organ｜管风琴"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "organ 可指身体器官，也可指风琴。本条用课堂和音乐的说法。",
+  "cefr": "B1",
+  "topic": "health",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.14,
+   "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
  },
@@ -18142,6 +18753,51 @@
   }
  },
  {
+  "id": "slight",
+  "w": "slight",
+  "uk": "/slaɪt/",
+  "us": "/ˈslaɪt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "轻微的",
+    "en": "small and not serious"
+   }
+  ],
+  "ex": [
+   {
+    "en": "There is a slight crack in the step.",
+    "zh": "台阶上有一条细裂缝。"
+   },
+   {
+    "en": "A slight delay should still be written down if parents are waiting.",
+    "zh": "如果家长在等，轻微的延误也应当写下来。"
+   }
+  ],
+  "col": [
+   "a slight change｜微小的变化"
+  ],
+  "fam": [
+   "slightly (adv.)"
+  ],
+  "syn": [
+   "small"
+  ],
+  "ant": [],
+  "tip": "slight 也可表示瘦小。",
+  "cefr": "B1",
+  "topic": "thinking",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.22,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "price",
   "w": "price",
   "uk": "/praɪs/",
@@ -18330,6 +18986,47 @@
    "gaokaoFreq": "high",
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "zipf": 5.57,
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "fence",
+  "w": "fence",
+  "uk": "/fens/",
+  "us": "/ˈfɛns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "栅栏",
+    "en": "a barrier of wood or wire around a place"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The fence by the garden is loose.",
+    "zh": "园子边的栅栏松了。"
+   },
+   {
+    "en": "A fence that blocks the clinic path should be moved the same day.",
+    "zh": "挡住去诊所小路的栅栏应当当天挪开。"
+   }
+  ],
+  "col": [
+   "a fence around｜……周围的栅栏"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "fence 可数。",
+  "cefr": "B1",
+  "topic": "city",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.21,
+   "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
  },
@@ -19001,6 +19698,47 @@
   }
  },
  {
+  "id": "pollution",
+  "w": "pollution",
+  "uk": "/pəˈluːʃ(ə)n/",
+  "us": "/pəlˈuːʃən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "污染",
+    "en": "dirty or harmful substances in air, water, or land"
+   }
+  ],
+  "ex": [
+   {
+    "en": "Pollution from the road reaches the playground.",
+    "zh": "路上的污染到了操场。"
+   },
+   {
+    "en": "A report on pollution should name the source and the date.",
+    "zh": "污染报告应当写明来源和日期。"
+   }
+  ],
+  "col": [
+   "air pollution｜空气污染"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "pollution 通常不可数。",
+  "cefr": "B1",
+  "topic": "environment",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.2,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "central",
   "w": "central",
   "uk": "/ˈsentr(ə)l/",
@@ -19166,6 +19904,51 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "batch": 5,
    "zipf": 5.0,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "bitter",
+  "w": "bitter",
+  "uk": "/ˈbɪtə(r)/",
+  "us": "/ˈbɪɾər/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "苦的；痛苦的",
+    "en": "having a sharp unpleasant taste, or full of pain"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The medicine tastes bitter.",
+    "zh": "这药是苦的。"
+   },
+   {
+    "en": "A bitter argument about fees still needs the number on paper.",
+    "zh": "关于费用的激烈争论，仍然需要纸上的数字。"
+   }
+  ],
+  "col": [
+   "bitter taste｜苦味"
+  ],
+  "fam": [
+   "bitterly (adv.)"
+  ],
+  "syn": [],
+  "ant": [
+   "sweet"
+  ],
+  "tip": "bitter 也可形容痛苦或严酷。",
+  "cefr": "B1",
+  "topic": "emotion",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.21,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
@@ -21193,6 +21976,92 @@
   }
  },
  {
+  "id": "preference",
+  "w": "preference",
+  "uk": "/ˈprefərəns/",
+  "us": "/ˈprɛfrəns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "偏好",
+    "en": "a greater liking for one thing"
+   }
+  ],
+  "ex": [
+   {
+    "en": "Her preference is a quiet seat.",
+    "zh": "她的偏好是安静的座位。"
+   },
+   {
+    "en": "Her preference for morning study shows in the timetable.",
+    "zh": "她对早晨学习的偏好写在时间表里。"
+   }
+  ],
+  "col": [
+   "a preference for｜对……的偏好"
+  ],
+  "fam": [
+   "prefer (v.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "动词 prefer 已在本库。preference for something。",
+  "cefr": "B1",
+  "topic": "thinking",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.11,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "athlete",
+  "w": "athlete",
+  "uk": "/ˈæθliːt/",
+  "us": "/ˈæθliːt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "运动员",
+    "en": "a person who is good at sport"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The athlete thanked the whole team.",
+    "zh": "这位运动员谢谢了整队。"
+   },
+   {
+    "en": "An athlete who trains at dawn still needs a light on the path.",
+    "zh": "黎明训练的运动员，小路上仍然需要灯。"
+   }
+  ],
+  "col": [
+   "an athlete in｜……项目的运动员"
+  ],
+  "fam": [
+   "athletic (adj.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "形容词 athletic 是本批的另一词。",
+  "cefr": "B1",
+  "topic": "sport",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.11,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "human-being",
   "w": "human being",
   "uk": "/ˈhjuːmənbˈiːɪŋ/",
@@ -21320,6 +22189,47 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "batch": 6,
    "zipf": 4.9,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "aunt",
+  "w": "aunt",
+  "uk": "/ɑːnt/",
+  "us": "/ænt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "姑；姨；伯母；舅母；婶",
+    "en": "the sister of a parent, or the wife of a parent's brother"
+   }
+  ],
+  "ex": [
+   {
+    "en": "Her aunt sent a letter from the coast.",
+    "zh": "她姑妈从海边寄来一封信。"
+   },
+   {
+    "en": "A form that says aunt should still leave space for another adult.",
+    "zh": "写着姑妈的表格，仍然应当给另一位成年人留出位置。"
+   }
+  ],
+  "col": [
+   "aunt and uncle｜姑叔"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "aunt 可数。具体是姑、姨、伯母还是舅母，要看家庭。",
+  "cefr": "B1",
+  "topic": "society",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.16,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
@@ -21558,6 +22468,47 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "batch": 5,
    "zipf": 4.92,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "dam",
+  "w": "dam",
+  "uk": "/dæm/",
+  "us": "/ˈdæm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "水坝",
+    "en": "a wall built across a river to hold water"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The dam holds the river.",
+    "zh": "水坝拦住河水。"
+   },
+   {
+    "en": "A lesson on the dam should say who lives downstream.",
+    "zh": "关于水坝的课应当说谁住在下游。"
+   }
+  ],
+  "col": [
+   "a dam across｜横跨……的水坝"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "dam 可数。本条不写如何破坏水坝。",
+  "cefr": "B1",
+  "topic": "environment",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.17,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
@@ -22199,6 +23150,49 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "batch": 4,
    "zipf": 5.1,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "identification",
+  "w": "identification",
+  "uk": "/aɪdentɪfɪˈkeɪʃ(ə)n/",
+  "us": "/aɪdˈɛntɪfɪkˈeɪʃən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "身份证明；识别",
+    "en": "a document that shows who you are, or the act of recognising something"
+   }
+  ],
+  "ex": [
+   {
+    "en": "Bring identification to the exam.",
+    "zh": "考试带上身份证明。"
+   },
+   {
+    "en": "Identification of the flood mark should include a date.",
+    "zh": "辨认洪水痕迹应当写上日期。"
+   }
+  ],
+  "col": [
+   "a form of identification｜一种身份证明"
+  ],
+  "fam": [
+   "identify (v.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "identification 可指证件，也可指识别。",
+  "cefr": "B1",
+  "topic": "society",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.18,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
@@ -22920,6 +23914,47 @@
   }
  },
  {
+  "id": "pig",
+  "w": "pig",
+  "uk": "/ˈpɪɡ/",
+  "us": "/ˈpɪɡ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "猪",
+    "en": "a farm animal with a broad nose"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The pig is in the yard.",
+    "zh": "猪在院子里。"
+   },
+   {
+    "en": "The farmer feeds the pig before sunrise.",
+    "zh": "农民在日出前喂猪。"
+   }
+  ],
+  "col": [
+   "raise pigs｜养猪"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "表里这一行的音标是 pie，本库不用。本条不写如何伤害动物。",
+  "cefr": "B1",
+  "topic": "nature",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.14,
+   "ipaSource": "espeak-ng",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "apartment",
   "w": "apartment",
   "uk": "/əˈpɑːtmənt/",
@@ -22999,6 +24034,55 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "batch": 8,
    "zipf": 4.65,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "folk",
+  "w": "folk",
+  "uk": "/fəʊk/",
+  "us": "/ˈfoʊk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "人们；民间",
+    "en": "people, or the traditional culture of a community"
+   },
+   {
+    "pos": "adj.",
+    "zh": "民间的",
+    "en": "traditional and belonging to ordinary people"
+   }
+  ],
+  "ex": [
+   {
+    "en": "Folk music is on the hall programme.",
+    "zh": "礼堂节目里有民间音乐。"
+   },
+   {
+    "en": "Local folk remember the flood by the mark on the school wall.",
+    "zh": "当地人靠校墙上的痕迹记得那次洪水。"
+   }
+  ],
+  "col": [
+   "folk music｜民间音乐",
+   "folk tale｜民间故事"
+  ],
+  "fam": [],
+  "syn": [
+   "people"
+  ],
+  "ant": [],
+  "tip": "folk 作“人们”时已是复数。也可作形容词“民间的”。",
+  "cefr": "B1",
+  "topic": "society",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.22,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
@@ -24120,6 +25204,51 @@
   }
  },
  {
+  "id": "weakness",
+  "w": "weakness",
+  "uk": "/ˈwiːknɪs/",
+  "us": "/ˈwiːknəs/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "弱点；虚弱",
+    "en": "a weak point, or lack of strength"
+   }
+  ],
+  "ex": [
+   {
+    "en": "Spelling is her weakness, not her effort.",
+    "zh": "拼写是她的弱项，不是她的努力。"
+   },
+   {
+    "en": "A weakness in the timetable is the missing return time.",
+    "zh": "课表的一个弱点是缺了返回时间。"
+   }
+  ],
+  "col": [
+   "a weakness in spelling｜拼写上的弱点"
+  ],
+  "fam": [
+   "weak (adj.)"
+  ],
+  "syn": [],
+  "ant": [
+   "strength"
+  ],
+  "tip": "weak 是形容词。",
+  "cefr": "B1",
+  "topic": "thinking",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.19,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "guidance",
   "w": "guidance",
   "uk": "/ˈɡaɪdəns/",
@@ -24338,6 +25467,47 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "batch": 9,
    "zipf": 4.55,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "prisoner",
+  "w": "prisoner",
+  "uk": "/ˈprɪznə(r)/",
+  "us": "/ˈprɪzənər/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "囚犯",
+    "en": "a person kept in prison"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The history text names the prisoner, not only the cell.",
+    "zh": "历史课文写出囚犯的名字，而不只是牢房。"
+   },
+   {
+    "en": "The prisoner wrote a letter to his family.",
+    "zh": "这名囚犯给家人写了一封信。"
+   }
+  ],
+  "col": [
+   "a prisoner of war｜战俘"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "本条是新闻和历史词汇。不写逃脱或关押的做法。",
+  "cefr": "B1",
+  "topic": "society",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.2,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
@@ -25863,6 +27033,47 @@
   }
  },
  {
+  "id": "grammar",
+  "w": "grammar",
+  "uk": "/ˈɡræmə(r)/",
+  "us": "/ˈɡræmər/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "语法",
+    "en": "the rules of a language"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The grammar point is on the board.",
+    "zh": "这个语法点写在黑板上。"
+   },
+   {
+    "en": "Grammar without a real sentence is harder to remember.",
+    "zh": "没有真实句子的语法更难记住。"
+   }
+  ],
+  "col": [
+   "English grammar｜英语语法"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "grammar 作学科时常不可数。",
+  "cefr": "B1",
+  "topic": "education",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.17,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "crazy",
   "w": "crazy",
   "uk": "/ˈkreɪzɪ/",
@@ -25993,6 +27204,50 @@
   }
  },
  {
+  "id": "admission",
+  "w": "admission",
+  "uk": "/ədˈmɪʃ(ə)n/",
+  "us": "/ədmˈɪʃən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "准入；入场",
+    "en": "permission to enter, or the fee for entering"
+   }
+  ],
+  "ex": [
+   {
+    "en": "Admission to the hall is free.",
+    "zh": "进入礼堂是免费的。"
+   },
+   {
+    "en": "Admission rules should say what a family does if they cannot pay.",
+    "zh": "入场规定应当写明家庭付不起时怎么办。"
+   }
+  ],
+  "col": [
+   "admission to｜进入……",
+   "admission fee｜入场费"
+  ],
+  "fam": [
+   "admit (v.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "admission 可指允许进入，也可指入场费。",
+  "cefr": "B1",
+  "topic": "education",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.15,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "ticket",
   "w": "ticket",
   "uk": "/ˈtɪkɪt/",
@@ -26030,6 +27285,90 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "batch": 8,
    "zipf": 4.61,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "coin",
+  "w": "coin",
+  "uk": "/kɔɪn/",
+  "us": "/ˈkɔɪn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "硬币",
+    "en": "a piece of metal used as money"
+   }
+  ],
+  "ex": [
+   {
+    "en": "She found a coin under the desk.",
+    "zh": "她在书桌下找到一枚硬币。"
+   },
+   {
+    "en": "A coin on a poster is not the fee a family can check.",
+    "zh": "海报上的硬币不是家庭能核对的费用。"
+   }
+  ],
+  "col": [
+   "a gold coin｜一枚金币"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "coin 可数。",
+  "cefr": "B1",
+  "topic": "economy",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.19,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "flesh",
+  "w": "flesh",
+  "uk": "/fleʃ/",
+  "us": "/ˈflɛʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "肉",
+    "en": "the soft part of the body, or the meat of an animal or fruit"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The flesh of the peach is sweet.",
+    "zh": "桃肉是甜的。"
+   },
+   {
+    "en": "Cook the flesh of the fish until it is white.",
+    "zh": "把鱼肉煮到变白。"
+   }
+  ],
+  "col": [
+   "flesh and blood｜血肉之躯"
+  ],
+  "fam": [],
+  "syn": [
+   "meat"
+  ],
+  "ant": [],
+  "tip": "flesh 通常不可数。本条用食物和身体的普通意思。",
+  "cefr": "B1",
+  "topic": "daily",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.2,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
@@ -26258,6 +27597,49 @@
   }
  },
  {
+  "id": "widespread",
+  "w": "widespread",
+  "uk": "/ˈwaɪdspred/",
+  "us": "/ˈwaɪdsprɛd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "普遍的；分布广的",
+    "en": "found in many places"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The practice is widespread in this town.",
+    "zh": "这种做法在这座城镇很普遍。"
+   },
+   {
+    "en": "Sharing tools is widespread among the farms here.",
+    "zh": "在这里的农场之间，共用工具很普遍。"
+   }
+  ],
+  "col": [
+   "widespread support｜广泛支持"
+  ],
+  "fam": [],
+  "syn": [
+   "common"
+  ],
+  "ant": [],
+  "tip": "widespread 只作形容词。",
+  "cefr": "B1",
+  "topic": "society",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.19,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": false
+  }
+ },
+ {
   "id": "search",
   "w": "search",
   "uk": "/sɜːtʃ/",
@@ -26477,6 +27859,47 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "batch": 9,
    "zipf": 4.51,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "rat",
+  "w": "rat",
+  "uk": "/ræt/",
+  "us": "/ˈræt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "老鼠",
+    "en": "a small animal with a long tail"
+   }
+  ],
+  "ex": [
+   {
+    "en": "A rat got into the store room.",
+    "zh": "一只老鼠进了储藏室。"
+   },
+   {
+    "en": "They closed the food after they saw the rat.",
+    "zh": "他们看见老鼠以后把食物收了起来。"
+   }
+  ],
+  "col": [
+   "a rat in｜……里的老鼠"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "rat 可数。本条不写如何伤害动物。",
+  "cefr": "B1",
+  "topic": "nature",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.17,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
@@ -27542,6 +28965,49 @@
   }
  },
  {
+  "id": "keyboard",
+  "w": "keyboard",
+  "uk": "/kiːbɔːd/",
+  "us": "/ˈkiːboːrd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "键盘",
+    "en": "the set of keys on a computer or a piano"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The keyboard is beside the screen.",
+    "zh": "键盘在屏幕旁边。"
+   },
+   {
+    "en": "A keyboard in the library still needs a person who can help.",
+    "zh": "图书馆里的键盘仍然需要有人能帮忙。"
+   }
+  ],
+  "col": [
+   "a computer keyboard｜计算机键盘"
+  ],
+  "fam": [
+   "key (n.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "keyboard 可数。",
+  "cefr": "B1",
+  "topic": "technology",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.11,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "rubber",
   "w": "rubber",
   "uk": "/ˈrʌbə(r)/",
@@ -28169,6 +29635,47 @@
   "meta": {
    "gaokaoFreq": "high",
    "source": "gaokao-mvp+word-atlas-overlap",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "arrow",
+  "w": "arrow",
+  "uk": "/ˈærəʊ/",
+  "us": "/ˈæroʊ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "箭头；箭",
+    "en": "a sign shaped like an arrow, or a stick shot from a bow"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The arrow points to the clinic.",
+    "zh": "箭头指向诊所。"
+   },
+   {
+    "en": "Follow the arrow to the hall.",
+    "zh": "顺着箭头走到礼堂。"
+   }
+  ],
+  "col": [
+   "an arrow to｜指向……的箭头"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "本条以路标为主。不写如何伤人。",
+  "cefr": "B1",
+  "topic": "daily",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.13,
+   "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
  },
@@ -28858,6 +30365,51 @@
   }
  },
  {
+  "id": "neighbor",
+  "w": "neighbor",
+  "uk": "/ˈneɪbə(r)/",
+  "us": "/ˈneɪbər/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "邻居",
+    "en": "a person who lives next to you; American spelling"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The neighbor watered the plants.",
+    "zh": "邻居给植物浇了水。"
+   },
+   {
+    "en": "The neighbor lent us a ladder without being asked.",
+    "zh": "邻居没等我们开口就借来了梯子。"
+   }
+  ],
+  "col": [
+   "a next-door neighbor｜隔壁邻居"
+  ],
+  "fam": [
+   "neighbour (n.)"
+  ],
+  "syn": [
+   "neighbour"
+  ],
+  "ant": [],
+  "tip": "neighbor 是美式，neighbour 是英式。本库词头用考纲里的 neighbor。",
+  "cefr": "B1",
+  "topic": "society",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.11,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": false
+  }
+ },
+ {
   "id": "village",
   "w": "village",
   "uk": "/ˈvɪlɪdʒ/",
@@ -29379,6 +30931,47 @@
   }
  },
  {
+  "id": "aboard",
+  "w": "aboard",
+  "uk": "/əˈbɔːd/",
+  "us": "/əbˈoːrd/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "在船上；上车",
+    "en": "on or onto a ship, plane, or vehicle"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The students are aboard the bus.",
+    "zh": "学生们已经上了公交。"
+   },
+   {
+    "en": "Welcome aboard is a greeting, not proof that a seat exists.",
+    "zh": "Welcome aboard 是一句问候，不是座位存在的证明。"
+   }
+  ],
+  "col": [
+   "go aboard｜上船；上车"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "aboard 是副词或介词，前面常不再加 on。",
+  "cefr": "B1",
+  "topic": "travel",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.14,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": false
+  }
+ },
+ {
   "id": "statistics",
   "w": "statistics",
   "uk": "/stəˈtɪstɪks/",
@@ -29649,6 +31242,54 @@
   }
  },
  {
+  "id": "shine",
+  "w": "shine",
+  "uk": "/ʃaɪn/",
+  "us": "/ˈʃaɪn/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "发光；照耀",
+    "en": "to give out light, or to be bright"
+   },
+   {
+    "pos": "n.",
+    "zh": "光亮",
+    "en": "brightness"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The lamp will shine on the map.",
+    "zh": "灯会照在地图上。"
+   },
+   {
+    "en": "The sun will shine after the rain.",
+    "zh": "雨停后太阳会照出来。"
+   }
+  ],
+  "col": [
+   "shine on｜照在"
+  ],
+  "fam": [
+   "shone (v.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "过去式常用 shone。shine 作名词是光亮。",
+  "cefr": "B1",
+  "topic": "nature",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.17,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "recognize",
   "w": "recognize",
   "uk": "/ˈrekəɡnaɪz/",
@@ -29817,6 +31458,94 @@
    "zipf": 5.05,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": false
+  }
+ },
+ {
+  "id": "theft",
+  "w": "theft",
+  "uk": "/θeft/",
+  "us": "/ˈθɛft/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "盗窃",
+    "en": "the crime of stealing"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The novel mentions a theft and then stops.",
+    "zh": "小说提到一次盗窃，然后就停住了。"
+   },
+   {
+    "en": "The theft happened on a Sunday.",
+    "zh": "这次盗窃发生在星期天。"
+   }
+  ],
+  "col": [
+   "report a theft｜报告失窃"
+  ],
+  "fam": [
+   "thief (n.)"
+  ],
+  "syn": [
+   "stealing"
+  ],
+  "ant": [],
+  "tip": "theft 可数也可不可数。本条不写方法。",
+  "cefr": "B1",
+  "topic": "society",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.13,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": false
+  }
+ },
+ {
+  "id": "potato",
+  "w": "potato",
+  "uk": "/pəˈteɪtəʊ/",
+  "us": "/pətˈeɪɾoʊ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "土豆",
+    "en": "a round vegetable that grows underground"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The potato is in the soup.",
+    "zh": "土豆在汤里。"
+   },
+   {
+    "en": "A potato left in the sun is not the lunch the afternoon class needs.",
+    "zh": "放在太阳下的土豆不是下午班级需要的午餐。"
+   }
+  ],
+  "col": [
+   "a baked potato｜烤土豆"
+  ],
+  "fam": [
+   "potatoes (n.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "复数是 potatoes。",
+  "cefr": "B1",
+  "topic": "daily",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.11,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
   }
  },
  {
@@ -30178,6 +31907,49 @@
   }
  },
  {
+  "id": "tourist",
+  "w": "tourist",
+  "uk": "/ˈtʊərɪst/",
+  "us": "/ˈtʊrrɪst/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "游客",
+    "en": "a person who visits a place on holiday"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The tourist bought a map at the station.",
+    "zh": "游客在车站买了一张地图。"
+   },
+   {
+    "en": "The tourist asked three people before finding the museum.",
+    "zh": "游客问了三个人才找到博物馆。"
+   }
+  ],
+  "col": [
+   "a tourist from｜来自……的游客"
+  ],
+  "fam": [
+   "tourism (n.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "tourism 已在本库。",
+  "cefr": "B1",
+  "topic": "travel",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.2,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "battery",
   "w": "battery",
   "uk": "/ˈbætərɪ/",
@@ -30383,6 +32155,54 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "batch": 11,
    "zipf": 4.28,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "advocate",
+  "w": "advocate",
+  "uk": "/ˈædvəkeɪt/",
+  "us": "/ˈædvəkˌeɪt/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "提倡",
+    "en": "to support an idea in public"
+   },
+   {
+    "pos": "n.",
+    "zh": "倡导者",
+    "en": "a person who supports an idea"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The club advocates a later library hour.",
+    "zh": "社团提倡图书馆晚一点关门。"
+   },
+   {
+    "en": "People who advocate a new road should also say who loses the path.",
+    "zh": "提倡修新路的人，也应当说出谁会失去原来的小路。"
+   }
+  ],
+  "col": [
+   "advocate doing｜提倡做"
+  ],
+  "fam": [],
+  "syn": [
+   "support"
+  ],
+  "ant": [],
+  "tip": "动词末音节是 /eɪt/，名词“倡导者”末音节是 /ət/。重音都在第一个音节。",
+  "cefr": "B1",
+  "topic": "society",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.21,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
@@ -31883,6 +33703,49 @@
   }
  },
  {
+  "id": "farmer",
+  "w": "farmer",
+  "uk": "/ˈfɑːmə(r)/",
+  "us": "/ˈfɑːrmər/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "农民",
+    "en": "a person who owns or manages a farm"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The farmer sells corn on Friday.",
+    "zh": "这位农民周五卖玉米。"
+   },
+   {
+    "en": "The farmer loaded the corn before the rain started.",
+    "zh": "农民在下雨前把玉米装上了车。"
+   }
+  ],
+  "col": [
+   "a rice farmer｜稻农"
+  ],
+  "fam": [
+   "farm (n.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "farm 已在本库。",
+  "cefr": "B1",
+  "topic": "work",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.15,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "reception",
   "w": "reception",
   "uk": "/rɪˈsepʃ(ə)n/",
@@ -33139,6 +35002,96 @@
   }
  },
  {
+  "id": "gentle",
+  "w": "gentle",
+  "uk": "/ˈdʒent(ə)l/",
+  "us": "/ˈdʒɛntəl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "温柔的；轻的",
+    "en": "kind and soft"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The rain was gentle all morning.",
+    "zh": "整个上午雨都很小。"
+   },
+   {
+    "en": "A gentle voice helped the child finish the story.",
+    "zh": "轻柔的声音帮孩子把故事读完。"
+   }
+  ],
+  "col": [
+   "a gentle slope｜缓坡"
+  ],
+  "fam": [
+   "gently (adv.)"
+  ],
+  "syn": [
+   "kind"
+  ],
+  "ant": [
+   "rough"
+  ],
+  "tip": "gentle 可形容人或动作。",
+  "cefr": "B1",
+  "topic": "emotion",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.17,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "privilege",
+  "w": "privilege",
+  "uk": "/ˈprɪvɪlɪdʒ/",
+  "us": "/ˈprɪvɪlɪdʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "特权",
+    "en": "a special right given to a person or group"
+   }
+  ],
+  "ex": [
+   {
+    "en": "A seat by the window felt like a privilege.",
+    "zh": "靠窗的位子让人觉得是一种优待。"
+   },
+   {
+    "en": "She called the trip a privilege.",
+    "zh": "她说这次出行是一种荣幸。"
+   }
+  ],
+  "col": [
+   "a special privilege｜一项特权"
+  ],
+  "fam": [],
+  "syn": [
+   "right"
+  ],
+  "ant": [],
+  "tip": "privilege 可数。",
+  "cefr": "B1",
+  "topic": "society",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.2,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "beat",
   "w": "beat",
   "uk": "/biːt/",
@@ -33613,6 +35566,49 @@
    "zipf": 4.72,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "ours",
+  "w": "ours",
+  "uk": "/ˈaʊəz/",
+  "us": "/aʊˈərz/",
+  "senses": [
+   {
+    "pos": "pron.",
+    "zh": "我们的",
+    "en": "belonging to us"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The books on the desk are ours.",
+    "zh": "桌上的书是我们的。"
+   },
+   {
+    "en": "A room that is ours for one hour still needs to be locked afterwards.",
+    "zh": "只属于我们一小时的房间，之后仍然需要锁上。"
+   }
+  ],
+  "col": [
+   "a friend of ours｜我们的一个朋友"
+  ],
+  "fam": [
+   "our (det.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "ours 是名词性物主代词，后面不接名词。限定词 our 作为虚词未单列。",
+  "cefr": "B1",
+  "topic": "daily",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.16,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": false
   }
  },
  {
@@ -34316,6 +36312,53 @@
   }
  },
  {
+  "id": "swift",
+  "w": "swift",
+  "uk": "/swɪft/",
+  "us": "/ˈswɪft/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "迅速的",
+    "en": "happening quickly"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The reply was swift.",
+    "zh": "回复很快。"
+   },
+   {
+    "en": "A swift warning is a sound and a sign in the same minute.",
+    "zh": "迅速的警告是同一分钟里的声音和标志。"
+   }
+  ],
+  "col": [
+   "a swift reply｜迅速的回复"
+  ],
+  "fam": [
+   "swiftly (adv.)"
+  ],
+  "syn": [
+   "fast"
+  ],
+  "ant": [
+   "slow"
+  ],
+  "tip": "swift 比 fast 更正式。",
+  "cefr": "B1",
+  "topic": "thinking",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.15,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "face",
   "w": "face",
   "uk": "/feɪs/",
@@ -34448,6 +36491,49 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "batch": 8,
    "zipf": 4.63,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "curriculum",
+  "w": "curriculum",
+  "uk": "/kəˈrɪkjʊləm/",
+  "us": "/kɜːrˈɪkjʊləm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "课程",
+    "en": "the subjects taught in a school"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The curriculum includes a clinic visit.",
+    "zh": "课程包括一次诊所参观。"
+   },
+   {
+    "en": "A curriculum that never names the local river misses the town.",
+    "zh": "从不写出本地河流的课程，会错过这座城镇。"
+   }
+  ],
+  "col": [
+   "school curriculum｜学校课程"
+  ],
+  "fam": [],
+  "syn": [
+   "syllabus"
+  ],
+  "ant": [],
+  "tip": "复数是 curricula 或 curriculums。",
+  "cefr": "B1",
+  "topic": "education",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.12,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
@@ -34679,6 +36765,49 @@
    "zipf": 4.52,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": false
+  }
+ },
+ {
+  "id": "communicate",
+  "w": "communicate",
+  "uk": "/kəˈmjuːnɪkeɪt/",
+  "us": "/kəˈmjuːnɪˌkeɪt/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "交流；传达",
+    "en": "to share information or feelings"
+   }
+  ],
+  "ex": [
+   {
+    "en": "Please communicate the change before noon.",
+    "zh": "请在中午之前把变动说清楚。"
+   },
+   {
+    "en": "Cities communicate a flood warning poorly when it exists only on one app.",
+    "zh": "洪水警告如果只在一个应用里，城市就传达得很差。"
+   }
+  ],
+  "col": [
+   "communicate with｜与……交流"
+  ],
+  "fam": [
+   "communication (n.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "communication 是名词。",
+  "cefr": "B1",
+  "topic": "society",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.2,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
   }
  },
  {
@@ -35079,6 +37208,47 @@
    "zipf": 4.38,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "zoo",
+  "w": "zoo",
+  "uk": "/zuː/",
+  "us": "/ˈzuː/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "动物园",
+    "en": "a place where people can see animals"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The zoo is closed on Monday.",
+    "zh": "动物园周一关门。"
+   },
+   {
+    "en": "A zoo visit should say which animal has shade and water.",
+    "zh": "参观动物园应当说出哪种动物有阴凉和水。"
+   }
+  ],
+  "col": [
+   "at the zoo｜在动物园"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "zoo 可数。本条不写如何伤害动物。",
+  "cefr": "B1",
+  "topic": "nature",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.14,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": false
   }
  },
  {
@@ -35609,6 +37779,50 @@
   }
  },
  {
+  "id": "taxi",
+  "w": "taxi",
+  "uk": "/ˈtæksɪ/",
+  "us": "/ˈtæksi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "出租车",
+    "en": "a car with a driver that you pay to use"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The taxi stops by the gate.",
+    "zh": "出租车停在门口。"
+   },
+   {
+    "en": "A taxi is not a plan for the student who cannot pay the fare.",
+    "zh": "出租车不是付不起车费的学生的方案。"
+   }
+  ],
+  "col": [
+   "by taxi｜乘出租车",
+   "take a taxi｜打车"
+  ],
+  "fam": [],
+  "syn": [
+   "cab"
+  ],
+  "ant": [],
+  "tip": "take a taxi 是打车。",
+  "cefr": "B1",
+  "topic": "travel",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.19,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "lose",
   "w": "lose",
   "uk": "/luːz/",
@@ -36060,6 +38274,49 @@
    "zipf": 5.29,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "acknowledge",
+  "w": "acknowledge",
+  "uk": "/əkˈnɔlɪdʒ/",
+  "us": "/əkˈnɑlɪdʒ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "承认",
+    "en": "to accept that something is true"
+   }
+  ],
+  "ex": [
+   {
+    "en": "She acknowledged the mistake.",
+    "zh": "她承认了错误。"
+   },
+   {
+    "en": "He acknowledged the error in the chart and corrected it.",
+    "zh": "他承认了图表里的错误，并改了过来。"
+   }
+  ],
+  "col": [
+   "acknowledge that｜承认"
+  ],
+  "fam": [],
+  "syn": [
+   "admit"
+  ],
+  "ant": [],
+  "tip": "acknowledge 比 admit 更正式。",
+  "cefr": "B1",
+  "topic": "thinking",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.18,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": false
   }
  },
  {
@@ -36914,6 +39171,47 @@
   }
  },
  {
+  "id": "accent",
+  "w": "accent",
+  "uk": "/ˈæksənt/",
+  "us": "/ˈæksənt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "口音",
+    "en": "a way of pronouncing words"
+   }
+  ],
+  "ex": [
+   {
+    "en": "Her accent is from the north.",
+    "zh": "她的口音来自北方。"
+   },
+   {
+    "en": "An accent is not a reason to refuse a turn in class.",
+    "zh": "口音不是拒绝课堂上轮到某人的理由。"
+   }
+  ],
+  "col": [
+   "a strong accent｜浓重的口音"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "accent 也可指重音。本条以口音为主。",
+  "cefr": "B1",
+  "topic": "education",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.14,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "anybody",
   "w": "anybody",
   "uk": "/ˈenɪbɔdɪ/",
@@ -37415,6 +39713,47 @@
   }
  },
  {
+  "id": "missile",
+  "w": "missile",
+  "uk": "/ˈmɪsaɪl/",
+  "us": "/ˈmɪsəl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "导弹",
+    "en": "a weapon that is sent through the air"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The news mentions a missile and then gives the date.",
+    "zh": "新闻提到导弹，然后给出日期。"
+   },
+   {
+    "en": "The library keeps old articles about the missile.",
+    "zh": "图书馆保存着关于这种导弹的旧文章。"
+   }
+  ],
+  "col": [
+   "a missile test｜导弹试验"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "本条是新闻词汇。不写构造或使用。",
+  "cefr": "B1",
+  "topic": "society",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.14,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": false
+  }
+ },
+ {
   "id": "breathe",
   "w": "breathe",
   "uk": "/briːð/",
@@ -37459,6 +39798,47 @@
    "gaokaoFreq": "high",
    "source": "gaokao-mvp+word-atlas-overlap",
    "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "pension",
+  "w": "pension",
+  "uk": "/ˈpenʃ(ə)n/",
+  "us": "/ˈpɛnʃən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "养老金",
+    "en": "money paid regularly to a retired person"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The pension arrives on the first day.",
+    "zh": "养老金在每月第一天到账。"
+   },
+   {
+    "en": "Her pension covers the rent and little more.",
+    "zh": "她的养老金只够付房租，剩不下多少。"
+   }
+  ],
+  "col": [
+   "draw a pension｜领养老金"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "pension 可数。",
+  "cefr": "B1",
+  "topic": "economy",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.22,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": false
   }
  },
  {
@@ -37689,6 +40069,47 @@
   }
  },
  {
+  "id": "basement",
+  "w": "basement",
+  "uk": "/ˈbeɪsmənt/",
+  "us": "/ˈbeɪsmənt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "地下室",
+    "en": "a room under the ground floor"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The basement is used for storage.",
+    "zh": "地下室用来存放东西。"
+   },
+   {
+    "en": "A basement classroom still needs a light and a way out.",
+    "zh": "地下室教室仍然需要灯和出路。"
+   }
+  ],
+  "col": [
+   "in the basement｜在地下室"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "basement 可数。",
+  "cefr": "B1",
+  "topic": "city",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.18,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "treatment",
   "w": "treatment",
   "uk": "/ˈtriːtmənt/",
@@ -37728,6 +40149,49 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "batch": 5,
    "zipf": 5.01,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "harmony",
+  "w": "harmony",
+  "uk": "/ˈhɑːmənɪ/",
+  "us": "/ˈhɑːrməni/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "和睦；和谐",
+    "en": "a state of agreement"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The two classes work in harmony.",
+    "zh": "两个班合作得很和睦。"
+   },
+   {
+    "en": "Harmony on a poster fails if one class never sees the library.",
+    "zh": "如果一个班永远看不见图书馆，海报上的和谐就失败了。"
+   }
+  ],
+  "col": [
+   "in harmony with｜与……和谐"
+  ],
+  "fam": [],
+  "syn": [
+   "agreement"
+  ],
+  "ant": [],
+  "tip": "harmony 通常不可数。也可指和声。",
+  "cefr": "B1",
+  "topic": "society",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.11,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
@@ -38278,6 +40742,51 @@
   }
  },
  {
+  "id": "surgeon",
+  "w": "surgeon",
+  "uk": "/ˈsɜːdʒ(ə)n/",
+  "us": "/ˈsɜːdʒən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "外科医生",
+    "en": "a doctor who performs operations"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The surgeon spoke to the family.",
+    "zh": "外科医生和家属说了话。"
+   },
+   {
+    "en": "The family waited to see the surgeon.",
+    "zh": "家人等着见外科医生。"
+   }
+  ],
+  "col": [
+   "a surgeon at｜在……的外科医生"
+  ],
+  "fam": [
+   "surgery (n.)"
+  ],
+  "syn": [
+   "doctor"
+  ],
+  "ant": [],
+  "tip": "本条不写手术步骤。",
+  "cefr": "B1",
+  "topic": "health",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.13,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "sheet",
   "w": "sheet",
   "uk": "/ʃiːt/",
@@ -38772,6 +41281,51 @@
    "batch": 10,
    "zipf": 4.44,
    "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "significance",
+  "w": "significance",
+  "uk": "/sɪɡnˈɪfɪkəns/",
+  "us": "/sɪɡnˈɪfɪkəns/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "意义；重要性",
+    "en": "the importance of something"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The date has significance for the town.",
+    "zh": "这个日期对城镇有意义。"
+   },
+   {
+    "en": "The significance of the date is explained in the first paragraph.",
+    "zh": "这个日期的意义在第一段作了说明。"
+   }
+  ],
+  "col": [
+   "the significance of｜……的意义"
+  ],
+  "fam": [
+   "significant (adj.)"
+  ],
+  "syn": [
+   "importance"
+  ],
+  "ant": [],
+  "tip": "significance 通常不可数。表里这一行的音标是 signature，本库不用。",
+  "cefr": "B1",
+  "topic": "thinking",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.18,
+   "ipaSource": "espeak-ng",
    "mediaReuseCandidate": true
   }
  },
@@ -39294,6 +41848,47 @@
   }
  },
  {
+  "id": "sandwich",
+  "w": "sandwich",
+  "uk": "/ˈsandwɪtʃ/",
+  "us": "/ˈsændwɪtʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "三明治",
+    "en": "two pieces of bread with food between them"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The sandwich is in the bag.",
+    "zh": "三明治在包里。"
+   },
+   {
+    "en": "A sandwich that hides nuts should say so on the paper.",
+    "zh": "藏着坚果的三明治应当在纸上写明。"
+   }
+  ],
+  "col": [
+   "a cheese sandwich｜奶酪三明治"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "sandwich 可数。表里音标少了词尾的音，本库不用。",
+  "cefr": "B1",
+  "topic": "daily",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.13,
+   "ipaSource": "espeak-ng",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "strength",
   "w": "strength",
   "uk": "/streŋθ/",
@@ -39704,6 +42299,49 @@
   }
  },
  {
+  "id": "dish",
+  "w": "dish",
+  "uk": "/dɪʃ/",
+  "us": "/ˈdɪʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "盘子；菜肴",
+    "en": "a plate, or food prepared in a particular way"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The dish is still hot.",
+    "zh": "这盘菜还烫。"
+   },
+   {
+    "en": "The dish of the day is written on the board.",
+    "zh": "今日菜写在黑板上。"
+   }
+  ],
+  "col": [
+   "do the dishes｜洗碗"
+  ],
+  "fam": [],
+  "syn": [
+   "plate"
+  ],
+  "ant": [],
+  "tip": "do the dishes 是洗碗。",
+  "cefr": "B1",
+  "topic": "daily",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.21,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "eventually",
   "w": "eventually",
   "uk": "/ɪˈventjʊəlɪ/",
@@ -39836,6 +42474,49 @@
    "gaokaoFreq": "high",
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "zipf": 5.79,
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "mud",
+  "w": "mud",
+  "uk": "/mʌd/",
+  "us": "/ˈmʌd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "泥",
+    "en": "wet earth"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The path turned to mud after the rain.",
+    "zh": "雨后小路变成了泥。"
+   },
+   {
+    "en": "Mud at the gate is a reason to lay a board before the first class.",
+    "zh": "门口的泥是在第一节课之前铺一块板的理由。"
+   }
+  ],
+  "col": [
+   "mud on｜……上的泥"
+  ],
+  "fam": [
+   "muddy (adj.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "mud 通常不可数。",
+  "cefr": "B1",
+  "topic": "nature",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.13,
+   "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
  },
@@ -41322,6 +44003,47 @@
   }
  },
  {
+  "id": "helicopter",
+  "w": "helicopter",
+  "uk": "/ˈhelɪkɔptə(r)/",
+  "us": "/ˈhɛlɪkˌɑːptər/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "直升机",
+    "en": "an aircraft with turning blades on top"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The helicopter landed near the field.",
+    "zh": "直升机在田边降落。"
+   },
+   {
+    "en": "The helicopter brought medicine after the flood.",
+    "zh": "洪水过后，直升机送来了药品。"
+   }
+  ],
+  "col": [
+   "by helicopter｜乘直升机"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "helicopter 可数。本条不写如何驾驶。",
+  "cefr": "B1",
+  "topic": "travel",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.13,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "impression",
   "w": "impression",
   "uk": "/ɪmˈpreʃ(ə)n/",
@@ -41581,6 +44303,49 @@
   }
  },
  {
+  "id": "boot",
+  "w": "boot",
+  "uk": "/buːt/",
+  "us": "/ˈbuːt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "靴子",
+    "en": "a shoe that covers the foot and the ankle"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The boot is wet from the path.",
+    "zh": "靴子被小路打湿了。"
+   },
+   {
+    "en": "A spare boot at school matters when the morning rain soaks the first pair.",
+    "zh": "早晨的雨打湿第一双时，学校里的备用靴子就有用。"
+   }
+  ],
+  "col": [
+   "a pair of boots｜一双靴子"
+  ],
+  "fam": [],
+  "syn": [
+   "shoe"
+  ],
+  "ant": [],
+  "tip": "英式 the boot 也可指汽车后备箱。本条以靴子为主。",
+  "cefr": "B1",
+  "topic": "daily",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.19,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "ring",
   "w": "ring",
   "uk": "/rɪŋ/",
@@ -41817,6 +44582,47 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "batch": 8,
    "zipf": 4.57,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "suite",
+  "w": "suite",
+  "uk": "/swiːt/",
+  "us": "/ˈswiːt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "套间；组曲",
+    "en": "a set of rooms, or a set of musical pieces"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The suite has a desk and a bed.",
+    "zh": "这个套间有书桌和床。"
+   },
+   {
+    "en": "A hotel suite in a brochure is not a room a student can use.",
+    "zh": "宣传册里的酒店套间，不是学生能用的房间。"
+   }
+  ],
+  "col": [
+   "a suite of rooms｜一套房间"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "suite 与 sweet 同音。本条是套间或组曲。",
+  "cefr": "B1",
+  "topic": "city",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.18,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
@@ -42385,6 +45191,54 @@
   }
  },
  {
+  "id": "dive",
+  "w": "dive",
+  "uk": "/daɪv/",
+  "us": "/ˈdaɪv/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "跳水",
+    "en": "to jump into water head first"
+   },
+   {
+    "pos": "n.",
+    "zh": "跳水",
+    "en": "an act of diving"
+   }
+  ],
+  "ex": [
+   {
+    "en": "Do not dive into the shallow end.",
+    "zh": "不要在浅水区跳水。"
+   },
+   {
+    "en": "The children dive from the low board.",
+    "zh": "孩子们从低跳板跳水。"
+   }
+  ],
+  "col": [
+   "dive into｜跳入"
+  ],
+  "fam": [
+   "diving (n.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "dive 也可作名词。本条只作安全词汇。",
+  "cefr": "B1",
+  "topic": "sport",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.12,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "charge",
   "w": "charge",
   "uk": "/tʃɑːdʒ/",
@@ -42486,6 +45340,88 @@
   }
  },
  {
+  "id": "duck",
+  "w": "duck",
+  "uk": "/dʌk/",
+  "us": "/ˈdʌk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鸭子",
+    "en": "a water bird with a wide beak"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The duck is on the pond.",
+    "zh": "鸭子在池塘上。"
+   },
+   {
+    "en": "The duck stayed on the pond until the children left.",
+    "zh": "鸭子一直待在池塘上，直到孩子们离开。"
+   }
+  ],
+  "col": [
+   "a wild duck｜野鸭"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "duck 作动词是低头躲开。本条以动物为主。",
+  "cefr": "B1",
+  "topic": "nature",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.21,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "embassy",
+  "w": "embassy",
+  "uk": "/ˈembəsɪ/",
+  "us": "/ˈɛmbəsi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "大使馆",
+    "en": "the official building of a country in another country"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The embassy is downtown.",
+    "zh": "大使馆在市中心。"
+   },
+   {
+    "en": "A visit to an embassy should explain whose country it represents.",
+    "zh": "参观大使馆应当说明它代表哪个国家。"
+   }
+  ],
+  "col": [
+   "at the embassy｜在大使馆"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "embassy 可数。",
+  "cefr": "B1",
+  "topic": "government",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.13,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "mean",
   "w": "mean",
   "uk": "/ˈmiːn/",
@@ -42576,6 +45512,49 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "batch": 6,
    "zipf": 4.91,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "motivation",
+  "w": "motivation",
+  "uk": "/ˌməʊtɪˈveɪʃn/",
+  "us": "/ˌmoʊtɪˈveɪʃn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "动机",
+    "en": "the reason that makes someone act"
+   }
+  ],
+  "ex": [
+   {
+    "en": "Her motivation was a quieter reading room.",
+    "zh": "她的动机是要一间更安静的阅览室。"
+   },
+   {
+    "en": "Motivation rises when the task has a real reader, not only a score.",
+    "zh": "任务有真实读者而不只是分数时，动力会上升。"
+   }
+  ],
+  "col": [
+   "motivation for｜做……的动机"
+  ],
+  "fam": [],
+  "syn": [
+   "reason"
+  ],
+  "ant": [],
+  "tip": "motivation 可数也可不可数。",
+  "cefr": "B1",
+  "topic": "thinking",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.22,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
@@ -43474,6 +46453,54 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "batch": 11,
    "zipf": 4.29,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "blank",
+  "w": "blank",
+  "uk": "/blæŋk/",
+  "us": "/ˈblæŋk/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "空白的",
+    "en": "empty, with nothing written"
+   },
+   {
+    "pos": "n.",
+    "zh": "空白",
+    "en": "an empty space"
+   }
+  ],
+  "ex": [
+   {
+    "en": "Leave the blank line empty if you do not know.",
+    "zh": "不知道就让空行空着。"
+   },
+   {
+    "en": "A blank form still needs someone who can explain it.",
+    "zh": "空白表格仍然需要有人能解释它。"
+   }
+  ],
+  "col": [
+   "a blank page｜空白页"
+  ],
+  "fam": [],
+  "syn": [
+   "empty"
+  ],
+  "ant": [],
+  "tip": "blank 作名词是空格。",
+  "cefr": "B1",
+  "topic": "education",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.14,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
@@ -44552,6 +47579,47 @@
   }
  },
  {
+  "id": "pepper",
+  "w": "pepper",
+  "uk": "/ˈpepə(r)/",
+  "us": "/ˈpɛpər/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "胡椒",
+    "en": "a hot-tasting powder, or the vegetable"
+   }
+  ],
+  "ex": [
+   {
+    "en": "There is too much pepper in the soup.",
+    "zh": "汤里胡椒太多。"
+   },
+   {
+    "en": "Black pepper is on the table, not in the soup yet.",
+    "zh": "黑胡椒在桌上，还没放进汤里。"
+   }
+  ],
+  "col": [
+   "black pepper｜黑胡椒"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "pepper 作粉末通常不可数。青椒可数。",
+  "cefr": "B1",
+  "topic": "daily",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.14,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "member",
   "w": "member",
   "uk": "/ˈmembə(r)/",
@@ -44816,6 +47884,49 @@
   }
  },
  {
+  "id": "phenomenon",
+  "w": "phenomenon",
+  "uk": "/fəˈnɒmɪnən/",
+  "us": "/fəˈnɑmənən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "现象",
+    "en": "a fact or event that can be observed"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The phenomenon is written on the chart.",
+    "zh": "这个现象写在图表上。"
+   },
+   {
+    "en": "A phenomenon without a date is not yet a report.",
+    "zh": "没有日期的现象还不是报告。"
+   }
+  ],
+  "col": [
+   "a natural phenomenon｜自然现象"
+  ],
+  "fam": [
+   "phenomena (n.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "复数是 phenomena。",
+  "cefr": "B1",
+  "topic": "science",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.13,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": false
+  }
+ },
+ {
   "id": "while",
   "w": "while",
   "uk": "/ˈwaɪl/",
@@ -44858,6 +47969,47 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "zipf": 5.86,
    "mediaReuseCandidate": false
+  }
+ },
+ {
+  "id": "sheep",
+  "w": "sheep",
+  "uk": "/ʃiːp/",
+  "us": "/ˈʃiːp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "绵羊",
+    "en": "a farm animal kept for wool or meat"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The sheep stayed under the tree.",
+    "zh": "羊待在树下。"
+   },
+   {
+    "en": "Wool from these sheep is sold at the Friday market.",
+    "zh": "这些羊的毛在周五的集市上出售。"
+   }
+  ],
+  "col": [
+   "a flock of sheep｜一群羊"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "单复数同形。",
+  "cefr": "B1",
+  "topic": "nature",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.19,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
   }
  },
  {
@@ -44948,6 +48100,50 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "batch": 9,
    "zipf": 4.48,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "acquire",
+  "w": "acquire",
+  "uk": "/əˈkwaɪə(r)/",
+  "us": "/əˈkwaɪər/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "获得",
+    "en": "to get something"
+   }
+  ],
+  "ex": [
+   {
+    "en": "She acquired a library card on the first visit.",
+    "zh": "她第一次去就办好了借书证。"
+   },
+   {
+    "en": "Students acquire the habit by writing one page each evening.",
+    "zh": "学生靠每天晚上写一页来养成这个习惯。"
+   }
+  ],
+  "col": [
+   "acquire a habit｜养成习惯"
+  ],
+  "fam": [],
+  "syn": [
+   "obtain",
+   "get"
+  ],
+  "ant": [],
+  "tip": "acquire 比 get 正式。",
+  "cefr": "B1",
+  "topic": "thinking",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.13,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
@@ -45171,6 +48367,140 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "batch": 5,
    "zipf": 5.03,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "patent",
+  "w": "patent",
+  "uk": "/ˈpeɪt(ə)nt/",
+  "us": "/ˈpætnt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "专利",
+    "en": "an official right to be the only maker of an invention"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The patent is in the inventor's name.",
+    "zh": "专利在发明人的名下。"
+   },
+   {
+    "en": "A patent on a school tool should not stop a poor district from repairing it.",
+    "zh": "学校工具上的专利，不应当阻止贫困地区修理它。"
+   }
+  ],
+  "col": [
+   "a patent for｜……的专利"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "patent 也可作形容词“专利的”。",
+  "cefr": "B1",
+  "topic": "economy",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.18,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "unfortunate",
+  "w": "unfortunate",
+  "uk": "/ʌnfˈɔːtʃənət/",
+  "us": "/ʌnfˈɔːrtʃənət/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不幸的",
+    "en": "unlucky or regrettable"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The delay was unfortunate.",
+    "zh": "这次延误很不幸。"
+   },
+   {
+    "en": "Missing the bus was unfortunate, but she still arrived.",
+    "zh": "没赶上车很倒霉，但她还是到了。"
+   }
+  ],
+  "col": [
+   "unfortunate for｜对……不幸"
+  ],
+  "fam": [
+   "fortune (n.)"
+  ],
+  "syn": [
+   "unlucky"
+  ],
+  "ant": [
+   "fortunate"
+  ],
+  "tip": "fortune 已在本库。表里没有 unfortunate 这一条，本库用 espeak-ng。",
+  "cefr": "B1",
+  "topic": "emotion",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.12,
+   "ipaSource": "espeak-ng",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "treasure",
+  "w": "treasure",
+  "uk": "/ˈtreʒə(r)/",
+  "us": "/ˈtrɛʒər/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "财富；珍宝",
+    "en": "a collection of valuable things, or something you value highly"
+   },
+   {
+    "pos": "v.",
+    "zh": "珍视",
+    "en": "to value something highly"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The map is a treasure of the town.",
+    "zh": "这张地图是城镇的珍宝。"
+   },
+   {
+    "en": "Treasure in a story can be a book, not only gold.",
+    "zh": "故事里的珍宝可以是一本书，而不只是金子。"
+   }
+  ],
+  "col": [
+   "buried treasure｜埋藏的财宝"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "treasure 作动词是珍视。",
+  "cefr": "B1",
+  "topic": "daily",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.17,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
@@ -45530,6 +48860,47 @@
   }
  },
  {
+  "id": "visa",
+  "w": "visa",
+  "uk": "/ˈviːzə/",
+  "us": "/ˈviːzə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "签证",
+    "en": "an official mark that allows you to enter a country"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The visa is in the passport.",
+    "zh": "签证在护照里。"
+   },
+   {
+    "en": "A visa rule should be written in words a family can read.",
+    "zh": "签证规定应当用家庭能读懂的话写出来。"
+   }
+  ],
+  "col": [
+   "a visa for｜去……的签证"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "visa 可数。",
+  "cefr": "B1",
+  "topic": "travel",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.13,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "wash",
   "w": "wash",
   "uk": "/ˈwɒʃ/",
@@ -45656,6 +49027,47 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "batch": 10,
    "zipf": 4.4,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "plug",
+  "w": "plug",
+  "uk": "/plʌɡ/",
+  "us": "/ˈplʌɡ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "插头；塞子",
+    "en": "a device that connects a machine to electricity, or something that blocks a hole"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The plug is loose.",
+    "zh": "插头松了。"
+   },
+   {
+    "en": "The lamp will not work with a loose plug.",
+    "zh": "插头松了，这盏灯就不亮。"
+   }
+  ],
+  "col": [
+   "pull the plug｜拔掉插头"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "本条只作安全词汇。不写如何接线。",
+  "cefr": "B1",
+  "topic": "technology",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.14,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
@@ -46286,6 +49698,50 @@
   }
  },
  {
+  "id": "contrary",
+  "w": "contrary",
+  "uk": "/ˈkɔntrərɪ/",
+  "us": "/ˈkɔntrerɪ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "相反",
+    "en": "the opposite"
+   }
+  ],
+  "ex": [
+   {
+    "en": "On the contrary, the hall was half empty.",
+    "zh": "正相反，礼堂空了一半。"
+   },
+   {
+    "en": "The result was contrary to the first report.",
+    "zh": "结果和第一份报告相反。"
+   }
+  ],
+  "col": [
+   "on the contrary｜正相反",
+   "contrary to｜与……相反"
+  ],
+  "fam": [],
+  "syn": [
+   "opposite"
+  ],
+  "ant": [],
+  "tip": "on the contrary 用来反驳前一句。",
+  "cefr": "B1",
+  "topic": "thinking",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.17,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "poem",
   "w": "poem",
   "uk": "/ˈpəʊɪm/",
@@ -46865,6 +50321,54 @@
   }
  },
  {
+  "id": "substitute",
+  "w": "substitute",
+  "uk": "/ˈsʌbstɪtjuːt/",
+  "us": "/ˈsʌbstɪtˌuːt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "代替者；代用品",
+    "en": "a person or thing used instead of another"
+   },
+   {
+    "pos": "v.",
+    "zh": "代替",
+    "en": "to use instead of something else"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The substitute teacher knows the class.",
+    "zh": "代课老师认识这个班。"
+   },
+   {
+    "en": "Rice became the substitute when the noodles ran out.",
+    "zh": "面条用完后，米饭就成了替代。"
+   }
+  ],
+  "col": [
+   "a substitute for｜……的替代"
+  ],
+  "fam": [],
+  "syn": [
+   "replacement"
+  ],
+  "ant": [],
+  "tip": "substitute 作动词是代替。",
+  "cefr": "B1",
+  "topic": "education",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.17,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "jazz",
   "w": "jazz",
   "uk": "/dʒæz/",
@@ -46991,6 +50495,51 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "batch": 8,
    "zipf": 4.66,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "profession",
+  "w": "profession",
+  "uk": "/prəˈfeʃ(ə)n/",
+  "us": "/prəfˈɛʃən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "职业",
+    "en": "a job that needs special education"
+   }
+  ],
+  "ex": [
+   {
+    "en": "Teaching is her profession.",
+    "zh": "教书是她的职业。"
+   },
+   {
+    "en": "Medicine is a profession that takes years of study.",
+    "zh": "医学是一份需要学很多年的职业。"
+   }
+  ],
+  "col": [
+   "by profession｜就职业来说"
+  ],
+  "fam": [
+   "professional (n.)"
+  ],
+  "syn": [
+   "occupation"
+  ],
+  "ant": [],
+  "tip": "profession 比 job 更正式。",
+  "cefr": "B1",
+  "topic": "work",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.13,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
@@ -47166,6 +50715,49 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "batch": 3,
    "zipf": 5.41,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "react",
+  "w": "react",
+  "uk": "/riːˈækt/",
+  "us": "/rɪˈækt/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "反应",
+    "en": "to act in reply to something"
+   }
+  ],
+  "ex": [
+   {
+    "en": "She did not react to the bell.",
+    "zh": "她对铃声没有反应。"
+   },
+   {
+    "en": "Students react faster when the warning is both a sound and a sign.",
+    "zh": "警告既有声音又有标志时，学生反应更快。"
+   }
+  ],
+  "col": [
+   "react to｜对……作出反应"
+  ],
+  "fam": [
+   "reaction (n.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "react to something。本条不写化学配方。",
+  "cefr": "B1",
+  "topic": "science",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.16,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
@@ -48472,6 +52064,55 @@
   }
  },
  {
+  "id": "sink",
+  "w": "sink",
+  "uk": "/sɪŋk/",
+  "us": "/ˈsɪŋk/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "下沉",
+    "en": "to go down below the surface"
+   },
+   {
+    "pos": "n.",
+    "zh": "洗涤槽",
+    "en": "a basin in a kitchen"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The paper boat began to sink.",
+    "zh": "纸船开始下沉。"
+   },
+   {
+    "en": "Watch the stone sink in the pond.",
+    "zh": "看那块石头在池塘里下沉。"
+   }
+  ],
+  "col": [
+   "sink below｜沉到……下面"
+  ],
+  "fam": [
+   "sank (v.)",
+   "sunk (v.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "过去式 sank，过去分词 sunk。sink 作名词是洗涤槽。",
+  "cefr": "B1",
+  "topic": "nature",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.21,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "trade",
   "w": "trade",
   "uk": "/treɪd/",
@@ -48835,6 +52476,47 @@
   }
  },
  {
+  "id": "tobacco",
+  "w": "tobacco",
+  "uk": "/təbˈakəʊ/",
+  "us": "/təbˈækoʊ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "烟草",
+    "en": "the dried leaves of a plant used in cigarettes"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The shop keeps tobacco behind the counter.",
+    "zh": "商店把烟草放在柜台后面。"
+   },
+   {
+    "en": "Smoking tobacco harms the lungs.",
+    "zh": "吸食烟草会伤害肺。"
+   }
+  ],
+  "col": [
+   "tobacco smoke｜烟草的烟"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "tobacco 通常不可数。表里这一行的音标是 toast，本库不用。本条不鼓励吸烟。",
+  "cefr": "B1",
+  "topic": "health",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.19,
+   "ipaSource": "espeak-ng",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "temperature",
   "w": "temperature",
   "uk": "/ˈtemprɪtʃə(r)/",
@@ -49060,6 +52742,49 @@
   }
  },
  {
+  "id": "bless",
+  "w": "bless",
+  "uk": "/bles/",
+  "us": "/ˈblɛs/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "祝福",
+    "en": "to ask for good for someone, often in a religious way"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The visitor said bless you after the sneeze.",
+    "zh": "客人在喷嚏之后说了 bless you。"
+   },
+   {
+    "en": "He wrote bless you at the end of the card.",
+    "zh": "他在卡片末尾写了 bless you。"
+   }
+  ],
+  "col": [
+   "bless sb｜祝福某人"
+  ],
+  "fam": [
+   "blessing (n.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "本条是词汇，不是劝人信教。",
+  "cefr": "B1",
+  "topic": "society",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.17,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "point",
   "w": "point",
   "uk": "/ˈpɔɪnt/",
@@ -49149,6 +52874,49 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "zipf": 5.6,
    "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "lightning",
+  "w": "lightning",
+  "uk": "/ˈlaɪtnɪŋ/",
+  "us": "/ˈlaɪtnɪŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "闪电",
+    "en": "a bright flash of electricity in a storm"
+   }
+  ],
+  "ex": [
+   {
+    "en": "Lightning lit the playground.",
+    "zh": "闪电照亮了操场。"
+   },
+   {
+    "en": "A lightning warning should send students indoors before the match continues.",
+    "zh": "闪电警告应当在比赛继续之前让学生进室内。"
+   }
+  ],
+  "col": [
+   "a flash of lightning｜一道闪电"
+  ],
+  "fam": [
+   "thunder (n.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "lightning 通常不可数。本批另有 thunder。不要站在空旷处等闪电过去。",
+  "cefr": "B1",
+  "topic": "nature",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.22,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": false
   }
  },
  {
@@ -49322,6 +53090,51 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "batch": 9,
    "zipf": 4.54,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "pleasant",
+  "w": "pleasant",
+  "uk": "/ˈplezənt/",
+  "us": "/ˈplɛzənt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "令人愉快的",
+    "en": "enjoyable and friendly"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The courtyard is pleasant in the morning.",
+    "zh": "清晨的院子很舒服。"
+   },
+   {
+    "en": "The garden stays pleasant even on a grey afternoon.",
+    "zh": "即使在灰蒙蒙的下午，这个园子也很舒服。"
+   }
+  ],
+  "col": [
+   "a pleasant surprise｜惊喜"
+  ],
+  "fam": [],
+  "syn": [
+   "nice"
+  ],
+  "ant": [
+   "unpleasant"
+  ],
+  "tip": "pleasant 形容事物或气氛。",
+  "cefr": "B1",
+  "topic": "emotion",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.22,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
@@ -50340,6 +54153,49 @@
   }
  },
  {
+  "id": "occupation",
+  "w": "occupation",
+  "uk": "/ɔkjʊˈpeɪʃ(ə)n/",
+  "us": "/ˌɑːkjʊpˈeɪʃən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "职业",
+    "en": "a person's job"
+   }
+  ],
+  "ex": [
+   {
+    "en": "Her occupation is written on the form.",
+    "zh": "她的职业写在表格上。"
+   },
+   {
+    "en": "She hopes to change her occupation after college.",
+    "zh": "她希望大学毕业后换一个职业。"
+   }
+  ],
+  "col": [
+   "a full-time occupation｜一份全职工作"
+  ],
+  "fam": [],
+  "syn": [
+   "job"
+  ],
+  "ant": [],
+  "tip": "occupation 也可指占领。本条以职业为主。",
+  "cefr": "B1",
+  "topic": "work",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.2,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "ready",
   "w": "ready",
   "uk": "/ˈredɪ/",
@@ -50534,6 +54390,52 @@
    "gaokaoFreq": "high",
    "source": "gaokao-mvp+word-atlas-overlap",
    "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "spray",
+  "w": "spray",
+  "uk": "/spreɪ/",
+  "us": "/ˈspreɪ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "喷洒",
+    "en": "to send liquid out in small drops"
+   },
+   {
+    "pos": "n.",
+    "zh": "喷雾",
+    "en": "liquid sent out in drops"
+   }
+  ],
+  "ex": [
+   {
+    "en": "Spray the plants, not the books.",
+    "zh": "给植物喷水，不要喷到书上。"
+   },
+   {
+    "en": "Do not spray an unmarked bottle in the lab.",
+    "zh": "不要在实验室里喷一个没有标记的瓶子。"
+   }
+  ],
+  "col": [
+   "spray sth with｜用……喷"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "本条用浇水的意思。不写药剂配方。",
+  "cefr": "B1",
+  "topic": "daily",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.18,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": false
   }
  },
  {
@@ -50946,6 +54848,49 @@
   }
  },
  {
+  "id": "barrier",
+  "w": "barrier",
+  "uk": "/ˈbæriə(r)/",
+  "us": "/ˈbæriər/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "障碍；栏杆",
+    "en": "something that blocks the way"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The barrier at the gate is down.",
+    "zh": "门口的栏杆放下来了。"
+   },
+   {
+    "en": "A language barrier falls when the notice has a translation.",
+    "zh": "通知有翻译时，语言障碍会降低。"
+   }
+  ],
+  "col": [
+   "a barrier to｜……的障碍"
+  ],
+  "fam": [],
+  "syn": [
+   "obstacle"
+  ],
+  "ant": [],
+  "tip": "barrier 可数。",
+  "cefr": "B1",
+  "topic": "city",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.15,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": false
+  }
+ },
+ {
   "id": "pray",
   "w": "pray",
   "uk": "/preɪ/",
@@ -51254,6 +55199,47 @@
   }
  },
  {
+  "id": "ham",
+  "w": "ham",
+  "uk": "/hæm/",
+  "us": "/ˈhæm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "火腿",
+    "en": "meat from a pig's leg"
+   }
+  ],
+  "ex": [
+   {
+    "en": "There is ham in the sandwich.",
+    "zh": "三明治里有火腿。"
+   },
+   {
+    "en": "The ham stays cold until lunch.",
+    "zh": "火腿一直冷藏到午饭。"
+   }
+  ],
+  "col": [
+   "a slice of ham｜一片火腿"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "ham 作肉通常不可数。",
+  "cefr": "B1",
+  "topic": "daily",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.12,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "focus",
   "w": "focus",
   "uk": "/ˈfəʊkəs/",
@@ -51358,6 +55344,49 @@
   }
  },
  {
+  "id": "garbage",
+  "w": "garbage",
+  "uk": "/ˈɡɑːbɪdʒ/",
+  "us": "/ˈɡɑːrbɪdʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "垃圾",
+    "en": "waste; especially American"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The garbage goes out on Tuesday.",
+    "zh": "垃圾在周二清走。"
+   },
+   {
+    "en": "Garbage left by the gate becomes a problem for the first class.",
+    "zh": "留在门口的垃圾会变成第一节课的问题。"
+   }
+  ],
+  "col": [
+   "a garbage can｜垃圾桶"
+  ],
+  "fam": [],
+  "syn": [
+   "rubbish"
+  ],
+  "ant": [],
+  "tip": "garbage 是美式，通常不可数。英式常用 rubbish。",
+  "cefr": "B1",
+  "topic": "environment",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.18,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "bye",
   "w": "bye",
   "uk": "/baɪ/",
@@ -51440,6 +55469,51 @@
    "zipf": 4.78,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "distant",
+  "w": "distant",
+  "uk": "/ˈdɪst(ə)nt/",
+  "us": "/ˈdɪstənt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "遥远的",
+    "en": "far away"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The farm is distant, but the school is open.",
+    "zh": "农场很远，但学校开着。"
+   },
+   {
+    "en": "The mountains look distant, but the walk takes only two hours.",
+    "zh": "山看起来很远，走过去却只要两小时。"
+   }
+  ],
+  "col": [
+   "a distant place｜遥远的地方"
+  ],
+  "fam": [
+   "distance (n.)"
+  ],
+  "syn": [
+   "far"
+  ],
+  "ant": [],
+  "tip": "distance 是名词。",
+  "cefr": "B1",
+  "topic": "travel",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.19,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": false
   }
  },
  {
@@ -52389,6 +56463,49 @@
   }
  },
  {
+  "id": "accessible",
+  "w": "accessible",
+  "uk": "/əkˈsesɪb(ə)l/",
+  "us": "/æksˈɛsəbəl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "可到达的；易懂的",
+    "en": "easy to reach, enter, or understand"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The entrance is accessible by wheelchair.",
+    "zh": "这个入口轮椅可以到达。"
+   },
+   {
+    "en": "An accessible notice uses plain words and a large print.",
+    "zh": "易懂的通知用明白的话和大号字。"
+   }
+  ],
+  "col": [
+   "accessible to｜对……可及"
+  ],
+  "fam": [
+   "access (n.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "access 是名词或动词。",
+  "cefr": "B1",
+  "topic": "city",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.18,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "factory",
   "w": "factory",
   "uk": "/ˈfaktəri/",
@@ -52651,6 +56768,90 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "batch": 8,
    "zipf": 4.56,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "easter",
+  "w": "Easter",
+  "uk": "/ˈiːstə(r)/",
+  "us": "/ˈiːstər/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "复活节",
+    "en": "a Christian festival in spring"
+   }
+  ],
+  "ex": [
+   {
+    "en": "Easter is in spring this year.",
+    "zh": "今年的复活节在春天。"
+   },
+   {
+    "en": "We have no lessons over Easter.",
+    "zh": "复活节期间我们不上课。"
+   }
+  ],
+  "col": [
+   "at Easter｜在复活节"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "Easter 要大写。本条是日历词汇，不是劝人信教。",
+  "cefr": "B1",
+  "topic": "society",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.12,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "cattle",
+  "w": "cattle",
+  "uk": "/ˈkæt(ə)l/",
+  "us": "/ˈkæɾəl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "牛（总称）",
+    "en": "cows and bulls kept as farm animals"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The cattle are in the field.",
+    "zh": "牛在田里。"
+   },
+   {
+    "en": "The cattle moved toward the river at dusk.",
+    "zh": "牛群在黄昏时走向河边。"
+   }
+  ],
+  "col": [
+   "a herd of cattle｜一群牛"
+  ],
+  "fam": [],
+  "syn": [
+   "cows"
+  ],
+  "ant": [],
+  "tip": "cattle 是复数名词，谓语用复数。本条不写如何伤害动物。",
+  "cefr": "B1",
+  "topic": "nature",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.15,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
@@ -52922,6 +57123,53 @@
   }
  },
  {
+  "id": "wealthy",
+  "w": "wealthy",
+  "uk": "/ˈwelθɪ/",
+  "us": "/ˈwɛlθi/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "富有的",
+    "en": "having a lot of money"
+   }
+  ],
+  "ex": [
+   {
+    "en": "A wealthy donor paid for the roof.",
+    "zh": "一位富有的捐赠者付了屋顶的钱。"
+   },
+   {
+    "en": "A wealthy district and a poor one should not have different clinic hours.",
+    "zh": "富区和贫区不应当有不同的门诊时间。"
+   }
+  ],
+  "col": [
+   "a wealthy family｜富裕的家庭"
+  ],
+  "fam": [
+   "wealth (n.)"
+  ],
+  "syn": [
+   "rich"
+  ],
+  "ant": [
+   "poor"
+  ],
+  "tip": "wealth 是名词。",
+  "cefr": "B1",
+  "topic": "economy",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.21,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "divorce",
   "w": "divorce",
   "uk": "/dɪˈvɔːs/",
@@ -53100,6 +57348,49 @@
   }
  },
  {
+  "id": "corn",
+  "w": "corn",
+  "uk": "/kɔːn/",
+  "us": "/ˈkɔːrn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "玉米；谷物",
+    "en": "a grain plant, especially maize in American English"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The corn is ready in August.",
+    "zh": "玉米在八月成熟。"
+   },
+   {
+    "en": "Corn grown beside the school still needs water when most students are away.",
+    "zh": "学校旁边种的玉米，在大多数学生离开时仍然需要水。"
+   }
+  ],
+  "col": [
+   "an ear of corn｜一穗玉米"
+  ],
+  "fam": [],
+  "syn": [
+   "maize"
+  ],
+  "ant": [],
+  "tip": "美式 corn 常指玉米。英式也可指谷物。",
+  "cefr": "B1",
+  "topic": "nature",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.19,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "organization",
   "w": "organization",
   "uk": "/ɔːɡənaɪˈzeɪʃ(ə)n/",
@@ -53184,6 +57475,52 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "batch": 8,
    "zipf": 4.63,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "hammer",
+  "w": "hammer",
+  "uk": "/ˈhæmə(r)/",
+  "us": "/ˈhæmər/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "锤子",
+    "en": "a tool with a heavy head for hitting nails"
+   },
+   {
+    "pos": "v.",
+    "zh": "锤打",
+    "en": "to hit with a hammer"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The hammer is in the drawer.",
+    "zh": "锤子在抽屉里。"
+   },
+   {
+    "en": "A loose hammer on a lab bench should be put away before class.",
+    "zh": "实验台上松放的锤子应当在上课前收起来。"
+   }
+  ],
+  "col": [
+   "a hammer and nails｜锤子和钉子"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "hammer 作动词是锤打。本条不写如何伤人。",
+  "cefr": "B1",
+  "topic": "daily",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.16,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
@@ -53284,6 +57621,49 @@
   }
  },
  {
+  "id": "resist",
+  "w": "resist",
+  "uk": "/rɪˈzɪst/",
+  "us": "/rɪzˈɪst/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "抵抗；忍住",
+    "en": "to refuse to accept something, or to stop yourself doing it"
+   }
+  ],
+  "ex": [
+   {
+    "en": "She could not resist asking about the fee.",
+    "zh": "她忍不住问了费用。"
+   },
+   {
+    "en": "Communities resist a plan that hides who pays.",
+    "zh": "社区会抵制隐瞒谁付钱的计划。"
+   }
+  ],
+  "col": [
+   "resist doing｜忍住不做"
+  ],
+  "fam": [
+   "resistance (n.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "resist doing something。",
+  "cefr": "B1",
+  "topic": "thinking",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.2,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "dust",
   "w": "dust",
   "uk": "/dʌst/",
@@ -53322,6 +57702,47 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "batch": 10,
    "zipf": 4.41,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "lip",
+  "w": "lip",
+  "uk": "/lɪp/",
+  "us": "/ˈlɪp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "嘴唇",
+    "en": "one of the two soft edges of the mouth"
+   }
+  ],
+  "ex": [
+   {
+    "en": "She bit her lip and then asked.",
+    "zh": "她咬了咬嘴唇，然后问了。"
+   },
+   {
+    "en": "A cut on the lip is a reason to see the clinic.",
+    "zh": "嘴唇上的伤口是去诊所的理由。"
+   }
+  ],
+  "col": [
+   "upper lip｜上唇"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "lip 可数。",
+  "cefr": "B1",
+  "topic": "health",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.13,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
@@ -54093,6 +58514,49 @@
   }
  },
  {
+  "id": "shade",
+  "w": "shade",
+  "uk": "/ʃeɪd/",
+  "us": "/ˈʃeɪd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阴凉",
+    "en": "a place protected from the sun"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The bench is in the shade.",
+    "zh": "长凳在阴凉处。"
+   },
+   {
+    "en": "The oak gives shade to the whole yard.",
+    "zh": "这棵橡树给整个院子遮出阴凉。"
+   }
+  ],
+  "col": [
+   "in the shade｜在阴凉处"
+  ],
+  "fam": [],
+  "syn": [
+   "shadow"
+  ],
+  "ant": [],
+  "tip": "shade 作阴凉时常不可数。",
+  "cefr": "B1",
+  "topic": "nature",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.16,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "roll",
   "w": "roll",
   "uk": "/rəʊl/",
@@ -54840,6 +59304,51 @@
   }
  },
  {
+  "id": "instruction",
+  "w": "instruction",
+  "uk": "/ɪnˈstrʌkʃ(ə)n/",
+  "us": "/ɪnstrˈʌkʃən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "说明；指示",
+    "en": "words that tell you how to do something"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The instruction is on the door.",
+    "zh": "说明写在门上。"
+   },
+   {
+    "en": "An instruction that families cannot read is not one they can follow.",
+    "zh": "家庭读不懂的说明，不是他们能遵守的说明。"
+   }
+  ],
+  "col": [
+   "follow an instruction｜按说明做"
+  ],
+  "fam": [
+   "instruct (v.)"
+  ],
+  "syn": [
+   "direction"
+  ],
+  "ant": [],
+  "tip": "常用复数 instructions。本条不写危险操作的步骤。",
+  "cefr": "B1",
+  "topic": "education",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.14,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "combine",
   "w": "combine",
   "uk": "/kəmˈbaɪn/",
@@ -55474,6 +59983,49 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "batch": 8,
    "zipf": 4.6,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "politician",
+  "w": "politician",
+  "uk": "/pɔlɪˈtɪʃ(ə)n/",
+  "us": "/ˌpɑləˈtɪʃən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "政治家；从政者",
+    "en": "a person who works in politics"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The politician visited the clinic.",
+    "zh": "这位从政者参观了诊所。"
+   },
+   {
+    "en": "The politician answered questions about the clinic hours.",
+    "zh": "这位从政者回答了关于门诊时间的问题。"
+   }
+  ],
+  "col": [
+   "a politician from｜来自……的从政者"
+  ],
+  "fam": [
+   "politics (n.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "politician 可数。本条是阅读词汇。",
+  "cefr": "B1",
+  "topic": "government",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.16,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
@@ -56682,6 +61234,50 @@
   }
  },
  {
+  "id": "mathematics",
+  "w": "mathematics",
+  "uk": "/mæθəˈmætɪks/",
+  "us": "/ˌmæθəˈmætɪks/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "数学",
+    "en": "the science of numbers and shapes"
+   }
+  ],
+  "ex": [
+   {
+    "en": "Mathematics is the first lesson.",
+    "zh": "第一节是数学。"
+   },
+   {
+    "en": "Mathematics explains how the bridge carries the trucks.",
+    "zh": "数学解释了这座桥如何承受那些卡车。"
+   }
+  ],
+  "col": [
+   "mathematics teacher｜数学老师"
+  ],
+  "fam": [
+   "maths (n.)",
+   "math (n.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "作学科时谓语用单数。英式口语常说 maths，美式常说 math。",
+  "cefr": "B1",
+  "topic": "science",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.15,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "province",
   "w": "province",
   "uk": "/ˈprɔvɪns/",
@@ -57414,6 +62010,51 @@
   }
  },
  {
+  "id": "grandma",
+  "w": "grandma",
+  "uk": "/ˈɡrænmɑː/",
+  "us": "/ˈɡrændmɑː/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奶奶；外婆",
+    "en": "grandmother; informal"
+   }
+  ],
+  "ex": [
+   {
+    "en": "Her grandma makes soup every Sunday.",
+    "zh": "她奶奶每个星期天做汤。"
+   },
+   {
+    "en": "The children call her grandma at home.",
+    "zh": "孩子们在家里叫她奶奶。"
+   }
+  ],
+  "col": [
+   "grandma and grandpa｜爷爷奶奶"
+  ],
+  "fam": [
+   "grandmother (n.)"
+  ],
+  "syn": [
+   "grandmother"
+  ],
+  "ant": [],
+  "tip": "grandma 是口语。grandmother 是本批的另一词。",
+  "cefr": "B1",
+  "topic": "society",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.11,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": false
+  }
+ },
+ {
   "id": "hot-dog",
   "w": "hot dog",
   "uk": "/hɔt-dɔɡ/",
@@ -57534,6 +62175,47 @@
    "batch": 4,
    "zipf": 5.13,
    "ipaSource": "espeak-ng",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "cage",
+  "w": "cage",
+  "uk": "/keɪdʒ/",
+  "us": "/ˈkeɪdʒ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "笼子",
+    "en": "a box of bars for keeping an animal"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The cage has water and shade.",
+    "zh": "笼子里有水和阴凉。"
+   },
+   {
+    "en": "The bird's cage hangs by the window.",
+    "zh": "鸟笼挂在窗户旁边。"
+   }
+  ],
+  "col": [
+   "a cage for｜给……的笼子"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "cage 可数。本条不写如何伤害动物。",
+  "cefr": "B1",
+  "topic": "nature",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.13,
+   "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
  },
@@ -57763,6 +62445,47 @@
   }
  },
  {
+  "id": "bacon",
+  "w": "bacon",
+  "uk": "/ˈbeɪkən/",
+  "us": "/ˈbeɪkən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "培根；熏肉",
+    "en": "salted or smoked meat from a pig"
+   }
+  ],
+  "ex": [
+   {
+    "en": "There is bacon in the soup.",
+    "zh": "汤里有熏肉。"
+   },
+   {
+    "en": "Bacon on a menu should say so, for the student who does not eat it.",
+    "zh": "菜单上的熏肉应当写明，给不吃的学生看。"
+   }
+  ],
+  "col": [
+   "bacon and eggs｜熏肉和蛋"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "bacon 通常不可数。",
+  "cefr": "B1",
+  "topic": "daily",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.15,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "exam",
   "w": "exam",
   "uk": "/ɛɡzˈam/",
@@ -57846,6 +62569,47 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "batch": 5,
    "zipf": 4.94,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "cow",
+  "w": "cow",
+  "uk": "/kaʊ/",
+  "us": "/ˈkaʊ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奶牛；母牛",
+    "en": "a large farm animal kept for milk"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The cow is in the field.",
+    "zh": "奶牛在田里。"
+   },
+   {
+    "en": "The cow is milked in the morning and again in the evening.",
+    "zh": "这头奶牛早上挤一次奶，晚上再挤一次。"
+   }
+  ],
+  "col": [
+   "milk a cow｜给奶牛挤奶"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "cow 可数。本条不写如何伤害动物。",
+  "cefr": "B1",
+  "topic": "nature",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.14,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
@@ -58030,6 +62794,47 @@
    "zipf": 4.48,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": false
+  }
+ },
+ {
+  "id": "sweat",
+  "w": "sweat",
+  "uk": "/swet/",
+  "us": "/ˈswɛt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "汗",
+    "en": "liquid that comes through the skin when you are hot"
+   }
+  ],
+  "ex": [
+   {
+    "en": "Sweat ran down his face after the lap.",
+    "zh": "跑完一圈后汗从他脸上淌下。"
+   },
+   {
+    "en": "He drank water when the sweat would not stop.",
+    "zh": "汗不停的时候，他喝了水。"
+   }
+  ],
+  "col": [
+   "break into a sweat｜出一身汗"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "sweat 作名词通常不可数。也可作动词。",
+  "cefr": "B1",
+  "topic": "health",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.14,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
   }
  },
  {
@@ -58444,6 +63249,49 @@
   }
  },
  {
+  "id": "urgent",
+  "w": "urgent",
+  "uk": "/ˈɜːdʒənt/",
+  "us": "/ˈɜːdʒənt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "紧急的",
+    "en": "needing immediate action"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The message is urgent.",
+    "zh": "这条消息很紧急。"
+   },
+   {
+    "en": "An urgent notice should be on paper when the network fails.",
+    "zh": "网络断了时，紧急通知应当有纸质的。"
+   }
+  ],
+  "col": [
+   "urgent need｜迫切需要"
+  ],
+  "fam": [
+   "urgently (adv.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "It is urgent to do。",
+  "cefr": "B1",
+  "topic": "thinking",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.15,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "merely",
   "w": "merely",
   "uk": "/ˈmɪəlɪ/",
@@ -58482,6 +63330,49 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "batch": 10,
    "zipf": 4.37,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "sunshine",
+  "w": "sunshine",
+  "uk": "/ˈsʌnʃaɪn/",
+  "us": "/ˈsʌnʃaɪn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "阳光",
+    "en": "the light of the sun"
+   }
+  ],
+  "ex": [
+   {
+    "en": "Sunshine filled the classroom.",
+    "zh": "阳光充满了教室。"
+   },
+   {
+    "en": "Sunshine on a poster does not cool the room in August.",
+    "zh": "海报上的阳光凉不了八月的房间。"
+   }
+  ],
+  "col": [
+   "in the sunshine｜在阳光下"
+  ],
+  "fam": [
+   "sun (n.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "sunshine 通常不可数。",
+  "cefr": "B1",
+  "topic": "nature",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.16,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
@@ -59437,6 +64328,52 @@
   }
  },
  {
+  "id": "examine",
+  "w": "examine",
+  "uk": "/ɪɡˈzæmɪn/",
+  "us": "/ɛɡzˈæmɪn/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "检查",
+    "en": "to look at something carefully"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The nurse will examine the cut.",
+    "zh": "护士会检查这处伤口。"
+   },
+   {
+    "en": "Students examine a chart better when the source is on the page.",
+    "zh": "来源写在页面上时，学生能更好地查看图表。"
+   }
+  ],
+  "col": [
+   "examine sth｜检查某物"
+  ],
+  "fam": [
+   "examination (n.)",
+   "exam (n.)"
+  ],
+  "syn": [
+   "check"
+  ],
+  "ant": [],
+  "tip": "exam 和 examination 已在本库。本条不写检查步骤。",
+  "cefr": "B1",
+  "topic": "education",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.18,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": false
+  }
+ },
+ {
   "id": "okay",
   "w": "okay",
   "uk": "/əʊˈkeɪ/",
@@ -59709,6 +64646,49 @@
    "batch": 3,
    "zipf": 5.46,
    "ipaSource": "espeak-ng",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "dig",
+  "w": "dig",
+  "uk": "/dɪɡ/",
+  "us": "/ˈdɪɡ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "挖",
+    "en": "to make a hole by moving earth"
+   }
+  ],
+  "ex": [
+   {
+    "en": "They dig a small bed for the tomatoes.",
+    "zh": "他们挖一小块地种西红柿。"
+   },
+   {
+    "en": "A city that digs up the pavement should leave a safe path for wheelchairs.",
+    "zh": "挖开路面的城市应当给轮椅留出安全的路。"
+   }
+  ],
+  "col": [
+   "dig a hole｜挖洞"
+  ],
+  "fam": [
+   "dug (v.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "过去式和过去分词都是 dug。",
+  "cefr": "B1",
+  "topic": "daily",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.22,
+   "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
  },
@@ -60346,6 +65326,49 @@
   }
  },
  {
+  "id": "invitation",
+  "w": "invitation",
+  "uk": "/ɪnvɪˈteɪʃ(ə)n/",
+  "us": "/ɪnvɪtˈeɪʃən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "邀请；请帖",
+    "en": "a request to come, or the card that carries it"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The invitation says four o'clock.",
+    "zh": "请帖上写着四点。"
+   },
+   {
+    "en": "The invitation arrived three days before the concert.",
+    "zh": "请帖在音乐会的三天前送到。"
+   }
+  ],
+  "col": [
+   "an invitation to｜去……的邀请"
+  ],
+  "fam": [
+   "invite (v.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "动词 invite 已在本库。",
+  "cefr": "B1",
+  "topic": "society",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.14,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "secretary",
   "w": "secretary",
   "uk": "/ˈsekrətərɪ/",
@@ -60640,6 +65663,49 @@
   }
  },
  {
+  "id": "useless",
+  "w": "useless",
+  "uk": "/ˈjuːslɪs/",
+  "us": "/ˈjuːsləs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "无用的",
+    "en": "not useful"
+   }
+  ],
+  "ex": [
+   {
+    "en": "A clock without hands is useless.",
+    "zh": "没有指针的钟没有用。"
+   },
+   {
+    "en": "Calling a classmate useless ignores the work they already do at home.",
+    "zh": "说同学没用，会忽略他们已经在家里做的事。"
+   }
+  ],
+  "col": [
+   "useless for｜对……无用"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [
+   "useful"
+  ],
+  "tip": "useless 可以形容工具。用在人身上会伤人。",
+  "cefr": "B1",
+  "topic": "thinking",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.22,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "average",
   "w": "average",
   "uk": "/ˈævərɪdʒ/",
@@ -60693,6 +65759,47 @@
   }
  },
  {
+  "id": "soup",
+  "w": "soup",
+  "uk": "/suːp/",
+  "us": "/ˈsuːp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "汤",
+    "en": "a liquid food"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The soup is mostly beans.",
+    "zh": "这汤主要是豆子。"
+   },
+   {
+    "en": "Soup left in the sun is not safe for lunch.",
+    "zh": "放在太阳下的汤用来做午饭不安全。"
+   }
+  ],
+  "col": [
+   "a bowl of soup｜一碗汤"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "soup 通常不可数。",
+  "cefr": "B1",
+  "topic": "daily",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.15,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "hide",
   "w": "hide",
   "uk": "/haɪd/",
@@ -60732,6 +65839,94 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "batch": 9,
    "zipf": 4.54,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "awake",
+  "w": "awake",
+  "uk": "/əˈweɪk/",
+  "us": "/əwˈeɪk/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "醒着的",
+    "en": "not asleep"
+   }
+  ],
+  "ex": [
+   {
+    "en": "She was awake at six.",
+    "zh": "她六点时已经醒着。"
+   },
+   {
+    "en": "A student awake all night still needs sleep, not a punishment.",
+    "zh": "整夜醒着的学生需要的是睡眠，不是惩罚。"
+   }
+  ],
+  "col": [
+   "wide awake｜完全醒着"
+  ],
+  "fam": [
+   "wake (v.)"
+  ],
+  "syn": [],
+  "ant": [
+   "asleep"
+  ],
+  "tip": "awake 只作表语。asleep 已在本库。",
+  "cefr": "B1",
+  "topic": "daily",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.14,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "creature",
+  "w": "creature",
+  "uk": "/ˈkriːtʃə(r)/",
+  "us": "/ˈkriːtʃər/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "生物",
+    "en": "a living thing, especially an animal"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The story has a small creature, not a monster.",
+    "zh": "故事里有一只小生物，不是怪物。"
+   },
+   {
+    "en": "Every creature in the pond needs clean water.",
+    "zh": "池塘里的每种生物都需要干净的水。"
+   }
+  ],
+  "col": [
+   "a sea creature｜海洋生物"
+  ],
+  "fam": [],
+  "syn": [
+   "animal"
+  ],
+  "ant": [],
+  "tip": "creature 可数。本条不写如何伤害动物。",
+  "cefr": "B1",
+  "topic": "nature",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.16,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
@@ -62153,6 +67348,49 @@
   }
  },
  {
+  "id": "leaf",
+  "w": "leaf",
+  "uk": "/liːf/",
+  "us": "/ˈliːf/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "叶子",
+    "en": "a flat green part of a plant"
+   }
+  ],
+  "ex": [
+   {
+    "en": "A yellow leaf fell on the path.",
+    "zh": "一片黄叶落在小路上。"
+   },
+   {
+    "en": "One leaf in a textbook does not show how the whole tree lives.",
+    "zh": "课本里的一片叶子说明不了整棵树怎样生活。"
+   }
+  ],
+  "col": [
+   "a fallen leaf｜一片落叶"
+  ],
+  "fam": [
+   "leaves (n.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "复数是 leaves。",
+  "cefr": "B1",
+  "topic": "nature",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.22,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": false
+  }
+ },
+ {
   "id": "live",
   "w": "live",
   "uk": "/ˈlaɪv/",
@@ -63423,6 +68661,51 @@
   }
  },
  {
+  "id": "uncomfortable",
+  "w": "uncomfortable",
+  "uk": "/ʌnˈkʌmftəb(ə)l/",
+  "us": "/ʌnˈkʌmftərbəl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不舒服的",
+    "en": "not comfortable"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The chair is uncomfortable.",
+    "zh": "这把椅子不舒服。"
+   },
+   {
+    "en": "An uncomfortable question about home should be asked in private.",
+    "zh": "关于家庭的令人不适的问题，应当私下问。"
+   }
+  ],
+  "col": [
+   "uncomfortable with｜对……不自在"
+  ],
+  "fam": [
+   "comfortable (adj.)"
+  ],
+  "syn": [],
+  "ant": [
+   "comfortable"
+  ],
+  "tip": "comfortable 已在本库。",
+  "cefr": "B1",
+  "topic": "emotion",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.19,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "ambassador",
   "w": "ambassador",
   "uk": "/æmˈbæsədə(r)/",
@@ -63544,6 +68827,47 @@
    "gaokaoFreq": "high",
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "zipf": 5.71,
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "cave",
+  "w": "cave",
+  "uk": "/keɪv/",
+  "us": "/ˈkeɪv/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "洞穴",
+    "en": "a large hole in the side of a hill or under the ground"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The map marks a cave near the river.",
+    "zh": "地图标出河边有一个洞。"
+   },
+   {
+    "en": "A school visit to a cave needs a guide and a light, not only a photograph.",
+    "zh": "学校参观洞穴需要向导和灯，而不只是一张照片。"
+   }
+  ],
+  "col": [
+   "a cave in｜……里的洞"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "cave 可数。本条不写危险探险的做法。",
+  "cefr": "B1",
+  "topic": "nature",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.2,
+   "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
  },
@@ -64903,6 +70227,56 @@
   }
  },
  {
+  "id": "corrupt",
+  "w": "corrupt",
+  "uk": "/kəˈrʌpt/",
+  "us": "/kərrˈʌpt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "腐败的",
+    "en": "dishonest, especially about public money"
+   },
+   {
+    "pos": "v.",
+    "zh": "使腐化",
+    "en": "to make someone dishonest"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The report calls the contract corrupt.",
+    "zh": "报告称这份合同是腐败的。"
+   },
+   {
+    "en": "A corrupt practice is harder to hide when the number is public.",
+    "zh": "数字公开时，腐败的做法更难藏。"
+   }
+  ],
+  "col": [
+   "corrupt official｜贪官"
+  ],
+  "fam": [],
+  "syn": [
+   "dishonest"
+  ],
+  "ant": [
+   "honest"
+  ],
+  "tip": "corrupt 作动词是使腐化。本条是阅读词汇，不写做法。",
+  "cefr": "B1",
+  "topic": "government",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.14,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": false
+  }
+ },
+ {
   "id": "finance",
   "w": "finance",
   "uk": "/ˈfaɪnæns/",
@@ -65028,6 +70402,49 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "batch": 10,
    "zipf": 4.41,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "homework",
+  "w": "homework",
+  "uk": "/ˈhəʊmwɜːk/",
+  "us": "/ˈhoʊmwɜːk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "家庭作业",
+    "en": "school work done at home"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The homework is on page two.",
+    "zh": "家庭作业在第二页。"
+   },
+   {
+    "en": "Homework that needs a quiet room is harder for the student who shares one.",
+    "zh": "需要安静房间的作业，对合住一间的学生更难。"
+   }
+  ],
+  "col": [
+   "do homework｜做作业"
+  ],
+  "fam": [
+   "home (n.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "homework 不可数。",
+  "cefr": "B1",
+  "topic": "education",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.13,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
@@ -65303,6 +70720,49 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "batch": 6,
    "zipf": 4.79,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "clever",
+  "w": "clever",
+  "uk": "/ˈklevə(r)/",
+  "us": "/ˈklɛvər/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "聪明的",
+    "en": "quick at learning or thinking"
+   }
+  ],
+  "ex": [
+   {
+    "en": "That was a clever way to label the map.",
+    "zh": "那样给地图贴标签很巧妙。"
+   },
+   {
+    "en": "A clever answer that hides the source is still a weak answer.",
+    "zh": "藏起来源的聪明答案，仍然是站不住的答案。"
+   }
+  ],
+  "col": [
+   "clever at｜擅长"
+  ],
+  "fam": [],
+  "syn": [
+   "bright"
+  ],
+  "ant": [],
+  "tip": "clever 可以形容方法。不要只用它给同学排队。",
+  "cefr": "B1",
+  "topic": "thinking",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.21,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
@@ -67480,6 +72940,49 @@
   }
  },
  {
+  "id": "bored",
+  "w": "bored",
+  "uk": "/bɔːd/",
+  "us": "/bɔrd/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "厌倦的",
+    "en": "tired of something because it is not interesting"
+   }
+  ],
+  "ex": [
+   {
+    "en": "He was bored with the same worksheet.",
+    "zh": "他对同一张练习卷感到厌烦。"
+   },
+   {
+    "en": "A bored class may need a real question, not a louder voice.",
+    "zh": "感到厌烦的班级可能需要一个真实的问题，而不是更大的嗓门。"
+   }
+  ],
+  "col": [
+   "bored with｜对……厌烦"
+  ],
+  "fam": [
+   "boring (adj.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "bored 形容人。boring 形容事物，已在本库。",
+  "cefr": "B1",
+  "topic": "emotion",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.2,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": false
+  }
+ },
+ {
   "id": "remind",
   "w": "remind",
   "uk": "/rɪˈmaɪnd/",
@@ -67912,6 +73415,49 @@
   }
  },
  {
+  "id": "mixture",
+  "w": "mixture",
+  "uk": "/ˈmɪkstʃə(r)/",
+  "us": "/ˈmɪkstʃər/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "混合物",
+    "en": "something made by mixing"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The soup is a mixture of beans and corn.",
+    "zh": "这汤是豆子和玉米的混合。"
+   },
+   {
+    "en": "Stir the mixture until it is smooth.",
+    "zh": "把混合物搅拌到顺滑。"
+   }
+  ],
+  "col": [
+   "a mixture of flour and water｜面粉和水的混合物"
+  ],
+  "fam": [
+   "mix (v.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "本条不写如何混合危险液体。",
+  "cefr": "B1",
+  "topic": "science",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.18,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "delay",
   "w": "delay",
   "uk": "/dɪˈleɪ/",
@@ -68043,6 +73589,49 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "batch": 6,
    "zipf": 4.9,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "bend",
+  "w": "bend",
+  "uk": "/bend/",
+  "us": "/ˈbɛnd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "弯曲",
+    "en": "to make something curved"
+   }
+  ],
+  "ex": [
+   {
+    "en": "Bend the card so it stands.",
+    "zh": "把卡片弯一下，让它立住。"
+   },
+   {
+    "en": "Do not bend to lift a heavy box alone.",
+    "zh": "不要一个人弯腰去抬重箱子。"
+   }
+  ],
+  "col": [
+   "bend down｜弯腰"
+  ],
+  "fam": [
+   "bent (v.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "过去式和过去分词是 bent。",
+  "cefr": "B1",
+  "topic": "daily",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.13,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
@@ -68332,6 +73921,49 @@
   }
  },
  {
+  "id": "satisfaction",
+  "w": "satisfaction",
+  "uk": "/sætɪsˈfækʃ(ə)n/",
+  "us": "/ˌsætɪsˈfækʃən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "满意",
+    "en": "a feeling of being pleased"
+   }
+  ],
+  "ex": [
+   {
+    "en": "She read the score with satisfaction.",
+    "zh": "她满意地看了这个分数。"
+   },
+   {
+    "en": "Satisfaction with a score should still leave room to thank the team.",
+    "zh": "对分数的满意仍然应当留出位置去谢谢队伍。"
+   }
+  ],
+  "col": [
+   "satisfaction with｜对……的满意"
+  ],
+  "fam": [
+   "satisfy (v.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "satisfaction 通常不可数。",
+  "cefr": "B1",
+  "topic": "emotion",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.16,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "forward",
   "w": "forward",
   "uk": "/ˈfɔːwəd/",
@@ -68458,6 +74090,91 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "batch": 10,
    "zipf": 4.43,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "burst",
+  "w": "burst",
+  "uk": "/ˈbɜːst/",
+  "us": "/ˈbɜːst/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "爆裂；突然发生",
+    "en": "to break open suddenly"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The pipe may burst in the frost.",
+    "zh": "管子在霜里可能会裂。"
+   },
+   {
+    "en": "Do not burst a balloon near a student who is afraid of the noise.",
+    "zh": "不要在害怕响声的学生旁边弄破气球。"
+   }
+  ],
+  "col": [
+   "burst into｜突然发出",
+   "burst out｜突然说"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "过去式和过去分词都是 burst。本条不写爆炸物。",
+  "cefr": "B1",
+  "topic": "daily",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.15,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": false
+  }
+ },
+ {
+  "id": "crop",
+  "w": "crop",
+  "uk": "/krɔp/",
+  "us": "/ˈkrɑːp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "庄稼；收成",
+    "en": "a plant grown for food, or the amount gathered"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The crop is corn this year.",
+    "zh": "今年的庄稼是玉米。"
+   },
+   {
+    "en": "A failed crop should be in the town report, not only in a proverb.",
+    "zh": "歉收应当写进城镇报告，而不只是一句谚语。"
+   }
+  ],
+  "col": [
+   "harvest the crop｜收庄稼"
+  ],
+  "fam": [],
+  "syn": [
+   "harvest"
+  ],
+  "ant": [],
+  "tip": "crop 可数。",
+  "cefr": "B1",
+  "topic": "nature",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.15,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
@@ -68775,6 +74492,47 @@
   }
  },
  {
+  "id": "gravity",
+  "w": "gravity",
+  "uk": "/ˈɡrævɪtɪ/",
+  "us": "/ˈɡrævɪɾi/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "重力",
+    "en": "the force that pulls objects toward the earth"
+   }
+  ],
+  "ex": [
+   {
+    "en": "Gravity keeps the book on the desk.",
+    "zh": "重力让书留在桌上。"
+   },
+   {
+    "en": "A physics lesson on gravity should use the falling ball, not a slogan.",
+    "zh": "关于重力的物理课应当用下落的球，而不是一句口号。"
+   }
+  ],
+  "col": [
+   "the force of gravity｜重力"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "gravity 通常不可数。本条是科普词汇。",
+  "cefr": "B1",
+  "topic": "science",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.21,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": false
+  }
+ },
+ {
   "id": "associate",
   "w": "associate",
   "uk": "/əˈsəʊʃɪeɪt/",
@@ -68819,6 +74577,95 @@
    "batch": 10,
    "zipf": 4.39,
    "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "freeze",
+  "w": "freeze",
+  "uk": "/friːz/",
+  "us": "/ˈfriːz/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "结冰；冻住",
+    "en": "to become ice, or to be very cold"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The pond will freeze tonight.",
+    "zh": "池塘今晚会结冰。"
+   },
+   {
+    "en": "Do not freeze the lunch that the afternoon class still needs.",
+    "zh": "不要冻上下午班级还要用的午餐。"
+   }
+  ],
+  "col": [
+   "freeze over｜全面结冰"
+  ],
+  "fam": [
+   "froze (v.)",
+   "frozen (v.)"
+  ],
+  "syn": [],
+  "ant": [
+   "melt"
+  ],
+  "tip": "过去式 froze，过去分词 frozen。",
+  "cefr": "B1",
+  "topic": "nature",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.11,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "customs",
+  "w": "customs",
+  "uk": "/ˈkʌstəmz/",
+  "us": "/ˈkʌstəmz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "海关",
+    "en": "the place where officials check goods entering a country"
+   }
+  ],
+  "ex": [
+   {
+    "en": "Customs is at the end of the hall.",
+    "zh": "海关在大厅尽头。"
+   },
+   {
+    "en": "They waited forty minutes at customs with their passports.",
+    "zh": "他们拿着护照在海关等了四十分钟。"
+   }
+  ],
+  "col": [
+   "at customs｜在海关"
+  ],
+  "fam": [
+   "custom (n.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "customs 作海关时谓语常用单数。custom 是习俗。表里音标少了词尾，本库不用。",
+  "cefr": "B1",
+  "topic": "travel",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.19,
+   "ipaSource": "espeak-ng",
    "mediaReuseCandidate": true
   }
  },
@@ -69033,6 +74880,50 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "batch": 10,
    "zipf": 4.44,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "lecture",
+  "w": "lecture",
+  "uk": "/ˈlektʃə(r)/",
+  "us": "/ˈlɛktʃər/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "讲座；讲课",
+    "en": "a long talk for teaching"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The lecture starts at ten.",
+    "zh": "讲座十点开始。"
+   },
+   {
+    "en": "The lecture filled the hall.",
+    "zh": "这场讲座坐满了礼堂。"
+   }
+  ],
+  "col": [
+   "a lecture on｜关于……的讲座",
+   "give a lecture｜做讲座"
+  ],
+  "fam": [],
+  "syn": [
+   "talk"
+  ],
+  "ant": [],
+  "tip": "lecture 作动词是训斥或讲课。",
+  "cefr": "B1",
+  "topic": "education",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.14,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
@@ -70472,6 +76363,47 @@
   }
  },
  {
+  "id": "boxing",
+  "w": "boxing",
+  "uk": "/ˈbɔksɪŋ/",
+  "us": "/ˈbɑːksɪŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "拳击",
+    "en": "a sport in which two people fight with their fists"
+   }
+  ],
+  "ex": [
+   {
+    "en": "Boxing practice is in the gym.",
+    "zh": "拳击训练在体育馆。"
+   },
+   {
+    "en": "The class watched a short boxing match.",
+    "zh": "全班看了一小段拳击比赛。"
+   }
+  ],
+  "col": [
+   "boxing match｜拳击比赛"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "boxing 通常不可数。本条不写如何打人。",
+  "cefr": "B1",
+  "topic": "sport",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.17,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": false
+  }
+ },
+ {
   "id": "sacrifice",
   "w": "sacrifice",
   "uk": "/ˈsækrɪfaɪs/",
@@ -71858,6 +77790,49 @@
   }
  },
  {
+  "id": "poster",
+  "w": "poster",
+  "uk": "/ˈpəʊstə(r)/",
+  "us": "/ˈpoʊstər/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "海报",
+    "en": "a large printed notice or picture"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The poster names the time.",
+    "zh": "海报写了时间。"
+   },
+   {
+    "en": "The poster uses three colours and one clear sentence.",
+    "zh": "这张海报用了三种颜色和一句清楚的话。"
+   }
+  ],
+  "col": [
+   "put up a poster｜贴海报"
+  ],
+  "fam": [],
+  "syn": [
+   "notice"
+  ],
+  "ant": [],
+  "tip": "poster 可数。",
+  "cefr": "B1",
+  "topic": "media",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.19,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "movement",
   "w": "movement",
   "uk": "/ˈmuːvmənt/",
@@ -72033,6 +78008,54 @@
   "meta": {
    "gaokaoFreq": "high",
    "source": "gaokao-mvp+word-atlas-overlap",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "alike",
+  "w": "alike",
+  "uk": "/əˈlaɪk/",
+  "us": "/əlˈaɪk/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "相似的",
+    "en": "similar; used after a verb such as look or be, not before a noun"
+   },
+   {
+    "pos": "adv.",
+    "zh": "相似地",
+    "en": "in a similar way"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The two clocks look alike.",
+    "zh": "这两块钟看起来很相似。"
+   },
+   {
+    "en": "Treat the two classes alike when the fee is the same.",
+    "zh": "费用相同时，两个班应当同样对待。"
+   }
+  ],
+  "col": [
+   "look alike｜看起来像"
+  ],
+  "fam": [],
+  "syn": [
+   "similar"
+  ],
+  "ant": [],
+  "tip": "作形容词时只放在系动词后面，如 look alike，不放在名词前。也可作副词。",
+  "cefr": "B1",
+  "topic": "thinking",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.13,
+   "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
  },
@@ -72386,6 +78409,54 @@
   }
  },
  {
+  "id": "swim",
+  "w": "swim",
+  "uk": "/swɪm/",
+  "us": "/ˈswɪm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "游泳",
+    "en": "an act of swimming"
+   },
+   {
+    "pos": "v.",
+    "zh": "游泳",
+    "en": "to move through water"
+   }
+  ],
+  "ex": [
+   {
+    "en": "They went for a swim after class.",
+    "zh": "下课后他们去游了泳。"
+   },
+   {
+    "en": "A swim in the school pool still needs a person who can see the whole water.",
+    "zh": "在学校泳池游泳，仍然需要有人能看见整池水。"
+   }
+  ],
+  "col": [
+   "go for a swim｜去游泳"
+  ],
+  "fam": [
+   "swimming (n.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "swim 作动词是游泳，过去式 swam。本条以名词为主。",
+  "cefr": "B1",
+  "topic": "sport",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.21,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "mm",
   "w": "mm",
   "uk": "/'mɪlɪˌmiːtə(r)/",
@@ -72710,6 +78781,54 @@
   }
  },
  {
+  "id": "bare",
+  "w": "bare",
+  "uk": "/beə(r)/",
+  "us": "/ˈbɛr/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "赤裸的；空的",
+    "en": "not covered, or empty"
+   },
+   {
+    "pos": "v.",
+    "zh": "露出",
+    "en": "to uncover"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The shelf is bare.",
+    "zh": "架子是空的。"
+   },
+   {
+    "en": "Bare feet on a wet lab floor are a reason to find shoes.",
+    "zh": "湿实验室地板上的光脚，是去找鞋的理由。"
+   }
+  ],
+  "col": [
+   "bare feet｜光脚"
+  ],
+  "fam": [],
+  "syn": [
+   "empty"
+  ],
+  "ant": [],
+  "tip": "不要和 bear（熊；承受）混淆。",
+  "cefr": "B1",
+  "topic": "daily",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.18,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": false
+  }
+ },
+ {
   "id": "least",
   "w": "least",
   "uk": "/liːst/",
@@ -72946,6 +79065,47 @@
   }
  },
  {
+  "id": "ceiling",
+  "w": "ceiling",
+  "uk": "/ˈsiːlɪŋ/",
+  "us": "/ˈsiːlɪŋ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "天花板",
+    "en": "the upper inside surface of a room"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The ceiling light is out.",
+    "zh": "天花板上的灯灭了。"
+   },
+   {
+    "en": "A leak in the ceiling should be reported before the books are ruined.",
+    "zh": "天花板漏水应当在书被毁之前报告。"
+   }
+  ],
+  "col": [
+   "on the ceiling｜在天花板上"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "ceiling 也可比喻上限。",
+  "cefr": "B1",
+  "topic": "daily",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.18,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "peaceful",
   "w": "peaceful",
   "uk": "/ˈpiːsfʊl/",
@@ -72986,6 +79146,49 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "batch": 11,
    "zipf": 4.28,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "thunder",
+  "w": "thunder",
+  "uk": "/ˈθʌndə(r)/",
+  "us": "/ˈθʌndər/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "雷",
+    "en": "the loud noise after lightning"
+   }
+  ],
+  "ex": [
+   {
+    "en": "Thunder followed the lightning.",
+    "zh": "雷跟在闪电后面。"
+   },
+   {
+    "en": "The match moved indoors when the thunder started.",
+    "zh": "开始打雷时，比赛移到了室内。"
+   }
+  ],
+  "col": [
+   "a clap of thunder｜一声雷"
+  ],
+  "fam": [
+   "lightning (n.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "lightning 是本批的另一词。thunder 通常不可数。",
+  "cefr": "B1",
+  "topic": "nature",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.14,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
@@ -73138,6 +79341,49 @@
   "meta": {
    "gaokaoFreq": "high",
    "source": "gaokao-mvp+word-atlas-overlap",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "scholarship",
+  "w": "scholarship",
+  "uk": "/ˈskɔləʃɪp/",
+  "us": "/ˈskɑːlərʃˌɪp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奖学金",
+    "en": "money given to a student to pay for study"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The scholarship covers the books.",
+    "zh": "这笔奖学金够付书钱。"
+   },
+   {
+    "en": "A scholarship that only the already confident students hear about is not yet fair.",
+    "zh": "只有已经自信的学生听说的奖学金，还不算公平。"
+   }
+  ],
+  "col": [
+   "a scholarship for｜给……的奖学金"
+  ],
+  "fam": [],
+  "syn": [
+   "grant"
+  ],
+  "ant": [],
+  "tip": "scholarship 可数。也可指学问。",
+  "cefr": "B1",
+  "topic": "education",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.15,
+   "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
  },
@@ -74105,6 +80351,49 @@
   }
  },
  {
+  "id": "carpet",
+  "w": "carpet",
+  "uk": "/ˈkɑːpɪt/",
+  "us": "/ˈkɑːrpɪt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "地毯",
+    "en": "a thick covering for a floor"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The carpet by the door is wet.",
+    "zh": "门边的地毯是湿的。"
+   },
+   {
+    "en": "Someone dried the floor when the carpet got wet.",
+    "zh": "地毯湿了以后，有人把地擦干了。"
+   }
+  ],
+  "col": [
+   "wall-to-wall carpet｜满铺地毯"
+  ],
+  "fam": [],
+  "syn": [
+   "rug"
+  ],
+  "ant": [],
+  "tip": "carpet 可数。",
+  "cefr": "B1",
+  "topic": "daily",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.18,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "chest",
   "w": "chest",
   "uk": "/tʃest/",
@@ -74141,6 +80430,49 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "batch": 9,
    "zipf": 4.52,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "classroom",
+  "w": "classroom",
+  "uk": "/ˈklɑːsruːm/",
+  "us": "/ˈklæsruːm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "教室",
+    "en": "a room where a class meets"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The classroom is on the left.",
+    "zh": "教室在左边。"
+   },
+   {
+    "en": "A classroom without a clock still needs the bell.",
+    "zh": "没有钟的教室仍然需要铃。"
+   }
+  ],
+  "col": [
+   "in the classroom｜在教室里"
+  ],
+  "fam": [
+   "class (n.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "classroom 可数。",
+  "cefr": "B1",
+  "topic": "education",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.15,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
@@ -75521,6 +81853,49 @@
   }
  },
  {
+  "id": "noon",
+  "w": "noon",
+  "uk": "/nuːn/",
+  "us": "/ˈnuːn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "正午",
+    "en": "12 o'clock in the middle of the day"
+   }
+  ],
+  "ex": [
+   {
+    "en": "Lunch starts at noon.",
+    "zh": "午饭从正午开始。"
+   },
+   {
+    "en": "A meeting at noon fails for the parent who is still at work.",
+    "zh": "正午的会议会让仍在上班的家长来不了。"
+   }
+  ],
+  "col": [
+   "at noon｜在正午"
+  ],
+  "fam": [],
+  "syn": [
+   "midday"
+  ],
+  "ant": [],
+  "tip": "at noon 不加 the。",
+  "cefr": "B1",
+  "topic": "daily",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.11,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "tough",
   "w": "tough",
   "uk": "/ˈtʌf/",
@@ -75876,6 +82251,47 @@
   }
  },
  {
+  "id": "eagle",
+  "w": "eagle",
+  "uk": "/ˈiːɡ(ə)l/",
+  "us": "/ˈiːɡəl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鹰",
+    "en": "a large bird that hunts"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The eagle is on the nature poster.",
+    "zh": "鹰在自然海报上。"
+   },
+   {
+    "en": "The eagle nested on the cliff above the valley.",
+    "zh": "鹰把巢筑在山谷上方的悬崖上。"
+   }
+  ],
+  "col": [
+   "a golden eagle｜金雕"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "eagle 可数。",
+  "cefr": "B1",
+  "topic": "nature",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.13,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "discovery",
   "w": "discovery",
   "uk": "/dɪˈskʌvərɪ/",
@@ -76003,6 +82419,49 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "batch": 3,
    "zipf": 5.26,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "wallet",
+  "w": "wallet",
+  "uk": "/ˈwɔlɪt/",
+  "us": "/ˈwɔlɪt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "钱包",
+    "en": "a small case for money and cards"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The wallet is in the office.",
+    "zh": "钱包在办公室。"
+   },
+   {
+    "en": "A lost wallet returns faster when the name is inside.",
+    "zh": "里面有名字时，丢失的钱包更快回到主人手里。"
+   }
+  ],
+  "col": [
+   "lose a wallet｜丢钱包"
+  ],
+  "fam": [],
+  "syn": [
+   "purse"
+  ],
+  "ant": [],
+  "tip": "wallet 可数。",
+  "cefr": "B1",
+  "topic": "daily",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.15,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
@@ -76571,6 +83030,51 @@
   }
  },
  {
+  "id": "inform",
+  "w": "inform",
+  "uk": "/ɪnˈfɔːm/",
+  "us": "/ɪnfˈɔːrm/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "通知",
+    "en": "to tell someone officially"
+   }
+  ],
+  "ex": [
+   {
+    "en": "Please inform the office today.",
+    "zh": "请今天通知办公室。"
+   },
+   {
+    "en": "Schools inform parents poorly when the message exists only in one language.",
+    "zh": "消息如果只有一种语言，学校就通知得很差。"
+   }
+  ],
+  "col": [
+   "inform sb of｜通知某人"
+  ],
+  "fam": [
+   "information (n.)"
+  ],
+  "syn": [
+   "tell"
+  ],
+  "ant": [],
+  "tip": "information 已在本库。inform somebody of something。",
+  "cefr": "B1",
+  "topic": "society",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.15,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "join",
   "w": "join",
   "uk": "/dʒɔɪn/",
@@ -76843,6 +83347,51 @@
    "batch": 5,
    "zipf": 4.99,
    "ipaSource": "espeak-ng",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "divide",
+  "w": "divide",
+  "uk": "/dɪˈvaɪd/",
+  "us": "/dɪvˈaɪd/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "划分；除",
+    "en": "to separate into parts, or to do division"
+   }
+  ],
+  "ex": [
+   {
+    "en": "Divide the class into pairs.",
+    "zh": "把班级分成两人一组。"
+   },
+   {
+    "en": "Do not divide the library so that one class never sees it.",
+    "zh": "不要把图书馆分到一个班永远看不见。"
+   }
+  ],
+  "col": [
+   "divide sth into｜把某物分成"
+  ],
+  "fam": [
+   "division (n.)"
+  ],
+  "syn": [
+   "separate"
+  ],
+  "ant": [],
+  "tip": "数学里 12 divided by 3 是 12 除以 3。",
+  "cefr": "B1",
+  "topic": "science",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.12,
+   "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
  },
@@ -77971,6 +84520,48 @@
   }
  },
  {
+  "id": "skip",
+  "w": "skip",
+  "uk": "/skɪp/",
+  "us": "/ˈskɪp/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "跳绳；跳过",
+    "en": "to jump over a rope, or to leave something out"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The younger class will skip in the yard.",
+    "zh": "低年级要在院子里跳绳。"
+   },
+   {
+    "en": "Do not skip the return time when you copy the plan.",
+    "zh": "抄计划时不要跳过返回时间。"
+   }
+  ],
+  "col": [
+   "skip rope｜跳绳",
+   "skip a meal｜不吃饭"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "skip 也可表示略过。",
+  "cefr": "B1",
+  "topic": "sport",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.21,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "guard",
   "w": "guard",
   "uk": "/ɡɑːd/",
@@ -78826,6 +85417,49 @@
   }
  },
  {
+  "id": "cheers",
+  "w": "cheers",
+  "uk": "/ˈtʃiəz/",
+  "us": "/ˈtʃɪrz/",
+  "senses": [
+   {
+    "pos": "int.",
+    "zh": "干杯；谢谢",
+    "en": "a word said when drinking together, or thanks"
+   }
+  ],
+  "ex": [
+   {
+    "en": "She said cheers and put the cup down.",
+    "zh": "她说了声谢谢，放下杯子。"
+   },
+   {
+    "en": "He raised the cup, said cheers, and sat down.",
+    "zh": "他举起杯子说了声干杯，然后坐下。"
+   }
+  ],
+  "col": [
+   "cheers for now｜回头见"
+  ],
+  "fam": [],
+  "syn": [
+   "thanks"
+  ],
+  "ant": [],
+  "tip": "cheers 也可表示再见。表里音标是单数 cheer，本库不用。",
+  "cefr": "B1",
+  "topic": "daily",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.13,
+   "ipaSource": "espeak-ng",
+   "mediaReuseCandidate": false
+  }
+ },
+ {
   "id": "sharp",
   "w": "sharp",
   "uk": "/ʃɑːp/",
@@ -79326,6 +85960,47 @@
    "zipf": 4.46,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "ash",
+  "w": "ash",
+  "uk": "/æʃ/",
+  "us": "/ˈæʃ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "灰",
+    "en": "the grey powder left after something burns"
+   }
+  ],
+  "ex": [
+   {
+    "en": "Ash covered the path after the fire.",
+    "zh": "火后的灰盖住了小路。"
+   },
+   {
+    "en": "Ash from a classroom bin is a reason to call an adult, not to stir it.",
+    "zh": "教室桶里的灰是叫成年人的理由，不是去搅它。"
+   }
+  ],
+  "col": [
+   "a cloud of ash｜一团灰"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "ash 通常不可数。复数 ashes 也常用。本条不写如何生火。",
+  "cefr": "B1",
+  "topic": "nature",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.16,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": false
   }
  },
  {
@@ -80120,6 +86795,52 @@
   }
  },
  {
+  "id": "appreciation",
+  "w": "appreciation",
+  "uk": "/əpriːʃɪˈeɪʃ(ə)n/",
+  "us": "/əˌpriːʃiˈeɪʃn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "欣赏；感谢",
+    "en": "enjoyment of something, or gratitude"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The letter was a sign of appreciation.",
+    "zh": "这封信是感谢的表示。"
+   },
+   {
+    "en": "The class wrote a note of appreciation to the cook.",
+    "zh": "班级给厨师写了一张感谢条。"
+   }
+  ],
+  "col": [
+   "appreciation of｜对……的欣赏",
+   "in appreciation of｜为感谢"
+  ],
+  "fam": [
+   "appreciate (v.)"
+  ],
+  "syn": [
+   "gratitude"
+  ],
+  "ant": [],
+  "tip": "appreciation 通常不可数。",
+  "cefr": "B1",
+  "topic": "emotion",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.12,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "bird",
   "w": "bird",
   "uk": "/bɜːd/",
@@ -80201,6 +86922,47 @@
    "gaokaoFreq": "high",
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "zipf": 5.72,
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "clinic",
+  "w": "clinic",
+  "uk": "/ˈklɪnɪk/",
+  "us": "/ˈklɪnɪk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "诊所",
+    "en": "a place where people receive medical care"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The clinic opens at eight.",
+    "zh": "诊所八点开门。"
+   },
+   {
+    "en": "He waited twenty minutes at the clinic.",
+    "zh": "他在诊所等了二十分钟。"
+   }
+  ],
+  "col": [
+   "a clinic for｜……的诊所"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "clinic 可数。本条不写诊疗步骤。",
+  "cefr": "B1",
+  "topic": "health",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.21,
+   "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
  },
@@ -80480,6 +87242,101 @@
   }
  },
  {
+  "id": "socialist",
+  "w": "socialist",
+  "uk": "/ˈsəʊʃəlɪst/",
+  "us": "/ˈsoʊʃəlˌɪst/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "社会主义的",
+    "en": "related to socialism"
+   },
+   {
+    "pos": "n.",
+    "zh": "社会主义者",
+    "en": "a person who supports socialism"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The history chapter uses the word socialist.",
+    "zh": "历史课用了 socialist 这个词。"
+   },
+   {
+    "en": "Students can read a socialist text and still decide the argument for themselves.",
+    "zh": "学生可以阅读社会主义文献，同时仍然自己判断其中的论点。"
+   }
+  ],
+  "col": [
+   "a socialist country｜社会主义国家"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "本条是阅读词汇，不要求学生表态。也可作名词。",
+  "cefr": "B1",
+  "topic": "society",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.22,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "hurry",
+  "w": "hurry",
+  "uk": "/ˈhʌrɪ/",
+  "us": "/ˈhɜːri/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "赶快",
+    "en": "to move or act quickly"
+   },
+   {
+    "pos": "n.",
+    "zh": "匆忙",
+    "en": "the need to act quickly"
+   }
+  ],
+  "ex": [
+   {
+    "en": "Do not hurry on the wet step.",
+    "zh": "不要在湿台阶上赶。"
+   },
+   {
+    "en": "There is no need to hurry; the doors stay open until six.",
+    "zh": "不必着急，门开到六点。"
+   }
+  ],
+  "col": [
+   "hurry up｜赶快",
+   "in a hurry｜匆忙"
+  ],
+  "fam": [],
+  "syn": [
+   "rush"
+  ],
+  "ant": [],
+  "tip": "hurry 也可作名词。",
+  "cefr": "B1",
+  "topic": "daily",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.14,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "boy",
   "w": "boy",
   "uk": "/bɔɪ/",
@@ -80523,6 +87380,52 @@
   }
  },
  {
+  "id": "nail",
+  "w": "nail",
+  "uk": "/neɪl/",
+  "us": "/ˈneɪl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "钉子",
+    "en": "a thin pointed piece of metal"
+   },
+   {
+    "pos": "v.",
+    "zh": "钉住",
+    "en": "to fasten with a nail"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The nail is sticking out of the board.",
+    "zh": "钉子从木板里戳出来。"
+   },
+   {
+    "en": "A loose nail on the stair should be reported before someone catches a shoe.",
+    "zh": "楼梯上松动的钉子应当在有人钩到鞋之前报告。"
+   }
+  ],
+  "col": [
+   "a nail in｜一根钉子"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "nail 也可指指甲。本条不写如何伤人。",
+  "cefr": "B1",
+  "topic": "daily",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.21,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "chicken",
   "w": "chicken",
   "uk": "/ˈtʃɪkən/",
@@ -80559,6 +87462,56 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "batch": 8,
    "zipf": 4.63,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "permit",
+  "w": "permit",
+  "uk": "/pəˈmɪt/",
+  "us": "/pərˈmɪt/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "允许",
+    "en": "to allow something"
+   },
+   {
+    "pos": "n.",
+    "zh": "许可证",
+    "en": "an official paper that allows something"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The school does not permit phones in the exam.",
+    "zh": "学校不允许考试时使用手机。"
+   },
+   {
+    "en": "A town should not permit a new road until the flood line is checked.",
+    "zh": "在洪水线核对之前，城镇不应当允许修新路。"
+   }
+  ],
+  "col": [
+   "permit sb to do｜允许某人做"
+  ],
+  "fam": [],
+  "syn": [
+   "allow"
+  ],
+  "ant": [
+   "forbid"
+  ],
+  "tip": "动词重音在后，美音 /pərˈmɪt/。名词“许可证”重音在前，美音常作 /ˈpɜːrmɪt/。",
+  "cefr": "B1",
+  "topic": "government",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.22,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
@@ -80693,6 +87646,90 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "batch": 10,
    "zipf": 4.42,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "pie",
+  "w": "pie",
+  "uk": "/paɪ/",
+  "us": "/ˈpaɪ/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "馅饼",
+    "en": "a baked dish with a pastry cover"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The pie is for the class lunch.",
+    "zh": "这个馅饼是给班级午餐的。"
+   },
+   {
+    "en": "They shared the pie after the concert.",
+    "zh": "音乐会结束后他们分了馅饼。"
+   }
+  ],
+  "col": [
+   "a piece of pie｜一块馅饼"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "pie 可数。",
+  "cefr": "B1",
+  "topic": "daily",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.19,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "jungle",
+  "w": "jungle",
+  "uk": "/ˈdʒʌŋɡ(ə)l/",
+  "us": "/ˈdʒʌŋɡəl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "丛林",
+    "en": "a thick tropical forest"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The map shows a jungle in the south.",
+    "zh": "地图显示南边有一片丛林。"
+   },
+   {
+    "en": "Rain falls almost every afternoon in the jungle.",
+    "zh": "丛林里几乎每天下午都下雨。"
+   }
+  ],
+  "col": [
+   "in the jungle｜在丛林里"
+  ],
+  "fam": [],
+  "syn": [
+   "forest"
+  ],
+  "ant": [],
+  "tip": "jungle 可数也可不可数。",
+  "cefr": "B1",
+  "topic": "nature",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.12,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
@@ -81342,6 +88379,49 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "batch": 9,
    "zipf": 4.53,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "beside",
+  "w": "beside",
+  "uk": "/bɪˈsaɪd/",
+  "us": "/bɪsˈaɪd/",
+  "senses": [
+   {
+    "pos": "prep.",
+    "zh": "在……旁边",
+    "en": "next to"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The clinic is beside the library.",
+    "zh": "诊所在图书馆旁边。"
+   },
+   {
+    "en": "A bench beside the gate helps the student who waits in the rain.",
+    "zh": "门边的长凳能帮助在雨里等待的学生。"
+   }
+  ],
+  "col": [
+   "beside the point｜离题"
+  ],
+  "fam": [],
+  "syn": [
+   "next to"
+  ],
+  "ant": [],
+  "tip": "beside 是介词。besides 是“除……之外”。",
+  "cefr": "B1",
+  "topic": "daily",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.19,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
@@ -82336,6 +89416,53 @@
    "zipf": 4.72,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "precise",
+  "w": "precise",
+  "uk": "/prɪˈsaɪs/",
+  "us": "/prɪsˈaɪs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "精确的",
+    "en": "exact and clear"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The time must be precise.",
+    "zh": "时间必须精确。"
+   },
+   {
+    "en": "A precise notice names the stop and the minute.",
+    "zh": "精确的通知会写出车站和分钟。"
+   }
+  ],
+  "col": [
+   "precise about｜对……精确"
+  ],
+  "fam": [
+   "precisely (adv.)"
+  ],
+  "syn": [
+   "exact"
+  ],
+  "ant": [
+   "vague"
+  ],
+  "tip": "precise 比 exact 更正式。",
+  "cefr": "B1",
+  "topic": "thinking",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.13,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": false
   }
  },
  {
@@ -83441,6 +90568,54 @@
   }
  },
  {
+  "id": "twist",
+  "w": "twist",
+  "uk": "/twɪst/",
+  "us": "/ˈtwɪst/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "扭转；弯曲",
+    "en": "to turn something so that it bends or changes shape"
+   },
+   {
+    "pos": "n.",
+    "zh": "扭转；曲折",
+    "en": "a turn, or an unexpected change"
+   }
+  ],
+  "ex": [
+   {
+    "en": "Twist the cap until it is tight.",
+    "zh": "把盖子拧紧。"
+   },
+   {
+    "en": "She twisted her ankle on the wet step.",
+    "zh": "她在湿台阶上扭了脚踝。"
+   }
+  ],
+  "col": [
+   "twist sth｜扭转某物"
+  ],
+  "fam": [],
+  "syn": [
+   "turn"
+  ],
+  "ant": [],
+  "tip": "twist 也可作名词。",
+  "cefr": "B1",
+  "topic": "daily",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.22,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "whatever",
   "w": "whatever",
   "uk": "/wɔtˈevə(r)/",
@@ -84129,6 +91304,48 @@
   }
  },
  {
+  "id": "jam",
+  "w": "jam",
+  "uk": "/dʒæm/",
+  "us": "/ˈdʒæm/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "果酱；堵塞",
+    "en": "a sweet food, or a situation in which movement stops"
+   }
+  ],
+  "ex": [
+   {
+    "en": "There is jam on the bread.",
+    "zh": "面包上有果酱。"
+   },
+   {
+    "en": "A traffic jam at the gate makes the first lesson late.",
+    "zh": "门口的交通堵塞会让第一节课迟到。"
+   }
+  ],
+  "col": [
+   "strawberry jam｜草莓酱",
+   "a traffic jam｜交通堵塞"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "jam 作果酱通常不可数。作堵塞可数。",
+  "cefr": "B1",
+  "topic": "daily",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.17,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "universal",
   "w": "universal",
   "uk": "/juːnɪˈvɜːs(ə)l/",
@@ -84383,6 +91600,49 @@
    "zipf": 4.3,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": false
+  }
+ },
+ {
+  "id": "nowadays",
+  "w": "nowadays",
+  "uk": "/ˈnaʊədeɪz/",
+  "us": "/ˈnaʊədˌeɪz/",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "如今",
+    "en": "at the present time"
+   }
+  ],
+  "ex": [
+   {
+    "en": "Nowadays the notice is also on the phone.",
+    "zh": "如今通知也在手机上。"
+   },
+   {
+    "en": "Nowadays a poster still matters when the network fails.",
+    "zh": "如今网络断了时，海报仍然重要。"
+   }
+  ],
+  "col": [
+   "nowadays people｜如今人们"
+  ],
+  "fam": [],
+  "syn": [
+   "now"
+  ],
+  "ant": [],
+  "tip": "nowadays 是副词，常放在句首或句尾。",
+  "cefr": "B1",
+  "topic": "thinking",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.11,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
   }
  },
  {
@@ -84689,6 +91949,49 @@
    "batch": 11,
    "zipf": 4.29,
    "ipaSource": "espeak-ng",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "slavery",
+  "w": "slavery",
+  "uk": "/ˈsleɪvərɪ/",
+  "us": "/ˈsleɪvərri/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "奴隶制度",
+    "en": "the system in which people were legally owned and forced to work"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The history text names slavery and also names the people.",
+    "zh": "历史课文写出奴隶制度，也写出那些人的名字。"
+   },
+   {
+    "en": "The text says slavery forced people to work without pay.",
+    "zh": "课文写道，奴隶制强迫人无偿劳动。"
+   }
+  ],
+  "col": [
+   "the end of slavery｜奴隶制的结束"
+  ],
+  "fam": [
+   "slave (n.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "slave 已在本库。本条是历史词汇，不写强迫的做法。",
+  "cefr": "B1",
+  "topic": "history",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.21,
+   "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
  },
@@ -85246,6 +92549,94 @@
   }
  },
  {
+  "id": "scientist",
+  "w": "scientist",
+  "uk": "/ˈsaɪəntɪst/",
+  "us": "/ˈsaɪəntɪst/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "科学家",
+    "en": "a person who works in science"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The scientist checked the chart twice.",
+    "zh": "科学家把图表核对了两遍。"
+   },
+   {
+    "en": "The scientist explained the chart to the class.",
+    "zh": "科学家向全班解释了这张图表。"
+   }
+  ],
+  "col": [
+   "a scientist in｜……领域的科学家"
+  ],
+  "fam": [
+   "science (n.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "science 已在本库。",
+  "cefr": "B1",
+  "topic": "science",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.21,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "consultant",
+  "w": "consultant",
+  "uk": "/kənˈsʌltənt/",
+  "us": "/kənsˈʌltənt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "顾问",
+    "en": "a person who gives expert advice"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The consultant checked the timetable.",
+    "zh": "顾问核对了时刻表。"
+   },
+   {
+    "en": "The consultant met the principal on Thursday.",
+    "zh": "顾问周四见了校长。"
+   }
+  ],
+  "col": [
+   "a consultant on｜……方面的顾问"
+  ],
+  "fam": [
+   "consult (v.)"
+  ],
+  "syn": [
+   "adviser"
+  ],
+  "ant": [],
+  "tip": "consultant 可数。",
+  "cefr": "B1",
+  "topic": "work",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.13,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "grandfather",
   "w": "grandfather",
   "uk": "/ˈɡrandfɑːðə/",
@@ -85559,6 +92950,49 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "batch": 10,
    "zipf": 4.43,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "companion",
+  "w": "companion",
+  "uk": "/kəmˈpænɪən/",
+  "us": "/kəmpˈæniən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "同伴",
+    "en": "a person who goes with you"
+   }
+  ],
+  "ex": [
+   {
+    "en": "Her companion waited by the gate.",
+    "zh": "她的同伴在门口等。"
+   },
+   {
+    "en": "His companion carried the map, and he carried the water.",
+    "zh": "他的同伴拿着地图，他拿着水。"
+   }
+  ],
+  "col": [
+   "a travelling companion｜旅伴"
+  ],
+  "fam": [],
+  "syn": [
+   "friend"
+  ],
+  "ant": [],
+  "tip": "companion 可数。",
+  "cefr": "B1",
+  "topic": "society",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.13,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
@@ -86055,6 +93489,50 @@
    "batch": 10,
    "zipf": 4.39,
    "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "shy",
+  "w": "shy",
+  "uk": "/ˈʃaɪ/",
+  "us": "/ˈʃaɪ/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "害羞的",
+    "en": "nervous about meeting people"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The new student is shy, not unwilling.",
+    "zh": "新同学是害羞，不是不愿意。"
+   },
+   {
+    "en": "A shy student still needs a turn, not only a smile.",
+    "zh": "害羞的学生仍然需要一轮机会，而不只是一个微笑。"
+   }
+  ],
+  "col": [
+   "shy of｜对……害羞",
+   "shy about｜对……害羞"
+  ],
+  "fam": [
+   "shyly (adv.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "表里没有这一条，本库用 espeak-ng。",
+  "cefr": "B1",
+  "topic": "emotion",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.16,
+   "ipaSource": "espeak-ng",
    "mediaReuseCandidate": true
   }
  },
@@ -87134,6 +94612,47 @@
   }
  },
  {
+  "id": "deadline",
+  "w": "deadline",
+  "uk": "/ˈdedlaɪn/",
+  "us": "/ˈdɛdlaɪn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "截止日期",
+    "en": "the time by which something must be done"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The deadline is Friday.",
+    "zh": "截止日期是周五。"
+   },
+   {
+    "en": "A deadline that parents hear after work has already failed.",
+    "zh": "家长下班后才听到的截止日期，其实已经失败了。"
+   }
+  ],
+  "col": [
+   "a deadline for｜……的截止日期"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "deadline 可数。",
+  "cefr": "B1",
+  "topic": "work",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.12,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "citizen",
   "w": "citizen",
   "uk": "/ˈsɪtɪzən/",
@@ -87265,6 +94784,47 @@
   }
  },
  {
+  "id": "fever",
+  "w": "fever",
+  "uk": "/ˈfiːvə(r)/",
+  "us": "/ˈfiːvər/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "发烧",
+    "en": "a higher than normal body temperature"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The nurse checked to see if she had a fever.",
+    "zh": "护士查看她是否发烧。"
+   },
+   {
+    "en": "A fever that lasts into the next morning is a reason to call the clinic.",
+    "zh": "烧到第二天早上，就该给诊所打电话。"
+   }
+  ],
+  "col": [
+   "have a fever｜发烧"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "fever 可数。本条不写用药。",
+  "cefr": "B1",
+  "topic": "health",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.22,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "stone",
   "w": "stone",
   "uk": "/stəʊn/",
@@ -87307,6 +94867,51 @@
    "zipf": 4.8,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "harbor",
+  "w": "harbor",
+  "uk": "/ˈhɑːbə(r)/",
+  "us": "/ˈhɑːrbər/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "港口",
+    "en": "a sheltered place for ships; American spelling"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The harbor is quiet at dawn.",
+    "zh": "黎明时港口很安静。"
+   },
+   {
+    "en": "Fishing boats return to the harbor before dark.",
+    "zh": "渔船在天黑前回到港口。"
+   }
+  ],
+  "col": [
+   "in the harbor｜在港口"
+  ],
+  "fam": [
+   "harbour (n.)"
+  ],
+  "syn": [
+   "harbour"
+  ],
+  "ant": [],
+  "tip": "harbor 是美式，harbour 是英式。本库词头用考纲里的 harbor。",
+  "cefr": "B1",
+  "topic": "travel",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.15,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": false
   }
  },
  {
@@ -88334,6 +95939,49 @@
   }
  },
  {
+  "id": "tension",
+  "w": "tension",
+  "uk": "/ˈtenʃ(ə)n/",
+  "us": "/ˈtɛnʃən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "紧张",
+    "en": "a feeling of strain between people or in a situation"
+   }
+  ],
+  "ex": [
+   {
+    "en": "Tension filled the hall before the result.",
+    "zh": "结果公布前，礼堂里很紧张。"
+   },
+   {
+    "en": "Tension over a fee falls when the number is written on one sheet.",
+    "zh": "费用写在同一张纸上时，紧张会下降。"
+   }
+  ],
+  "col": [
+   "tension between｜……之间的紧张"
+  ],
+  "fam": [],
+  "syn": [
+   "stress"
+  ],
+  "ant": [],
+  "tip": "tension 可数也可不可数。",
+  "cefr": "B1",
+  "topic": "emotion",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.22,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "trap",
   "w": "trap",
   "uk": "/træp/",
@@ -88987,6 +96635,47 @@
   }
  },
  {
+  "id": "earthquake",
+  "w": "earthquake",
+  "uk": "/ˈɜːθkweɪk/",
+  "us": "/ˈɜːθkweɪk/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "地震",
+    "en": "a sudden shaking of the ground"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The earthquake closed the school for a day.",
+    "zh": "地震让学校关了一天。"
+   },
+   {
+    "en": "An earthquake plan should name who calls parents.",
+    "zh": "地震方案应当写明谁给家长打电话。"
+   }
+  ],
+  "col": [
+   "a strong earthquake｜强烈地震"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "earthquake 可数。本条只作安全词汇，不写如何制造危险。",
+  "cefr": "B1",
+  "topic": "nature",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.15,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "tax",
   "w": "tax",
   "uk": "/tæks/",
@@ -89027,6 +96716,49 @@
    "batch": 4,
    "zipf": 5.14,
    "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "preserve",
+  "w": "preserve",
+  "uk": "/prɪzˈɜːv/",
+  "us": "/prɪzˈɜːv/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "保护；保存",
+    "en": "to keep something safe or in good condition"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The park preserves the old trees.",
+    "zh": "这个公园保护老树。"
+   },
+   {
+    "en": "Cities preserve a river better when they name who checks the water.",
+    "zh": "当城市写明谁去检查水质时，河流会得到更好的保护。"
+   }
+  ],
+  "col": [
+   "preserve sth｜保存某物"
+  ],
+  "fam": [],
+  "syn": [
+   "protect"
+  ],
+  "ant": [],
+  "tip": "表里这一行的音标是 presentation，本库不用。",
+  "cefr": "B1",
+  "topic": "environment",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.19,
+   "ipaSource": "espeak-ng",
    "mediaReuseCandidate": true
   }
  },
@@ -89555,6 +97287,92 @@
   }
  },
  {
+  "id": "endless",
+  "w": "endless",
+  "uk": "/ˈendlɪs/",
+  "us": "/ˈɛndləs/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "无止境的",
+    "en": "having no end"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The queue felt endless.",
+    "zh": "队伍仿佛没有尽头。"
+   },
+   {
+    "en": "The rain felt endless, but it stopped before noon.",
+    "zh": "雨仿佛下不完，但在正午前停了。"
+   }
+  ],
+  "col": [
+   "endless questions｜没完的问题"
+  ],
+  "fam": [
+   "end (n.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "endless 是形容词。",
+  "cefr": "B1",
+  "topic": "thinking",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.18,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "grandmother",
+  "w": "grandmother",
+  "uk": "/ˈɡrandmʌðə/",
+  "us": "/ˈɡrændmʌðər/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "祖母；外祖母",
+    "en": "the mother of a parent"
+   }
+  ],
+  "ex": [
+   {
+    "en": "Her grandmother keeps the family photos in one box.",
+    "zh": "她奶奶把家里的照片收在一个盒子里。"
+   },
+   {
+    "en": "A form should accept grandmother or another adult name.",
+    "zh": "表格应当接受祖母或其他成年人的名字。"
+   }
+  ],
+  "col": [
+   "grandmother and grandfather｜祖父母"
+  ],
+  "fam": [
+   "grandma (n.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "grandma 是本批的另一词，更口语。表里没有 grandmother 这一条，本库用 espeak-ng。",
+  "cefr": "B1",
+  "topic": "society",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.14,
+   "ipaSource": "espeak-ng",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "scene",
   "w": "scene",
   "uk": "/sɪːn/",
@@ -89812,6 +97630,54 @@
    "batch": 11,
    "zipf": 4.25,
    "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "pile",
+  "w": "pile",
+  "uk": "/ˈpaɪl/",
+  "us": "/ˈpaɪl/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "一堆",
+    "en": "a number of things lying one on another"
+   },
+   {
+    "pos": "v.",
+    "zh": "堆积",
+    "en": "to put things in a pile"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The pile of coats is by the door.",
+    "zh": "一堆外套在门边。"
+   },
+   {
+    "en": "A pile of notices is harder to read than one clear sheet.",
+    "zh": "一堆通知比一张写清楚的纸更难读。"
+   }
+  ],
+  "col": [
+   "a pile of books｜一堆书"
+  ],
+  "fam": [],
+  "syn": [
+   "heap"
+  ],
+  "ant": [],
+  "tip": "pile 作动词是堆积。表里这一行的音标是 pie，本库不用。",
+  "cefr": "B1",
+  "topic": "daily",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.14,
+   "ipaSource": "espeak-ng",
    "mediaReuseCandidate": true
   }
  },
@@ -90304,6 +98170,54 @@
   }
  },
  {
+  "id": "abstract",
+  "w": "abstract",
+  "uk": "/ˈæbstrækt/",
+  "us": "/ˈæbstrækt/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "抽象的",
+    "en": "based on ideas, not on a physical thing"
+   },
+   {
+    "pos": "n.",
+    "zh": "摘要",
+    "en": "a short account of a longer text"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The word is too abstract for the first line.",
+    "zh": "这个词对第一行来说太抽象。"
+   },
+   {
+    "en": "The idea stayed abstract until they drew a picture of it.",
+    "zh": "这个想法在画出来之前一直很抽象。"
+   }
+  ],
+  "col": [
+   "an abstract idea｜抽象的想法"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [
+   "concrete"
+  ],
+  "tip": "abstract 作名词是摘要。",
+  "cefr": "B1",
+  "topic": "thinking",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.14,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "majority",
   "w": "majority",
   "uk": "/məˈdʒɔrɪtɪ/",
@@ -90567,6 +98481,51 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "batch": 7,
    "zipf": 4.7,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "cruel",
+  "w": "cruel",
+  "uk": "/ˈkruːəl/",
+  "us": "/ˈkruːəl/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "残忍的",
+    "en": "causing pain and not caring"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The rule felt cruel.",
+    "zh": "这条规则让人觉得残忍。"
+   },
+   {
+    "en": "A cruel joke about a classmate is not one the class should keep.",
+    "zh": "针对同学的残忍笑话，不是班级该保留的。"
+   }
+  ],
+  "col": [
+   "cruel to｜对……残忍"
+  ],
+  "fam": [
+   "cruelty (n.)"
+  ],
+  "syn": [],
+  "ant": [
+   "kind"
+  ],
+  "tip": "cruel 可以形容行为。用在人身上要慎重。",
+  "cefr": "B1",
+  "topic": "emotion",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.12,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
@@ -90871,6 +98830,94 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "batch": 6,
    "zipf": 4.87,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "grain",
+  "w": "grain",
+  "uk": "/ɡreɪn/",
+  "us": "/ˈɡreɪn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "谷物；颗粒",
+    "en": "a seed of a cereal, or a tiny piece"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The grain is stored in the barn.",
+    "zh": "谷物存在仓里。"
+   },
+   {
+    "en": "A grain of truth in a rumour still needs a source.",
+    "zh": "谣言里的一点真实，仍然需要来源。"
+   }
+  ],
+  "col": [
+   "a grain of rice｜一粒米"
+  ],
+  "fam": [],
+  "syn": [
+   "corn"
+  ],
+  "ant": [],
+  "tip": "grain 作谷物时可数也可不可数。",
+  "cefr": "B1",
+  "topic": "nature",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.18,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "unfair",
+  "w": "unfair",
+  "uk": "/ʌnˈfeə(r)/",
+  "us": "/ʌnfˈɛr/",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "不公平的",
+    "en": "not fair"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The rule is unfair to night workers.",
+    "zh": "这条规则对夜班工人不公平。"
+   },
+   {
+    "en": "An unfair fee shows up when only one class can pay it.",
+    "zh": "只有一个班付得起时，不公平的费用就显出来了。"
+   }
+  ],
+  "col": [
+   "unfair to｜对……不公平"
+  ],
+  "fam": [
+   "fair (adj.)"
+  ],
+  "syn": [],
+  "ant": [
+   "fair"
+  ],
+  "tip": "fair 已在本库。",
+  "cefr": "B1",
+  "topic": "society",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.17,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
@@ -91234,6 +99281,47 @@
   }
  },
  {
+  "id": "detective",
+  "w": "detective",
+  "uk": "/dɪˈtektɪv/",
+  "us": "/dɪtˈɛktɪv/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "侦探",
+    "en": "a person who investigates a case"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The detective in the novel checks the clock.",
+    "zh": "小说里的侦探核对了钟。"
+   },
+   {
+    "en": "In the story, the detective arrives after midnight.",
+    "zh": "故事里，侦探在午夜之后才到。"
+   }
+  ],
+  "col": [
+   "a detective story｜侦探小说"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "本条是阅读词汇。不写调查或作案的做法。",
+  "cefr": "B1",
+  "topic": "society",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.21,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "orange",
   "w": "orange",
   "uk": "/ˈɔrɪndʒ/",
@@ -91275,6 +99363,49 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "batch": 8,
    "zipf": 4.62,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "cinema",
+  "w": "cinema",
+  "uk": "/ˈsɪnəmə/",
+  "us": "/ˈsɪnəmə/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "电影院",
+    "en": "a place where films are shown; British"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The cinema opens at noon.",
+    "zh": "电影院正午开门。"
+   },
+   {
+    "en": "The cinema shows a short film before the main feature.",
+    "zh": "电影院在正片之前放一部短片。"
+   }
+  ],
+  "col": [
+   "go to the cinema｜去看电影"
+  ],
+  "fam": [],
+  "syn": [
+   "movie theater"
+  ],
+  "ant": [],
+  "tip": "英式 cinema。美式常说 the movies。",
+  "cefr": "B1",
+  "topic": "arts",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.17,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
@@ -92702,6 +100833,47 @@
   }
  },
  {
+  "id": "salad",
+  "w": "salad",
+  "uk": "/ˈsæləd/",
+  "us": "/ˈsæləd/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "色拉",
+    "en": "a cold dish of vegetables or fruit"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The salad is on the left.",
+    "zh": "色拉在左边。"
+   },
+   {
+    "en": "The salad uses beans from the school garden.",
+    "zh": "这份色拉用的是学校园子里的豆子。"
+   }
+  ],
+  "col": [
+   "a green salad｜蔬菜色拉"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "salad 可数。",
+  "cefr": "B1",
+  "topic": "daily",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.15,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "within",
   "w": "within",
   "uk": "/wɪˈðɪn/",
@@ -92834,6 +101006,49 @@
    "zipf": 4.35,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": false
+  }
+ },
+ {
+  "id": "gentleman",
+  "w": "gentleman",
+  "uk": "/ˈdʒent(ə)lmən/",
+  "us": "/ˈdʒɛntəlmən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "先生；绅士",
+    "en": "a polite word for a man"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The gentleman held the door.",
+    "zh": "那位先生扶住了门。"
+   },
+   {
+    "en": "Ladies and gentlemen is a greeting, not a rule about who may speak.",
+    "zh": "Ladies and gentlemen 是称呼，不是关于谁可以发言的规定。"
+   }
+  ],
+  "col": [
+   "ladies and gentlemen｜女士们先生们"
+  ],
+  "fam": [],
+  "syn": [
+   "man"
+  ],
+  "ant": [],
+  "tip": "复数是 gentlemen。",
+  "cefr": "B1",
+  "topic": "society",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.16,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
   }
  },
  {
@@ -93112,6 +101327,49 @@
   }
  },
  {
+  "id": "physician",
+  "w": "physician",
+  "uk": "/fɪˈzɪʃ(ə)n/",
+  "us": "/fɪzˈɪʃən/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "内科医生",
+    "en": "a doctor"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The physician is in the clinic.",
+    "zh": "医生在诊所。"
+   },
+   {
+    "en": "The physician noticed the fever and called home.",
+    "zh": "医生发现了发烧，并给家里打了电话。"
+   }
+  ],
+  "col": [
+   "a physician at｜在……的医生"
+  ],
+  "fam": [],
+  "syn": [
+   "doctor"
+  ],
+  "ant": [],
+  "tip": "physician 比 doctor 更正式。本条不写诊疗步骤。",
+  "cefr": "B1",
+  "topic": "health",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.18,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "author",
   "w": "author",
   "uk": "/ˈɔːθə(r)/",
@@ -93150,6 +101408,47 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "batch": 5,
    "zipf": 4.95,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "owe",
+  "w": "owe",
+  "uk": "/əʊ/",
+  "us": "/ˈoʊ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "欠",
+    "en": "to have to pay or give something"
+   }
+  ],
+  "ex": [
+   {
+    "en": "I owe her a clear answer by Friday.",
+    "zh": "我周五之前要给她一个清楚的答复。"
+   },
+   {
+    "en": "We owe the library two books from last term.",
+    "zh": "我们欠图书馆上学期的两本书。"
+   }
+  ],
+  "col": [
+   "owe sb sth｜欠某人某物"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "owe 不用于被动来表示“被欠”时要小心：常用 somebody is owed。",
+  "cefr": "B1",
+  "topic": "economy",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.13,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
@@ -93286,6 +101585,133 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "batch": 3,
    "zipf": 5.3,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "soap",
+  "w": "soap",
+  "uk": "/səʊp/",
+  "us": "/ˈsoʊp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "肥皂",
+    "en": "a substance used with water for washing"
+   }
+  ],
+  "ex": [
+   {
+    "en": "There is soap by the sink.",
+    "zh": "水槽边有肥皂。"
+   },
+   {
+    "en": "Soap in the school washroom matters more than a poster about cleanliness.",
+    "zh": "学校洗手间里的肥皂，比一张讲清洁的海报更重要。"
+   }
+  ],
+  "col": [
+   "a bar of soap｜一块肥皂"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "soap 作材料通常不可数。",
+  "cefr": "B1",
+  "topic": "daily",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.18,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "humor",
+  "w": "humor",
+  "uk": "/ˈhjuːmə(r)/",
+  "us": "/ˈhjuːmər/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "幽默",
+    "en": "the quality of being amusing; American spelling"
+   }
+  ],
+  "ex": [
+   {
+    "en": "Her humor made the wait shorter.",
+    "zh": "她的幽默让等待变短了。"
+   },
+   {
+    "en": "The play is full of quiet humor.",
+    "zh": "这出戏里有不少轻巧的幽默。"
+   }
+  ],
+  "col": [
+   "a sense of humor｜幽默感"
+  ],
+  "fam": [
+   "humour (n.)"
+  ],
+  "syn": [
+   "humour"
+  ],
+  "ant": [],
+  "tip": "humor 是美式，humour 是英式。本库词头用考纲里的 humor。",
+  "cefr": "B1",
+  "topic": "emotion",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.19,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": false
+  }
+ },
+ {
+  "id": "deer",
+  "w": "deer",
+  "uk": "/dɪə(r)/",
+  "us": "/ˈdɪr/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "鹿",
+    "en": "a wild animal with long legs"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The deer is in the nature book.",
+    "zh": "鹿在自然课本里。"
+   },
+   {
+    "en": "The deer crossed the road just after dawn.",
+    "zh": "鹿在黎明刚过时穿过了马路。"
+   }
+  ],
+  "col": [
+   "a herd of deer｜一群鹿"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "单复数同形。",
+  "cefr": "B1",
+  "topic": "nature",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.12,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
@@ -93560,6 +101986,49 @@
   }
  },
  {
+  "id": "separation",
+  "w": "separation",
+  "uk": "/sepəˈreɪʃ(ə)n/",
+  "us": "/ˌsepəˈreɪʃn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "分离",
+    "en": "the act of moving apart"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The separation lasted one term.",
+    "zh": "这次分离持续了一个学期。"
+   },
+   {
+    "en": "The separation of the two rivers is clear on the map.",
+    "zh": "两条河的分界在地图上很清楚。"
+   }
+  ],
+  "col": [
+   "separation from｜与……分离"
+  ],
+  "fam": [
+   "separate (v.)"
+  ],
+  "syn": [],
+  "ant": [],
+  "tip": "separate 是动词。说话时要尊重家庭。",
+  "cefr": "B1",
+  "topic": "society",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.13,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": false
+  }
+ },
+ {
   "id": "awkward",
   "w": "awkward",
   "uk": "/ˈɔːkwəd/",
@@ -93639,6 +102108,49 @@
    "zipf": 4.37,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "marathon",
+  "w": "marathon",
+  "uk": "/ˈmærəθ(ə)n/",
+  "us": "/ˈmærəθˌɑːn/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "马拉松",
+    "en": "a long running race of about 42 kilometres"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The marathon passes the school.",
+    "zh": "马拉松经过学校。"
+   },
+   {
+    "en": "She trained for the marathon all spring.",
+    "zh": "她整个春天都在为这场马拉松训练。"
+   }
+  ],
+  "col": [
+   "run a marathon｜跑马拉松"
+  ],
+  "fam": [],
+  "syn": [
+   "race"
+  ],
+  "ant": [],
+  "tip": "marathon 可数。也可比喻很长的活动。",
+  "cefr": "B1",
+  "topic": "sport",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.16,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": false
   }
  },
  {
@@ -94851,6 +103363,54 @@
   }
  },
  {
+  "id": "compromise",
+  "w": "compromise",
+  "uk": "/ˈkɔmprəmaɪz/",
+  "us": "/ˈkɑːmprəmˌaɪz/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "妥协",
+    "en": "an agreement in which each side gives up something"
+   },
+   {
+    "pos": "v.",
+    "zh": "妥协",
+    "en": "to reach an agreement by giving up something"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The compromise is written on one sheet.",
+    "zh": "妥协写在一张纸上。"
+   },
+   {
+    "en": "The compromise gave each class one afternoon in the lab.",
+    "zh": "这个妥协让每个班在实验室里有一个下午。"
+   }
+  ],
+  "col": [
+   "a compromise between｜……之间的妥协"
+  ],
+  "fam": [],
+  "syn": [
+   "agreement"
+  ],
+  "ant": [],
+  "tip": "compromise 作动词是妥协。",
+  "cefr": "B1",
+  "topic": "society",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.15,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
   "id": "signature",
   "w": "signature",
   "uk": "/ˈsɪɡnətʃə(r)/",
@@ -95971,6 +104531,47 @@
   }
  },
  {
+  "id": "lap",
+  "w": "lap",
+  "uk": "/læp/",
+  "us": "/ˈlæp/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "一圈；膝部",
+    "en": "one circuit of a track, or the top of the legs when sitting"
+   }
+  ],
+  "ex": [
+   {
+    "en": "She ran one more lap.",
+    "zh": "她又跑了一圈。"
+   },
+   {
+    "en": "A child on a parent's lap still needs a seat belt in the taxi.",
+    "zh": "坐在家长膝上的孩子，在出租车里仍然需要安全带。"
+   }
+  ],
+  "col": [
+   "run a lap｜跑一圈"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "lap 也可作动词“拍打”，如波浪。本条以一圈和膝部为主。",
+  "cefr": "B1",
+  "topic": "sport",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.18,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": false
+  }
+ },
+ {
   "id": "suggest",
   "w": "suggest",
   "uk": "/səˈdʒest/",
@@ -96740,6 +105341,49 @@
   }
  },
  {
+  "id": "unemployment",
+  "w": "unemployment",
+  "uk": "/ʌnɪmˈplɔɪmənt/",
+  "us": "/ʌnɛmplˈɔɪmənt/",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "失业",
+    "en": "the state of not having a job"
+   }
+  ],
+  "ex": [
+   {
+    "en": "Unemployment rose after the factory closed.",
+    "zh": "工厂关闭后，失业人数上升了。"
+   },
+   {
+    "en": "Unemployment figures should name the town, not only a national average.",
+    "zh": "失业数字应当写出城镇，而不只是全国平均数。"
+   }
+  ],
+  "col": [
+   "unemployment rate｜失业率"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [
+   "employment"
+  ],
+  "tip": "unemployment 通常不可数。",
+  "cefr": "B1",
+  "topic": "economy",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.22,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": false
+  }
+ },
+ {
   "id": "expect",
   "w": "expect",
   "uk": "/ɪkˈspekt/",
@@ -96909,6 +105553,52 @@
    "source": "gaokao-outline-3500+wordfreq-zipf",
    "batch": 9,
    "zipf": 4.47,
+   "ipaSource": "user-ref-uk",
+   "mediaReuseCandidate": true
+  }
+ },
+ {
+  "id": "scratch",
+  "w": "scratch",
+  "uk": "/skrætʃ/",
+  "us": "/ˈskrætʃ/",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "划；挠",
+    "en": "to mark a surface with something sharp, or to rub skin"
+   },
+   {
+    "pos": "n.",
+    "zh": "划痕",
+    "en": "a thin mark"
+   }
+  ],
+  "ex": [
+   {
+    "en": "The cat may scratch the chair.",
+    "zh": "猫可能会抓椅子。"
+   },
+   {
+    "en": "Do not scratch the lab bench with the glass.",
+    "zh": "不要用玻璃划实验台。"
+   }
+  ],
+  "col": [
+   "scratch a surface｜划伤表面"
+  ],
+  "fam": [],
+  "syn": [],
+  "ant": [],
+  "tip": "scratch 也可作名词。本条不写如何伤人。",
+  "cefr": "B1",
+  "topic": "daily",
+  "note": "",
+  "meta": {
+   "gaokaoFreq": "high",
+   "source": "gaokao-outline-3500+wordfreq-zipf",
+   "batch": 12,
+   "zipf": 4.16,
    "ipaSource": "user-ref-uk",
    "mediaReuseCandidate": true
   }
