@@ -43,7 +43,19 @@ curl -L -o .local/kokoro/models/voices-v1.0.bin \
 
 `scripts/atlas/gen_sentence_audio.py` 是上游 ElevenLabs 流程，生成这批例句时不要运行它。
 
-词头英音、美音和开屏口播不由这个脚本写入。Kokoro 例句是美式，不标成英式。听者设备上的「英式 / 美式」开关仍只决定词头用哪一条原录音；没有例句录音时，设备朗读才跟随这个开关。
+词头英音、美音和开屏口播不由例句脚本写入。Kokoro 例句是美式，不标成英式。听者设备上的「英式 / 美式」开关仍只决定词头用哪一条录音；没有例句录音时，设备朗读才跟随这个开关。
+
+## 词头录音（Kokoro）
+
+没有上游词头文件的 54 个词，用同一套本地 Kokoro 只读词头本身。美音是 `af_heart`、`en-us`、语速 1.0。英音是 `bf_emma`、`en-gb`、语速 1.0。`bf_emma` 是 `voices-v1.0.bin` 里四条英国女声（`bf_alice`、`bf_emma`、`bf_isabella`、`bf_lily`）中，本地 faster-whisper 抽查得分最高的一条，四条都试过，全库只用这一条。
+
+`meter`、`fiber`、`harbor`、`humor`、`neighbor` 不重新合成，而是复制未占用的英式原文件。稿、声音、哈希在 `data/headword-audio-provenance.json`。例句 provenance 不因这次词头补录而重写。
+
+```bash
+.local/kokoro-venv/bin/python scripts/atlas/gen_kokoro_headword_audio.py
+```
+
+这个脚本只接受当前这 59 个 id，并且拒绝覆盖已经有词头文件或插画位的卡。付费的 `gen_word_audio.py` 不要用来补这批。
 
 ## 质量边界
 

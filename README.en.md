@@ -20,13 +20,13 @@ It is free, needs no account, and keeps progress on the device. The UI is in Chi
 | | |
 |---:|---|
 | **2597** | Gaokao core entries, CEFR A1–B2, the same 19 topic arms |
-| **2383** | field-guide illustrations, reused from Word Atlas where the file already exists |
+| **2388** | field-guide illustrations, reused from Word Atlas where a file exists. meter, fiber, harbor, humor and neighbor use the unused British-spelling plates |
 | **5187** | example sentences |
-| **2376** | headwords with UK and US clips. Words with no upstream headword file stay on device TTS for the headword |
+| **2435** | headwords with UK and US clips. 54 words that had no upstream headword file now use local Kokoro (`bf_emma` for UK, `af_heart` for US). The rest stay on device TTS for the headword |
 | **5168** | example recordings, local Kokoro af_heart, US English, speed 1.0. 19 upstream example clips whose text still matched were kept |
 | **0** | accounts, ads or trackers |
 
-Illustrations keep the upstream retro field-guide style. Where the everyday example was rewritten, the picture may still show the original Word Atlas scene. Example clips are new US recordings of the current sentence (Kokoro voice af_heart, speed 1.0), except upstream clips whose text still matches and were kept. They are not British. Headword UK/US clips are unchanged. The accent control still picks the headword clip only. Please credit **Word Atlas contributors（词光）**. absorb, aware, calculate, conclude, daily, entire, and likely were not in the upstream set: they now have new plates in that style, and they still have no headword audio. The splash line, on screen and spoken, is 「欢迎打开高考词图」. The product name remains 高考词图.
+Illustrations keep the upstream retro field-guide style. Where the everyday example was rewritten, the picture may still show the original Word Atlas scene. Example clips are new US recordings of the current sentence (Kokoro voice af_heart, speed 1.0), except upstream clips whose text still matches and were kept. They are not British. Headword UK/US clips that came from Word Atlas are unchanged. Fifty-four headwords that had no upstream file are new local Kokoro recordings of the isolated word: UK `bf_emma` (en-gb), US `af_heart` (en-us), speed 1.0. meter, fiber, harbor, humor and neighbor reuse the unused British-spelling files metre, fibre, harbour, humour and neighbour. The accent control still picks the headword clip only. Please credit **Word Atlas contributors（词光）**. absorb, aware, calculate, conclude, daily, entire, and likely were not in the upstream set: they now have new plates in that style, and they still have no headword audio. The splash line, on screen and spoken, is 「欢迎打开高考词图」. The product name remains 高考词图. Details: [data/media-fill-notes.md](data/media-fill-notes.md).
 
 ## What every entry has
 

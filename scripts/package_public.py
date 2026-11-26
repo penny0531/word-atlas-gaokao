@@ -32,6 +32,7 @@ ATLAS_SCRIPTS = {
     "gen_word_audio.py",
     "gen_sentence_audio.py",
     "gen_kokoro_sentence_audio.py",
+    "gen_kokoro_headword_audio.py",
     "gen_sfx.py",
     "gen_galaxy_audio.sh",
     "fix_blocked.py",
@@ -68,6 +69,7 @@ def allowed(rel: Path) -> bool:
             "word-atlas.csv",
             "README.md",
             "sentence-audio-provenance.json",
+            "headword-audio-provenance.json",
             "kokoro-sentence-audio-manifest.json",
             "kokoro-sentence-audio-qc.json",
         }
