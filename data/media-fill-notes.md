@@ -9,9 +9,9 @@
 | 目标词 | 59。目录 id 与词头相同，没有带连字符的 id |
 | 原先的 media | 全部是 24，也就是只有 ex + ex2 |
 | 词头英音 / 美音 | 59 个都补上了 |
-| 插画 | 5 个复用上游原文件。另外 54 个插画位仍空着 |
-| media 位 | 54 个从 24 变成 30（2+4+8+16）。5 个从 24 变成 31（1+2+4+8+16） |
-| illustrated | 2383 → 2388 |
+| 插画 | 59 个都有了。5 个复用上游英式原文件。54 个是本地免费工具按同一图鉴画风画的，按字节放入，没有重编码 |
+| media 位 | 59 个都是 31（1+2+4+8+16） |
+| illustrated | 2383 → 2442 |
 | voiced（英音位） | 2376 → 2435 |
 | 例句录音 | 未改。`data/sentence-audio-provenance.json` 未改 |
 
@@ -84,11 +84,16 @@
 | us | theft | Zephth. |
 | us | theoretical | See you reticle. |
 
-## 仍缺的插画（54）
+## 已补上的插画（54）
 
-这 54 个词的 media 是 30。插画位（bit 1）没有置上。仓库里没有可用的本地图像模型。`scripts/atlas/gen_images.py` 走的是付费图像接口，这次不能用。没有提交剪贴画、库存照片或只有文字的占位图。
+这 54 张图已经在库里。它们用本地免费图像工具按 `scripts/atlas/gen_images.py` 的 STYLE 画成，没有调用付费接口，也没有跑 `gen_images.py`。母版压成与现有图鉴相同的规格后，按字节放入：
 
-现有图的规格（量过 `public/atlas/img` 和 `thumb` 全部 7305 对）：
+- `public/atlas/img/{id}.webp`：512×512，WebP 有损 VP8，yuv420p，无 alpha，`cwebp -q 74 -m 6 -resize 512 512`
+- `public/atlas/thumb/{id}.webp`：256×256，同样是 VP8、无 alpha，`cwebp -q 70 -m 6 -resize 256 256`
+
+放入前对过随包的 SHA256SUMS，54 对文件的尺寸和 VP8 无 alpha 都相符。仓库里没有重编码、没有改尺寸。zip 和 SHA256SUMS 没有提交。每个词的 index 行和 entries 里的 `m` 从 30 加上 bit 1，成为 31。`illustrated` 是 2442。`voiced` 仍是 2435。
+
+对照过的现有图规格（当时量的是补这 54 张之前的 7305 对）：
 
 - 插画 `public/atlas/img/{id}.webp`：512×512，WebP 有损 VP8，yuv420p，无 alpha。7305 张里 7304 张是这个规格。唯一的例外是 `volume.webp`（VP8X，带 alpha），不要照那一张。
 - 缩略图 `public/atlas/thumb/{id}.webp`：256×256，同样是 VP8、无 alpha。例外同样只有 `volume.webp`。
@@ -100,7 +105,7 @@
 
 > Mid-century modern editorial illustration, like a plate from a vintage illustrated field guide. Strict limited palette: deep ink navy, warm terracotta, mustard ochre, muted sage green and soft sky blue on warm cream paper. Flat geometric shapes, confident clean silhouettes, subtle risograph grain and paper texture, gentle shading, one clear focal subject with generous negative space, centered square composition, calm and charming mood. Absolutely no text, letters, words, numbers, captions, signs, logos, watermarks or frames.
 
-两张图都放到上面的路径之后，把该词的 index 行和 entries 里的 `m` 加上 bit 1，并把 `index.illustrated` 加 1。文件不齐时不要先把 bit 置上。
+这 54 个 id 的义项和第一条例句如下，图已经按这些意思放进 `public/atlas/img` 和 `thumb`。
 
 | id | 批次 | 义项 | 第一条例句 |
 |---|---:|---|---|
@@ -333,6 +338,6 @@
 ## 校验
 
 - `npm test`：28 项通过。
-- `npm run check:atlas`：2597 词，5187 条例句，illustrated 2388，英音 2435，美音 2435，例句录音 2597，第二条例句录音 2590，errors 0。`oneExample` 警告仍是 7，是原先只有一条例句的卡。
+- `npm run check:atlas`：2597 词，5187 条例句，illustrated 2442，英音 2435，美音 2435，例句录音 2597，第二条例句录音 2590，errors 0。`oneExample` 警告仍是 7，是原先只有一条例句的卡。
 - `ATLAS_BASE=/word-atlas-gaokao/ npm run build`：`tsc -b` 和 vite build 通过。
 - 仓库的 GitHub workflow 只有 Pages 部署（push 到 main 才跑），没有单独的测试 CI。这次 PR 不合并，所以不会触发部署。
