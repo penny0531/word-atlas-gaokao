@@ -344,6 +344,8 @@
     "block:1",
     "month:0",
     "month:1",
+    "mild:0",
+    "mild:1",
     "let:0",
     "let:1",
     "bit:0",
@@ -372,12 +374,16 @@
     "burn:1",
     "knock:0",
     "knock:1",
+    "ski:0",
+    "ski:1",
     "awesome:0",
     "awesome:1",
     "psychology:0",
     "psychology:1",
     "content:0",
     "content:1",
+    "handful:0",
+    "handful:1",
     "use:0",
     "use:1",
     "dozen:0",
@@ -484,6 +490,8 @@
     "civilian:1",
     "tube:0",
     "tube:1",
+    "disability:0",
+    "disability:1",
     "fast:0",
     "fast:1",
     "vehicle:0",
@@ -518,6 +526,8 @@
     "social:1",
     "unit:0",
     "unit:1",
+    "scream:0",
+    "scream:1",
     "powerful:0",
     "powerful:1",
     "hole:0",
@@ -566,6 +576,8 @@
     "plot:1",
     "yet:0",
     "yet:1",
+    "jewelry:0",
+    "jewelry:1",
     "faith:0",
     "faith:1",
     "output:0",
@@ -578,6 +590,8 @@
     "lazy:1",
     "sword:0",
     "sword:1",
+    "patience:0",
+    "patience:1",
     "branch:0",
     "branch:1",
     "wound:0",
@@ -606,6 +620,8 @@
     "risk:1",
     "angle:0",
     "angle:1",
+    "handsome:0",
+    "handsome:1",
     "natural:0",
     "natural:1",
     "schedule:0",
@@ -626,6 +642,8 @@
     "neighborhood:1",
     "put:0",
     "put:1",
+    "attraction:0",
+    "attraction:1",
     "register:0",
     "register:1",
     "save:0",
@@ -674,6 +692,8 @@
     "clear:1",
     "digital:0",
     "digital:1",
+    "poet:0",
+    "poet:1",
     "ministry:0",
     "ministry:1",
     "glass:0",
@@ -682,6 +702,10 @@
     "government:1",
     "vital:0",
     "vital:1",
+    "athletic:0",
+    "athletic:1",
+    "drum:0",
+    "drum:1",
     "cure:0",
     "cure:1",
     "extraordinary:0",
@@ -734,6 +758,8 @@
     "institution:1",
     "something:0",
     "something:1",
+    "vertical:0",
+    "vertical:1",
     "pet:0",
     "pet:1",
     "alone:0",
@@ -754,6 +780,8 @@
     "familiar:1",
     "night:0",
     "night:1",
+    "organ:0",
+    "organ:1",
     "ask:0",
     "ask:1",
     "trick:0",
@@ -814,6 +842,8 @@
     "student:1",
     "yourself:0",
     "yourself:1",
+    "slight:0",
+    "slight:1",
     "price:0",
     "price:1",
     "medium:0",
@@ -822,6 +852,8 @@
     "benefit:1",
     "god:0",
     "god:1",
+    "fence:0",
+    "fence:1",
     "court:0",
     "court:1",
     "part-time:0",
@@ -852,6 +884,8 @@
     "christian:1",
     "purpose:0",
     "purpose:1",
+    "pollution:0",
+    "pollution:1",
     "central:0",
     "central:1",
     "license:0",
@@ -860,6 +894,8 @@
     "director:1",
     "campaign:0",
     "campaign:1",
+    "bitter:0",
+    "bitter:1",
     "universe:0",
     "universe:1",
     "angry:0",
@@ -948,12 +984,18 @@
     "polish:1",
     "confuse:0",
     "confuse:1",
+    "preference:0",
+    "preference:1",
+    "athlete:0",
+    "athlete:1",
     "human-being:0",
     "human-being:1",
     "nurse:0",
     "nurse:1",
     "gay:0",
     "gay:1",
+    "aunt:0",
+    "aunt:1",
     "fan:0",
     "fan:1",
     "classic:0",
@@ -964,6 +1006,8 @@
     "curious:1",
     "africa:0",
     "africa:1",
+    "dam:0",
+    "dam:1",
     "sometimes:0",
     "sometimes:1",
     "newspaper:0",
@@ -992,6 +1036,8 @@
     "hospital:1",
     "serious:0",
     "serious:1",
+    "identification:0",
+    "identification:1",
     "life:0",
     "life:1",
     "comfortable:0",
@@ -1024,10 +1070,14 @@
     "radiation:1",
     "finish:0",
     "finish:1",
+    "pig:0",
+    "pig:1",
     "apartment:0",
     "apartment:1",
     "chain:0",
     "chain:1",
+    "folk:0",
+    "folk:1",
     "football:0",
     "football:1",
     "desert:0",
@@ -1077,6 +1127,8 @@
     "daily:0",
     "fancy:0",
     "fancy:1",
+    "weakness:0",
+    "weakness:1",
     "guidance:0",
     "guidance:1",
     "center:0",
@@ -1087,6 +1139,8 @@
     "cancer:1",
     "tip:0",
     "tip:1",
+    "prisoner:0",
+    "prisoner:1",
     "north:0",
     "north:1",
     "due:0",
@@ -1155,14 +1209,22 @@
     "conservation:1",
     "suit:0",
     "suit:1",
+    "grammar:0",
+    "grammar:1",
     "crazy:0",
     "crazy:1",
     "hearing:0",
     "hearing:1",
     "couple:0",
     "couple:1",
+    "admission:0",
+    "admission:1",
     "ticket:0",
     "ticket:1",
+    "coin:0",
+    "coin:1",
+    "flesh:0",
+    "flesh:1",
     "growth:0",
     "growth:1",
     "skill:0",
@@ -1173,6 +1235,8 @@
     "tale:1",
     "second:0",
     "second:1",
+    "widespread:0",
+    "widespread:1",
     "search:0",
     "search:1",
     "joke:0",
@@ -1183,6 +1247,8 @@
     "guest:1",
     "suspect:0",
     "suspect:1",
+    "rat:0",
+    "rat:1",
     "screen:0",
     "screen:1",
     "partner:0",
@@ -1231,6 +1297,8 @@
     "approximately:1",
     "rock:0",
     "rock:1",
+    "keyboard:0",
+    "keyboard:1",
     "rubber:0",
     "rubber:1",
     "mix:0",
@@ -1259,6 +1327,8 @@
     "dare:1",
     "confident:0",
     "confident:1",
+    "arrow:0",
+    "arrow:1",
     "grade:0",
     "grade:1",
     "cast:0",
@@ -1289,6 +1359,8 @@
     "pressure:1",
     "whether:0",
     "whether:1",
+    "neighbor:0",
+    "neighbor:1",
     "village:0",
     "village:1",
     "fantastic:0",
@@ -1313,6 +1385,8 @@
     "yard:1",
     "dark:0",
     "dark:1",
+    "aboard:0",
+    "aboard:1",
     "statistics:0",
     "statistics:1",
     "land:0",
@@ -1325,6 +1399,8 @@
     "glad:1",
     "supreme:0",
     "supreme:1",
+    "shine:0",
+    "shine:1",
     "recognize:0",
     "recognize:1",
     "shock:0",
@@ -1332,6 +1408,10 @@
     "likely:0",
     "deep:0",
     "deep:1",
+    "theft:0",
+    "theft:1",
+    "potato:0",
+    "potato:1",
     "comedy:0",
     "comedy:1",
     "spy:0",
@@ -1348,6 +1428,8 @@
     "effort:1",
     "manage:0",
     "manage:1",
+    "tourist:0",
+    "tourist:1",
     "battery:0",
     "battery:1",
     "goods:0",
@@ -1358,6 +1440,8 @@
     "soon:1",
     "submit:0",
     "submit:1",
+    "advocate:0",
+    "advocate:1",
     "part:0",
     "part:1",
     "waste:0",
@@ -1424,6 +1508,8 @@
     "fuel:1",
     "hold:0",
     "hold:1",
+    "farmer:0",
+    "farmer:1",
     "reception:0",
     "reception:1",
     "coffee:0",
@@ -1482,6 +1568,10 @@
     "desk:1",
     "such:0",
     "such:1",
+    "gentle:0",
+    "gentle:1",
+    "privilege:0",
+    "privilege:1",
     "beat:0",
     "beat:1",
     "controversial:0",
@@ -1504,6 +1594,8 @@
     "intelligence:1",
     "valley:0",
     "valley:1",
+    "ours:0",
+    "ours:1",
     "convince:0",
     "convince:1",
     "beach:0",
@@ -1534,12 +1626,16 @@
     "drive:1",
     "demand:0",
     "demand:1",
+    "swift:0",
+    "swift:1",
     "face:0",
     "face:1",
     "contemporary:0",
     "contemporary:1",
     "bowl:0",
     "bowl:1",
+    "curriculum:0",
+    "curriculum:1",
     "welfare:0",
     "welfare:1",
     "coal:0",
@@ -1550,6 +1646,8 @@
     "teacher:1",
     "witness:0",
     "witness:1",
+    "communicate:0",
+    "communicate:1",
     "provide:0",
     "provide:1",
     "announce:0",
@@ -1568,6 +1666,8 @@
     "hot:1",
     "pace:0",
     "pace:1",
+    "zoo:0",
+    "zoo:1",
     "pick:0",
     "pick:1",
     "garage:0",
@@ -1592,6 +1692,8 @@
     "judgment:1",
     "range:0",
     "range:1",
+    "taxi:0",
+    "taxi:1",
     "lose:0",
     "lose:1",
     "star:0",
@@ -1612,6 +1714,8 @@
     "master:1",
     "art:0",
     "art:1",
+    "acknowledge:0",
+    "acknowledge:1",
     "suck:0",
     "suck:1",
     "document:0",
@@ -1650,6 +1754,8 @@
     "asian:1",
     "shape:0",
     "shape:1",
+    "accent:0",
+    "accent:1",
     "anybody:0",
     "anybody:1",
     "mother:0",
@@ -1672,8 +1778,12 @@
     "pool:1",
     "wonderful:0",
     "wonderful:1",
+    "missile:0",
+    "missile:1",
     "breathe:0",
     "breathe:1",
+    "pension:0",
+    "pension:1",
     "white:0",
     "white:1",
     "large:0",
@@ -1684,8 +1794,12 @@
     "full:1",
     "alcohol:0",
     "alcohol:1",
+    "basement:0",
+    "basement:1",
     "treatment:0",
     "treatment:1",
+    "harmony:0",
+    "harmony:1",
     "europe:0",
     "europe:1",
     "happen:0",
@@ -1710,6 +1824,8 @@
     "damage:1",
     "period:0",
     "period:1",
+    "surgeon:0",
+    "surgeon:1",
     "sheet:0",
     "sheet:1",
     "arrest:0",
@@ -1732,6 +1848,8 @@
     "ever:1",
     "happiness:0",
     "happiness:1",
+    "significance:0",
+    "significance:1",
     "recover:0",
     "recover:1",
     "decline:0",
@@ -1756,6 +1874,8 @@
     "sky:1",
     "owner:0",
     "owner:1",
+    "sandwich:0",
+    "sandwich:1",
     "strength:0",
     "strength:1",
     "tear:0",
@@ -1774,12 +1894,16 @@
     "unique:1",
     "package:0",
     "package:1",
+    "dish:0",
+    "dish:1",
     "eventually:0",
     "eventually:1",
     "fault:0",
     "fault:1",
     "every:0",
     "every:1",
+    "mud:0",
+    "mud:1",
     "phrase:0",
     "phrase:1",
     "quite:0",
@@ -1846,6 +1970,8 @@
     "support:1",
     "house:0",
     "house:1",
+    "helicopter:0",
+    "helicopter:1",
     "impression:0",
     "impression:1",
     "lady:0",
@@ -1857,6 +1983,8 @@
     "conclude:0",
     "affect:0",
     "affect:1",
+    "boot:0",
+    "boot:1",
     "ring:0",
     "ring:1",
     "market:0",
@@ -1867,6 +1995,8 @@
     "smoke:1",
     "category:0",
     "category:1",
+    "suite:0",
+    "suite:1",
     "hill:0",
     "hill:1",
     "cycle:0",
@@ -1891,14 +2021,22 @@
     "ton:1",
     "interest:0",
     "interest:1",
+    "dive:0",
+    "dive:1",
     "charge:0",
     "charge:1",
     "dead:0",
     "dead:1",
+    "duck:0",
+    "duck:1",
+    "embassy:0",
+    "embassy:1",
     "mean:0",
     "mean:1",
     "dream:0",
     "dream:1",
+    "motivation:0",
+    "motivation:1",
     "cell:0",
     "cell:1",
     "regular:0",
@@ -1939,6 +2077,8 @@
     "means:1",
     "candy:0",
     "candy:1",
+    "blank:0",
+    "blank:1",
     "entry:0",
     "entry:1",
     "public:0",
@@ -1987,6 +2127,8 @@
     "summer:1",
     "group:0",
     "group:1",
+    "pepper:0",
+    "pepper:1",
     "member:0",
     "member:1",
     "theory:0",
@@ -1999,12 +2141,18 @@
     "daughter:1",
     "aggressive:0",
     "aggressive:1",
+    "phenomenon:0",
+    "phenomenon:1",
     "while:0",
     "while:1",
+    "sheep:0",
+    "sheep:1",
     "school:0",
     "school:1",
     "rush:0",
     "rush:1",
+    "acquire:0",
+    "acquire:1",
     "raise:0",
     "raise:1",
     "set:0",
@@ -2015,6 +2163,12 @@
     "physical-education:1",
     "specific:0",
     "specific:1",
+    "patent:0",
+    "patent:1",
+    "unfortunate:0",
+    "unfortunate:1",
+    "treasure:0",
+    "treasure:1",
     "regret:0",
     "regret:1",
     "always:0",
@@ -2031,12 +2185,16 @@
     "fresh:1",
     "union:0",
     "union:1",
+    "visa:0",
+    "visa:1",
     "wash:0",
     "wash:1",
     "funeral:0",
     "funeral:1",
     "rugby:0",
     "rugby:1",
+    "plug:0",
+    "plug:1",
     "glory:0",
     "glory:1",
     "regardless:0",
@@ -2065,6 +2223,8 @@
     "area:1",
     "improve:0",
     "improve:1",
+    "contrary:0",
+    "contrary:1",
     "poem:0",
     "poem:1",
     "solid:0",
@@ -2089,12 +2249,16 @@
     "vast:1",
     "plus:0",
     "plus:1",
+    "substitute:0",
+    "substitute:1",
     "jazz:0",
     "jazz:1",
     "pack:0",
     "pack:1",
     "storm:0",
     "storm:1",
+    "profession:0",
+    "profession:1",
     "name:0",
     "name:1",
     "airport:0",
@@ -2103,6 +2267,8 @@
     "bay:1",
     "often:0",
     "often:1",
+    "react:0",
+    "react:1",
     "communist:0",
     "communist:1",
     "republic:0",
@@ -2161,6 +2327,8 @@
     "advance:1",
     "independence:0",
     "independence:1",
+    "sink:0",
+    "sink:1",
     "trade:0",
     "trade:1",
     "native:0",
@@ -2177,6 +2345,8 @@
     "complex:1",
     "bread:0",
     "bread:1",
+    "tobacco:0",
+    "tobacco:1",
     "temperature:0",
     "temperature:1",
     "enemy:0",
@@ -2187,10 +2357,14 @@
     "far:1",
     "saying:0",
     "saying:1",
+    "bless:0",
+    "bless:1",
     "point:0",
     "point:1",
     "company:0",
     "company:1",
+    "lightning:0",
+    "lightning:1",
     "none:0",
     "none:1",
     "ocean:0",
@@ -2199,6 +2373,8 @@
     "swing:1",
     "bathroom:0",
     "bathroom:1",
+    "pleasant:0",
+    "pleasant:1",
     "seem:0",
     "seem:1",
     "nuclear:0",
@@ -2244,6 +2420,8 @@
     "reasonable:1",
     "century:0",
     "century:1",
+    "occupation:0",
+    "occupation:1",
     "ready:0",
     "ready:1",
     "revolution:0",
@@ -2252,6 +2430,8 @@
     "score:1",
     "independent:0",
     "independent:1",
+    "spray:0",
+    "spray:1",
     "upon:0",
     "upon:1",
     "remain:0",
@@ -2270,6 +2450,8 @@
     "down:1",
     "guess:0",
     "guess:1",
+    "barrier:0",
+    "barrier:1",
     "pray:0",
     "pray:1",
     "dialogue:0",
@@ -2284,14 +2466,20 @@
     "able:1",
     "format:0",
     "format:1",
+    "ham:0",
+    "ham:1",
     "focus:0",
     "focus:1",
     "red:0",
     "red:1",
+    "garbage:0",
+    "garbage:1",
     "bye:0",
     "bye:1",
     "dinner:0",
     "dinner:1",
+    "distant:0",
+    "distant:1",
     "arrival:0",
     "arrival:1",
     "pc:0",
@@ -2334,6 +2522,8 @@
     "fill:1",
     "blind:0",
     "blind:1",
+    "accessible:0",
+    "accessible:1",
     "factory:0",
     "factory:1",
     "wish:0",
@@ -2346,6 +2536,10 @@
     "rose:1",
     "button:0",
     "button:1",
+    "easter:0",
+    "easter:1",
+    "cattle:0",
+    "cattle:1",
     "become:0",
     "become:1",
     "island:0",
@@ -2358,6 +2552,8 @@
     "world:1",
     "worried:0",
     "worried:1",
+    "wealthy:0",
+    "wealthy:1",
     "divorce:0",
     "divorce:1",
     "bishop:0",
@@ -2366,16 +2562,24 @@
     "pretend:1",
     "drink:0",
     "drink:1",
+    "corn:0",
+    "corn:1",
     "organization:0",
     "organization:1",
     "false:0",
     "false:1",
+    "hammer:0",
+    "hammer:1",
     "unusual:0",
     "unusual:1",
     "grey:0",
     "grey:1",
+    "resist:0",
+    "resist:1",
     "dust:0",
     "dust:1",
+    "lip:0",
+    "lip:1",
     "tourism:0",
     "tourism:1",
     "journey:0",
@@ -2410,6 +2614,8 @@
     "ray:1",
     "practical:0",
     "practical:1",
+    "shade:0",
+    "shade:1",
     "roll:0",
     "roll:1",
     "quarter:0",
@@ -2443,6 +2649,8 @@
     "connection:1",
     "uniform:0",
     "uniform:1",
+    "instruction:0",
+    "instruction:1",
     "combine:0",
     "combine:1",
     "alternative:0",
@@ -2471,6 +2679,8 @@
     "favourite:1",
     "hang:0",
     "hang:1",
+    "politician:0",
+    "politician:1",
     "especially:0",
     "especially:1",
     "medal:0",
@@ -2524,6 +2734,8 @@
     "captain:1",
     "winner:0",
     "winner:1",
+    "mathematics:0",
+    "mathematics:1",
     "province:0",
     "province:1",
     "easy:0",
@@ -2556,12 +2768,16 @@
     "cost:1",
     "anything:0",
     "anything:1",
+    "grandma:0",
+    "grandma:1",
     "hot-dog:0",
     "hot-dog:1",
     "chocolate:0",
     "chocolate:1",
     "size:0",
     "size:1",
+    "cage:0",
+    "cage:1",
     "whose:0",
     "whose:1",
     "sight:0",
@@ -2572,10 +2788,14 @@
     "representative:1",
     "sport:0",
     "sport:1",
+    "bacon:0",
+    "bacon:1",
     "exam:0",
     "exam:1",
     "brain:0",
     "brain:1",
+    "cow:0",
+    "cow:1",
     "harm:0",
     "harm:1",
     "ball:0",
@@ -2584,6 +2804,8 @@
     "promise:1",
     "consistent:0",
     "consistent:1",
+    "sweat:0",
+    "sweat:1",
     "particular:0",
     "particular:1",
     "hunt:0",
@@ -2602,8 +2824,12 @@
     "ignore:1",
     "enough:0",
     "enough:1",
+    "urgent:0",
+    "urgent:1",
     "merely:0",
     "merely:1",
+    "sunshine:0",
+    "sunshine:1",
     "engineer:0",
     "engineer:1",
     "class:0",
@@ -2646,6 +2872,8 @@
     "excuse:1",
     "thick:0",
     "thick:1",
+    "examine:0",
+    "examine:1",
     "okay:0",
     "okay:1",
     "illness:0",
@@ -2658,6 +2886,8 @@
     "plate:1",
     "together:0",
     "together:1",
+    "dig:0",
+    "dig:1",
     "production:0",
     "production:1",
     "position:0",
@@ -2686,6 +2916,8 @@
     "yours:1",
     "high:0",
     "high:1",
+    "invitation:0",
+    "invitation:1",
     "secretary:0",
     "secretary:1",
     "onto:0",
@@ -2700,10 +2932,18 @@
     "speed:1",
     "ceremony:0",
     "ceremony:1",
+    "useless:0",
+    "useless:1",
     "average:0",
     "average:1",
+    "soup:0",
+    "soup:1",
     "hide:0",
     "hide:1",
+    "awake:0",
+    "awake:1",
+    "creature:0",
+    "creature:1",
     "noise:0",
     "noise:1",
     "stick:0",
@@ -2766,6 +3006,8 @@
     "ourselves:1",
     "offer:0",
     "offer:1",
+    "leaf:0",
+    "leaf:1",
     "live:0",
     "live:1",
     "tight:0",
@@ -2822,12 +3064,16 @@
     "honey:1",
     "climate:0",
     "climate:1",
+    "uncomfortable:0",
+    "uncomfortable:1",
     "ambassador:0",
     "ambassador:1",
     "cat:0",
     "cat:1",
     "place:0",
     "place:1",
+    "cave:0",
+    "cave:1",
     "dress:0",
     "dress:1",
     "explore:0",
@@ -2888,12 +3134,16 @@
     "via:1",
     "wear:0",
     "wear:1",
+    "corrupt:0",
+    "corrupt:1",
     "finance:0",
     "finance:1",
     "evolution:0",
     "evolution:1",
     "rail:0",
     "rail:1",
+    "homework:0",
+    "homework:1",
     "report:0",
     "report:1",
     "crossing:0",
@@ -2906,6 +3156,8 @@
     "courage:1",
     "handle:0",
     "handle:1",
+    "clever:0",
+    "clever:1",
     "everywhere:0",
     "everywhere:1",
     "exchange:0",
@@ -3001,6 +3253,8 @@
     "drop:1",
     "state:0",
     "state:1",
+    "bored:0",
+    "bored:1",
     "remind:0",
     "remind:1",
     "promote:0",
@@ -3021,12 +3275,16 @@
     "medical:1",
     "editor:0",
     "editor:1",
+    "mixture:0",
+    "mixture:1",
     "delay:0",
     "delay:1",
     "liberty:0",
     "liberty:1",
     "sit:0",
     "sit:1",
+    "bend:0",
+    "bend:1",
     "pride:0",
     "pride:1",
     "cross:0",
@@ -3039,12 +3297,18 @@
     "stage:1",
     "seat:0",
     "seat:1",
+    "satisfaction:0",
+    "satisfaction:1",
     "forward:0",
     "forward:1",
     "cup:0",
     "cup:1",
     "commitment:0",
     "commitment:1",
+    "burst:0",
+    "burst:1",
+    "crop:0",
+    "crop:1",
     "film:0",
     "film:1",
     "mess:0",
@@ -3059,8 +3323,14 @@
     "side-road:1",
     "empty:0",
     "empty:1",
+    "gravity:0",
+    "gravity:1",
     "associate:0",
     "associate:1",
+    "freeze:0",
+    "freeze:1",
+    "customs:0",
+    "customs:1",
     "else:0",
     "else:1",
     "earn:0",
@@ -3071,6 +3341,8 @@
     "belt:1",
     "concrete:0",
     "concrete:1",
+    "lecture:0",
+    "lecture:1",
     "top:0",
     "top:1",
     "interview:0",
@@ -3133,6 +3405,8 @@
     "salt:1",
     "several:0",
     "several:1",
+    "boxing:0",
+    "boxing:1",
     "sacrifice:0",
     "sacrifice:1",
     "until:0",
@@ -3195,6 +3469,8 @@
     "zone:1",
     "iron:0",
     "iron:1",
+    "poster:0",
+    "poster:1",
     "movement:0",
     "movement:1",
     "apart:0",
@@ -3203,6 +3479,8 @@
     "aside:1",
     "expert:0",
     "expert:1",
+    "alike:0",
+    "alike:1",
     "gift:0",
     "gift:1",
     "celebration:0",
@@ -3219,6 +3497,8 @@
     "talent:1",
     "serve:0",
     "serve:1",
+    "swim:0",
+    "swim:1",
     "mm:0",
     "mm:1",
     "specialist:0",
@@ -3233,6 +3513,8 @@
     "forget:1",
     "flat:0",
     "flat:1",
+    "bare:0",
+    "bare:1",
     "least:0",
     "least:1",
     "award:0",
@@ -3243,14 +3525,20 @@
     "special:1",
     "urban:0",
     "urban:1",
+    "ceiling:0",
+    "ceiling:1",
     "peaceful:0",
     "peaceful:1",
+    "thunder:0",
+    "thunder:1",
     "plant:0",
     "plant:1",
     "reach:0",
     "reach:1",
     "challenge:0",
     "challenge:1",
+    "scholarship:0",
+    "scholarship:1",
     "media:0",
     "media:1",
     "meat:0",
@@ -3295,8 +3583,12 @@
     "bank:1",
     "wildlife:0",
     "wildlife:1",
+    "carpet:0",
+    "carpet:1",
     "chest:0",
     "chest:1",
+    "classroom:0",
+    "classroom:1",
     "twin:0",
     "twin:1",
     "hardly:0",
@@ -3357,6 +3649,8 @@
     "contain:1",
     "panic:0",
     "panic:1",
+    "noon:0",
+    "noon:1",
     "tough:0",
     "tough:1",
     "severe:0",
@@ -3373,12 +3667,16 @@
     "wedding:1",
     "thread:0",
     "thread:1",
+    "eagle:0",
+    "eagle:1",
     "discovery:0",
     "discovery:1",
     "blood:0",
     "blood:1",
     "process:0",
     "process:1",
+    "wallet:0",
+    "wallet:1",
     "entertainment:0",
     "entertainment:1",
     "family:0",
@@ -3403,6 +3701,8 @@
     "occur:1",
     "thank:0",
     "thank:1",
+    "inform:0",
+    "inform:1",
     "join:0",
     "join:1",
     "discount:0",
@@ -3415,6 +3715,8 @@
     "useful:1",
     "positive:0",
     "positive:1",
+    "divide:0",
+    "divide:1",
     "note:0",
     "note:1",
     "fall:0",
@@ -3465,6 +3767,8 @@
     "box:1",
     "challenging:0",
     "challenging:1",
+    "skip:0",
+    "skip:1",
     "guard:0",
     "guard:1",
     "weekly:0",
@@ -3503,6 +3807,8 @@
     "shall:1",
     "real:0",
     "real:1",
+    "cheers:0",
+    "cheers:1",
     "sharp:0",
     "sharp:1",
     "account:0",
@@ -3525,6 +3831,8 @@
     "novel:1",
     "railway:0",
     "railway:1",
+    "ash:0",
+    "ash:1",
     "wise:0",
     "wise:1",
     "academy:0",
@@ -3561,10 +3869,14 @@
     "bomb:1",
     "generation:0",
     "generation:1",
+    "appreciation:0",
+    "appreciation:1",
     "bird:0",
     "bird:1",
     "game:0",
     "game:1",
+    "clinic:0",
+    "clinic:1",
     "burden:0",
     "burden:1",
     "crime:0",
@@ -3577,16 +3889,28 @@
     "raw:1",
     "park:0",
     "park:1",
+    "socialist:0",
+    "socialist:1",
+    "hurry:0",
+    "hurry:1",
     "boy:0",
     "boy:1",
+    "nail:0",
+    "nail:1",
     "chicken:0",
     "chicken:1",
+    "permit:0",
+    "permit:1",
     "milk:0",
     "milk:1",
     "suitable:0",
     "suitable:1",
     "stomach:0",
     "stomach:1",
+    "pie:0",
+    "pie:1",
+    "jungle:0",
+    "jungle:1",
     "form:0",
     "form:1",
     "story:0",
@@ -3615,6 +3939,8 @@
     "judge:1",
     "loud:0",
     "loud:1",
+    "beside:0",
+    "beside:1",
     "air:0",
     "air:1",
     "duty:0",
@@ -3659,6 +3985,8 @@
     "shame:1",
     "willing:0",
     "willing:1",
+    "precise:0",
+    "precise:1",
     "ice:0",
     "ice:1",
     "check:0",
@@ -3707,6 +4035,8 @@
     "warm:1",
     "future:0",
     "future:1",
+    "twist:0",
+    "twist:1",
     "whatever:0",
     "whatever:1",
     "x-ray:0",
@@ -3737,6 +4067,8 @@
     "college:1",
     "close:0",
     "close:1",
+    "jam:0",
+    "jam:1",
     "universal:0",
     "universal:1",
     "wait:0",
@@ -3749,6 +4081,8 @@
     "pound:1",
     "agenda:0",
     "agenda:1",
+    "nowadays:0",
+    "nowadays:1",
     "population:0",
     "population:1",
     "personal:0",
@@ -3763,6 +4097,8 @@
     "goal:1",
     "worthy:0",
     "worthy:1",
+    "slavery:0",
+    "slavery:1",
     "say:0",
     "say:1",
     "theme:0",
@@ -3787,6 +4123,10 @@
     "criminal:1",
     "attract:0",
     "attract:1",
+    "scientist:0",
+    "scientist:1",
+    "consultant:0",
+    "consultant:1",
     "grandfather:0",
     "grandfather:1",
     "dear:0",
@@ -3801,6 +4141,8 @@
     "battle:1",
     "ear:0",
     "ear:1",
+    "companion:0",
+    "companion:1",
     "healthy:0",
     "healthy:1",
     "lovely:0",
@@ -3823,6 +4165,8 @@
     "walk:1",
     "entrance:0",
     "entrance:1",
+    "shy:0",
+    "shy:1",
     "run:0",
     "run:1",
     "murder:0",
@@ -3869,14 +4213,20 @@
     "write:1",
     "ill:0",
     "ill:1",
+    "deadline:0",
+    "deadline:1",
     "citizen:0",
     "citizen:1",
     "slave:0",
     "slave:1",
     "recipe:0",
     "recipe:1",
+    "fever:0",
+    "fever:1",
     "stone:0",
     "stone:1",
+    "harbor:0",
+    "harbor:1",
     "worldwide:0",
     "worldwide:1",
     "primary:0",
@@ -3923,6 +4273,8 @@
     "acquisition:1",
     "friend:0",
     "friend:1",
+    "tension:0",
+    "tension:1",
     "trap:0",
     "trap:1",
     "wind:0",
@@ -3951,8 +4303,12 @@
     "repair:1",
     "row:0",
     "row:1",
+    "earthquake:0",
+    "earthquake:1",
     "tax:0",
     "tax:1",
+    "preserve:0",
+    "preserve:1",
     "minority:0",
     "minority:1",
     "date:0",
@@ -3977,6 +4333,10 @@
     "toilet:1",
     "spread:0",
     "spread:1",
+    "endless:0",
+    "endless:1",
+    "grandmother:0",
+    "grandmother:1",
     "scene:0",
     "scene:1",
     "medicine:0",
@@ -3989,6 +4349,8 @@
     "song:1",
     "lion:0",
     "lion:1",
+    "pile:0",
+    "pile:1",
     "department:0",
     "department:1",
     "corner:0",
@@ -4011,6 +4373,8 @@
     "fantasy:1",
     "golden:0",
     "golden:1",
+    "abstract:0",
+    "abstract:1",
     "majority:0",
     "majority:1",
     "finger:0",
@@ -4023,6 +4387,8 @@
     "string:1",
     "profit:0",
     "profit:1",
+    "cruel:0",
+    "cruel:1",
     "ship:0",
     "ship:1",
     "stranger:0",
@@ -4037,6 +4403,10 @@
     "next:1",
     "drug:0",
     "drug:1",
+    "grain:0",
+    "grain:1",
+    "unfair:0",
+    "unfair:1",
     "police:0",
     "police:1",
     "young:0",
@@ -4053,8 +4423,12 @@
     "pilot:1",
     "continue:0",
     "continue:1",
+    "detective:0",
+    "detective:1",
     "orange:0",
     "orange:1",
+    "cinema:0",
+    "cinema:1",
     "match:0",
     "match:1",
     "constitution:0",
@@ -4117,12 +4491,16 @@
     "standard:1",
     "away:0",
     "away:1",
+    "salad:0",
+    "salad:1",
     "within:0",
     "within:1",
     "experiment:0",
     "experiment:1",
     "breast:0",
     "breast:1",
+    "gentleman:0",
+    "gentleman:1",
     "touch:0",
     "touch:1",
     "invite:0",
@@ -4135,14 +4513,24 @@
     "foster:1",
     "diverse:0",
     "diverse:1",
+    "physician:0",
+    "physician:1",
     "author:0",
     "author:1",
+    "owe:0",
+    "owe:1",
     "nation:0",
     "nation:1",
     "perform:0",
     "perform:1",
     "phone:0",
     "phone:1",
+    "soap:0",
+    "soap:1",
+    "humor:0",
+    "humor:1",
+    "deer:0",
+    "deer:1",
     "importance:0",
     "importance:1",
     "miss:0",
@@ -4155,10 +4543,14 @@
     "follow:1",
     "explain:0",
     "explain:1",
+    "separation:0",
+    "separation:1",
     "awkward:0",
     "awkward:1",
     "ward:0",
     "ward:1",
+    "marathon:0",
+    "marathon:1",
     "indicate:0",
     "indicate:1",
     "silver:0",
@@ -4213,6 +4605,8 @@
     "shirt:1",
     "committee:0",
     "committee:1",
+    "compromise:0",
+    "compromise:1",
     "signature:0",
     "signature:1",
     "camp:0",
@@ -4263,6 +4657,8 @@
     "avenue:1",
     "necessary:0",
     "necessary:1",
+    "lap:0",
+    "lap:1",
     "suggest:0",
     "suggest:1",
     "vote:0",
@@ -4297,6 +4693,8 @@
     "typical:1",
     "same:0",
     "same:1",
+    "unemployment:0",
+    "unemployment:1",
     "expect:0",
     "expect:1",
     "atmosphere:0",
@@ -4305,6 +4703,8 @@
     "video:1",
     "bone:0",
     "bone:1",
+    "scratch:0",
+    "scratch:1",
     "during:0",
     "during:1",
     "mirror:0",
@@ -4453,6 +4853,10 @@
       "0": "his absence from class worried the teacher.",
       "1": "in the absence of reliable public transport, many residents have little choice but to drive."
     },
+    "absent": {
+      "0": "two names were marked absent on the morning register.",
+      "1": "he was absent on the day we did the experiment, so he copied the data with permission."
+    },
     "absolute": {
       "0": "he has absolute confidence in the team.",
       "1": "giving any single institution absolute power can weaken accountability and reduce public trust in government."
@@ -4495,6 +4899,14 @@
     "accident": {
       "0": "a car accident blocked the road.",
       "1": "better street lighting can reduce the risk of accidents involving cyclists and pedestrians at night."
+    },
+    "accommodation": {
+      "0": "the school arranged accommodation for the visiting team.",
+      "1": "cheap accommodation near the station was full, so we shared a room farther out."
+    },
+    "accomplish": {
+      "0": "she accomplished every item on the checklist.",
+      "1": "the team accomplished the repair before dark, with one lamp still to replace."
     },
     "account": {
       "0": "she opened a bank account for her savings.",
@@ -4564,6 +4976,10 @@
       "0": "the actual cost was higher.",
       "1": "governments should measure the actual impact of transport policies rather than relying solely on predicted benefits."
     },
+    "acute": {
+      "0": "the doctor called the pain acute and sent him for a check.",
+      "1": "an acute shortage of clean water, not a slow leak, closed the dorm kitchens."
+    },
     "ad": {
       "0": "the ad on the board is for the book fair.",
       "1": "an ad aimed at teenagers should say who paid for it."
@@ -4571,6 +4987,10 @@
     "adapt": {
       "0": "animals must adapt to climate change.",
       "1": "schools must adapt their teaching methods to meet the needs of students from diverse cultural backgrounds."
+    },
+    "adaptation": {
+      "0": "this play is an adaptation of a folk tale.",
+      "1": "her adaptation to the new timetable took several days, especially the early lab."
     },
     "add": {
       "0": "add your name at the bottom.",
@@ -4587,6 +5007,10 @@
     "adequate": {
       "0": "food supply is adequate.",
       "1": "schools need adequate funding to maintain safe buildings and provide effective support for students with additional needs."
+    },
+    "adjust": {
+      "0": "adjust the chair before you start writing.",
+      "1": "it took her a month to adjust to getting up at six for the swimming team."
     },
     "administration": {
       "0": "the school administration posted the new timetable.",
@@ -4627,6 +5051,10 @@
     "advice": {
       "0": "thank you for your useful advice.",
       "1": "schools should provide practical career advice so that students can make informed decisions about their future."
+    },
+    "advise": {
+      "0": "i advise you to sleep before the listening test.",
+      "1": "the coach advised the runners not to start fast just because the crowd was loud."
     },
     "advocate": {
       "0": "the club advocates a later library hour.",
@@ -4740,6 +5168,10 @@
       "0": "no aircraft landed during the storm.",
       "1": "an aircraft over a school is a noise problem even when the lesson is about flight."
     },
+    "airline": {
+      "0": "which airline is the class taking to shanghai?",
+      "1": "the airline moved the flight to the afternoon, so the hotel booking had to change too."
+    },
     "airport": {
       "0": "the airport bus leaves every half hour.",
       "1": "an airport far from the city helps flights, and it also makes the last bus home matter."
@@ -4804,6 +5236,10 @@
       "0": "although it was late, the library was still open.",
       "1": "although a city builds more roads, traffic can grow if more people then choose to drive."
     },
+    "altogether": {
+      "0": "there are twenty desks altogether, counting the broken one.",
+      "1": "the trip will cost 300 yuan altogether if we share one taxi from the station."
+    },
     "always": {
       "0": "she always checks her answers twice.",
       "1": "towns that always build on the cheapest land may later discover that the ground floods."
@@ -4824,6 +5260,10 @@
       "0": "the ambassador visited the school.",
       "1": "a speech by an ambassador does not replace the bus the town was promised."
     },
+    "ambulance": {
+      "0": "an ambulance stopped outside the gym.",
+      "1": "the ambulance arrived in six minutes, and the player was taken to the city hospital."
+    },
     "america": {
       "0": "she hopes to visit america after university.",
       "1": "news from america reaches a classroom in minutes, but students still need to ask who wrote it."
@@ -4839,6 +5279,10 @@
     "analysis": {
       "0": "the analysis of the water will take a week.",
       "1": "an analysis of late arrivals should look at buses before it looks at character."
+    },
+    "anchor": {
+      "0": "the boat dropped its anchor near the wooden dock.",
+      "1": "they anchored in a shallow bay because the wind was too strong for the open water."
     },
     "ancient": {
       "0": "we visited an ancient temple.",
@@ -4924,6 +5368,10 @@
       "0": "you should apologize for being late.",
       "1": "companies should apologize promptly for service failures and explain what steps they will take to prevent further problems."
     },
+    "apology": {
+      "0": "i owe you an apology for taking your seat.",
+      "1": "his apology was two lines long, and he offered to rewrite the page he had torn."
+    },
     "apparent": {
       "0": "it was apparent that he was tired.",
       "1": "despite the apparent benefits of remote learning, some students struggle without direct support from teachers."
@@ -4976,13 +5424,29 @@
       "0": "the trip needs approval from the office.",
       "1": "approval that arrives after the bus has left helps nobody."
     },
+    "approve": {
+      "0": "my parents approve of the weekend job.",
+      "1": "the office will not approve the trip until every parent has signed the form."
+    },
     "approximately": {
       "0": "the hall holds approximately 200 people.",
       "1": "approximately right numbers are useful, and a budget still needs the exact figure."
     },
+    "arch": {
+      "0": "we met under the stone arch by the old gate.",
+      "1": "the arch over the path is low, so the bus cannot pass and we walk the last minute."
+    },
+    "architect": {
+      "0": "the architect walked us through the new library plan.",
+      "1": "an architect changed the stairs so that a wheelchair could reach every floor."
+    },
     "architecture": {
       "0": "the architecture of the hall is simple.",
       "1": "good architecture includes a door a wheelchair can use."
+    },
+    "arctic": {
+      "0": "arctic air reached the city, and the pond froze.",
+      "1": "the arctic fox in the documentary changes color when the snow comes."
     },
     "area": {
       "0": "this area of the library is for quiet study.",
@@ -5056,6 +5520,10 @@
       "0": "ash covered the path after the fire.",
       "1": "ash from a classroom bin is a reason to call an adult, not to stir it."
     },
+    "ashamed": {
+      "0": "he was ashamed of copying the homework.",
+      "1": "she felt ashamed when her phone rang in the middle of the quiet exam hall."
+    },
     "asia": {
       "0": "asia appears on the first map in the book.",
       "1": "a chapter about asia should not treat the whole continent as one climate."
@@ -5079,6 +5547,10 @@
     "aspect": {
       "0": "cost is only one aspect of the plan.",
       "1": "the safety aspect of the late bus matters as much as the fare."
+    },
+    "assess": {
+      "0": "two teachers assess the oral test together so one opinion does not decide it.",
+      "1": "we assess a source by asking who wrote it and whether the date is clear."
     },
     "assessment": {
       "0": "the assessment is a short essay, not only a score.",
@@ -5107,6 +5579,10 @@
     "assume": {
       "0": "don't assume that everyone knows the rules.",
       "1": "policymakers should not assume that all households have reliable internet access or adequate digital skills."
+    },
+    "assumption": {
+      "0": "the plan rests on one assumption: the bus will be on time.",
+      "1": "her assumption that everyone had a laptop was wrong, so we shared three computers."
     },
     "at": {
       "0": "we meet at the school gate at seven.",
@@ -5171,6 +5647,10 @@
     "aunt": {
       "0": "her aunt sent a letter from the coast.",
       "1": "a form that says aunt should still leave space for another adult."
+    },
+    "authentic": {
+      "0": "the museum label says the coin is authentic.",
+      "1": "the coach wants an authentic signature on the form, not a name typed in a box."
     },
     "author": {
       "0": "the author of the article is a local teacher.",
@@ -5243,6 +5723,10 @@
       "0": "her family background shaped her views.",
       "1": "universities should provide equal opportunities for applicants from different social backgrounds, regardless of their family income."
     },
+    "backwards": {
+      "0": "he spelled his name backwards as a joke.",
+      "1": "the video plays backwards if you hold this key, and the dancer seems to rise from the floor."
+    },
     "bacon": {
       "0": "there is bacon in the soup.",
       "1": "bacon on a menu should say so, for the student who does not eat it."
@@ -5266,6 +5750,10 @@
     "ban": {
       "0": "the school bans phones during the exam.",
       "1": "a ban on the late bus would punish the students who stay for the club."
+    },
+    "banana": {
+      "0": "she shared a banana with her deskmate.",
+      "1": "the banana in his bag was too ripe, and it left a brown mark on the notebook."
     },
     "band": {
       "0": "the school band will play tonight.",
@@ -5303,9 +5791,17 @@
       "0": "learn the basic rules first.",
       "1": "governments should ensure that all citizens have access to basic healthcare, regardless of their income."
     },
+    "basin": {
+      "0": "rinse the cloth in the basin by the door.",
+      "1": "the geography map shows a river basin that covers three provinces."
+    },
     "basis": {
       "0": "trust is the basis of friendship.",
       "1": "reliable evidence should provide the basis for government decisions about public health and environmental protection."
+    },
+    "basket": {
+      "0": "put the dirty jerseys in the basket.",
+      "1": "she carried a basket of pears up the stairs and left it outside the staff room."
     },
     "basketball": {
       "0": "basketball practice is at four.",
@@ -5343,9 +5839,17 @@
       "0": "we walked on the beach after lunch.",
       "1": "a popular beach can damage the coast if plastic from one weekend is left in the sand."
     },
+    "bean": {
+      "0": "a single bean sprouted in the cotton wool.",
+      "1": "the soup has beans and rice, and it is the dish most students ask for on thursdays."
+    },
     "bear": {
       "0": "i cannot bear the noise in the hall.",
       "1": "the bridge can bear the weight of a bus, according to the sign."
+    },
+    "beard": {
+      "0": "the actor's beard started to peel off on stage.",
+      "1": "he grew a beard over the winter break and shaved it off before classes."
     },
     "beast": {
       "0": "the story has a beast, not a pet.",
@@ -5379,6 +5883,10 @@
       "0": "the bedroom is too small for a desk.",
       "1": "a quiet bedroom is not available to every student, which is why the library stays open."
     },
+    "bee": {
+      "0": "a bee landed on the lemonade and nobody moved.",
+      "1": "the keeper told us a bee stings only once, then showed the hive from behind glass."
+    },
     "beef": {
       "0": "the soup has beef in it.",
       "1": "beef on a menu should say so, for the student who does not eat it."
@@ -5391,6 +5899,10 @@
       "0": "please wash your hands before lunch.",
       "1": "cities should test their flood plans before the rainy season, not after the first street is under water."
     },
+    "beg": {
+      "0": "i won't beg the teacher for the answer.",
+      "1": "the child would beg to keep the stray cat, and her father said they would ask the vet first."
+    },
     "begin": {
       "0": "the meeting will begin at eight.",
       "1": "cities should begin flood practice before the rainy season, not after the first street is under water."
@@ -5402,6 +5914,10 @@
     "behalf": {
       "0": "she spoke on behalf of the class.",
       "1": "a speech on behalf of students should come after someone has asked them."
+    },
+    "behave": {
+      "0": "please behave during the ceremony.",
+      "1": "the class behaved quietly in the museum, even in the room with the drums."
     },
     "behavior": {
       "0": "good behavior is expected in class.",
@@ -5426,6 +5942,10 @@
     "bell": {
       "0": "the bell rings at eight.",
       "1": "a bell that cannot be heard at the far end of the yard is not a safety plan."
+    },
+    "belly": {
+      "0": "my belly hurts after two bowls of noodles.",
+      "1": "lie on your back and the nurse can feel whether your belly is tight."
     },
     "belong": {
       "0": "the books belong to the library.",
@@ -5458,6 +5978,10 @@
     "benefit": {
       "0": "exercise can benefit both body and mind.",
       "1": "rural communities can benefit from improved internet access through greater opportunities for education and employment."
+    },
+    "bent": {
+      "0": "the bent nail would not go into the wood.",
+      "1": "the bent wheel still turned, but the cart pulled to one side on the path."
     },
     "beside": {
       "0": "the clinic is beside the library.",
@@ -5535,6 +6059,10 @@
       "0": "leave the blank line empty if you do not know.",
       "1": "a blank form still needs someone who can explain it."
     },
+    "blanket": {
+      "0": "she pulled a blanket over her knees in the cold hall.",
+      "1": "a thin blanket was not enough on the hill, so they shared a second one."
+    },
     "bless": {
       "0": "the visitor said bless you after the sneeze.",
       "1": "he wrote bless you at the end of the card."
@@ -5599,6 +6127,10 @@
       "0": "the boot is wet from the path.",
       "1": "a spare boot at school matters when the morning rain soaks the first pair."
     },
+    "booth": {
+      "0": "wait in the phone booth; i'll be one minute.",
+      "1": "each club had a booth in the gym, with a sign and a signup sheet."
+    },
     "border": {
       "0": "the river is the border between the two counties.",
       "1": "a school near a border may have students who travel across it every morning."
@@ -5614,6 +6146,10 @@
     "born": {
       "0": "she was born in this town.",
       "1": "a child born beside a busy road breathes dirtier air than one born beside a park."
+    },
+    "borrow": {
+      "0": "may i borrow your ruler for this question?",
+      "1": "she borrowed a charger until lunch and returned it before the afternoon class."
     },
     "boss": {
       "0": "her boss let her leave early for the match.",
@@ -5635,6 +6171,10 @@
       "0": "the key is at the bottom of the bag.",
       "1": "notes at the bottom of a chart often explain the number that the headline left out."
     },
+    "bounce": {
+      "0": "a flat ball will not bounce on this floor.",
+      "1": "the ball bounced twice before she caught it, and the second bounce went wide."
+    },
     "bound": {
       "0": "the bus is bound to be full at four.",
       "1": "a school is bound to publish the fee before it asks families to pay."
@@ -5650,6 +6190,10 @@
     "bowl": {
       "0": "there is a bowl of rice on the table.",
       "1": "a cracked bowl in the canteen should be thrown away the same day."
+    },
+    "bowling": {
+      "0": "our class booked a lane for bowling on friday.",
+      "1": "bowling looks easy until you try to hit the last pin without stepping over the line."
     },
     "box": {
       "0": "put the bottles in the recycling box.",
@@ -5706,6 +6250,10 @@
     "brick": {
       "0": "the wall is brick.",
       "1": "a loose brick on the step should be reported the same day."
+    },
+    "bride": {
+      "0": "the bride waited in the side room before the photos.",
+      "1": "in the story the bride changes her mind at the door and walks back to her father."
     },
     "bridge": {
       "0": "we cross the bridge on the way to school.",
@@ -5914,6 +6462,10 @@
       "0": "can you carry this box to the lab?",
       "1": "buses that cannot carry wheelchairs leave some students outside the trip they helped to plan."
     },
+    "cartoon": {
+      "0": "the cartoon on the notice board shows our principal with a megaphone.",
+      "1": "we watched a short cartoon about recycling, then wrote down three facts from it."
+    },
     "case": {
       "0": "in this case, we should ask the teacher.",
       "1": "in the case of a city flood, the first question is which roads still lead to the hospital."
@@ -6078,9 +6630,17 @@
       "0": "the notebook is cheap and strong.",
       "1": "a cheap fare that does not stop near the school is not cheap for the student who must take a taxi."
     },
+    "cheat": {
+      "0": "nobody is allowed to cheat on the quiz.",
+      "1": "he tried to cheat by hiding notes in his sleeve, and the teacher saw the paper."
+    },
     "check": {
       "0": "check your name before you hand in the paper.",
       "1": "cities should check air quality outside schools, not only in the parks that look good in photos."
+    },
+    "cheer": {
+      "0": "we will cheer for the relay team at four.",
+      "1": "a cheer went up when the last runner crossed the line with the baton still in her hand."
     },
     "cheers": {
       "0": "she said cheers and put the cup down.",
@@ -6146,6 +6706,10 @@
       "0": "the old church stands at the end of the street.",
       "1": "a church hall can become a shelter on the night a flood reaches the lower street."
     },
+    "cigarette": {
+      "0": "the gate sign says cigarettes are not allowed on campus.",
+      "1": "he dropped a cigarette by the gym, and the guard made him pick it up."
+    },
     "cinema": {
       "0": "the cinema opens at noon.",
       "1": "the cinema shows a short film before the main feature."
@@ -6178,6 +6742,10 @@
       "0": "the report names civilians, not only soldiers.",
       "1": "a history text should say what happened to civilians."
     },
+    "civilization": {
+      "0": "the course begins with early river civilization.",
+      "1": "the museum room on ancient civilization was crowded on the free sunday."
+    },
     "class": {
       "0": "our class meets in room 12.",
       "1": "a class of forty is hard to teach well if one teacher has no assistant."
@@ -6201,6 +6769,10 @@
     "clear": {
       "0": "please write a clear title.",
       "1": "clear signs at a junction matter more at night, when drivers and children share a narrow road."
+    },
+    "clerk": {
+      "0": "the clerk stamped the form and gave it back.",
+      "1": "a clerk at the front desk found my form in the wrong pile and walked it to the office."
     },
     "clever": {
       "0": "that was a clever way to label the map.",
@@ -6229,6 +6801,10 @@
     "close": {
       "0": "please close the door quietly.",
       "1": "shops that close early leave night-shift workers with nowhere nearby to buy food."
+    },
+    "cloth": {
+      "0": "cover the table with a clean cloth before you set out the paint.",
+      "1": "the cloth for the costumes is still in the box, folded and unmarked."
     },
     "clothes": {
       "0": "wet clothes dry slowly in this room.",
@@ -6270,9 +6846,17 @@
       "0": "she found a coin under the desk.",
       "1": "a coin on a poster is not the fee a family can check."
     },
+    "coke": {
+      "0": "he bought a bottle of coke after practice.",
+      "1": "the machine only had coke and water, so the team shared two cold bottles."
+    },
     "cold": {
       "0": "it is cold in the classroom this morning.",
       "1": "cold classrooms in winter make it harder to learn, especially for children who walked a long way."
+    },
+    "collar": {
+      "0": "your collar is folded inside the sweater.",
+      "1": "the dog's collar had a phone number, so we called the owner from the gate."
     },
     "collect": {
       "0": "collect the forms before you leave.",
@@ -6461,6 +7045,10 @@
       "0": "the internet connection failed during the quiz.",
       "1": "the connection between sleep and memory is a reason to protect the hour before bed."
     },
+    "consensus": {
+      "0": "the class reached a consensus: no phones during the film.",
+      "1": "there is no consensus yet on whether the sports day should move to friday."
+    },
     "consequence": {
       "0": "every choice has a consequence.",
       "1": "one serious consequence of rapid urban growth is increased pressure on public transport and housing."
@@ -6505,6 +7093,10 @@
       "0": "this box may contain old letters.",
       "1": "processed foods often contain large amounts of salt, which can contribute to serious health problems."
     },
+    "container": {
+      "0": "write the date on the container before you store the powder.",
+      "1": "the container cracked in the freezer, and the soup leaked onto the other food."
+    },
     "contemporary": {
       "0": "the gallery shows contemporary painting.",
       "1": "a contemporary of the old poet still needed a bus to the library."
@@ -6512,6 +7104,10 @@
     "content": {
       "0": "check the content of the box carefully.",
       "1": "schools should teach students to evaluate online content critically rather than accepting every claim as reliable information."
+    },
+    "continent": {
+      "0": "we colored one continent on the blank map.",
+      "1": "africa is a continent, and the quiz asks which ocean lies on its eastern side."
     },
     "continue": {
       "0": "please continue reading after the break.",
@@ -6561,6 +7157,10 @@
       "0": "the cook knows which students cannot eat nuts.",
       "1": "a school cook who labels the food saves more trouble than a long speech about diet."
     },
+    "cookie": {
+      "0": "he saved a cookie from lunch for the bus ride.",
+      "1": "the cookie broke in his pocket, and the crumbs covered the reading list."
+    },
     "cool": {
       "0": "the room is cool in the morning.",
       "1": "cool shade from old trees can matter as much as an air conditioner a school cannot afford."
@@ -6592,6 +7192,10 @@
     "cost": {
       "0": "the cost of the trip is fifty yuan.",
       "1": "the cost of dirty air does not appear on a shop receipt, but it appears in hospital visits."
+    },
+    "cottage": {
+      "0": "the reading camp is in a cottage by the lake.",
+      "1": "the cottage had a low door, and the tallest student had to bend to enter."
     },
     "cotton": {
       "0": "the shirt is cotton.",
@@ -6788,6 +7392,10 @@
       "0": "the path was in darkness.",
       "1": "darkness at the crossing is a reason to add a light."
     },
+    "dash": {
+      "0": "we dash to the canteen if the break is short.",
+      "1": "he made a dash for the closing door and still had to wait for the next lift."
+    },
     "data": {
       "0": "scientists collect data from tests.",
       "1": "reliable data allows policymakers to assess whether environmental regulations are reducing pollution in urban areas."
@@ -6819,6 +7427,10 @@
     "deadline": {
       "0": "the deadline is friday.",
       "1": "a deadline that parents hear after work has already failed."
+    },
+    "deaf": {
+      "0": "a deaf student in our class uses sign language.",
+      "1": "the film has subtitles for deaf viewers, and they sit where they can see the screen."
     },
     "deal": {
       "0": "we made a deal to share the cleaning.",
@@ -6900,6 +7512,10 @@
       "0": "delete the old time before you write the new one.",
       "1": "do not delete the only copy of the class list."
     },
+    "deliberately": {
+      "0": "he deliberately left the last question blank.",
+      "1": "she deliberately spoke slowly so the visitors could write down the room numbers."
+    },
     "delicate": {
       "0": "handle the glass with delicate care.",
       "1": "tourism in coastal regions must be carefully managed to protect delicate ecosystems from lasting damage."
@@ -6907,6 +7523,10 @@
     "delicious": {
       "0": "the soup was delicious.",
       "1": "delicious food that hides nuts should say so on the label."
+    },
+    "delighted": {
+      "0": "i was delighted to see my essay on the wall.",
+      "1": "the host looked delighted when the quiet class finally asked a real question."
     },
     "deliver": {
       "0": "the post office will deliver the package.",
@@ -7004,6 +7624,14 @@
       "0": "the museum shows a diamond, and also the tools that cut stone.",
       "1": "a diamond on a poster does not pay the canteen staff."
     },
+    "diary": {
+      "0": "she writes in her diary after lights-out.",
+      "1": "he left his diary on the lab bench, and three pages of private notes were open."
+    },
+    "dictionary": {
+      "0": "look the word up in a dictionary, then write your own sentence.",
+      "1": "a bilingual dictionary sits on the front desk, and it is chained so it stays there."
+    },
     "die": {
       "0": "the flowers die if nobody waters them.",
       "1": "fish die in a river long before the colour of the water warns the town."
@@ -7040,9 +7668,21 @@
       "0": "the digital clock in the hall is wrong.",
       "1": "digital notes are easy to share and easy to lose if nobody keeps a copy."
     },
+    "dignity": {
+      "0": "speak to the guest with dignity, even if you are nervous.",
+      "1": "the team lost, but they left the court with dignity and shook hands."
+    },
+    "dimension": {
+      "0": "length is only one dimension of the box.",
+      "1": "the drawing needs a third dimension, depth, or the cupboard will not fit against the wall."
+    },
     "dinner": {
       "0": "dinner is at six in our hall.",
       "1": "a free dinner at school can matter more than a speech about healthy food."
+    },
+    "dip": {
+      "0": "dip the brush in water before you paint.",
+      "1": "she would dip the cloth into warm water and then wipe the ink off the desk."
     },
     "direct": {
       "0": "take the direct route home.",
@@ -7067,6 +7707,14 @@
     "disabled": {
       "0": "the disabled entrance is on the left.",
       "1": "a disabled student needs the entrance marked, not a speech about courage."
+    },
+    "disagree": {
+      "0": "i disagree with the ending of that story.",
+      "1": "the two judges disagreed about the score, so a third teacher listened again."
+    },
+    "disappear": {
+      "0": "my keys disappeared between the gym and the dorm.",
+      "1": "the fog disappeared by noon, and the hills behind the school showed again."
     },
     "disappointed": {
       "0": "she was disappointed with the score, not with the effort.",
@@ -7112,6 +7760,10 @@
       "0": "the dish is still hot.",
       "1": "the dish of the day is written on the board."
     },
+    "disk": {
+      "0": "the disk in the lab computer is almost full.",
+      "1": "copy the photos onto a disk before you delete them from the camera."
+    },
     "distance": {
       "0": "keep a safe distance from the fire.",
       "1": "reducing the distance between residential areas and workplaces could lower transport emissions and improve urban quality of life."
@@ -7119,6 +7771,10 @@
     "distant": {
       "0": "the farm is distant, but the school is open.",
       "1": "the mountains look distant, but the walk takes only two hours."
+    },
+    "distinction": {
+      "0": "the distinction between borrow and lend still trips people up.",
+      "1": "she wrote with distinction and won the only history prize in our grade."
     },
     "distinguish": {
       "0": "babies learn to distinguish colors early.",
@@ -7131,6 +7787,10 @@
     "district": {
       "0": "our school is in the old district.",
       "1": "a poor district can have excellent students and still lack a clinic within walking distance."
+    },
+    "disturbing": {
+      "0": "the ending of the film was disturbing.",
+      "1": "a disturbing noise from the lab made the teacher stop the class and check the gas."
     },
     "dive": {
       "0": "do not dive into the shallow end.",
@@ -7168,13 +7828,25 @@
       "0": "the dog waited outside the classroom.",
       "1": "a dog on a loose lead near a school gate can frighten children who are trying to cross."
     },
+    "doll": {
+      "0": "a doll sat on the empty seat of the bus.",
+      "1": "the child would not leave the doll at the lost-property desk, so her mother waited."
+    },
     "dollar": {
       "0": "the book costs ten dollars.",
       "1": "a dollar sign on a school poster should not be the only way a family learns the real cost."
     },
+    "donate": {
+      "0": "our class donated winter coats to the community center.",
+      "1": "she donated the prize money to the library so it could buy more science books."
+    },
     "door": {
       "0": "please close the door quietly.",
       "1": "a shop door that opens onto a pavement full of cars is hard for a child to use."
+    },
+    "dot": {
+      "0": "put a dot after the number on the map.",
+      "1": "each red dot on the chart is one student who walks to school."
     },
     "double": {
       "0": "we need a double check of the names.",
@@ -7223,6 +7895,10 @@
     "dress": {
       "0": "she wore a blue dress to the concert.",
       "1": "a dress code that costs too much keeps some students out of the photo."
+    },
+    "drill": {
+      "0": "the fire drill emptied the building in four minutes.",
+      "1": "he drilled a small hole for the hook, then we practiced the same step ten times."
     },
     "drink": {
       "0": "drink some water before the run.",
@@ -7291,6 +7967,10 @@
     "each": {
       "0": "each student has a different seat number.",
       "1": "each small shop that closes on a high street takes away a place where neighbours used to talk."
+    },
+    "eager": {
+      "0": "the new students were eager to see the labs.",
+      "1": "she was so eager to answer that she stood up before the teacher finished the question."
     },
     "eagle": {
       "0": "the eagle is on the nature poster.",
@@ -7368,6 +8048,14 @@
       "0": "you may take either seat.",
       "1": "either the bus comes on time or students start arriving late, and then the first lesson suffers."
     },
+    "elder": {
+      "0": "my elder sister starts university this autumn.",
+      "1": "the village elders sat at the front and listened to the students' report."
+    },
+    "elect": {
+      "0": "our class will elect a monitor on monday.",
+      "1": "the club elected her captain because she had kept every practice record this term."
+    },
     "electric": {
       "0": "electric cars produce less smoke.",
       "1": "electric buses can reduce urban air pollution, especially when their power comes from renewable sources."
@@ -7383,6 +8071,10 @@
     "electronic": {
       "0": "the electronic clock in the hall is wrong.",
       "1": "an electronic notice still needs a paper copy when the network fails."
+    },
+    "elephant": {
+      "0": "the elephant in the zoo sprayed water with its trunk.",
+      "1": "an elephant needs more space than our city zoo can give, the guide said."
     },
     "else": {
       "0": "would anyone else like to speak?",
@@ -7507,6 +8199,10 @@
       "0": "we read a european folk story.",
       "1": "european visitors bring money to a town, but they also raise rents if housing is already short."
     },
+    "evaluate": {
+      "0": "we evaluate sources before we quote them.",
+      "1": "the teacher will evaluate the projects on friday and return a short written note."
+    },
     "even": {
       "0": "even a short walk can clear your head.",
       "1": "even a rich city can have neighbourhoods where children have no safe park nearby."
@@ -7627,6 +8323,10 @@
       "0": "i expect the bus at eight.",
       "1": "parents expect a safe walk to school, not only a high score at the end of the year."
     },
+    "expectation": {
+      "0": "the teacher's expectation is a full draft by monday.",
+      "1": "the result was below expectation, so the group met again and checked the scale."
+    },
     "expense": {
       "0": "the expense is written on the form.",
       "1": "an expense that families cannot see is not a fair price."
@@ -7694,6 +8394,10 @@
     "face": {
       "0": "she had a smile on her face.",
       "1": "a city must face the fact that cheap housing and clean air are both necessary."
+    },
+    "facial": {
+      "0": "the facial cream stung the cut on his cheek.",
+      "1": "facial expressions in the video told us who was nervous before anyone spoke."
     },
     "fact": {
       "0": "in fact, the library opens at eight.",
@@ -7835,6 +8539,10 @@
       "0": "the fence by the garden is loose.",
       "1": "a fence that blocks the clinic path should be moved the same day."
     },
+    "ferry": {
+      "0": "the ferry leaves the dock every half hour.",
+      "1": "we took the ferry across the river because the bridge was closed for repairs."
+    },
     "festival": {
       "0": "the town festival is next weekend.",
       "1": "a school festival should name which dates belong to which community, and not assume one calendar."
@@ -7846,6 +8554,10 @@
     "few": {
       "0": "few students finished the last question.",
       "1": "a few trees on a hot street help, but they cannot replace a park."
+    },
+    "fiber": {
+      "0": "this rope is made of plant fiber.",
+      "1": "the label lists fiber as the main material, not plastic."
     },
     "fiction": {
       "0": "the library keeps fiction on the left.",
@@ -7923,6 +8635,10 @@
       "0": "the flag is raised at eight.",
       "1": "a flag at the gate does not tell a new student where the clinic is."
     },
+    "flame": {
+      "0": "keep your sleeve away from the flame.",
+      "1": "the flame turned yellow when the air hole was closed, so we opened it again."
+    },
     "flash": {
       "0": "a flash of light crossed the yard.",
       "1": "in a flash the notice was wrong, and the class had already left."
@@ -7951,6 +8667,10 @@
       "0": "please pick up the paper on the floor.",
       "1": "the library is on the second floor, which is hard to reach without a lift."
     },
+    "flour": {
+      "0": "dust the board with flour before you roll the dough.",
+      "1": "the flour was damp, so the bread did not rise and we started another bowl."
+    },
     "flow": {
       "0": "the stream flows under the bridge.",
       "1": "traffic should flow past a school gate, not stop across the crossing."
@@ -7966,6 +8686,10 @@
     "focus": {
       "0": "keep your focus on the task.",
       "1": "governments should focus on affordable public transport to reduce congestion and improve access to employment."
+    },
+    "fold": {
+      "0": "fold the map along the old crease.",
+      "1": "she folded the letter twice and slid it into a book so nobody would see the name."
     },
     "folk": {
       "0": "folk music is on the hall programme.",
@@ -7999,6 +8723,10 @@
       "0": "the wind had enough force to shut the door.",
       "1": "a city should not use force as the first answer to a peaceful student march."
     },
+    "forecast": {
+      "0": "the forecast says rain, so the match may slip to monday.",
+      "1": "the radio did not forecast the cold night, and the camping group had only thin blankets."
+    },
     "foreign": {
       "0": "she is learning a foreign language.",
       "1": "foreign news is useful only when students also know how to check the source."
@@ -8018,6 +8746,10 @@
     "forgive": {
       "0": "please forgive the delay.",
       "1": "a school can forgive a late form and still write the rule."
+    },
+    "fork": {
+      "0": "there is a fork beside the plate, and a spoon on the right.",
+      "1": "he dropped his fork under the table and had to borrow one from the next tray."
     },
     "form": {
       "0": "please fill in the form in pen.",
@@ -8067,6 +8799,10 @@
       "0": "the pond will freeze tonight.",
       "1": "do not freeze the lunch that the afternoon class still needs."
     },
+    "freezing": {
+      "0": "the classroom was freezing until the heat came on.",
+      "1": "freezing rain covered the steps, and the janitor put down salt before the first class."
+    },
     "frequent": {
       "0": "frequent rain delayed the flight.",
       "1": "frequent changes in education policy can make it difficult for teachers to plan effective lessons."
@@ -8074,6 +8810,10 @@
     "fresh": {
       "0": "the canteen has fresh fruit on monday.",
       "1": "fresh air in a classroom depends on windows that actually open, not only on a poster."
+    },
+    "fridge": {
+      "0": "put the milk back in the fridge.",
+      "1": "the samples stay in the fridge overnight, on the top shelf, away from the fruit."
     },
     "friend": {
       "0": "my friend lent me her notes.",
@@ -8126,6 +8866,10 @@
     "funny": {
       "0": "the story was funny, and we still learned the word.",
       "1": "it is funny that a town boasts of a new mall while its oldest school still leaks."
+    },
+    "fur": {
+      "0": "fake fur lined the winter hat.",
+      "1": "wet fur clung to the dog's legs after it ran through the pond."
     },
     "furniture": {
       "0": "the furniture is old but safe.",
@@ -8235,6 +8979,10 @@
       "0": "our goal is to finish the poster today.",
       "1": "a goal of cleaner air needs buses and trees, not only a sentence in a report."
     },
+    "goat": {
+      "0": "a goat stood by the fence on the farm visit.",
+      "1": "the goat chewed the notice that had been tied to the post, so we wrote it again."
+    },
     "god": {
       "0": "in the story, the villagers thanked the god of the river.",
       "1": "ancient myths about a god of rain show how closely people once tied weather to survival."
@@ -8275,6 +9023,10 @@
       "0": "she will graduate in june.",
       "1": "students who graduate still need a bus on the morning of the ceremony."
     },
+    "graduation": {
+      "0": "graduation is in the stadium this june.",
+      "1": "after graduation she wants a year of work before she applies to university."
+    },
     "grain": {
       "0": "the grain is stored in the barn.",
       "1": "a grain of truth in a rumour still needs a source."
@@ -8298,6 +9050,10 @@
     "grandmother": {
       "0": "her grandmother keeps the family photos in one box.",
       "1": "a form should accept grandmother or another adult name."
+    },
+    "graph": {
+      "0": "the graph shows how the plant grew each week.",
+      "1": "label both axes before you draw the line, or the graph will not make sense."
     },
     "grass": {
       "0": "the grass is wet.",
@@ -8326,6 +9082,10 @@
     "grey": {
       "0": "the sky is grey this morning.",
       "1": "a grey area in the rule should be written in one sentence."
+    },
+    "grocery": {
+      "0": "we stopped at the grocery for milk and eggs.",
+      "1": "the grocery on the corner closes at nine, later than the school canteen."
     },
     "ground": {
       "0": "the bag fell to the ground.",
@@ -8459,6 +9219,10 @@
       "0": "the two classes work in harmony.",
       "1": "harmony on a poster fails if one class never sees the library."
     },
+    "harvest": {
+      "0": "students helped with the grape harvest on saturday.",
+      "1": "they harvest the rice in october, when most of our exams are already over."
+    },
     "hat": {
       "0": "take off your hat in the hall.",
       "1": "a hat in strong sun is a health tool, not only a fashion."
@@ -8474,6 +9238,10 @@
     "head": {
       "0": "she nodded her head to show she understood.",
       "1": "a club needs a head who listens, or the loudest member will decide everything."
+    },
+    "headline": {
+      "0": "the headline used the wrong date.",
+      "1": "a headline across the school paper said the gym roof would be repaired in may."
     },
     "health": {
       "0": "sleep is part of health, not a reward after study.",
@@ -8518,6 +9286,10 @@
     "hello": {
       "0": "hello, is this the school office?",
       "1": "a hello at the gate costs nothing and tells a new student they are in the right place."
+    },
+    "helmet": {
+      "0": "the cycling club requires a helmet.",
+      "1": "his helmet was too loose, so the coach tightened the strap before the ride."
     },
     "help": {
       "0": "could you help me move this desk?",
@@ -8667,6 +9439,10 @@
       "0": "the plan is costly. however, it may save water.",
       "1": "the museum is free. however, families who live an hour away still pay for the bus."
     },
+    "hug": {
+      "0": "she gave her sister a hug at the station gate.",
+      "1": "he tried to hug the trophy and would not put it down for the photo."
+    },
     "huge": {
       "0": "they made a huge effort.",
       "1": "investing in public transport could bring huge benefits to cities struggling with congestion and air pollution."
@@ -8683,6 +9459,10 @@
       "0": "her humor made the wait shorter.",
       "1": "the play is full of quiet humor."
     },
+    "hunger": {
+      "0": "hunger made it hard to focus on the last class.",
+      "1": "the talk in the hall was about hunger after a dry year, not about our canteen."
+    },
     "hungry": {
       "0": "the class was hungry before lunch.",
       "1": "a hungry student cannot use a speech about diet as a meal."
@@ -8694,6 +9474,10 @@
     "hunter": {
       "0": "the history text mentions a hunter, not a method.",
       "1": "a job hunter needs a clear form more than a long speech."
+    },
+    "hurricane": {
+      "0": "the hurricane warning kept the boats in the harbor.",
+      "1": "after the hurricane, students helped clear branches from the road to school."
     },
     "hurry": {
       "0": "do not hurry on the wet step.",
@@ -8758,6 +9542,10 @@
     "immigration": {
       "0": "the museum has a room about immigration.",
       "1": "a school form about immigration should not shame the student who fills it in."
+    },
+    "import": {
+      "0": "the shop imports tea from fujian every spring.",
+      "1": "countries that import most of their grain watch the price of ships and fuel."
     },
     "importance": {
       "0": "the importance of sleep is in the first chapter.",
@@ -8843,13 +9631,33 @@
       "0": "the injury kept him out of the match.",
       "1": "a small injury reported early is easier to treat than one hidden until friday."
     },
+    "ink": {
+      "0": "this pen has run out of ink.",
+      "1": "blue ink soaked through the page and made the notes on the back unreadable."
+    },
+    "inn": {
+      "0": "we stayed at a small inn near the station.",
+      "1": "the inn had only six rooms, and ours looked onto a noisy yard."
+    },
     "innocent": {
       "0": "the child looked innocent.",
       "1": "a fair legal system must protect innocent people while ensuring that those responsible for crimes face justice."
     },
+    "insert": {
+      "0": "insert the key and turn it to the left.",
+      "1": "insert the cable before you open the file, or the screen stays blank."
+    },
     "inside": {
       "0": "please wait inside the hall.",
       "1": "noise from inside a factory can be lower than the noise of trucks waiting outside it."
+    },
+    "insist": {
+      "0": "i insist on checking the numbers twice.",
+      "1": "she insisted that the window stay open, even when the hall was cold."
+    },
+    "inspire": {
+      "0": "field trips inspire some students to read more.",
+      "1": "the engineer's visit inspired a new club project: a ramp for the side door."
     },
     "instant": {
       "0": "she got an instant reply.",
@@ -8882,6 +9690,10 @@
     "intelligence": {
       "0": "the quiz does not measure all of a student's intelligence.",
       "1": "artificial intelligence can sort answers, and a teacher still has to notice who is lost."
+    },
+    "intend": {
+      "0": "i intend to finish the graph before dinner.",
+      "1": "the note was short, but she intended it as an apology, not as an excuse."
     },
     "intention": {
       "0": "her intention is to return the book.",
@@ -8919,6 +9731,10 @@
       "0": "the introduction explains how to use the lab.",
       "1": "an introduction of a new student should include a seat, not only a name."
     },
+    "invention": {
+      "0": "the exhibition explains the invention of the telephone.",
+      "1": "her invention is a simple clip that keeps a lab cable from sliding off the bench."
+    },
     "invitation": {
       "0": "the invitation says four o'clock.",
       "1": "the invitation arrived three days before the concert."
@@ -8950,6 +9766,10 @@
     "jazz": {
       "0": "jazz is on the radio at noon.",
       "1": "a jazz concert that starts after the last bus has already chosen who can come."
+    },
+    "jeans": {
+      "0": "he wore jeans under the lab coat.",
+      "1": "the jeans had a hole at one knee, so he changed before the interview."
     },
     "jet": {
       "0": "the jet is late.",
@@ -9043,6 +9863,10 @@
       "0": "what kind of book do you like?",
       "1": "the kind of food sold at a school gate shapes what students eat between lessons."
     },
+    "kindness": {
+      "0": "she showed real kindness when i forgot my book.",
+      "1": "a small kindness, sharing one pencil, kept the new student from sitting alone."
+    },
     "king": {
       "0": "the story is about a king who listened to farmers.",
       "1": "even a king in an old tale needed roads and grain, which is still true of any government."
@@ -9111,6 +9935,14 @@
       "0": "we are not allowed to swim in the lake.",
       "1": "a clean lake supports birds and a town's drinking water at the same time."
     },
+    "lamb": {
+      "0": "the farmer let the lamb drink from a bottle.",
+      "1": "the lamb stayed close to the adult sheep and would not cross the ditch."
+    },
+    "lamp": {
+      "0": "switch on the desk lamp; the ceiling light is out.",
+      "1": "the lamp by her bed has a yellow shade, so the page looks warmer at night."
+    },
     "land": {
       "0": "the school sits on flat land near the river.",
       "1": "cheap land beside a river looks useful until the first flood shows why it was empty."
@@ -9142,6 +9974,14 @@
     "laugh": {
       "0": "we laugh at the kind joke, not at a name.",
       "1": "a class that can laugh together still needs a rule against laughing at a mistake."
+    },
+    "laughter": {
+      "0": "laughter from the next room broke my concentration.",
+      "1": "the laughter died when the principal walked in with the missing exam papers."
+    },
+    "laundry": {
+      "0": "the dorm laundry closes at nine.",
+      "1": "her laundry was still damp at breakfast, so she wore yesterday's shirt."
     },
     "law": {
       "0": "the new law limits plastic bags in shops.",
@@ -9175,6 +10015,10 @@
       "0": "our team is top of the school league.",
       "1": "a league of small towns can share one hospital when none of them can pay for it alone."
     },
+    "leak": {
+      "0": "the bottle leaked in my bag and soaked the notes.",
+      "1": "a leak in the roof dripped onto the piano all night, so the concert moved."
+    },
     "learn": {
       "0": "we learn new words by using them.",
       "1": "children learn road safety by walking with an adult, not only by reading a poster."
@@ -9206,6 +10050,10 @@
     "legal": {
       "0": "is this action legal?",
       "1": "access to affordable legal services is essential for ensuring that disadvantaged citizens can defend their rights."
+    },
+    "lemon": {
+      "0": "squeeze a lemon over the fish, not sugar.",
+      "1": "the drink tasted like lemon and mint, and it was gone before the bell."
     },
     "length": {
       "0": "measure the length of the table first.",
@@ -9381,6 +10229,10 @@
     "lunch": {
       "0": "lunch is at twelve in the hall.",
       "1": "a free lunch helps the student who would otherwise skip the meal."
+    },
+    "lung": {
+      "0": "cold air hurt his lungs on the morning run.",
+      "1": "the doctor showed us a diagram of one lung and asked where the air enters."
     },
     "machine": {
       "0": "this machine copies the notice for every class.",
@@ -9598,6 +10450,10 @@
       "0": "the menu is on the wall.",
       "1": "a menu that hides nuts is not a menu a student can trust."
     },
+    "merchant": {
+      "0": "the merchant counted the crates before the ship left.",
+      "1": "merchant ships waited outside the port because the storm had closed the channel."
+    },
     "mercy": {
       "0": "the story ends with mercy, not with shame.",
       "1": "mercy for a late form is fair when the bus never came."
@@ -9617,6 +10473,10 @@
     "metal": {
       "0": "the gate is made of metal.",
       "1": "sorting metal from kitchen waste makes recycling possible and keeps the rest cleaner."
+    },
+    "meter": {
+      "0": "the desk is about one meter wide.",
+      "1": "they measured the hall again and found it was two meters shorter than the plan."
     },
     "method": {
       "0": "this method makes the experiment clearer.",
@@ -9654,6 +10514,10 @@
       "0": "this bag is mine.",
       "1": "a river is not mine or yours alone; the town downstream drinks from it too."
     },
+    "mineral": {
+      "0": "this bottle says mineral water on the label.",
+      "1": "the case holds one mineral from each color group we studied last week."
+    },
     "minimum": {
       "0": "the minimum age for the trip is twelve.",
       "1": "a minimum of sleep is not a luxury if the first lesson starts at seven."
@@ -9669,6 +10533,10 @@
     "minority": {
       "0": "a minority of students walk; most take the bus.",
       "1": "a language minority still needs the notice in words they can read."
+    },
+    "minus": {
+      "0": "twenty minus six is fourteen.",
+      "1": "the temperature was minus three this morning, and the puddles were ice."
     },
     "minute": {
       "0": "the bus leaves in five minutes.",
@@ -9734,6 +10602,10 @@
       "0": "the monitor locked the lab.",
       "1": "a monitor on the wall does not replace a person who knows the students."
     },
+    "monkey": {
+      "0": "a monkey grabbed the banana from the guide's hand.",
+      "1": "the monkey house was closed for cleaning, so we watched the birds instead."
+    },
     "month": {
       "0": "we will visit the museum next month.",
       "1": "one dry month can empty a village tank if nobody measured how fast the water was used."
@@ -9769,6 +10641,10 @@
     "motor": {
       "0": "the motor of the fan is loud.",
       "1": "an electric motor still needs a clean source of power."
+    },
+    "motorcycle": {
+      "0": "a motorcycle was parked across the school gate.",
+      "1": "he sold the motorcycle and bought a bicycle after the second fine for speeding."
     },
     "mountain": {
       "0": "snow stays on the mountain in may.",
@@ -9834,6 +10710,10 @@
       "0": "the musical evening is on friday.",
       "1": "a musical instrument that students can borrow matters more than a poster of a star."
     },
+    "musician": {
+      "0": "a musician from the city band played at the fair.",
+      "1": "the musician stopped twice so the students could copy the rhythm on the board."
+    },
     "muslim": {
       "0": "the museum explains how local muslims mark the festival.",
       "1": "a school calendar that names one holiday should also leave room for a muslim student to be absent for another."
@@ -9866,6 +10746,10 @@
       "0": "the national museum is free on wednesdays.",
       "1": "a national exam should not ignore students whose schools lack labs and libraries."
     },
+    "nationwide": {
+      "0": "the speech contest is nationwide, so our school can enter.",
+      "1": "a nationwide search for the missing instrument ended when it turned up in a taxi."
+    },
     "native": {
       "0": "she is a native speaker of the local dialect.",
       "1": "native plants along the path need less water than a lawn that must stay green."
@@ -9894,6 +10778,10 @@
       "0": "it is nearly eight.",
       "1": "a clinic that is nearly an hour away is too far for a child who cannot breathe well."
     },
+    "neat": {
+      "0": "keep the table neat so the next class can use it.",
+      "1": "her handwriting is neat, and the neat solution used only three lines."
+    },
     "necessary": {
       "0": "a pencil is necessary for the drawing test.",
       "1": "it is necessary to tell students why a rule exists, not only what they must not do."
@@ -9905,6 +10793,10 @@
     "need": {
       "0": "i need a quiet hour before the exam.",
       "1": "growing cities need more than new buildings; they need schools, clinics, and clean air."
+    },
+    "negotiate": {
+      "0": "the two captains negotiated an extra five minutes.",
+      "1": "we negotiate the practice time with the gym office at the start of each month."
     },
     "neighbor": {
       "0": "the neighbor watered the plants.",
@@ -9918,9 +10810,17 @@
       "0": "neither answer is fully right.",
       "1": "neither the early bus nor the late one stops at the new housing block."
     },
+    "nephew": {
+      "0": "my nephew starts primary school this year.",
+      "1": "her nephew drew the cover for the class magazine and signed it in pencil."
+    },
     "nervous": {
       "0": "she was nervous before the speech.",
       "1": "a nervous student still needs a turn, not only a smile."
+    },
+    "nest": {
+      "0": "there is a nest in the pine behind the lab.",
+      "1": "the nest fell in the wind, and we left the chicks for the parent bird to find."
     },
     "net": {
       "0": "the ball went into the net.",
@@ -10054,9 +10954,25 @@
       "0": "the nurse is in the clinic.",
       "1": "a nurse at school can notice an illness before it spreads."
     },
+    "nut": {
+      "0": "tell the cook if you cannot eat a nut.",
+      "1": "this bun has a nut in the middle, so it is not for the students with that allergy."
+    },
+    "nutrition": {
+      "0": "nutrition class today is about breakfast, not diets.",
+      "1": "good nutrition is more than vitamins; it includes regular meals and enough water."
+    },
+    "o-clock": {
+      "0": "the gates close at six o'clock.",
+      "1": "please be in the lab at nine o'clock, not ten past, because the demonstration starts on time."
+    },
     "object": {
       "0": "the object on the desk is a model.",
       "1": "the object of the rule is safety, and the sign should say that."
+    },
+    "observe": {
+      "0": "we observed the moon through the school telescope.",
+      "1": "observe what the liquid does for one minute, then write the color and the smell."
     },
     "obtain": {
       "0": "you can obtain the form at the office.",
@@ -10185,6 +11101,10 @@
     "orange": {
       "0": "she ate an orange at the break.",
       "1": "orange juice that is mostly sugar should say so on the label."
+    },
+    "orbit": {
+      "0": "the moon's orbit around earth takes about a month.",
+      "1": "the satellite stayed in orbit and sent photos of the coast every hour."
     },
     "order": {
       "0": "put the books back in the right order.",
@@ -10330,6 +11250,10 @@
       "0": "the palace is open on sunday.",
       "1": "a chapter about a palace should also say who carried the water."
     },
+    "pale": {
+      "0": "you look pale. sit down and drink some water.",
+      "1": "the pale sky before sunrise made the playground look grey and empty."
+    },
     "pan": {
       "0": "the pan is still hot.",
       "1": "a pan without a cover in the canteen spills more than it saves."
@@ -10341,6 +11265,10 @@
     "paper": {
       "0": "write your name on the paper.",
       "1": "a paper exam in a hot room measures heat as well as knowledge."
+    },
+    "paragraph": {
+      "0": "start a new paragraph when the speaker changes.",
+      "1": "the last paragraph of her report gives the numbers, and the rest explains how she got them."
     },
     "parallel": {
       "0": "the two paths are parallel.",
@@ -10398,6 +11326,14 @@
       "0": "the passenger waited for the late bus.",
       "1": "a passenger who cannot stand needs a seat, not only a slogan."
     },
+    "passive": {
+      "0": "rewrite the sentence in the passive if the doer is unknown.",
+      "1": "his passive reply, only a shrug, left the group unsure who would book the room."
+    },
+    "passport": {
+      "0": "she checked her passport before the exchange trip.",
+      "1": "the passport was still in the hotel safe when the bus was already at the door."
+    },
     "past": {
       "0": "the photo shows the school in the past.",
       "1": "a city that forgets its past may knock down the only building that tells that story."
@@ -10422,6 +11358,10 @@
       "0": "the pattern on the cloth is simple.",
       "1": "a pattern of late buses is a fact, not one unlucky day."
     },
+    "pause": {
+      "0": "pause the video when you need to copy the diagram.",
+      "1": "there was a pause while the judge checked the photo, and then the race continued."
+    },
     "pay": {
       "0": "i paid for the tickets online.",
       "1": "families who pay a large share of their income for rent have less left for books and clinics."
@@ -10441,6 +11381,10 @@
     "pen": {
       "0": "the pen is on the desk.",
       "1": "a pen that works matters more than a new cover."
+    },
+    "penny": {
+      "0": "i found a penny under the vending machine.",
+      "1": "the book cost ninety-nine pence, so she paid with a pound and got a penny back."
     },
     "pension": {
       "0": "the pension arrives on the first day.",
@@ -10590,6 +11534,10 @@
       "0": "the pile of coats is by the door.",
       "1": "a pile of notices is harder to read than one clear sheet."
     },
+    "pill": {
+      "0": "take one pill with water after lunch.",
+      "1": "the pill was too large, so the nurse cut it and told him to finish both halves."
+    },
     "pilot": {
       "0": "the pilot spoke before the plane left.",
       "1": "a school visit to an airport should meet the pilot and the person who loads the bags."
@@ -10597,6 +11545,10 @@
     "pin": {
       "0": "the pin is in the drawer.",
       "1": "a pin on the floor of the lab is a reason to pick it up with care."
+    },
+    "pine": {
+      "0": "a pine stands behind the science building.",
+      "1": "needles from the pine covered the path, and they stuck to our wet shoes."
     },
     "pink": {
       "0": "the pink notice is the new one.",
@@ -10694,6 +11646,10 @@
       "0": "the point of the story is to check your sources.",
       "1": "there is little point in collecting data if nobody is responsible for acting on it."
     },
+    "poison": {
+      "0": "the bottle marked poison stays in the locked cupboard.",
+      "1": "bad food poisoned two players, and the match was delayed until the evening."
+    },
     "pole": {
       "0": "the pole by the gate holds the light.",
       "1": "a loose pole at the crossing should be reported the same day."
@@ -10746,6 +11702,10 @@
       "0": "the population of the town is growing.",
       "1": "a rising population needs schools and clinics, not only more flats."
     },
+    "pork": {
+      "0": "the canteen is serving pork and rice today.",
+      "1": "she does not eat pork, so the cook set aside a plate of tofu for her."
+    },
     "port": {
       "0": "the port closes when the wind is too strong.",
       "1": "a port brings jobs, and it also brings trucks through streets where children walk."
@@ -10757,6 +11717,10 @@
     "positive": {
       "0": "she gave a positive answer.",
       "1": "a positive test result should be explained in words a family can understand."
+    },
+    "possess": {
+      "0": "the school does not possess a second piano.",
+      "1": "students may not possess a phone during the listening test, even if it is switched off."
     },
     "possession": {
       "0": "the bag is her possession.",
@@ -10793,6 +11757,10 @@
     "pound": {
       "0": "the bag weighs one pound.",
       "1": "a price in pounds should still show the number, not only the sign."
+    },
+    "pour": {
+      "0": "pour the tea slowly so it doesn't spill.",
+      "1": "rain poured down the gym roof and the match moved inside after ten minutes."
     },
     "powder": {
       "0": "the powder on the shelf is labelled.",
@@ -10834,6 +11802,10 @@
       "0": "the time must be precise.",
       "1": "a precise notice names the stop and the minute."
     },
+    "predict": {
+      "0": "nobody could predict the final score.",
+      "1": "the model predicted rain at three, and the first drops came during the break."
+    },
     "prefer": {
       "0": "i prefer tea to coffee.",
       "1": "students who prefer a quiet seat should not have to arrive first to get one."
@@ -10857,6 +11829,10 @@
     "prepare": {
       "0": "prepare the lab before the class arrives.",
       "1": "cities should prepare flood plans before the rainy season, not after the first street is under water."
+    },
+    "prescription": {
+      "0": "you need a prescription for that medicine.",
+      "1": "the clinic wrote a prescription for the cough and told her to rest for two days."
     },
     "present": {
       "0": "all the students were present.",
@@ -11046,9 +12022,17 @@
       "0": "the public library is open on sundays.",
       "1": "public money should be easy to trace, from the tax office to the classroom it is meant to support."
     },
+    "publish": {
+      "0": "the school paper will publish our interviews on friday.",
+      "1": "they refused to publish the photo because the students in it had not agreed."
+    },
     "pull": {
       "0": "pull the door; do not push it.",
       "1": "it is hard to pull a cart of books up the hill without a second person."
+    },
+    "pulse": {
+      "0": "the nurse checked my pulse after the race.",
+      "1": "his pulse was fast, so they made him sit in the shade before he ran again."
     },
     "pump": {
       "0": "the pump is off.",
@@ -11086,6 +12070,10 @@
       "0": "the quality of the recording is poor.",
       "1": "air quality outside a school matters as much as the quality of the books inside."
     },
+    "quantity": {
+      "0": "add a small quantity of salt, then taste it.",
+      "1": "the lab only had a limited quantity of the powder, so each pair got one spoon."
+    },
     "quarter": {
       "0": "it is a quarter past eight.",
       "1": "a quarter of the class walking is still a crowd if the pavement is one person wide."
@@ -11114,6 +12102,10 @@
       "0": "the room is quite quiet after four.",
       "1": "a cycle lane that is quite short still helps if it crosses the most dangerous junction."
     },
+    "rabbit": {
+      "0": "a rabbit crossed the path behind the dorm.",
+      "1": "the science room keeps a rabbit in a large cage and feeds it hay twice a day."
+    },
     "race": {
       "0": "she won the race by two seconds.",
       "1": "a race to build the cheapest housing can ignore the drains a street will need later."
@@ -11141,6 +12133,10 @@
     "rain": {
       "0": "the rain started during the match.",
       "1": "heavy rain on a school morning is a reason to open the hall, not only to cancel sport."
+    },
+    "rainbow": {
+      "0": "a rainbow stood over the playground after the shower.",
+      "1": "we stopped the bus to photograph the rainbow, and it faded before everyone was ready."
     },
     "raise": {
       "0": "please raise your hand before you speak.",
@@ -11238,6 +12234,10 @@
       "0": "i received your message this morning.",
       "1": "students who receive help early are less likely to hide a problem until the exam."
     },
+    "receiver": {
+      "0": "put the receiver down if nobody answers.",
+      "1": "the receiver was warm from the long call, and the cord barely reached the desk."
+    },
     "recent": {
       "0": "a recent photo shows the new bridge.",
       "1": "recent floods should change where the town allows new houses, not only this year's repairs."
@@ -11265,6 +12265,10 @@
     "recover": {
       "0": "she recovered after three days at home.",
       "1": "a student who is recovering still needs the notes from class."
+    },
+    "recreation": {
+      "0": "the recreation room has a piano and two board games.",
+      "1": "swimming is his only recreation during exams, twenty minutes and then back to the desk."
     },
     "red": {
       "0": "the red bag on the chair is mine.",
@@ -11317,6 +12321,10 @@
     "regulation": {
       "0": "the regulation is on the lab door.",
       "1": "a regulation that students can hardly read is not one they can follow."
+    },
+    "reject": {
+      "0": "don't reject a draft before you read the notes.",
+      "1": "the journal rejected the article because the dates in the table did not match the text."
     },
     "relate": {
       "0": "the chart relates sleep to scores.",
@@ -11478,6 +12486,10 @@
       "0": "the result of the test will come out tomorrow.",
       "1": "the result of cutting night buses is that workers walk home on dark roads."
     },
+    "retire": {
+      "0": "mr chen will retire at the end of this term.",
+      "1": "she plans to retire at sixty and then teach one evening class for fun."
+    },
     "return": {
       "0": "please return the book by friday.",
       "1": "young people return to a town when there is work, not only when they miss their family."
@@ -11574,6 +12586,10 @@
       "0": "the root of the tree broke the path.",
       "1": "the root of the late bus is the timetable, not the driver."
     },
+    "rope": {
+      "0": "hold the rope with both hands on the way down.",
+      "1": "the rope around the tent pegs was loose, and one corner lifted in the wind."
+    },
     "rose": {
       "0": "she put a rose on the teacher's desk.",
       "1": "a rose in the school garden needs water in august, when most students are away."
@@ -11646,6 +12662,10 @@
       "0": "road safety is part of the first lesson.",
       "1": "safety on the walk home depends on lights and pavements, not only on advice."
     },
+    "sail": {
+      "0": "they sail on the lake when the wind is steady.",
+      "1": "a red sail showed beyond the pier, then disappeared behind the boathouse."
+    },
     "salad": {
       "0": "the salad is on the left.",
       "1": "the salad uses beans from the school garden."
@@ -11693,6 +12713,14 @@
     "saying": {
       "0": "there is an old saying about practice.",
       "1": "a saying about saving water means little unless the school itself fixes a leaking tap."
+    },
+    "scan": {
+      "0": "scan the page for dates before you read every line.",
+      "1": "the library will scan the old photos if you bring them on a thursday."
+    },
+    "scare": {
+      "0": "don't scare the cat; it is already under the chair.",
+      "1": "the fire scare at lunch was a drill, but several students still left their bags."
     },
     "scene": {
       "0": "the first scene of the play is a classroom.",
@@ -11806,6 +12834,10 @@
       "0": "the exercise asks you to describe your self in three words.",
       "1": "a sense of self grows when students are trusted with real tasks, not only with tests."
     },
+    "selfish": {
+      "0": "don't be selfish and take both pillows.",
+      "1": "a selfish roommate who never shares the snacks soon loses the others' trust."
+    },
     "sell": {
       "0": "the shop sells notebooks and pens.",
       "1": "towns that sell public land beside schools may later wish they had kept a playground."
@@ -11841,6 +12873,10 @@
     "serious": {
       "0": "this is a serious problem.",
       "1": "a serious heatwave is a health event, not only a few hot days on the news."
+    },
+    "servant": {
+      "0": "in the play, the servant hears the secret first.",
+      "1": "the old house once kept a servant beside the kitchen, in a room now used for storage."
     },
     "serve": {
       "0": "they serve lunch from eleven to one.",
@@ -11894,6 +12930,10 @@
       "0": "shall we start the meeting now?",
       "1": "a town shall not call a road safe until children can cross it without an adult."
     },
+    "shallow": {
+      "0": "stay in the shallow end if you are still learning.",
+      "1": "the comment was too shallow for a history essay that asked for causes, not slogans."
+    },
     "shame": {
       "0": "it is a shame that the library closes at five.",
       "1": "shame is a poor way to teach a student who already knows the answer was wrong."
@@ -11906,6 +12946,10 @@
       "0": "we share one microscope in the lab.",
       "1": "neighbours who share tools spend less and throw fewer things away."
     },
+    "shark": {
+      "0": "the film starts with a shark near the pier.",
+      "1": "shark fins on the menu started an argument in the biology club."
+    },
     "sharp": {
       "0": "the knife in the kitchen is sharp.",
       "1": "a sharp rise in the fare hits the students who already walk."
@@ -11917,6 +12961,10 @@
     "sheet": {
       "0": "write both times on one sheet.",
       "1": "a clean sheet on the clinic bed matters as much as the notice."
+    },
+    "shelf": {
+      "0": "the atlas belongs on the shelf by the window.",
+      "1": "the top shelf is too high for the younger students, so the dictionaries stay lower."
     },
     "shelter": {
       "0": "the shelter at the stop is small.",
@@ -11966,6 +13014,10 @@
       "0": "the bus will leave shortly.",
       "1": "shortly after the rain, the same two classrooms flood."
     },
+    "shorts": {
+      "0": "bring shorts for the afternoon pe class.",
+      "1": "his shorts were still wet from the rain, so he borrowed a pair from the gym office."
+    },
     "shot": {
       "0": "she took a shot of the old bridge.",
       "1": "a last-minute shot can win a match, but a team still needs a plan for the whole game."
@@ -11977,6 +13029,10 @@
     "shoulder": {
       "0": "she carried the bag on one shoulder.",
       "1": "pain in the shoulder after a long exam is a reason to stand up."
+    },
+    "shout": {
+      "0": "don't shout in the reading room.",
+      "1": "i heard someone shout my name across the yard, but i could not see who it was."
     },
     "show": {
       "0": "show me your ticket, please.",
@@ -12029,6 +13085,10 @@
     "silent": {
       "0": "the hall was silent after the question.",
       "1": "a silent student is not the same as a student who agrees."
+    },
+    "silk": {
+      "0": "this scarf is silk, so don't wash it in hot water.",
+      "1": "the museum keeps a piece of silk that was woven more than a thousand years ago."
     },
     "silly": {
       "0": "it was silly to leave the key in the door.",
@@ -12114,6 +13174,10 @@
       "0": "i sleep for eight hours on school nights.",
       "1": "teenagers sleep better when phones stay out of the bedroom."
     },
+    "slice": {
+      "0": "he ate one slice of bread and left the rest.",
+      "1": "slice the lemon thinly so each cup of tea gets a piece."
+    },
     "slide": {
       "0": "the door will slide if you push it.",
       "1": "do not slide on a wet path."
@@ -12121,6 +13185,10 @@
     "slight": {
       "0": "there is a slight crack in the step.",
       "1": "a slight delay should still be written down if parents are waiting."
+    },
+    "slim": {
+      "0": "the slim guidebook fits in a coat pocket.",
+      "1": "the slim tree by the gate bends in the wind, but the trunk does not break."
     },
     "slip": {
       "0": "you may slip on the wet path.",
@@ -12326,6 +13394,10 @@
       "0": "spell your name on the form.",
       "1": "students who can spell the stop can also find it on the map."
     },
+    "spelling": {
+      "0": "check the spelling of the place name.",
+      "1": "one spelling mistake changed the meaning, so she copied the sentence again."
+    },
     "spend": {
       "0": "i spend twenty minutes on new words.",
       "1": "families spend a larger share of their income on food when prices rise."
@@ -12349,6 +13421,10 @@
     "spoken": {
       "0": "spoken english is practised in pairs.",
       "1": "a spoken warning at the gate helps the student who cannot read the sign."
+    },
+    "sponsor": {
+      "0": "a local bookstore will sponsor the poetry evening.",
+      "1": "the sponsor asked only that the program show its name under the school badge."
     },
     "sport": {
       "0": "sport is part of the timetable on friday.",
@@ -12394,6 +13470,10 @@
       "0": "we are at the first stage of the project.",
       "1": "the stage of a plan that nobody checks is often the one that fails in the rain."
     },
+    "stamp": {
+      "0": "she stuck a stamp on the envelope and posted it.",
+      "1": "his stamp collection fills two albums, mostly birds and old trains."
+    },
     "stand": {
       "0": "please stand in line.",
       "1": "a small shop cannot stand a year of road works that stop customers reaching the door."
@@ -12426,6 +13506,10 @@
       "0": "the statistics show who uses the late bus.",
       "1": "statistics without a source are just another opinion."
     },
+    "statue": {
+      "0": "a stone statue stands in the middle of the square.",
+      "1": "pigeons sat on the head of the statue until the cleaners came with a ladder."
+    },
     "status": {
       "0": "the form asks for your student status.",
       "1": "social status should not decide who may use the public library after school."
@@ -12449,6 +13533,10 @@
     "steel": {
       "0": "the bridge is made of steel.",
       "1": "steel gates last, and they still need a person who will open them for a late bus."
+    },
+    "steep": {
+      "0": "the path up the hill is too steep for the bus.",
+      "1": "steep stairs behind the hall have no rail, so we use the front door."
     },
     "step": {
       "0": "the first step is to read the question.",
@@ -12502,6 +13590,10 @@
       "0": "a stranger asked for the library.",
       "1": "teach students to ask an adult, not to follow a stranger."
     },
+    "straw": {
+      "0": "the model house is made of straw and glue.",
+      "1": "straw covered the floor of the shed, and we shook it off our shoes before the bus."
+    },
     "stream": {
       "0": "the stream runs behind the school.",
       "1": "a stream of cars at four is a reason to move the gate, not only to shout."
@@ -12513,6 +13605,10 @@
     "strength": {
       "0": "reading is her strength in english.",
       "1": "the strength of a team is not the fastest runner if nobody passes the ball."
+    },
+    "strengthen": {
+      "0": "these exercises strengthen the muscles you use for jumping.",
+      "1": "the school will strengthen the bridge between the two buildings before the rainy season."
     },
     "stress": {
       "0": "exam stress is common in may.",
@@ -12565,6 +13661,10 @@
     "submit": {
       "0": "submit the form before friday.",
       "1": "students submit better work when the question is clear."
+    },
+    "subscribe": {
+      "0": "you can subscribe on the library website.",
+      "1": "the library subscribes to three science magazines and keeps them for one year."
     },
     "substitute": {
       "0": "the substitute teacher knows the class.",
@@ -12637,6 +13737,10 @@
     "sun": {
       "0": "the sun was hot at noon.",
       "1": "shade from trees matters most when the sun is high and the walk to school is long."
+    },
+    "sunny": {
+      "0": "it is sunny, so the match can stay outside.",
+      "1": "the sunny side of the dorm is hot by noon, and we close the curtain."
     },
     "sunshine": {
       "0": "sunshine filled the classroom.",
@@ -12738,6 +13842,10 @@
       "0": "the symbol on the door means the clinic.",
       "1": "a symbol without words fails the parent who does not know it."
     },
+    "sympathy": {
+      "0": "we sent a card to show our sympathy.",
+      "1": "she wrote a short note of sympathy when his grandfather died during the exams."
+    },
     "system": {
       "0": "the school bell system was repaired yesterday.",
       "1": "a bus system that only serves the centre leaves outer neighbourhoods with long walks to the first stop."
@@ -12753,6 +13861,10 @@
     "table-tennis": {
       "0": "table tennis practice is at four.",
       "1": "a table tennis room that locks before the last class leaves is not a plan for sport."
+    },
+    "tablet": {
+      "0": "the nurse gave him a tablet for the headache.",
+      "1": "the stone tablet by the gate lists the principals since 1952."
     },
     "tail": {
       "0": "the cat's tail is under the desk.",
@@ -12842,6 +13954,10 @@
       "0": "the lab has new technology for measuring air.",
       "1": "technology that warns of a storm helps only people who can receive the message."
     },
+    "teenager": {
+      "0": "the course is written for a teenager, not for a child.",
+      "1": "every teenager in the dorm has a different bedtime, which makes the hall noisy."
+    },
     "telephone": {
       "0": "the telephone is by the office door.",
       "1": "a telephone number on the wall matters when the network fails."
@@ -12877,6 +13993,10 @@
     "tension": {
       "0": "tension filled the hall before the result.",
       "1": "tension over a fee falls when the number is written on one sheet."
+    },
+    "tent": {
+      "0": "we pitched a tent behind the gym for the camp night.",
+      "1": "the tent leaked along one seam, so the maps inside had to be moved."
     },
     "term": {
       "0": "this term we have a new science teacher.",
@@ -12937,6 +14057,10 @@
     "then": {
       "0": "we finished the quiz and then checked the answers.",
       "1": "if a river is polluted, the fish leave, and then the birds that feed on them leave too."
+    },
+    "theoretical": {
+      "0": "the theoretical result did not match the lab reading.",
+      "1": "a theoretical model is useful only if someone later tests it with real data."
     },
     "theory": {
       "0": "the theory is simple, but the test is not.",
@@ -13042,6 +14166,10 @@
       "0": "we do not have much time before class.",
       "1": "screen time late at night can reduce the hours of deep sleep that teenagers need."
     },
+    "tin": {
+      "0": "she opened a tin of peaches for the picnic.",
+      "1": "the tin had been on the shelf for two years, so we did not eat what was inside."
+    },
     "tiny": {
       "0": "a tiny crack can leak all night.",
       "1": "a tiny school still needs a way to call a doctor."
@@ -13049,6 +14177,10 @@
     "tip": {
       "0": "the tip of the pencil is broken.",
       "1": "a tip on the board should name the bus, not only say good luck."
+    },
+    "tire": {
+      "0": "long drills tire the new players.",
+      "1": "a late bus can tire you before an exam, so she stayed in a room near the school."
     },
     "tired": {
       "0": "i am too tired to revise tonight.",
@@ -13101,6 +14233,10 @@
     "tool": {
       "0": "the tool is on the bench.",
       "1": "a map is a tool, and so is the person who knows which stop is safe at night."
+    },
+    "tooth": {
+      "0": "i chipped a tooth on a piece of ice.",
+      "1": "the dentist said the back tooth needed a filling, not to be pulled."
     },
     "top": {
       "0": "my name is at the top of the list.",
@@ -13186,9 +14322,17 @@
       "0": "the team has training on wednesday.",
       "1": "training for village teachers fails if it takes them away from class for a whole month."
     },
+    "transform": {
+      "0": "they transform the hall into an exam room every june.",
+      "1": "new lights and a coat of paint transformed the old club room over one weekend."
+    },
     "translation": {
       "0": "the translation is on the right.",
       "1": "a translation of the bus notice helps the parent who does not read the first language."
+    },
+    "transparent": {
+      "0": "the box is transparent, so you can see the pins.",
+      "1": "the guards asked for a transparent bag so they could see what students brought in."
     },
     "transport": {
       "0": "public transport stops at the gate.",
@@ -13254,6 +14398,10 @@
       "0": "i am truly sorry for the delay.",
       "1": "a programme is truly open only when students without a laptop can still take part."
     },
+    "trunk": {
+      "0": "we sat on the fallen trunk and ate lunch.",
+      "1": "the old trunk in the attic holds letters, and the lock still works."
+    },
     "trust": {
       "0": "i trust her to lock the lab.",
       "1": "people trust a clinic more when the same nurse is there every week."
@@ -13317,6 +14465,14 @@
     "unable": {
       "0": "she was unable to attend the first class.",
       "1": "a student unable to climb the stairs still needs a way into the lab."
+    },
+    "unbelievable": {
+      "0": "the comeback was unbelievable: 12 points in four minutes.",
+      "1": "it seemed unbelievable that the quiet boy had written the whole play by himself."
+    },
+    "uncertain": {
+      "0": "i am still uncertain which bus stops at the museum.",
+      "1": "the date is uncertain, so the notice says early may and not a single day."
     },
     "uncle": {
       "0": "her uncle will meet the bus.",
@@ -13417,6 +14573,10 @@
     "urban": {
       "0": "urban schools share one crowded bus stop.",
       "1": "urban growth that ignores the river will meet the water in the streets."
+    },
+    "urge": {
+      "0": "i urge you to hand the form in today.",
+      "1": "he felt a sudden urge to leave the noisy hall and finish the reading outside."
     },
     "urgent": {
       "0": "the message is urgent.",
@@ -13542,6 +14702,10 @@
       "0": "we will visit the museum on friday.",
       "1": "leaders who visit a flooded street themselves ask better questions than those who only read a report."
     },
+    "visitor": {
+      "0": "every visitor signs the book at the lab door.",
+      "1": "a visitor from the partner school sat in on our class and asked about the timetable."
+    },
     "visual": {
       "0": "the visual aid is a map, not a speech.",
       "1": "a visual warning at the crossing helps the student who cannot hear the bell."
@@ -13553,6 +14717,10 @@
     "voice": {
       "0": "she has a clear voice.",
       "1": "students need a voice in decisions about the hour their school day starts."
+    },
+    "voluntary": {
+      "0": "the evening rehearsal is voluntary.",
+      "1": "voluntary work at the library counts, but it does not replace the written exam."
     },
     "volunteer": {
       "0": "the volunteer locked the library.",
@@ -13602,9 +14770,17 @@
       "0": "the ward is quiet after nine.",
       "1": "a children ward needs a chair for the parent who stays."
     },
+    "warehouse": {
+      "0": "the new chairs are still in the warehouse.",
+      "1": "a warehouse by the river stores the school's old desks until the summer sale."
+    },
     "warm": {
       "0": "the classroom is warm enough.",
       "1": "a warm welcome matters, and so does a seat for the parent who came straight from work."
+    },
+    "warn": {
+      "0": "the signs warn visitors that the floor is wet.",
+      "1": "i warned him not to mix those two liquids, and he waited until the teacher was there."
     },
     "wash": {
       "0": "wash your hands before lunch.",
@@ -13682,6 +14858,10 @@
       "0": "the weekly meeting is on monday.",
       "1": "a weekly bus pass helps the student who travels every day, not only the one who travels once."
     },
+    "weigh": {
+      "0": "weigh the salt on the digital scale.",
+      "1": "weigh yourself before the race and write the number next to your name."
+    },
     "weight": {
       "0": "the bag is light in weight.",
       "1": "the weight of a full schoolbag is a daily load, especially for younger children on a long walk."
@@ -13717,6 +14897,10 @@
     "whatever": {
       "0": "take whatever you need from the box.",
       "1": "whatever a poster promises, the bus still has to arrive before the first lesson."
+    },
+    "wheat": {
+      "0": "the field beyond the dorm is planted with wheat.",
+      "1": "this region grows wheat, not rice, so the bread here is made from local flour."
     },
     "wheel": {
       "0": "the wheel of the cart is loose.",
@@ -13782,6 +14966,10 @@
       "0": "the practice is widespread in this town.",
       "1": "sharing tools is widespread among the farms here."
     },
+    "widow": {
+      "0": "the widow next door teaches piano on saturdays.",
+      "1": "in the novel the widow keeps her husband's letters in a tin under the bed."
+    },
     "wife": {
       "0": "his wife teaches at the primary school.",
       "1": "a wife who works nights still needs a safe bus home after the last shift."
@@ -13830,6 +15018,10 @@
       "0": "winter here lasts from december to february.",
       "1": "schools in a long winter need heating plans that poor families can still afford."
     },
+    "wipe": {
+      "0": "wipe the whiteboard before the next class.",
+      "1": "wipe your shoes on the mat, or the mud will mark the lab floor."
+    },
     "wire": {
       "0": "do not touch the loose wire.",
       "1": "a loose wire in the lab is a reason to switch the power off and call an adult."
@@ -13849,6 +15041,10 @@
     "with": {
       "0": "i walk home with my classmate.",
       "1": "teams that plan a project with a clear timetable are less likely to leave the hard work until the last night."
+    },
+    "withdraw": {
+      "0": "you can withdraw cash at the machine by the gate.",
+      "1": "she withdrew her name from the race after the doctor looked at her ankle."
     },
     "within": {
       "0": "please reply within three days.",
@@ -13929,6 +15125,10 @@
     "wound": {
       "0": "the nurse cleaned the wound.",
       "1": "a wound should be seen at the clinic, not hidden until friday."
+    },
+    "wrist": {
+      "0": "she wore a watch on her left wrist.",
+      "1": "the ball hit his wrist, not his fingers, and he could not write for a day."
     },
     "write": {
       "0": "write your name at the top.",
