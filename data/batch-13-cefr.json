@@ -1,0 +1,6406 @@
+[
+ {
+  "id": "selfish",
+  "w": "selfish",
+  "zipf": 4.11,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "adjective",
+    "cefr": "B1",
+    "headword": "selfish"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈselfɪʃ/",
+  "us": "/ˈsɛlfɪʃ/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "silk",
+  "w": "silk",
+  "zipf": 4.11,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "silk"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/sɪlk/",
+  "us": "/ˈsɪlk/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "stamp",
+  "w": "stamp",
+  "zipf": 4.11,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "stamp"
+   },
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "stamp"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [
+   {
+    "pos": "verb",
+    "cefr": "B2"
+   }
+  ],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/stæmp/",
+  "us": "/ˈstæmp/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "urge",
+  "w": "urge",
+  "zipf": 4.11,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "urge"
+   },
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "urge"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [
+   {
+    "pos": "noun",
+    "cefr": "B1"
+   }
+  ],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ɜːdʒ/",
+  "us": "/ˈɜːdʒ/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "belly",
+  "w": "belly",
+  "zipf": 4.1,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "belly"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈbelɪ/",
+  "us": "/ˈbɛli/",
+  "missingImg": true,
+  "missingUk": true,
+  "missingUs": true,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "booth",
+  "w": "booth",
+  "zipf": 4.1,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "booth"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "sheet uses /ð/ instead of /θ/",
+  "uk": "/ˈbuːθ/",
+  "us": "/ˈbuːθ/",
+  "missingImg": true,
+  "missingUk": true,
+  "missingUs": true,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "consensus",
+  "w": "consensus",
+  "zipf": 4.1,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "consensus"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/kənˈsensəs/",
+  "us": "/kənsˈɛnsəs/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "distinction",
+  "w": "distinction",
+  "zipf": 4.1,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "distinction"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/dɪˈstɪŋkʃ(ə)n/",
+  "us": "/dɪstˈɪŋkʃən/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "facial",
+  "w": "facial",
+  "zipf": 4.1,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈfeɪʃ(ə)l/",
+  "us": "/ˈfeɪʃəl/",
+  "missingImg": true,
+  "missingUk": true,
+  "missingUs": true,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "hunger",
+  "w": "hunger",
+  "zipf": 4.1,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "hunger"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈhʌŋɡə(r)/",
+  "us": "/ˈhʌŋɡər/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "hurricane",
+  "w": "hurricane",
+  "zipf": 4.1,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈhʌrɪkən/",
+  "us": "/ˈhɜːrɪkˌeɪn/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "import",
+  "w": "import",
+  "zipf": 4.1,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "import"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ɪmˈpɔːt/",
+  "us": "/ɪmpˈoːrt/",
+  "missingImg": true,
+  "missingUk": true,
+  "missingUs": true,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "laughter",
+  "w": "laughter",
+  "zipf": 4.1,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "laughter"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "US from sheet",
+  "uk": "/ˈlɑːftə(r)/",
+  "us": "/ˈlæftər/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "lemon",
+  "w": "lemon",
+  "zipf": 4.1,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "lemon"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈlemən/",
+  "us": "/ˈlɛmən/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "lung",
+  "w": "lung",
+  "zipf": 4.1,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "lung"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/lʌŋ/",
+  "us": "/ˈlʌŋ/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "nutrition",
+  "w": "nutrition",
+  "zipf": 4.1,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "nutrition"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/njuːˈtrɪʃ(ə)n/",
+  "us": "/njuːtrˈɪʃən/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "pine",
+  "w": "pine",
+  "zipf": 4.1,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "pine"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/paɪn/",
+  "us": "/ˈpaɪn/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "pour",
+  "w": "pour",
+  "zipf": 4.1,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "A2",
+    "headword": "pour"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/pɔː(r)/",
+  "us": "/ˈpoːr/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "publish",
+  "w": "publish",
+  "zipf": 4.1,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "A2",
+    "headword": "publish"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈpʌblɪʃ/",
+  "us": "/ˈpʌblɪʃ/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "shark",
+  "w": "shark",
+  "zipf": 4.1,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ʃɑːk/",
+  "us": "/ˈʃɑːrk/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "advise",
+  "w": "advise",
+  "zipf": 4.09,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "A2",
+    "headword": "advise"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ədˈvaɪz/",
+  "us": "/ədvˈaɪz/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "bee",
+  "w": "bee",
+  "zipf": 4.09,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A1",
+    "headword": "bee"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A1"
+  ],
+  "otherPos": [],
+  "cefr": "A1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/biː/",
+  "us": "/ˈbiː/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "delighted",
+  "w": "delighted",
+  "zipf": 4.09,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "adjective",
+    "cefr": "B1",
+    "headword": "delighted"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/dɪˈlaɪtɪd/",
+  "us": "/dɪlˈaɪɾɪd/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "diary",
+  "w": "diary",
+  "zipf": 4.09,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "diary"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈdaɪərɪ/",
+  "us": "/ˈdaɪərri/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "disagree",
+  "w": "disagree",
+  "zipf": 4.09,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "A2",
+    "headword": "disagree"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/dɪsəˈɡriː/",
+  "us": "/ˌdɪsəɡrˈiː/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "disappear",
+  "w": "disappear",
+  "zipf": 4.09,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "A2",
+    "headword": "disappear"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/dɪsəˈpɪə(r)/",
+  "us": "/ˌdɪsəpˈɪr/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "drill",
+  "w": "drill",
+  "zipf": 4.09,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "drill"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/drɪl/",
+  "us": "/ˈdrɪl/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "forecast",
+  "w": "forecast",
+  "zipf": 4.09,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "forecast"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "US from sheet",
+  "uk": "/ˈfɔːkɑːst/",
+  "us": "/ˈfɔrkæst/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "hug",
+  "w": "hug",
+  "zipf": 4.09,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "hug"
+   },
+   {
+    "pos": "verb",
+    "cefr": "A2",
+    "headword": "hug"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [
+   {
+    "pos": "noun",
+    "cefr": "B2"
+   }
+  ],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/hʌɡ/",
+  "us": "/ˈhʌɡ/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "intend",
+  "w": "intend",
+  "zipf": 4.09,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "intend"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ɪnˈtend/",
+  "us": "/ɪntˈɛnd/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "jeans",
+  "w": "jeans",
+  "zipf": 4.09,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A1",
+    "headword": "jeans"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A1"
+  ],
+  "otherPos": [],
+  "cefr": "A1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/dʒiːns/",
+  "us": "/ˈdʒiːnz/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "leak",
+  "w": "leak",
+  "zipf": 4.09,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "leak"
+   },
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "leak"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [
+   {
+    "pos": "noun",
+    "cefr": "B2"
+   }
+  ],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/liːk/",
+  "us": "/ˈliːk/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "meter",
+  "w": "meter",
+  "zipf": 4.09,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "meter"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈmiːtə/",
+  "us": "/ˈmiːɾər/",
+  "missingImg": true,
+  "missingUk": true,
+  "missingUs": true,
+  "xls": true,
+  "xlsVariant": "metre",
+  "inXlsExact": false
+ },
+ {
+  "id": "receiver",
+  "w": "receiver",
+  "zipf": 4.09,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/rɪˈsiːvə(r)/",
+  "us": "/rɪsˈiːvər/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "servant",
+  "w": "servant",
+  "zipf": 4.09,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "servant"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈsɜːvənt/",
+  "us": "/ˈsɜːvənt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "statue",
+  "w": "statue",
+  "zipf": 4.09,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "statue"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈstætjuː/",
+  "us": "/ˈstætʃuː/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "teenager",
+  "w": "teenager",
+  "zipf": 4.09,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "teenager"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈtiːneɪdʒə(r)/",
+  "us": "/ˈtiːneɪdʒər/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "approve",
+  "w": "approve",
+  "zipf": 4.08,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "approve"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/əˈpruːv/",
+  "us": "/əprˈuːv/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "architect",
+  "w": "architect",
+  "zipf": 4.08,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "architect"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈɑːkɪtekt/",
+  "us": "/ˈɑːrkɪtˌɛkt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "basin",
+  "w": "basin",
+  "zipf": 4.08,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "basin"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈbeɪs(ə)n/",
+  "us": "/ˈbeɪsən/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "bride",
+  "w": "bride",
+  "zipf": 4.08,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "bride"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/braɪd/",
+  "us": "/ˈbraɪd/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "cartoon",
+  "w": "cartoon",
+  "zipf": 4.08,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A1",
+    "headword": "cartoon"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A1"
+  ],
+  "otherPos": [],
+  "cefr": "A1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/kɑːˈtuːn/",
+  "us": "/kɑːrtˈuːn/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "coke",
+  "w": "coke",
+  "zipf": 4.08,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A1",
+    "headword": "coke"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A1"
+  ],
+  "otherPos": [],
+  "cefr": "A1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/kəʊk/",
+  "us": "/ˈkoʊk/",
+  "missingImg": true,
+  "missingUk": true,
+  "missingUs": true,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "elephant",
+  "w": "elephant",
+  "zipf": 4.08,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "elephant"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈelɪfənt/",
+  "us": "/ˈɛlɪfənt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "fold",
+  "w": "fold",
+  "zipf": 4.08,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "fold"
+   },
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "fold"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [
+   {
+    "pos": "noun",
+    "cefr": "B1"
+   }
+  ],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/fəʊld/",
+  "us": "/ˈfoʊld/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "merchant",
+  "w": "merchant",
+  "zipf": 4.08,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "merchant"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈmɜːtʃənt/",
+  "us": "/ˈmɜːtʃənt/",
+  "missingImg": true,
+  "missingUk": true,
+  "missingUs": true,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "pale",
+  "w": "pale",
+  "zipf": 4.08,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "adjective",
+    "cefr": "B1",
+    "headword": "pale"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/peɪl/",
+  "us": "/ˈpeɪl/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "poison",
+  "w": "poison",
+  "zipf": 4.08,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "poison"
+   },
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "poison"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [
+   {
+    "pos": "verb",
+    "cefr": "B2"
+   }
+  ],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈpɔɪz(ə)n/",
+  "us": "/ˈpɔɪzən/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "predict",
+  "w": "predict",
+  "zipf": 4.08,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "A2",
+    "headword": "predict"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/prɪˈdɪkt/",
+  "us": "/prɪdˈɪkt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "tooth",
+  "w": "tooth",
+  "zipf": 4.08,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A1",
+    "headword": "tooth"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A1"
+  ],
+  "otherPos": [],
+  "cefr": "A1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/tuːθ/",
+  "us": "/ˈtuːθ/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "unbelievable",
+  "w": "unbelievable",
+  "zipf": 4.08,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "adjective",
+    "cefr": "B1",
+    "headword": "unbelievable"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ʌnbɪˈliːvəb(ə)l/",
+  "us": "/ʌnbɪlˈiːvəbəl/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "warehouse",
+  "w": "warehouse",
+  "zipf": 4.08,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈweəhaʊs/",
+  "us": "/ˈwɛrhaʊs/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "widow",
+  "w": "widow",
+  "zipf": 4.08,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "widow"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "no sheet row",
+  "uk": "/ˈwɪdəʊ/",
+  "us": "/ˈwɪdoʊ/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": false,
+  "xlsVariant": null,
+  "inXlsExact": false
+ },
+ {
+  "id": "adjust",
+  "w": "adjust",
+  "zipf": 4.07,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "A2",
+    "headword": "adjust"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/əˈdʒʌst/",
+  "us": "/ədʒˈʌst/",
+  "missingImg": true,
+  "missingUk": true,
+  "missingUs": true,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "altogether",
+  "w": "altogether",
+  "zipf": 4.07,
+  "pos": "adv.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "adverb",
+    "cefr": "B1",
+    "headword": "altogether"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ɔːltəˈɡeðə(r)/",
+  "us": "/ˌɔːltəɡˈɛðər/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "assess",
+  "w": "assess",
+  "zipf": 4.07,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "assess"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/əˈses/",
+  "us": "/əsˈɛs/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "assumption",
+  "w": "assumption",
+  "zipf": 4.07,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "assumption"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/əˈsʌmpʃ(ə)n/",
+  "us": "/əsˈʌmpʃən/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "basket",
+  "w": "basket",
+  "zipf": 4.07,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "basket"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "US from sheet",
+  "uk": "/ˈbɑːskɪt/",
+  "us": "/ˈbæskɪt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "beard",
+  "w": "beard",
+  "zipf": 4.07,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "beard"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/bɪəd/",
+  "us": "/ˈbɪrd/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "blanket",
+  "w": "blanket",
+  "zipf": 4.07,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "blanket"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈblæŋkɪt/",
+  "us": "/ˈblæŋkɪt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "continent",
+  "w": "continent",
+  "zipf": 4.07,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "continent"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈkɔntɪnənt/",
+  "us": "/ˈkɑːntɪnənt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "cookie",
+  "w": "cookie",
+  "zipf": 4.07,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A1",
+    "headword": "cookie"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A1"
+  ],
+  "otherPos": [],
+  "cefr": "A1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈkʊkɪ/",
+  "us": "/ˈkʊki/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "flame",
+  "w": "flame",
+  "zipf": 4.07,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "flame"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/fleɪm/",
+  "us": "/ˈfleɪm/",
+  "missingImg": true,
+  "missingUk": true,
+  "missingUs": true,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "graduation",
+  "w": "graduation",
+  "zipf": 4.07,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "graduation"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ɡrædjʊˈeɪʃ(ə)n/",
+  "us": "/ˌɡrædʒuːˈeɪʃən/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "ink",
+  "w": "ink",
+  "zipf": 4.07,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "ink"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ɪŋk/",
+  "us": "/ˈɪŋk/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "inn",
+  "w": "inn",
+  "zipf": 4.07,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ɪn/",
+  "us": "/ˈɪn/",
+  "missingImg": true,
+  "missingUk": true,
+  "missingUs": true,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "monkey",
+  "w": "monkey",
+  "zipf": 4.07,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A1",
+    "headword": "monkey"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A1"
+  ],
+  "otherPos": [],
+  "cefr": "A1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈmʌŋkɪ/",
+  "us": "/ˈmʌŋki/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "motorcycle",
+  "w": "motorcycle",
+  "zipf": 4.07,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "motorcycle"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈməʊtəsaɪkl/",
+  "us": "/ˈmoʊɾərsˌaɪkəl/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "nationwide",
+  "w": "nationwide",
+  "zipf": 4.07,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "adjective",
+    "cefr": "B2",
+    "headword": "nationwide"
+   },
+   {
+    "pos": "adverb",
+    "cefr": "B2",
+    "headword": "nationwide"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [
+   {
+    "pos": "adverb",
+    "cefr": "B2"
+   }
+  ],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈneɪʃ(ə)nwaɪd/",
+  "us": "/ˈneɪʃənwˌaɪd/",
+  "missingImg": true,
+  "missingUk": true,
+  "missingUs": true,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "nest",
+  "w": "nest",
+  "zipf": 4.07,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/nest/",
+  "us": "/ˈnɛst/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "penny",
+  "w": "penny",
+  "zipf": 4.07,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "penny"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈpenɪ/",
+  "us": "/ˈpɛni/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "quantity",
+  "w": "quantity",
+  "zipf": 4.07,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "quantity"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈkwɔntətɪ/",
+  "us": "/ˈkwɔntɪɾi/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "rainbow",
+  "w": "rainbow",
+  "zipf": 4.07,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "rainbow"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈreɪnbəʊ/",
+  "us": "/ˈreɪnboʊ/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "scan",
+  "w": "scan",
+  "zipf": 4.07,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "scan"
+   },
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "scan"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [
+   {
+    "pos": "verb",
+    "cefr": "B2"
+   }
+  ],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/skæn/",
+  "us": "/ˈskæn/",
+  "missingImg": true,
+  "missingUk": true,
+  "missingUs": true,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "scare",
+  "w": "scare",
+  "zipf": 4.07,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "scare"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/skeə(r)/",
+  "us": "/ˈskɛr/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "shorts",
+  "w": "shorts",
+  "zipf": 4.07,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "shorts"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ʃɔːts/",
+  "us": "/ˈʃɔːrts/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "sunny",
+  "w": "sunny",
+  "zipf": 4.07,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "adjective",
+    "cefr": "A1",
+    "headword": "sunny"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A1"
+  ],
+  "otherPos": [],
+  "cefr": "A1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈsʌnɪ/",
+  "us": "/ˈsʌni/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "accommodation",
+  "w": "accommodation",
+  "zipf": 4.06,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "accommodation"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/əkɔməˈdeɪʃ(ə)n/",
+  "us": "/əkˌɑːmədˈeɪʃən/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "ambulance",
+  "w": "ambulance",
+  "zipf": 4.06,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "ambulance"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈæmbjʊləns/",
+  "us": "/ˈæmbjʊləns/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "ashamed",
+  "w": "ashamed",
+  "zipf": 4.06,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "adjective",
+    "cefr": "B1",
+    "headword": "ashamed"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/əˈʃeɪmd/",
+  "us": "/əʃˈeɪmd/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "cheat",
+  "w": "cheat",
+  "zipf": 4.06,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "cheat"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/tʃiːt/",
+  "us": "/ˈtʃiːt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "cheer",
+  "w": "cheer",
+  "zipf": 4.06,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "A2",
+    "headword": "cheer"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/tʃɪə(r)/",
+  "us": "/ˈtʃɪr/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "cigarette",
+  "w": "cigarette",
+  "zipf": 4.06,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "cigarette"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/sɪɡəˈret/",
+  "us": "/ˌsɪɡərrˈɛt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "doll",
+  "w": "doll",
+  "zipf": 4.06,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A1",
+    "headword": "doll"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A1"
+  ],
+  "otherPos": [],
+  "cefr": "A1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "US from sheet",
+  "uk": "/dɔl/",
+  "us": "/dɔːl/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "elder",
+  "w": "elder",
+  "zipf": 4.06,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈeldə(r)/",
+  "us": "/ˈɛldər/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "fiber",
+  "w": "fiber",
+  "zipf": 4.06,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "fiber"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈfaɪbə/",
+  "us": "/ˈfaɪbər/",
+  "missingImg": true,
+  "missingUk": true,
+  "missingUs": true,
+  "xls": true,
+  "xlsVariant": "fibre",
+  "inXlsExact": false
+ },
+ {
+  "id": "grocery",
+  "w": "grocery",
+  "zipf": 4.06,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "no sheet row",
+  "uk": "/ˈɡrəʊsəri/",
+  "us": "/ˈɡroʊsərri/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": false,
+  "xlsVariant": null,
+  "inXlsExact": false
+ },
+ {
+  "id": "laundry",
+  "w": "laundry",
+  "zipf": 4.06,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "laundry"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈlɔːndrɪ/",
+  "us": "/ˈlɔːndri/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "observe",
+  "w": "observe",
+  "zipf": 4.06,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "observe"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/əbˈzɜːv/",
+  "us": "/əbzˈɜːv/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "pulse",
+  "w": "pulse",
+  "zipf": 4.06,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "pulse"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/pʌls/",
+  "us": "/ˈpʌls/",
+  "missingImg": true,
+  "missingUk": true,
+  "missingUs": true,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "rope",
+  "w": "rope",
+  "zipf": 4.06,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "rope"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/rəʊp/",
+  "us": "/ˈroʊp/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "shout",
+  "w": "shout",
+  "zipf": 4.06,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "shout"
+   },
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "shout"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [
+   {
+    "pos": "noun",
+    "cefr": "A2"
+   }
+  ],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "sheet IPA is shoulder",
+  "uk": "/ˈʃaʊt/",
+  "us": "/ˈʃaʊt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "accomplish",
+  "w": "accomplish",
+  "zipf": 4.05,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "accomplish"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/əˈkʌmplɪʃ/",
+  "us": "/əkˈɑːmplɪʃ/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "apology",
+  "w": "apology",
+  "zipf": 4.05,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "apology"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/əˈpɔlədʒɪ/",
+  "us": "/əpˈɑːlədʒi/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "beg",
+  "w": "beg",
+  "zipf": 4.05,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "A2",
+    "headword": "beg"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/beɡ/",
+  "us": "/ˈbɛɡ/",
+  "missingImg": true,
+  "missingUk": true,
+  "missingUs": true,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "bowling",
+  "w": "bowling",
+  "zipf": 4.05,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈbəʊlɪŋ/",
+  "us": "/ˈboʊlɪŋ/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "dip",
+  "w": "dip",
+  "zipf": 4.05,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "dip"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/dɪp/",
+  "us": "/ˈdɪp/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "disturbing",
+  "w": "disturbing",
+  "zipf": 4.05,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/dɪˈstɜːbɪŋ/",
+  "us": "/dɪstˈɜːbɪŋ/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "dot",
+  "w": "dot",
+  "zipf": 4.05,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "dot"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/dɔt/",
+  "us": "/ˈdɑːt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "freezing",
+  "w": "freezing",
+  "zipf": 4.05,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "adjective",
+    "cefr": "B1",
+    "headword": "freezing"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈfriːzɪŋ/",
+  "us": "/ˈfriːzɪŋ/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "graph",
+  "w": "graph",
+  "zipf": 4.05,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "graph"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "US from sheet",
+  "uk": "/ɡrɑːf/",
+  "us": "/ɡræf/",
+  "missingImg": true,
+  "missingUk": true,
+  "missingUs": true,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "lamp",
+  "w": "lamp",
+  "zipf": 4.05,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "lamp"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/læmp/",
+  "us": "/ˈlæmp/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "passport",
+  "w": "passport",
+  "zipf": 4.05,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "passport"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈpɑːspɔːt/",
+  "us": "/ˈpæspoːrt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "rabbit",
+  "w": "rabbit",
+  "zipf": 4.05,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A1",
+    "headword": "rabbit"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A1"
+  ],
+  "otherPos": [],
+  "cefr": "A1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈræbɪt/",
+  "us": "/ˈræbɪt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "retire",
+  "w": "retire",
+  "zipf": 4.05,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "A2",
+    "headword": "retire"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/rɪˈtaɪə(r)/",
+  "us": "/rɪtˈaɪər/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "slim",
+  "w": "slim",
+  "zipf": 4.05,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "adjective",
+    "cefr": "A2",
+    "headword": "slim"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/slɪm/",
+  "us": "/ˈslɪm/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "tablet",
+  "w": "tablet",
+  "zipf": 4.05,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "tablet"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "no sheet row",
+  "uk": "/ˈtablət/",
+  "us": "/ˈtæblət/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": false,
+  "xlsVariant": null,
+  "inXlsExact": false
+ },
+ {
+  "id": "tent",
+  "w": "tent",
+  "zipf": 4.05,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "tent"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/tent/",
+  "us": "/ˈtɛnt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "withdraw",
+  "w": "withdraw",
+  "zipf": 4.05,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "withdraw"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/wɪðˈdrɔː/",
+  "us": "/wɪθdrˈɔː/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "airline",
+  "w": "airline",
+  "zipf": 4.04,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "airline"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "no sheet row",
+  "uk": "/ˈeəlaɪn/",
+  "us": "/ˈɛrlaɪn/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": false,
+  "xlsVariant": null,
+  "inXlsExact": false
+ },
+ {
+  "id": "authentic",
+  "w": "authentic",
+  "zipf": 4.04,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ɜːˈθentɪk/",
+  "us": "/ɔːθˈɛntɪk/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "backwards",
+  "w": "backwards",
+  "zipf": 4.04,
+  "pos": "adv.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "adverb",
+    "cefr": "B2",
+    "headword": "backwards"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "sheet backward(s) /ˈbækwəd/ plus the pronounced final /z/",
+  "uk": "/ˈbækwədz/",
+  "us": "/ˈbækwərdz/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": false,
+  "xlsVariant": null,
+  "inXlsExact": false
+ },
+ {
+  "id": "collar",
+  "w": "collar",
+  "zipf": 4.04,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "collar"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈkɔlə(r)/",
+  "us": "/ˈkɑːlər/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "donate",
+  "w": "donate",
+  "zipf": 4.04,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "donate"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "no sheet row",
+  "uk": "/dəʊnˈeɪt/",
+  "us": "/doʊnˈeɪt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": false,
+  "xlsVariant": null,
+  "inXlsExact": false
+ },
+ {
+  "id": "invention",
+  "w": "invention",
+  "zipf": 4.04,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "invention"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ɪnˈvenʃ(ə)n/",
+  "us": "/ɪnvˈɛnʃən/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "nut",
+  "w": "nut",
+  "zipf": 4.04,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "nut"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/nʌt/",
+  "us": "/ˈnʌt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "o-clock",
+  "w": "o'clock",
+  "zipf": 4.04,
+  "pos": "adv.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "adverb",
+    "cefr": "A1",
+    "headword": "o'clock"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A1"
+  ],
+  "otherPos": [],
+  "cefr": "A1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "US stress aligned with the sheet",
+  "uk": "/əˈklɔk/",
+  "us": "/əˈklɑːk/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "recreation",
+  "w": "recreation",
+  "zipf": 4.04,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "recreation"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/rekrɪˈeɪʃ(ə)n/",
+  "us": "/ˌrɛkriːˈeɪʃən/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "shallow",
+  "w": "shallow",
+  "zipf": 4.04,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "adjective",
+    "cefr": "B1",
+    "headword": "shallow"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈʃæləʊ/",
+  "us": "/ˈʃæloʊ/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "sponsor",
+  "w": "sponsor",
+  "zipf": 4.04,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "sponsor"
+   },
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "sponsor"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [
+   {
+    "pos": "verb",
+    "cefr": "B2"
+   }
+  ],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈspɔnsə(r)/",
+  "us": "/ˈspɑːnsər/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "strengthen",
+  "w": "strengthen",
+  "zipf": 4.04,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "strengthen"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈstreŋθ(ə)n/",
+  "us": "/ˈstrɛŋθən/",
+  "missingImg": true,
+  "missingUk": true,
+  "missingUs": true,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "transform",
+  "w": "transform",
+  "zipf": 4.04,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "transform"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/trænsˈfɔːm/",
+  "us": "/trænsfˈɔːrm/",
+  "missingImg": true,
+  "missingUk": true,
+  "missingUs": true,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "arctic",
+  "w": "Arctic",
+  "zipf": 4.03,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "adjective",
+    "cefr": "B2",
+    "headword": "arctic"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈɑːktɪk/",
+  "us": "/ˈɑːrktɪk/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "cloth",
+  "w": "cloth",
+  "zipf": 4.03,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A1",
+    "headword": "cloth"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A1"
+  ],
+  "otherPos": [],
+  "cefr": "A1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "US from sheet",
+  "uk": "/klɔθ/",
+  "us": "/klɔθ/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "container",
+  "w": "container",
+  "zipf": 4.03,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "container"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/kənˈteɪnə(r)/",
+  "us": "/kəntˈeɪnər/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "eager",
+  "w": "eager",
+  "zipf": 4.03,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "adjective",
+    "cefr": "B1",
+    "headword": "eager"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈiːɡə(r)/",
+  "us": "/ˈiːɡər/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "elect",
+  "w": "elect",
+  "zipf": 4.03,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "elect"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ɪˈlekt/",
+  "us": "/ɪlˈɛkt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "fork",
+  "w": "fork",
+  "zipf": 4.03,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "fork"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/fɔːk/",
+  "us": "/ˈfɔːrk/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "fur",
+  "w": "fur",
+  "zipf": 4.03,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "fur"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/fɜː(r)/",
+  "us": "/ˈfɜː/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "harvest",
+  "w": "harvest",
+  "zipf": 4.03,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "harvest"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈhɑːvɪst/",
+  "us": "/ˈhɑːrvɪst/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "headline",
+  "w": "headline",
+  "zipf": 4.03,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "headline"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈhedlaɪn/",
+  "us": "/ˈhɛdlaɪn/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "insist",
+  "w": "insist",
+  "zipf": 4.03,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "insist"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ɪnˈsɪst/",
+  "us": "/ɪnsˈɪst/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "mineral",
+  "w": "mineral",
+  "zipf": 4.03,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "mineral"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈmɪnər(ə)l/",
+  "us": "/ˈmɪnərrəl/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "orbit",
+  "w": "orbit",
+  "zipf": 4.03,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "orbit"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈɔːbɪt/",
+  "us": "/ˈɔːrbɪt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "paragraph",
+  "w": "paragraph",
+  "zipf": 4.03,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A1",
+    "headword": "paragraph"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A1"
+  ],
+  "otherPos": [],
+  "cefr": "A1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "US from sheet",
+  "uk": "/ˈpærəɡrɑːf/",
+  "us": "/ˈpærəɡræf/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "passive",
+  "w": "passive",
+  "zipf": 4.03,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "adjective",
+    "cefr": "B1",
+    "headword": "passive"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈpæsɪv/",
+  "us": "/ˈpæsɪv/",
+  "missingImg": true,
+  "missingUk": true,
+  "missingUs": true,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "pill",
+  "w": "pill",
+  "zipf": 4.03,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "pill"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/pɪl/",
+  "us": "/ˈpɪl/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "pork",
+  "w": "pork",
+  "zipf": 4.03,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "pork"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/pɔːk/",
+  "us": "/ˈpoːrk/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "reject",
+  "w": "reject",
+  "zipf": 4.03,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "reject"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/rɪˈdʒekt/",
+  "us": "/rɪdʒˈɛkt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "tin",
+  "w": "tin",
+  "zipf": 4.03,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "tin"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/tɪn/",
+  "us": "/ˈtɪn/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "trunk",
+  "w": "trunk",
+  "zipf": 4.03,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "trunk"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/trʌŋk/",
+  "us": "/ˈtrʌŋk/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "anchor",
+  "w": "anchor",
+  "zipf": 4.02,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "anchor"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈæŋkə/",
+  "us": "/ˈæŋkər/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "arch",
+  "w": "arch",
+  "zipf": 4.02,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "arch"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ɑːtʃ/",
+  "us": "/ˈɑːrtʃ/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "bounce",
+  "w": "bounce",
+  "zipf": 4.02,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "bounce"
+   },
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "bounce"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [
+   {
+    "pos": "noun",
+    "cefr": "B2"
+   }
+  ],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/baʊns/",
+  "us": "/ˈbaʊns/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "deliberately",
+  "w": "deliberately",
+  "zipf": 4.02,
+  "pos": "adv.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "adverb",
+    "cefr": "B2",
+    "headword": "deliberately"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/dɪˈlɪbərətlɪ/",
+  "us": "/dɪlˈɪbərrətli/",
+  "missingImg": true,
+  "missingUk": true,
+  "missingUs": true,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "dictionary",
+  "w": "dictionary",
+  "zipf": 4.02,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A1",
+    "headword": "dictionary"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A1"
+  ],
+  "otherPos": [],
+  "cefr": "A1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "US from sheet",
+  "uk": "/ˈdɪkʃənərɪ/",
+  "us": "/ˈdɪkʃənerɪ/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "dignity",
+  "w": "dignity",
+  "zipf": 4.02,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "dignity"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈdɪɡnɪtɪ/",
+  "us": "/ˈdɪɡnɪɾi/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "dimension",
+  "w": "dimension",
+  "zipf": 4.02,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "dimension"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/dɪˈmenʃ(ə)n/",
+  "us": "/dɪmˈɛnʃən/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "ferry",
+  "w": "ferry",
+  "zipf": 4.02,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "ferry"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈferɪ/",
+  "us": "/ˈfɛri/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "fridge",
+  "w": "fridge",
+  "zipf": 4.02,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "fridge"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "sheet IPA is refrigerator",
+  "uk": "/ˈfrɪdʒ/",
+  "us": "/ˈfrɪdʒ/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": false,
+  "xlsVariant": null,
+  "inXlsExact": false
+ },
+ {
+  "id": "goat",
+  "w": "goat",
+  "zipf": 4.02,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "goat"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ɡəʊt/",
+  "us": "/ˈɡoʊt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "helmet",
+  "w": "helmet",
+  "zipf": 4.02,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "helmet"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈhelmɪt/",
+  "us": "/ˈhɛlmɪt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "lamb",
+  "w": "lamb",
+  "zipf": 4.02,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "lamb"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/læm/",
+  "us": "/ˈlæm/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "possess",
+  "w": "possess",
+  "zipf": 4.02,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "possess"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "sheet IPA is position",
+  "uk": "/pəzˈɛs/",
+  "us": "/pəzˈɛs/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "shelf",
+  "w": "shelf",
+  "zipf": 4.02,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A1",
+    "headword": "shelf"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A1"
+  ],
+  "otherPos": [],
+  "cefr": "A1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ʃelf/",
+  "us": "/ˈʃɛlf/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "subscribe",
+  "w": "subscribe",
+  "zipf": 4.02,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/səbˈskraɪb/",
+  "us": "/səbskrˈaɪb/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "tire",
+  "w": "tire",
+  "zipf": 4.02,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "tire"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈtaɪə(r)/",
+  "us": "/ˈtaɪər/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "warn",
+  "w": "warn",
+  "zipf": 4.02,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "warn"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "no sheet row",
+  "uk": "/ˈwɔːn/",
+  "us": "/ˈwɔːrn/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": false,
+  "xlsVariant": null,
+  "inXlsExact": false
+ },
+ {
+  "id": "adaptation",
+  "w": "adaptation",
+  "zipf": 4.01,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ədæpˈteɪʃ(ə)n/",
+  "us": "/ˌædæptˈeɪʃən/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "civilization",
+  "w": "civilization",
+  "zipf": 4.01,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "civilization"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "US from sheet",
+  "uk": "/sɪvɪlaɪˈzeɪʃ(ə)n/",
+  "us": "/sɪvəlɪˈzeɪʃən/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "disk",
+  "w": "disk",
+  "zipf": 4.01,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "disk"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "sheet row disk＝disc /dɪsk/",
+  "uk": "/dɪsk/",
+  "us": "/ˈdɪsk/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": false,
+  "xlsVariant": null,
+  "inXlsExact": false
+ },
+ {
+  "id": "evaluate",
+  "w": "evaluate",
+  "zipf": 4.01,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "evaluate"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ɪˈvæljʊeɪt/",
+  "us": "/ɪvˈæljuːˌeɪt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "insert",
+  "w": "insert",
+  "zipf": 4.01,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "US espeak stress was the noun; verb stress kept",
+  "uk": "/ɪnˈsɜːt/",
+  "us": "/ɪnˈsɜːrt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "musician",
+  "w": "musician",
+  "zipf": 4.01,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A1",
+    "headword": "musician"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A1"
+  ],
+  "otherPos": [],
+  "cefr": "A1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/mjuːˈzɪʃ(ə)n/",
+  "us": "/mjuːzˈɪʃən/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "nephew",
+  "w": "nephew",
+  "zipf": 4.01,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "nephew"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "sheet also lists a second UK pronunciation",
+  "uk": "/ˈnefjuː/",
+  "us": "/ˈnɛfjuː/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "sail",
+  "w": "sail",
+  "zipf": 4.01,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "sail"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/seɪl/",
+  "us": "/ˈseɪl/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "sympathy",
+  "w": "sympathy",
+  "zipf": 4.01,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "sympathy"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈsɪmpəθɪ/",
+  "us": "/ˈsɪmpəθi/",
+  "missingImg": true,
+  "missingUk": true,
+  "missingUs": true,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "theoretical",
+  "w": "theoretical",
+  "zipf": 4.01,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/θɪəˈretɪk(ə)l/",
+  "us": "/θiərˈɛɾɪkəl/",
+  "missingImg": true,
+  "missingUk": true,
+  "missingUs": true,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "transparent",
+  "w": "transparent",
+  "zipf": 4.01,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "adjective",
+    "cefr": "B2",
+    "headword": "transparent"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/trænsˈpærənt/",
+  "us": "/trænspˈærənt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "visitor",
+  "w": "visitor",
+  "zipf": 4.01,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "visitor"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈvɪzɪtə(r)/",
+  "us": "/ˈvɪzɪɾər/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "voluntary",
+  "w": "voluntary",
+  "zipf": 4.01,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈvɔləntərɪ/",
+  "us": "/ˈvɑːləntərri/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "wheat",
+  "w": "wheat",
+  "zipf": 4.01,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "wheat"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "US from sheet",
+  "uk": "/wiːt/",
+  "us": "/hwiːt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "wipe",
+  "w": "wipe",
+  "zipf": 4.01,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "wipe"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/waɪp/",
+  "us": "/ˈwaɪp/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "wrist",
+  "w": "wrist",
+  "zipf": 4.01,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "wrist"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/rɪst/",
+  "us": "/ˈrɪst/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "acute",
+  "w": "acute",
+  "zipf": 4.0,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "adjective",
+    "cefr": "B2",
+    "headword": "acute"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/əˈkjuːt/",
+  "us": "/əkjˈuːt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "banana",
+  "w": "banana",
+  "zipf": 4.0,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A1",
+    "headword": "banana"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A1"
+  ],
+  "otherPos": [],
+  "cefr": "A1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "US from sheet",
+  "uk": "/bəˈnɑːnə/",
+  "us": "/bəˈnænə/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "behave",
+  "w": "behave",
+  "zipf": 4.0,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "behave"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/bɪˈheɪv/",
+  "us": "/bɪhˈeɪv/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "borrow",
+  "w": "borrow",
+  "zipf": 4.0,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "A1",
+    "headword": "borrow"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A1"
+  ],
+  "otherPos": [],
+  "cefr": "A1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈbɔrəʊ/",
+  "us": "/ˈbɑːroʊ/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "clerk",
+  "w": "clerk",
+  "zipf": 4.0,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "clerk"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "US from sheet",
+  "uk": "/klɑːk/",
+  "us": "/klərk/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "cottage",
+  "w": "cottage",
+  "zipf": 4.0,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "cottage"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈkɔtɪdʒ/",
+  "us": "/ˈkɑːɾɪdʒ/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "dash",
+  "w": "dash",
+  "zipf": 4.0,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "dash"
+   },
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "dash"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [
+   {
+    "pos": "noun",
+    "cefr": "B2"
+   }
+  ],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/dæʃ/",
+  "us": "/ˈdæʃ/",
+  "missingImg": true,
+  "missingUk": true,
+  "missingUs": true,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "flour",
+  "w": "flour",
+  "zipf": 4.0,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "flour"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈflaʊə(r)/",
+  "us": "/ˈflaʊər/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "inspire",
+  "w": "inspire",
+  "zipf": 4.0,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "inspire"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ɪnˈspaɪə(r)/",
+  "us": "/ɪnspˈaɪər/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "kindness",
+  "w": "kindness",
+  "zipf": 4.0,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "kindness"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈkaɪndnɪs/",
+  "us": "/ˈkaɪndnəs/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "minus",
+  "w": "minus",
+  "zipf": 4.0,
+  "pos": "prep.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "preposition",
+    "cefr": "B1",
+    "headword": "minus"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈmaɪnəs/",
+  "us": "/ˈmaɪnəs/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "pause",
+  "w": "pause",
+  "zipf": 4.0,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "pause"
+   },
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "pause"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [
+   {
+    "pos": "noun",
+    "cefr": "B1"
+   }
+  ],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/pɔːz/",
+  "us": "/ˈpɔːz/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "prescription",
+  "w": "prescription",
+  "zipf": 4.0,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "prescription"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/prɪˈskrɪpʃ(ə)n/",
+  "us": "/prɪskrˈɪpʃən/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "slice",
+  "w": "slice",
+  "zipf": 4.0,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "slice"
+   },
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "slice"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [
+   {
+    "pos": "verb",
+    "cefr": "B2"
+   }
+  ],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "sheet IPA is sleeve",
+  "uk": "/ˈslaɪs/",
+  "us": "/ˈslaɪs/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "spelling",
+  "w": "spelling",
+  "zipf": 4.0,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "spelling"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈspelɪŋ/",
+  "us": "/ˈspɛlɪŋ/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "bent",
+  "w": "bent",
+  "zipf": 3.99,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "adjective",
+    "cefr": "B1",
+    "headword": "bent"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/bent/",
+  "us": "/ˈbɛnt/",
+  "missingImg": true,
+  "missingUk": true,
+  "missingUs": true,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "deaf",
+  "w": "deaf",
+  "zipf": 3.99,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "adjective",
+    "cefr": "B1",
+    "headword": "deaf"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/def/",
+  "us": "/ˈdɛf/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "expectation",
+  "w": "expectation",
+  "zipf": 3.99,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "expectation"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ekspekˈteɪʃ(ə)n/",
+  "us": "/ɛkspɪktˈeɪʃən/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "neat",
+  "w": "neat",
+  "zipf": 3.99,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "adjective",
+    "cefr": "B2",
+    "headword": "neat"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/niːt/",
+  "us": "/ˈniːt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "negotiate",
+  "w": "negotiate",
+  "zipf": 3.99,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "negotiate"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/nɪˈɡəʊʃɪeɪt/",
+  "us": "/nɪɡˈoʊʃɪˌeɪt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "steep",
+  "w": "steep",
+  "zipf": 3.99,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "adjective",
+    "cefr": "B1",
+    "headword": "steep"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/stiːp/",
+  "us": "/ˈstiːp/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "straw",
+  "w": "straw",
+  "zipf": 3.99,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "straw"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/strɔː/",
+  "us": "/ˈstrɔː/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "uncertain",
+  "w": "uncertain",
+  "zipf": 3.99,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "adjective",
+    "cefr": "A2",
+    "headword": "uncertain"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "sheet IPA is certain, missing un-",
+  "uk": "/ʌnsˈɜːtən/",
+  "us": "/ʌnˈsɜːrtən/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "weigh",
+  "w": "weigh",
+  "zipf": 3.99,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "A2",
+    "headword": "weigh"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/weɪ/",
+  "us": "/ˈweɪ/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "absent",
+  "w": "absent",
+  "zipf": 3.98,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "adjective",
+    "cefr": "B1",
+    "headword": "absent"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/ˈæbsənt/",
+  "us": "/ˈæbsənt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ },
+ {
+  "id": "bean",
+  "w": "bean",
+  "zipf": 3.98,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A1",
+    "headword": "bean"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A1"
+  ],
+  "otherPos": [],
+  "cefr": "A1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "user-ref-uk",
+  "ipaNote": "",
+  "uk": "/biːn/",
+  "us": "/ˈbiːn/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "xls": true,
+  "xlsVariant": null,
+  "inXlsExact": true
+ }
+]
