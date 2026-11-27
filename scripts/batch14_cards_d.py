@@ -49,7 +49,7 @@ CARDS_D = [
         "daily",
         [("n.", "妈妈", "a child's word for mother")],
         [
-            ("The little boy said, Mommy, look at this.", "小男孩说：妈妈，看这个。"),
+            ("The little boy said, \"Mommy, look at this.\"", "小男孩说：「妈妈，看这个。」"),
             ("She still says mommy when she is tired, though she writes mother on the school form.", "她累的时候仍叫 mommy，虽然在学校表格上写的是 mother。"),
         ],
         ["mommy and daddy｜妈妈和爸爸"],
@@ -175,7 +175,7 @@ CARDS_D = [
         [("n.", "几何", "the part of mathematics about shapes and space")],
         [
             ("Geometry homework is on page forty.", "几何作业在第四十页。"),
-            ("In geometry we proved why the angles of a triangle add up to a straight line.", "几何课上我们证明了三角形的内角和为什么是一条直线。"),
+            ("In geometry we proved that the angles of a triangle add up to 180 degrees.", "几何课上我们证明了三角形的内角和是 180 度。"),
         ],
         ["geometry class｜几何课", "solid geometry｜立体几何"],
         ["geometric (adj.)"],
@@ -448,6 +448,7 @@ CARDS_D = [
             ("A vague memory of the street was not enough, so we checked the map again.", "对那条街只有模糊的记忆不够，我们又核对了地图。"),
         ],
         ["a vague idea｜模糊的想法", "vague about｜对…说不清"],
+        ["vaguely (adv.)"],
         ["unclear"],
         ["explicit"],
         tip="vague 是说不清、不具体。反义可以是 explicit 或 clear。",
@@ -566,6 +567,7 @@ CARDS_D = [
             ("A lively market filled the square, with fruit, tools, and people calling out prices.", "热闹的市场占满了广场，有水果、工具，还有人喊价。"),
         ],
         ["a lively discussion｜活跃的讨论", "lively atmosphere｜活跃的气氛"],
+        ["liveliness (n.)"],
         ["energetic"],
         ["dull"],
         tip="lively 是形容词，不是副词。活泼地做某事常用 in a lively way。",

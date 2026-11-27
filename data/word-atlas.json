@@ -1174,8 +1174,8 @@
   ],
   "ex": [
    {
-    "en": "The little boy said, Mommy, look at this.",
-    "zh": "小男孩说：妈妈，看这个。"
+    "en": "The little boy said, \"Mommy, look at this.\"",
+    "zh": "小男孩说：「妈妈，看这个。」"
    },
    {
     "en": "She still says mommy when she is tired, though she writes mother on the school form.",
@@ -1724,8 +1724,8 @@
     "zh": "一只蝴蝶落在摊开的书上。"
    },
    {
-    "en": "A butterfly gathers near the bush in May, which is why the art class sketches there.",
-    "zh": "五月有蝴蝶聚在那丛灌木旁，所以美术课在那里写生。"
+    "en": "Butterflies gather near the bush in May, which is why the art class sketches there.",
+    "zh": "五月蝴蝶聚在那丛灌木旁，所以美术课在那里写生。"
    }
   ],
   "col": [
@@ -3657,9 +3657,11 @@
    "politeness (n.)"
   ],
   "syn": [
+   "courteous"
+  ],
+  "ant": [
    "rude"
   ],
-  "ant": [],
   "tip": "It is polite to do sth。反义 rude。副词 politely。",
   "cefr": "A2",
   "topic": "society",
@@ -5387,12 +5389,14 @@
    "lively atmosphere｜活跃的气氛"
   ],
   "fam": [
-   "energetic"
+   "liveliness (n.)"
   ],
   "syn": [
+   "energetic"
+  ],
+  "ant": [
    "dull"
   ],
-  "ant": [],
   "tip": "lively 是形容词，不是副词。活泼地做某事常用 in a lively way。",
   "cefr": "A2",
   "topic": "emotion",
@@ -6142,7 +6146,7 @@
    "lent (past)"
   ],
   "syn": [
-   "borrow"
+   "loan"
   ],
   "ant": [],
   "tip": "lend 是借出，borrow 是借入。过去式 lent。lend a hand 是帮忙。",
@@ -16834,9 +16838,11 @@
    "exposure (n.)"
   ],
   "syn": [
+   "reveal"
+  ],
+  "ant": [
    "cover"
   ],
-  "ant": [],
   "tip": "expose sb to sth 是让人接触某事物。曝光秘密也用这个动词。",
   "cefr": "B1",
   "topic": "science",
@@ -61516,12 +61522,14 @@
    "dull weather｜阴沉的天气"
   ],
   "fam": [
-   "boring"
+   "dullness (n.)"
   ],
   "syn": [
+   "boring"
+  ],
+  "ant": [
    "interesting"
   ],
-  "ant": [],
   "tip": "dull 可以形容课乏味，也可以形容天色或刀刃不利。",
   "cefr": "B1",
   "topic": "emotion",
@@ -75078,12 +75086,14 @@
    "vague about｜对…说不清"
   ],
   "fam": [
-   "unclear"
+   "vaguely (adv.)"
   ],
   "syn": [
+   "unclear"
+  ],
+  "ant": [
    "explicit"
   ],
-  "ant": [],
   "tip": "vague 是说不清、不具体。反义可以是 explicit 或 clear。",
   "cefr": "B1",
   "topic": "thinking",
@@ -75299,7 +75309,7 @@
   "ex": [
    {
     "en": "That thriller kept me awake too late.",
-    "zh": "那部惊险片让我醒得太晚。"
+    "zh": "那部惊险片让我看得太晚。"
    },
    {
     "en": "The thriller ends on a train, and the class argued about who had taken the case.",
@@ -119692,7 +119702,7 @@
    },
    {
     "en": "Search the catalog by the writer's family name if you do not know the full title.",
-    "zh": "如果不知道全名，就按作者的姓在目录里查。"
+    "zh": "如果不知道完整书名，就按作者的姓在目录里查。"
    }
   ],
   "col": [
@@ -120500,9 +120510,11 @@
    "unconsciously (adv.)"
   ],
   "syn": [
+   "senseless"
+  ],
+  "ant": [
    "aware"
   ],
-  "ant": [],
   "tip": "昏迷是 unconscious。无意识的习惯也用这个词。意识是 conscious。",
   "cefr": "B2",
   "topic": "health",
@@ -122198,7 +122210,7 @@
    "quit"
   ],
   "ant": [],
-  "tip": "resign from a job。把某事交给别人是 resign yourself to，那是另一层意思。",
+  "tip": "resign from 是辞职。resign yourself to 是无可奈何地接受，不是把事情交给别人。",
   "cefr": "B2",
   "topic": "work",
   "note": "",
@@ -123249,8 +123261,8 @@
     "zh": "一位同事在礼堂给我留了座位。"
    },
    {
-    "en": "She asked a colleague to read the figures before the meeting, so the chart would be fair.",
-    "zh": "她请同事在会前看了数字，好让图表站得住。"
+    "en": "She asked a colleague to read the figures before the meeting, so the chart would be accurate.",
+    "zh": "她请同事在会前核对数字，好让图表准确。"
    }
   ],
   "col": [
@@ -123632,12 +123644,14 @@
    "a fierce animal｜凶猛的动物"
   ],
   "fam": [
-   "ferocious"
+   "fiercely (adv.)"
   ],
   "syn": [
+   "ferocious"
+  ],
+  "ant": [
    "gentle"
   ],
-  "ant": [],
   "tip": "fierce 可以形容动物、风，也可以形容竞争或争论。",
   "cefr": "B2",
   "topic": "nature",
@@ -125887,8 +125901,8 @@
     "zh": "几何作业在第四十页。"
    },
    {
-    "en": "In geometry we proved why the angles of a triangle add up to a straight line.",
-    "zh": "几何课上我们证明了三角形的内角和为什么是一条直线。"
+    "en": "In geometry we proved that the angles of a triangle add up to 180 degrees.",
+    "zh": "几何课上我们证明了三角形的内角和是 180 度。"
    }
   ],
   "col": [

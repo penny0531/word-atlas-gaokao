@@ -215,6 +215,11 @@ def exact_or_inflected(word: str, sentence: str) -> bool:
     for tok in found:
         if tok.startswith(w) and tok[len(w):] in {"s", "es", "ed", "d", "ing", "er", "est", "ly"}:
             return True
+    if len(w) > 3 and w.endswith("y") and w[-2] not in "aeiou":
+        stem = w[:-1]
+        for tok in found:
+            if tok.startswith(stem) and tok[len(stem):] in {"ies", "ied", "ier", "iest"}:
+                return True
     return False
 
 

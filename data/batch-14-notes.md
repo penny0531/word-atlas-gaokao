@@ -74,6 +74,10 @@ needle, frontier, handy, hers, thorough, preview, tendency, collision, homeland,
 
 播放路径只有 `audio/ex/{id}.mp3` 和 `audio/ex2/{id}.mp3`。168 条第一条例句、17 条第二条例句的路径上原先有未挂到任何卡的上游录音，内容不是本批的新句子。这些文件换成了新句子的 Kokoro 录音，否则新卡会播错句子。原先 2597 张卡的例句文件一个都没改。被换掉的上游字节仍在起点提交 `056063d1` 里。
 
+## 语言修订
+
+独立复查标出 15 处必须改的语言问题，都改在这 200 张新卡上。8 个近义词栏把反义词写进了 `syn`（expose、dull、unconscious、fierce、lend、polite、vague、lively），已把真正的近义词放回 `syn`，反义词放进 `ant`。`resign yourself to` 的提示改成「无可奈何地接受」。thriller、catalog 只改了中文。geometry、butterfly、mommy、colleague 的英文例句改了，并只重录了这 4 条 Kokoro（`af_heart`，en-us，语速 1.0）。其余例句文件、开屏口播和已有卡没有改。
+
 ## 校验
 
 - `npm test`：28 项通过。

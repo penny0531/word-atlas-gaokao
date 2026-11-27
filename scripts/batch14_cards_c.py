@@ -121,6 +121,7 @@ CARDS_C = [
             ("The debate grew fierce, yet both sides still listened when the chair asked for quiet.", "辩论变得激烈，但主席要求安静时双方仍然听着。"),
         ],
         ["fierce competition｜激烈的竞争", "a fierce animal｜凶猛的动物"],
+        ["fiercely (adv.)"],
         ["ferocious"],
         ["gentle"],
         tip="fierce 可以形容动物、风，也可以形容竞争或争论。",
@@ -146,7 +147,7 @@ CARDS_C = [
         ],
         ["lend sb sth｜借给某人某物", "lend a hand｜帮一把"],
         ["lent (past)"],
-        ["borrow"],
+        ["loan"],
         tip="lend 是借出，borrow 是借入。过去式 lent。lend a hand 是帮忙。",
     ),
     C(
@@ -184,6 +185,7 @@ CARDS_C = [
         ],
         ["polite request｜礼貌的请求", "polite to sb｜对某人有礼貌"],
         ["politely (adv.)", "politeness (n.)"],
+        ["courteous"],
         ["rude"],
         tip="It is polite to do sth。反义 rude。副词 politely。",
     ),
@@ -273,7 +275,7 @@ CARDS_C = [
         ],
         [
             ("The library catalog lists three copies.", "图书馆目录里列着三本。"),
-            ("Search the catalog by the writer's family name if you do not know the full title.", "如果不知道全名，就按作者的姓在目录里查。"),
+            ("Search the catalog by the writer's family name if you do not know the full title.", "如果不知道完整书名，就按作者的姓在目录里查。"),
         ],
         ["library catalog｜图书馆目录", "card catalog｜卡片目录"],
         tip="美式拼作 catalog。本批另有英式 catalogue，两条都能搜到。",
@@ -405,7 +407,7 @@ CARDS_C = [
         "media",
         [("n.", "惊险作品", "a book or film with an exciting, frightening plot")],
         [
-            ("That thriller kept me awake too late.", "那部惊险片让我醒得太晚。"),
+            ("That thriller kept me awake too late.", "那部惊险片让我看得太晚。"),
             ("The thriller ends on a train, and the class argued about who had taken the case.", "这部惊险故事在火车上收尾，全班争论是谁拿走了箱子。"),
         ],
         ["a crime thriller｜犯罪惊悚作品", "thriller writer｜惊险小说作家"],

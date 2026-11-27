@@ -46,7 +46,7 @@ CARDS_A = [
         [("n.", "同事", "a person you work with")],
         [
             ("A colleague saved me a seat in the hall.", "一位同事在礼堂给我留了座位。"),
-            ("She asked a colleague to read the figures before the meeting, so the chart would be fair.", "她请同事在会前看了数字，好让图表站得住。"),
+            ("She asked a colleague to read the figures before the meeting, so the chart would be accurate.", "她请同事在会前核对数字，好让图表准确。"),
         ],
         ["a colleague of mine｜我的一位同事", "work colleague｜同事"],
         ["fellow worker"],
@@ -76,6 +76,7 @@ CARDS_A = [
         ],
         ["expose sb to｜使某人接触", "exposed to the sun｜晒在阳光下"],
         ["exposure (n.)"],
+        ["reveal"],
         ["cover"],
         tip="expose sb to sth 是让人接触某事物。曝光秘密也用这个动词。",
     ),
@@ -419,7 +420,7 @@ CARDS_A = [
         ["resign from｜从…辞职", "resign as captain｜辞去队长"],
         ["resignation (n.)"],
         ["quit"],
-        tip="resign from a job。把某事交给别人是 resign yourself to，那是另一层意思。",
+        tip="resign from 是辞职。resign yourself to 是无可奈何地接受，不是把事情交给别人。",
     ),
     C(
         "steak",
