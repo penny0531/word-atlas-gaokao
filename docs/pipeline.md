@@ -57,6 +57,8 @@ curl -L -o .local/kokoro/models/voices-v1.0.bin \
 
 这个脚本只接受当前这 59 个 id，并且拒绝覆盖已经有词头文件或插画位的卡。付费的 `gen_word_audio.py` 不要用来补这批。
 
+第十四批里没有上游词头文件的 32 个新 id，用 `scripts/atlas/gen_kokoro_headword_audio_batch14.py` 另录。声音、语速和 mp3 规格与上面相同。它拒绝覆盖已有词头文件，也不写例句或开屏口播。没有同 id 上游插画、又不能免费画出来的词，插画位留空。
+
 ## 质量边界
 
 自动校验覆盖结构、字段、顺序和文件，不覆盖语义正确性。插画和例句没有逐条人工审校；发现问题请提 Issue 或 PR。例句录音另有音素覆盖、时长和 mp3 整文件解码检查，见 `data/kokoro-sentence-audio-manifest.json`。抽查 ASR 只在生成机器上运行，网站不下载语音模型。
