@@ -2850,7 +2850,7 @@
    "batch": 13,
    "zipf": 4.09,
    "ipaSource": "user-ref-uk",
-   "mediaReuseCandidate": false
+   "mediaReuseCandidate": true
   }
  },
  {
@@ -33541,7 +33541,7 @@
    "batch": 12,
    "zipf": 4.11,
    "ipaSource": "user-ref-uk",
-   "mediaReuseCandidate": false
+   "mediaReuseCandidate": true
   }
  },
  {
@@ -100430,7 +100430,7 @@
    "batch": 12,
    "zipf": 4.15,
    "ipaSource": "user-ref-uk",
-   "mediaReuseCandidate": false
+   "mediaReuseCandidate": true
   }
  },
  {
@@ -107552,7 +107552,7 @@
    "batch": 12,
    "zipf": 4.19,
    "ipaSource": "user-ref-uk",
-   "mediaReuseCandidate": false
+   "mediaReuseCandidate": true
   }
  },
  {
@@ -115119,7 +115119,7 @@
    "batch": 13,
    "zipf": 4.06,
    "ipaSource": "user-ref-uk",
-   "mediaReuseCandidate": false
+   "mediaReuseCandidate": true
   }
  },
  {
