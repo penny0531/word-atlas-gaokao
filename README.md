@@ -4,12 +4,12 @@
 
 **一词一画，看图记高考词。**
 
-约 2797 个高考英语核心词。一词一画，例句、英美发音，和一套刚刚好的复习节奏。<br>
+约 2997 个高考英语核心词。一词一画，例句、英美发音，和一套刚刚好的复习节奏。<br>
 免费，开源，无需注册。不是官方考纲。
 
 [**打开高考词图 →**](https://penny0531.github.io/word-atlas-gaokao/) &nbsp;·&nbsp; [下载词库](data/) &nbsp;·&nbsp; [English](README.en.md)
 
-![MIT](https://img.shields.io/badge/code-MIT-1E2640) ![CC BY 4.0](https://img.shields.io/badge/content-CC%20BY%204.0-C4573A) ![words](https://img.shields.io/badge/words-2797-7F9B77) ![FSRS](https://img.shields.io/badge/scheduler-FSRS%206-D9A03A) ![no login](https://img.shields.io/badge/login-not%20required-6F93AE)
+![MIT](https://img.shields.io/badge/code-MIT-1E2640) ![CC BY 4.0](https://img.shields.io/badge/content-CC%20BY%204.0-C4573A) ![words](https://img.shields.io/badge/words-2997-7F9B77) ![FSRS](https://img.shields.io/badge/scheduler-FSRS%206-D9A03A) ![no login](https://img.shields.io/badge/login-not%20required-6F93AE)
 
 基于 [词光 Word Atlas](https://github.com/designfuchen/word-atlas) contributors（词光）。代码 MIT，词库与媒体 CC BY 4.0。
 
@@ -17,7 +17,7 @@
 
 ---
 
-高考词图 fork 自 Word Atlas（词光）：交互、四种主动回忆题型、FSRS、词汇星图和声音设计都留着，词表换成高考英语核心词。现在有 2797 个词：先是约 200 个精选词，再按 wordfreq 的 Zipf 频率分十三批补进考纲里还没有的高频词；O.K. 与 okay、p.m. 与 pm、PC 与 p.c. 各合并成一条。英美拼写如 favour / favor、judgment / judgement、harbor / harbour 仍各列一条。后面再扩到约 3,500。频率来自公开语料的 Zipf，不是官方考频。
+高考词图 fork 自 Word Atlas（词光）：交互、四种主动回忆题型、FSRS、词汇星图和声音设计都留着，词表换成高考英语核心词。现在有 2997 个词：先是约 200 个精选词，再按 wordfreq 的 Zipf 频率分十四批补进考纲里还没有的高频词；O.K. 与 okay、p.m. 与 pm、PC 与 p.c. 各合并成一条。英美拼写如 favour / favor、judgment / judgement、harbor / harbour 仍各列一条。后面再扩到约 3,500。频率来自公开语料的 Zipf，不是官方考频。
 
 背单词最难的不是“看过”，而是“想得起来”。每个词一幅画，让你先看见它；主动回忆让你想起它；FSRS 在你快要忘记的时候让你和它重逢。学会一个，星图上就多一颗星。
 
@@ -25,11 +25,11 @@
 
 | 数量 | 内容 |
 |---:|---|
-| **2797** | 高考英语核心词，CEFR A1–B2，沿用 19 个话题旋臂 |
-| **2610** | 幅复古图鉴插画。能对上目录 id 的词复用词光原作（CC BY 4.0）。meter / fiber / harbor / humor / neighbor 用的是未占用的英式拼写原文件。另外 54 张是本地免费工具按同一画风画的。第十四批有 32 个新词没有同 id 的原图，先不配图 |
-| **5587** | 条例句：一条日常或校园短句，一条高考语境长句 |
-| **2635** | 个词有英音和美音词头录音。没有上游文件的词头用本地 Kokoro（英音 `bf_emma`，美音 `af_heart`）。更早那些本来就没有词头录音的卡仍用设备朗读 |
-| **5568** | 条例句录音，本地 Kokoro `af_heart`，美式，语速 1.0。另有 19 条原文仍匹配的上游例句录音保留 |
+| **2997** | 高考英语核心词，CEFR A1–C1，沿用 19 个话题旋臂 |
+| **2771** | 幅复古图鉴插画。能对上目录 id 的词复用词光原作（CC BY 4.0）。meter / fiber / harbor / humor / neighbor 用的是未占用的英式拼写原文件。另外 54 张是本地免费工具按同一画风画的。第十四批有 32 个新词、第十五批有 39 个新词没有同 id 的原图，先不配图 |
+| **5987** | 条例句：一条日常或校园短句，一条高考语境长句 |
+| **2835** | 个词有英音和美音词头录音。没有上游文件的词头用本地 Kokoro（英音 `bf_emma`，美音 `af_heart`）。更早那些本来就没有词头录音的卡仍用设备朗读 |
+| **5968** | 条例句录音，本地 Kokoro `af_heart`，美式，语速 1.0。另有 19 条原文仍匹配的上游例句录音保留 |
 | **0** | 账号、广告、追踪。进度只在你自己的设备上 |
 
 ## 看一看
@@ -64,7 +64,7 @@
 
 | | |
 |---|---|
-| 🖼 **一幅插画** | 2610 个词有图，优先复用词光原画。没有同 id 原文件的词先以文字学习，不借用别的词的图。 |
+| 🖼 **一幅插画** | 2771 个词有图，优先复用词光原画。没有同 id 原文件的词先以文字学习，不借用别的词的图。 |
 | 🔊 **英美发音** | 有上游文件的词头英音、美音仍是词光原录音。没有上游文件的补录词头是本地 Kokoro：英音 `bf_emma`，美音 `af_heart`，只读单词。「英式 / 美式」只切换词头。例句是当前英文的美式 Kokoro `af_heart` 录音；原文仍匹配的上游例句录音保留。 |
 | ✍️ **例句** | `ex[0]` 日常或校园短句；多数词还有 `ex[1]` 高考语境长句，配中文翻译。 |
 | 📚 **中英释义** | 最多 3 个义项，按高考里更常见的意思排在前面。 |
@@ -72,7 +72,7 @@
 
 ## 词汇星图
 
-2797 个词就是 2797 颗星。19 个话题仍各占一条旋臂。简单的词靠近中心，难的在外缘。拖动旋转、滚动缩放，点一颗星打开词卡。
+2997 个词就是 2997 颗星。19 个话题仍各占一条旋臂。简单的词靠近中心，难的在外缘。拖动旋转、滚动缩放，点一颗星打开词卡。
 
 ## 怎么帮你记住
 
@@ -84,7 +84,7 @@
 
 ## 词库
 
-`data/` 里是这 2797 个词，内容 **CC BY 4.0**。请署名 Word Atlas contributors（词光），并说明做过修改。选词说明见 [data/batch-2-notes.md](data/batch-2-notes.md)、[data/batch-3-notes.md](data/batch-3-notes.md)、[data/batch-4-notes.md](data/batch-4-notes.md)、[data/batch-5-notes.md](data/batch-5-notes.md)、[data/batch-6-notes.md](data/batch-6-notes.md)、[data/batch-7-notes.md](data/batch-7-notes.md)、[data/batch-8-notes.md](data/batch-8-notes.md)、[data/batch-9-notes.md](data/batch-9-notes.md)、[data/batch-10-notes.md](data/batch-10-notes.md)、[data/batch-11-notes.md](data/batch-11-notes.md)、[data/batch-12-notes.md](data/batch-12-notes.md)、[data/batch-13-notes.md](data/batch-13-notes.md) 和 [data/batch-14-notes.md](data/batch-14-notes.md)。
+`data/` 里是这 2997 个词，内容 **CC BY 4.0**。请署名 Word Atlas contributors（词光），并说明做过修改。选词说明见 [data/batch-2-notes.md](data/batch-2-notes.md)、[data/batch-3-notes.md](data/batch-3-notes.md)、[data/batch-4-notes.md](data/batch-4-notes.md)、[data/batch-5-notes.md](data/batch-5-notes.md)、[data/batch-6-notes.md](data/batch-6-notes.md)、[data/batch-7-notes.md](data/batch-7-notes.md)、[data/batch-8-notes.md](data/batch-8-notes.md)、[data/batch-9-notes.md](data/batch-9-notes.md)、[data/batch-10-notes.md](data/batch-10-notes.md)、[data/batch-11-notes.md](data/batch-11-notes.md)、[data/batch-12-notes.md](data/batch-12-notes.md)、[data/batch-13-notes.md](data/batch-13-notes.md)、[data/batch-14-notes.md](data/batch-14-notes.md) 和 [data/batch-15-notes.md](data/batch-15-notes.md)。
 
 | 文件 | 内容 |
 |---|---|

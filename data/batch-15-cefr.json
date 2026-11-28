@@ -1,0 +1,5885 @@
+[
+ {
+  "id": "relay",
+  "w": "relay",
+  "zipf": 3.86,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "relay"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈriːleɪ/",
+  "us": "/ˈriːleɪ/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "sunlight",
+  "w": "sunlight",
+  "zipf": 3.86,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "sunlight"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈsʌnlaɪt/",
+  "us": "/ˈsʌnlaɪt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "taxpayer",
+  "w": "taxpayer",
+  "zipf": 3.86,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈtakspeɪə/",
+  "us": "/ˈtækspeɪər/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "yourselves",
+  "w": "yourselves",
+  "zipf": 3.86,
+  "pos": "pron.",
+  "zipfBand": "B2",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "espeak-ng+override",
+  "ipaNote": "stress or vowel corrected after espeak-ng 1.51",
+  "uk": "/jɔːˈsɛlvz/",
+  "us": "/jərˈsɛlvz/",
+  "missingImg": true,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "kokoro"
+ },
+ {
+  "id": "allowance",
+  "w": "allowance",
+  "zipf": 3.85,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "allowance"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/əˈlaʊəns/",
+  "us": "/əˈlaʊəns/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "arbitrary",
+  "w": "arbitrary",
+  "zipf": 3.85,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈɑːbɪtrəri/",
+  "us": "/ˈɑːrbɪˌtrɛri/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "autonomous",
+  "w": "autonomous",
+  "zipf": 3.85,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ɔːˈtɒnəməs/",
+  "us": "/ɔːˈtɑːnəməs/",
+  "missingImg": true,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "kokoro"
+ },
+ {
+  "id": "bark",
+  "w": "bark",
+  "zipf": 3.85,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "bark"
+   },
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "bark"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [
+   {
+    "pos": "verb",
+    "cefr": "B2"
+   }
+  ],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈbɑːk/",
+  "us": "/ˈbɑːrk/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "carriage",
+  "w": "carriage",
+  "zipf": 3.85,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "carriage"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng+override",
+  "ipaNote": "stress or vowel corrected after espeak-ng 1.51",
+  "uk": "/ˈkærɪdʒ/",
+  "us": "/ˈkærɪdʒ/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "clarify",
+  "w": "clarify",
+  "zipf": 3.85,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "clarify"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "espeak-ng+override",
+  "ipaNote": "stress or vowel corrected after espeak-ng 1.51",
+  "uk": "/ˈklærɪfaɪ/",
+  "us": "/ˈklærɪˌfaɪ/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "diagram",
+  "w": "diagram",
+  "zipf": 3.85,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "diagram"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈdaɪəˌɡram/",
+  "us": "/ˈdaɪəˌɡræm/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "dismiss",
+  "w": "dismiss",
+  "zipf": 3.85,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "dismiss"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/dɪˈsmɪs/",
+  "us": "/dɪˈsmɪs/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "grandson",
+  "w": "grandson",
+  "zipf": 3.85,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "grandson"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈɡrandsʌn/",
+  "us": "/ˈɡrændsʌn/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "necklace",
+  "w": "necklace",
+  "zipf": 3.85,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "necklace"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈnɛkləs/",
+  "us": "/ˈnɛkləs/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "spit",
+  "w": "spit",
+  "zipf": 3.85,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈspɪt/",
+  "us": "/ˈspɪt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "tomato",
+  "w": "tomato",
+  "zipf": 3.85,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A1",
+    "headword": "tomato"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A1"
+  ],
+  "otherPos": [],
+  "cefr": "A1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/təˈmɑːtəʊ/",
+  "us": "/təˈmeɪtoʊ/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "volleyball",
+  "w": "volleyball",
+  "zipf": 3.85,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A1",
+    "headword": "volleyball"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A1"
+  ],
+  "otherPos": [],
+  "cefr": "A1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈvɒlɪˌbɔːl/",
+  "us": "/ˈvɑːlɪˌbɔːl/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "yell",
+  "w": "yell",
+  "zipf": 3.85,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "yell"
+   },
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "yell"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [
+   {
+    "pos": "noun",
+    "cefr": "B1"
+   }
+  ],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈjɛl/",
+  "us": "/ˈjɛl/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "advertisement",
+  "w": "advertisement",
+  "zipf": 3.84,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "advertisement"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng+override",
+  "ipaNote": "stress or vowel corrected after espeak-ng 1.51",
+  "uk": "/ədˈvɜːtɪsmənt/",
+  "us": "/ˌædvərˈtaɪzmənt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "analyze",
+  "w": "analyze",
+  "zipf": 3.84,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "analyze"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng+override",
+  "ipaNote": "stress or vowel corrected after espeak-ng 1.51",
+  "uk": "/ˈænəlaɪz/",
+  "us": "/ˈænəˌlaɪz/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "enthusiastic",
+  "w": "enthusiastic",
+  "zipf": 3.84,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "adjective",
+    "cefr": "B1",
+    "headword": "enthusiastic"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng+override",
+  "ipaNote": "stress or vowel corrected after espeak-ng 1.51",
+  "uk": "/ɪnˌθjuːziˈæstɪk/",
+  "us": "/ɪnˌθuːziˈæstɪk/",
+  "missingImg": true,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "kokoro"
+ },
+ {
+  "id": "envy",
+  "w": "envy",
+  "zipf": 3.84,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "envy"
+   },
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "envy"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [
+   {
+    "pos": "noun",
+    "cefr": "A2"
+   }
+  ],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈɛnvi/",
+  "us": "/ˈɛnvi/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "goose",
+  "w": "goose",
+  "zipf": 3.84,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈɡuːs/",
+  "us": "/ˈɡuːs/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "grill",
+  "w": "grill",
+  "zipf": 3.84,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "grill"
+   },
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "grill"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [
+   {
+    "pos": "verb",
+    "cefr": "B1"
+   }
+  ],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈɡrɪl/",
+  "us": "/ˈɡrɪl/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "heel",
+  "w": "heel",
+  "zipf": 3.84,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "heel"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈhiːl/",
+  "us": "/ˈhiːl/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "mat",
+  "w": "mat",
+  "zipf": 3.84,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "espeak-ng+override",
+  "ipaNote": "stress or vowel corrected after espeak-ng 1.51",
+  "uk": "/ˈmæt/",
+  "us": "/ˈmæt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "paperwork",
+  "w": "paperwork",
+  "zipf": 3.84,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "paperwork"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈpeɪpəˌwɜːk/",
+  "us": "/ˈpeɪpərˌwɜːk/",
+  "missingImg": true,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "kokoro"
+ },
+ {
+  "id": "ruler",
+  "w": "ruler",
+  "zipf": 3.84,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A1",
+    "headword": "ruler"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A1"
+  ],
+  "otherPos": [],
+  "cefr": "A1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈruːlə/",
+  "us": "/ˈruːlər/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "tasty",
+  "w": "tasty",
+  "zipf": 3.84,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "adjective",
+    "cefr": "B1",
+    "headword": "tasty"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈteɪsti/",
+  "us": "/ˈteɪsti/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "tolerate",
+  "w": "tolerate",
+  "zipf": 3.84,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "tolerate"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈtɒləˌreɪt/",
+  "us": "/ˈtɑːlərˌreɪt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "afterward",
+  "w": "afterward",
+  "zipf": 3.83,
+  "pos": "adv.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "adverb",
+    "cefr": "B1",
+    "headword": "afterward"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng+override",
+  "ipaNote": "stress or vowel corrected after espeak-ng 1.51",
+  "uk": "/ˈɑːftəwəd/",
+  "us": "/ˈæftərwərd/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "boil",
+  "w": "boil",
+  "zipf": 3.83,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "A2",
+    "headword": "boil"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈbɔɪl/",
+  "us": "/ˈbɔɪl/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "breakthrough",
+  "w": "breakthrough",
+  "zipf": 3.83,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "breakthrough"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈbreɪkθruː/",
+  "us": "/ˈbreɪkθruː/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "convey",
+  "w": "convey",
+  "zipf": 3.83,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "convey"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/kəˈnveɪ/",
+  "us": "/kəˈnveɪ/",
+  "missingImg": true,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "kokoro"
+ },
+ {
+  "id": "dessert",
+  "w": "dessert",
+  "zipf": 3.83,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "dessert"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/dɪˈzɜːt/",
+  "us": "/dɪˈzɜːt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "humour",
+  "w": "humour",
+  "zipf": 3.83,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "humour"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈhjuːmə/",
+  "us": "/ˈhjuːmər/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "merry",
+  "w": "merry",
+  "zipf": 3.83,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "adjective",
+    "cefr": "A1",
+    "headword": "merry"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A1"
+  ],
+  "otherPos": [],
+  "cefr": "A1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈmɛri/",
+  "us": "/ˈmɛri/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "obey",
+  "w": "obey",
+  "zipf": 3.83,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "obey"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/əʊˈbeɪ/",
+  "us": "/oʊˈbeɪ/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "shave",
+  "w": "shave",
+  "zipf": 3.83,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "shave"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈʃeɪv/",
+  "us": "/ˈʃeɪv/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "sickness",
+  "w": "sickness",
+  "zipf": 3.83,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "sickness"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈsɪknəs/",
+  "us": "/ˈsɪknəs/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "straightforward",
+  "w": "straightforward",
+  "zipf": 3.83,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "adjective",
+    "cefr": "B2",
+    "headword": "straightforward"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/streɪˈtfɔːwəd/",
+  "us": "/streɪˈtfɔːrwərd/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "zoom",
+  "w": "zoom",
+  "zipf": 3.83,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "zoom"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [
+   {
+    "pos": "noun",
+    "cefr": "B2"
+   }
+  ],
+  "cefr": "B2",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈzuːm/",
+  "us": "/ˈzuːm/",
+  "missingImg": true,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "kokoro"
+ },
+ {
+  "id": "addicted",
+  "w": "addicted",
+  "zipf": 3.82,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "adjective",
+    "cefr": "B2",
+    "headword": "addicted"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/əˈdɪktɪd/",
+  "us": "/əˈdɪktɪd/",
+  "missingImg": true,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "kokoro"
+ },
+ {
+  "id": "cube",
+  "w": "cube",
+  "zipf": 3.82,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "cube"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈkjuːb/",
+  "us": "/ˈkjuːb/",
+  "missingImg": true,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "kokoro"
+ },
+ {
+  "id": "decoration",
+  "w": "decoration",
+  "zipf": 3.82,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "decoration"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˌdɛkəˈreɪʃən/",
+  "us": "/ˌdɛkərˈreɪʃən/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "hatch",
+  "w": "hatch",
+  "zipf": 3.82,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "hatch"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [
+   {
+    "pos": "noun",
+    "cefr": "B1"
+   }
+  ],
+  "cefr": "B2",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "espeak-ng+override",
+  "ipaNote": "stress or vowel corrected after espeak-ng 1.51",
+  "uk": "/ˈhætʃ/",
+  "us": "/ˈhætʃ/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "niece",
+  "w": "niece",
+  "zipf": 3.82,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "niece"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈniːs/",
+  "us": "/ˈniːs/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "pardon",
+  "w": "pardon",
+  "zipf": 3.82,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A1",
+    "headword": "pardon"
+   },
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "pardon"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [
+   {
+    "pos": "noun",
+    "cefr": "A1"
+   }
+  ],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈpɑːdən/",
+  "us": "/ˈpɑːrdən/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "persuade",
+  "w": "persuade",
+  "zipf": 3.82,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "persuade"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/pəˈsweɪd/",
+  "us": "/pərˈsweɪd/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "quiz",
+  "w": "quiz",
+  "zipf": 3.82,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "quiz"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈkwɪz/",
+  "us": "/ˈkwɪz/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "rainfall",
+  "w": "rainfall",
+  "zipf": 3.82,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "rainfall"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈreɪnfɔːl/",
+  "us": "/ˈreɪnfɔːl/",
+  "missingImg": true,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "kokoro"
+ },
+ {
+  "id": "revision",
+  "w": "revision",
+  "zipf": 3.82,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "revision"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/rɪˈvɪʒən/",
+  "us": "/rɪˈvɪʒən/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "vocabulary",
+  "w": "vocabulary",
+  "zipf": 3.82,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "vocabulary"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/vəʊˈkabjʊləri/",
+  "us": "/voʊˈkæbjʊˌlɛri/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "accompany",
+  "w": "accompany",
+  "zipf": 3.81,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "accompany"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/əˈkʌmpəni/",
+  "us": "/əˈkʌmpəni/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "barber",
+  "w": "barber",
+  "zipf": 3.81,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "barber"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈbɑːbə/",
+  "us": "/ˈbɑːrbər/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "boycott",
+  "w": "boycott",
+  "zipf": 3.81,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈbɔɪkɒt/",
+  "us": "/ˈbɔɪkɑːt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "carpenter",
+  "w": "carpenter",
+  "zipf": 3.81,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈkɑːpəntə/",
+  "us": "/ˈkɑːrpəntər/",
+  "missingImg": true,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "kokoro"
+ },
+ {
+  "id": "cuisine",
+  "w": "cuisine",
+  "zipf": 3.81,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/kwɪˈziːn/",
+  "us": "/kwɪˈziːn/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "dioxide",
+  "w": "dioxide",
+  "zipf": 3.81,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "dioxide"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/daɪˈɒksaɪd/",
+  "us": "/daɪˈɑːksaɪd/",
+  "missingImg": true,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "kokoro"
+ },
+ {
+  "id": "flee",
+  "w": "flee",
+  "zipf": 3.81,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "flee"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈfliː/",
+  "us": "/ˈfliː/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "forwards",
+  "w": "forwards",
+  "zipf": 3.81,
+  "pos": "adv.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "adverb",
+    "cefr": "A2",
+    "headword": "forwards"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈfɔːwədz/",
+  "us": "/ˈfɔːrwərdz/",
+  "missingImg": true,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "kokoro"
+ },
+ {
+  "id": "lid",
+  "w": "lid",
+  "zipf": 3.81,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "lid"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈlɪd/",
+  "us": "/ˈlɪd/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "pupil",
+  "w": "pupil",
+  "zipf": 3.81,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "pupil"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈpjuːpəl/",
+  "us": "/ˈpjuːpəl/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "sofa",
+  "w": "sofa",
+  "zipf": 3.81,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A1",
+    "headword": "sofa"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A1"
+  ],
+  "otherPos": [],
+  "cefr": "A1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈsəʊfə/",
+  "us": "/ˈsoʊfə/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "communism",
+  "w": "communism",
+  "zipf": 3.8,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈkɒmjuːˌnɪzəm/",
+  "us": "/ˈkɑːmjuːˌnɪzəm/",
+  "missingImg": true,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "kokoro"
+ },
+ {
+  "id": "conductor",
+  "w": "conductor",
+  "zipf": 3.8,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "conductor"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/kəˈndʌktə/",
+  "us": "/kəˈndʌktər/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "explode",
+  "w": "explode",
+  "zipf": 3.8,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "explode"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ɛˈkspləʊd/",
+  "us": "/ɛˈksploʊd/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "glue",
+  "w": "glue",
+  "zipf": 3.8,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈɡluː/",
+  "us": "/ˈɡluː/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "grandpa",
+  "w": "grandpa",
+  "zipf": 3.8,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A1",
+    "headword": "grandpa"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A1"
+  ],
+  "otherPos": [],
+  "cefr": "A1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng+override",
+  "ipaNote": "stress or vowel corrected after espeak-ng 1.51",
+  "uk": "/ˈɡrænpɑː/",
+  "us": "/ˈɡrændpɑː/",
+  "missingImg": true,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "kokoro"
+ },
+ {
+  "id": "luggage",
+  "w": "luggage",
+  "zipf": 3.8,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "luggage"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈlʌɡɪdʒ/",
+  "us": "/ˈlʌɡɪdʒ/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "madame",
+  "w": "madame",
+  "zipf": 3.8,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "madame"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "espeak-ng+override",
+  "ipaNote": "stress or vowel corrected after espeak-ng 1.51",
+  "uk": "/ˈmædəm/",
+  "us": "/ˈmædəm/",
+  "missingImg": true,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "kokoro"
+ },
+ {
+  "id": "microwave",
+  "w": "microwave",
+  "zipf": 3.8,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "microwave"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈmaɪkrəʊˌweɪv/",
+  "us": "/ˈmaɪkroʊˌweɪv/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "performer",
+  "w": "performer",
+  "zipf": 3.8,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "performer"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/pəˈfɔːmə/",
+  "us": "/pərˈfoːrmər/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "picnic",
+  "w": "picnic",
+  "zipf": 3.8,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A1",
+    "headword": "picnic"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A1"
+  ],
+  "otherPos": [],
+  "cefr": "A1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈpɪknɪk/",
+  "us": "/ˈpɪknɪk/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "primitive",
+  "w": "primitive",
+  "zipf": 3.8,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "adjective",
+    "cefr": "B1",
+    "headword": "primitive"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈprɪmɪˌtɪv/",
+  "us": "/ˈprɪmɪˌtɪv/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "sausage",
+  "w": "sausage",
+  "zipf": 3.8,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "sausage"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈsɒsɪdʒ/",
+  "us": "/ˈsɔːsɪdʒ/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "seize",
+  "w": "seize",
+  "zipf": 3.8,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "seize"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈsiːz/",
+  "us": "/ˈsiːz/",
+  "missingImg": true,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "kokoro"
+ },
+ {
+  "id": "tick",
+  "w": "tick",
+  "zipf": 3.8,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "tick"
+   },
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "tick"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [
+   {
+    "pos": "noun",
+    "cefr": "B1"
+   }
+  ],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈtɪk/",
+  "us": "/ˈtɪk/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "vacant",
+  "w": "vacant",
+  "zipf": 3.8,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "adjective",
+    "cefr": "B2",
+    "headword": "vacant"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈveɪkənt/",
+  "us": "/ˈveɪkənt/",
+  "missingImg": true,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "kokoro"
+ },
+ {
+  "id": "warmth",
+  "w": "warmth",
+  "zipf": 3.8,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "warmth"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈwɔːmθ/",
+  "us": "/ˈwɔːrmθ/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "cautious",
+  "w": "cautious",
+  "zipf": 3.79,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "adjective",
+    "cefr": "B1",
+    "headword": "cautious"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈkɔːʃəs/",
+  "us": "/ˈkɔːʃəs/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "encouragement",
+  "w": "encouragement",
+  "zipf": 3.79,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "encouragement"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng+override",
+  "ipaNote": "stress or vowel corrected after espeak-ng 1.51",
+  "uk": "/ɪnˈkʌrɪdʒmənt/",
+  "us": "/ɪnˈkɜːrɪdʒmənt/",
+  "missingImg": true,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "kokoro"
+ },
+ {
+  "id": "hesitate",
+  "w": "hesitate",
+  "zipf": 3.79,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "hesitate"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈhɛzɪˌteɪt/",
+  "us": "/ˈhɛzɪˌteɪt/",
+  "missingImg": true,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "kokoro"
+ },
+ {
+  "id": "hopeful",
+  "w": "hopeful",
+  "zipf": 3.79,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "adjective",
+    "cefr": "B1",
+    "headword": "hopeful"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈhəʊpfəl/",
+  "us": "/ˈhoʊpfəl/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "kindergarten",
+  "w": "kindergarten",
+  "zipf": 3.79,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈkɪndəˌɡɑːtən/",
+  "us": "/ˈkɪndərˌɡɑːrən/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "playground",
+  "w": "playground",
+  "zipf": 3.79,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "playground"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈpleɪɡraʊnd/",
+  "us": "/ˈpleɪɡraʊnd/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "prejudice",
+  "w": "prejudice",
+  "zipf": 3.79,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "prejudice"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈprɛdʒuːdɪs/",
+  "us": "/ˈprɛdʒuːdɪs/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "spokesman",
+  "w": "spokesman",
+  "zipf": 3.79,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "spokesman"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈspəʊksmən/",
+  "us": "/ˈspoʊksmən/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "subjective",
+  "w": "subjective",
+  "zipf": 3.79,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "espeak-ng+override",
+  "ipaNote": "stress or vowel corrected after espeak-ng 1.51",
+  "uk": "/səbˈdʒektɪv/",
+  "us": "/səbˈdʒektɪv/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "surround",
+  "w": "surround",
+  "zipf": 3.79,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "surround"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/səˈraʊnd/",
+  "us": "/sərˈraʊnd/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "allergic",
+  "w": "allergic",
+  "zipf": 3.78,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "adjective",
+    "cefr": "B1",
+    "headword": "allergic"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/əˈlɜːdʒɪk/",
+  "us": "/əˈlɜːdʒɪk/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "balcony",
+  "w": "balcony",
+  "zipf": 3.78,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "balcony"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng+override",
+  "ipaNote": "stress or vowel corrected after espeak-ng 1.51",
+  "uk": "/ˈbælkəni/",
+  "us": "/ˈbælkəni/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "compensate",
+  "w": "compensate",
+  "zipf": 3.78,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "compensate"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈkɒmpəˌnseɪt/",
+  "us": "/ˈkɑːmpəˌnseɪt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "drawer",
+  "w": "drawer",
+  "zipf": 3.78,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "drawer"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈdrɔː/",
+  "us": "/ˈdrɔːr/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "queue",
+  "w": "queue",
+  "zipf": 3.78,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "queue"
+   },
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "queue"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [
+   {
+    "pos": "verb",
+    "cefr": "B2"
+   }
+  ],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈkjuː/",
+  "us": "/ˈkjuː/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "sailor",
+  "w": "sailor",
+  "zipf": 3.78,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A1",
+    "headword": "sailor"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A1"
+  ],
+  "otherPos": [],
+  "cefr": "A1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈseɪlə/",
+  "us": "/ˈseɪlər/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "supermarket",
+  "w": "supermarket",
+  "zipf": 3.78,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A1",
+    "headword": "supermarket"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A1"
+  ],
+  "otherPos": [],
+  "cefr": "A1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈsuːpəˌmɑːkɪt/",
+  "us": "/ˈsuːpərˌmɑːrkɪt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "sweater",
+  "w": "sweater",
+  "zipf": 3.78,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "sweater"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈswɛtə/",
+  "us": "/ˈswɛtər/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "tractor",
+  "w": "tractor",
+  "zipf": 3.78,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "espeak-ng+override",
+  "ipaNote": "stress or vowel corrected after espeak-ng 1.51",
+  "uk": "/ˈtræktə/",
+  "us": "/ˈtræktər/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "abundant",
+  "w": "abundant",
+  "zipf": 3.77,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "adjective",
+    "cefr": "B1",
+    "headword": "abundant"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/əˈbʌndənt/",
+  "us": "/əˈbʌndənt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "algebra",
+  "w": "algebra",
+  "zipf": 3.77,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "espeak-ng+override",
+  "ipaNote": "stress or vowel corrected after espeak-ng 1.51",
+  "uk": "/ˈældʒɪbrə/",
+  "us": "/ˈældʒɪbrə/",
+  "missingImg": true,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "kokoro"
+ },
+ {
+  "id": "dinosaur",
+  "w": "dinosaur",
+  "zipf": 3.77,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "dinosaur"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈdaɪnəˌsɔː/",
+  "us": "/ˈdaɪnəˌsɔːr/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "herb",
+  "w": "herb",
+  "zipf": 3.77,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "herb"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "espeak-ng+override",
+  "ipaNote": "stress or vowel corrected after espeak-ng 1.51",
+  "uk": "/ɜːb/",
+  "us": "/ɜːrb/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "interval",
+  "w": "interval",
+  "zipf": 3.77,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "interval"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈɪntəvəl/",
+  "us": "/ˈɪntərvəl/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "packet",
+  "w": "packet",
+  "zipf": 3.77,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "packet"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "espeak-ng+override",
+  "ipaNote": "stress or vowel corrected after espeak-ng 1.51",
+  "uk": "/ˈpækɪt/",
+  "us": "/ˈpækɪt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "peach",
+  "w": "peach",
+  "zipf": 3.77,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "peach"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈpiːtʃ/",
+  "us": "/ˈpiːtʃ/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "scar",
+  "w": "scar",
+  "zipf": 3.77,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "scar"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈskɑː/",
+  "us": "/ˈskɑːr/",
+  "missingImg": true,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "kokoro"
+ },
+ {
+  "id": "seminar",
+  "w": "seminar",
+  "zipf": 3.77,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "seminar"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈsɛmɪˌnɑː/",
+  "us": "/ˈsɛmɪˌnɑːr/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "symphony",
+  "w": "symphony",
+  "zipf": 3.77,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "symphony"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈsɪmfəni/",
+  "us": "/ˈsɪmfəni/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "textbook",
+  "w": "textbook",
+  "zipf": 3.77,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "textbook"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈtɛkstbʊk/",
+  "us": "/ˈtɛkstbʊk/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "worm",
+  "w": "worm",
+  "zipf": 3.77,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "worm"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈwɜːm/",
+  "us": "/ˈwɜːm/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "accountant",
+  "w": "accountant",
+  "zipf": 3.76,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "accountant"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/əˈkaʊntənt/",
+  "us": "/əˈkaʊntənt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "diploma",
+  "w": "diploma",
+  "zipf": 3.76,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "diploma"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/dɪˈpləʊmə/",
+  "us": "/dɪˈploʊmə/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "gram",
+  "w": "gram",
+  "zipf": 3.76,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "gram"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng+override",
+  "ipaNote": "stress or vowel corrected after espeak-ng 1.51",
+  "uk": "/ˈɡræm/",
+  "us": "/ˈɡræm/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "insect",
+  "w": "insect",
+  "zipf": 3.76,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "insect"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈɪnsɛkt/",
+  "us": "/ˈɪnsɛkt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "metre",
+  "w": "metre",
+  "zipf": 3.76,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "metre"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈmiːtə/",
+  "us": "/ˈmiːtər/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "restriction",
+  "w": "restriction",
+  "zipf": 3.76,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "restriction"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/rɪˈstrɪkʃən/",
+  "us": "/rɪˈstrɪkʃən/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "stainless",
+  "w": "stainless",
+  "zipf": 3.76,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈsteɪnləs/",
+  "us": "/ˈsteɪnləs/",
+  "missingImg": true,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "kokoro"
+ },
+ {
+  "id": "stubborn",
+  "w": "stubborn",
+  "zipf": 3.76,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "adjective",
+    "cefr": "B1",
+    "headword": "stubborn"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈstʌbən/",
+  "us": "/ˈstʌbərn/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "volcano",
+  "w": "volcano",
+  "zipf": 3.76,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "volcano"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/vɒˈlkeɪnəʊ/",
+  "us": "/vɑːˈlkeɪnoʊ/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "butcher",
+  "w": "butcher",
+  "zipf": 3.75,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "butcher"
+   },
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "butcher"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [
+   {
+    "pos": "verb",
+    "cefr": "B2"
+   }
+  ],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈbʊtʃə/",
+  "us": "/ˈbʊtʃər/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "cafe",
+  "w": "café",
+  "zipf": 3.75,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A1",
+    "headword": "café"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A1"
+  ],
+  "otherPos": [],
+  "cefr": "A1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng+override",
+  "ipaNote": "stress or vowel corrected after espeak-ng 1.51",
+  "uk": "/ˈkæfeɪ/",
+  "us": "/kæˈfeɪ/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "deed",
+  "w": "deed",
+  "zipf": 3.75,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "deed"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈdiːd/",
+  "us": "/ˈdiːd/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "gallon",
+  "w": "gallon",
+  "zipf": 3.75,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "gallon"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng+override",
+  "ipaNote": "stress or vowel corrected after espeak-ng 1.51",
+  "uk": "/ˈɡælən/",
+  "us": "/ˈɡælən/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "greedy",
+  "w": "greedy",
+  "zipf": 3.75,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "adjective",
+    "cefr": "A2",
+    "headword": "greedy"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈɡriːdi/",
+  "us": "/ˈɡriːdi/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "maths",
+  "w": "maths",
+  "zipf": 3.75,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A1",
+    "headword": "maths"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A1"
+  ],
+  "otherPos": [],
+  "cefr": "A1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈmaθs/",
+  "us": "/ˈmæθs/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "perfume",
+  "w": "perfume",
+  "zipf": 3.75,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "perfume"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈpɜːfjuːm/",
+  "us": "/ˈpɜːfjuːm/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "pyramid",
+  "w": "pyramid",
+  "zipf": 3.75,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈpɪrəˌmɪd/",
+  "us": "/ˈpɪrəˌmɪd/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "rigid",
+  "w": "rigid",
+  "zipf": 3.75,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈrɪdʒɪd/",
+  "us": "/ˈrɪdʒɪd/",
+  "missingImg": true,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "kokoro"
+ },
+ {
+  "id": "splendid",
+  "w": "splendid",
+  "zipf": 3.75,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈsplɛndɪd/",
+  "us": "/ˈsplɛndɪd/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "telescope",
+  "w": "telescope",
+  "zipf": 3.75,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "telescope"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈtɛlɪˌskəʊp/",
+  "us": "/ˈtɛlɪˌskoʊp/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "upwards",
+  "w": "upwards",
+  "zipf": 3.75,
+  "pos": "adv.",
+  "zipfBand": "B2",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈʌpwədz/",
+  "us": "/ˈʌpwərdz/",
+  "missingImg": true,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "kokoro"
+ },
+ {
+  "id": "violate",
+  "w": "violate",
+  "zipf": 3.75,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "violate"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈvaɪəleɪt/",
+  "us": "/ˈvaɪəleɪt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "vivid",
+  "w": "vivid",
+  "zipf": 3.75,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "adjective",
+    "cefr": "B1",
+    "headword": "vivid"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈvɪvɪd/",
+  "us": "/ˈvɪvɪd/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "amusement",
+  "w": "amusement",
+  "zipf": 3.74,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "amusement"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/əˈmjuːzmənt/",
+  "us": "/əˈmjuːzmənt/",
+  "missingImg": true,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "kokoro"
+ },
+ {
+  "id": "baggage",
+  "w": "baggage",
+  "zipf": 3.74,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "baggage"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈbaɡɪdʒ/",
+  "us": "/ˈbæɡɪdʒ/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "compass",
+  "w": "compass",
+  "zipf": 3.74,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈkʌmpəs/",
+  "us": "/ˈkʌmpəs/",
+  "missingImg": true,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "kokoro"
+ },
+ {
+  "id": "ecology",
+  "w": "ecology",
+  "zipf": 3.74,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "ecology"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ɛˈkɒlədʒi/",
+  "us": "/ɛˈkɑːlədʒi/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "jewellery",
+  "w": "jewellery",
+  "zipf": 3.74,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A1",
+    "headword": "jewellery"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A1"
+  ],
+  "otherPos": [],
+  "cefr": "A1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈdʒuːəlri/",
+  "us": "/ˈdʒuːəlri/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "nod",
+  "w": "nod",
+  "zipf": 3.74,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "nod"
+   },
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "nod"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [
+   {
+    "pos": "noun",
+    "cefr": "B1"
+   }
+  ],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈnɒd/",
+  "us": "/ˈnɑːd/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "notebook",
+  "w": "notebook",
+  "zipf": 3.74,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A1",
+    "headword": "notebook"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A1"
+  ],
+  "otherPos": [],
+  "cefr": "A1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈnəʊtbʊk/",
+  "us": "/ˈnoʊtbʊk/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "overweight",
+  "w": "overweight",
+  "zipf": 3.74,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "adjective",
+    "cefr": "A2",
+    "headword": "overweight"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˌəʊvəˈweɪt/",
+  "us": "/ˌoʊvərˈweɪt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "policeman",
+  "w": "policeman",
+  "zipf": 3.74,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "policeman"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/pəˈliːsmən/",
+  "us": "/pəˈliːsmən/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "rainy",
+  "w": "rainy",
+  "zipf": 3.74,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "adjective",
+    "cefr": "A1",
+    "headword": "rainy"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A1"
+  ],
+  "otherPos": [],
+  "cefr": "A1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈreɪni/",
+  "us": "/ˈreɪni/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "salty",
+  "w": "salty",
+  "zipf": 3.74,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "adjective",
+    "cefr": "B2",
+    "headword": "salty"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈsɒlti/",
+  "us": "/ˈsɔlti/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "skate",
+  "w": "skate",
+  "zipf": 3.74,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "skate"
+   },
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "skate"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [
+   {
+    "pos": "noun",
+    "cefr": "A2"
+   }
+  ],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈskeɪt/",
+  "us": "/ˈskeɪt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "supper",
+  "w": "supper",
+  "zipf": 3.74,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "supper"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈsʌpə/",
+  "us": "/ˈsʌpər/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "vain",
+  "w": "vain",
+  "zipf": 3.74,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "adjective",
+    "cefr": "B1",
+    "headword": "vain"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈveɪn/",
+  "us": "/ˈveɪn/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "violin",
+  "w": "violin",
+  "zipf": 3.74,
+  "pos": "n.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "violin"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/vaɪəˈlɪn/",
+  "us": "/vaɪəˈlɪn/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "whisper",
+  "w": "whisper",
+  "zipf": 3.74,
+  "pos": "v.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "whisper"
+   },
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "whisper"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [
+   {
+    "pos": "noun",
+    "cefr": "B1"
+   }
+  ],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈwɪspə/",
+  "us": "/ˈwɪspər/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "worthwhile",
+  "w": "worthwhile",
+  "zipf": 3.74,
+  "pos": "adj.",
+  "zipfBand": "B2",
+  "published": [
+   {
+    "pos": "adjective",
+    "cefr": "B1",
+    "headword": "worthwhile"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/wɜːˈθwaɪl/",
+  "us": "/wɜːˈθwaɪl/",
+  "missingImg": true,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "kokoro"
+ },
+ {
+  "id": "aluminium",
+  "w": "aluminium",
+  "zipf": 3.73,
+  "pos": "n.",
+  "zipfBand": "C1",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "aluminium"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng+override",
+  "ipaNote": "stress or vowel corrected after espeak-ng 1.51",
+  "uk": "/ˌæljəˈmɪniəm/",
+  "us": "/ˌæljəˈmɪniəm/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "compact-disk",
+  "w": "compact disk",
+  "zipf": 3.73,
+  "pos": "n.",
+  "zipfBand": "C1",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "C1",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "espeak-ng+override",
+  "ipaNote": "stress or vowel corrected after espeak-ng 1.51",
+  "uk": "/ˌkɒmpækt ˈdɪsk/",
+  "us": "/ˌkɑːmpækt ˈdɪsk/",
+  "missingImg": true,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "kokoro"
+ },
+ {
+  "id": "devotion",
+  "w": "devotion",
+  "zipf": 3.73,
+  "pos": "n.",
+  "zipfBand": "C1",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "devotion"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/dɪˈvəʊʃən/",
+  "us": "/dɪˈvoʊʃən/",
+  "missingImg": true,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "kokoro"
+ },
+ {
+  "id": "dilemma",
+  "w": "dilemma",
+  "zipf": 3.73,
+  "pos": "n.",
+  "zipfBand": "C1",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "dilemma"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/daɪˈlɛmə/",
+  "us": "/dɪˈlɛmə/",
+  "missingImg": true,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "kokoro"
+ },
+ {
+  "id": "glove",
+  "w": "glove",
+  "zipf": 3.73,
+  "pos": "n.",
+  "zipfBand": "C1",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "glove"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈɡlʌv/",
+  "us": "/ˈɡlʌv/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "greet",
+  "w": "greet",
+  "zipf": 3.73,
+  "pos": "v.",
+  "zipfBand": "C1",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "A1",
+    "headword": "greet"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A1"
+  ],
+  "otherPos": [],
+  "cefr": "A1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈɡriːt/",
+  "us": "/ˈɡriːt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "millionaire",
+  "w": "millionaire",
+  "zipf": 3.73,
+  "pos": "n.",
+  "zipfBand": "C1",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "millionaire"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˌmɪliəˈneə/",
+  "us": "/ˌmɪliəˈnɛr/",
+  "missingImg": true,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "kokoro"
+ },
+ {
+  "id": "popcorn",
+  "w": "popcorn",
+  "zipf": 3.73,
+  "pos": "n.",
+  "zipfBand": "C1",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "popcorn"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈpɒpkɔːn/",
+  "us": "/ˈpɑːpkɔːrn/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "resemble",
+  "w": "resemble",
+  "zipf": 3.73,
+  "pos": "v.",
+  "zipfBand": "C1",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "resemble"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/rɪˈzɛmbəl/",
+  "us": "/rɪˈzɛmbəl/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "shrink",
+  "w": "shrink",
+  "zipf": 3.73,
+  "pos": "v.",
+  "zipfBand": "C1",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "shrink"
+   },
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "shrink"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [
+   {
+    "pos": "noun",
+    "cefr": "B2"
+   }
+  ],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈʃrɪŋk/",
+  "us": "/ˈʃrɪŋk/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "sorrow",
+  "w": "sorrow",
+  "zipf": 3.73,
+  "pos": "n.",
+  "zipfBand": "C1",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "sorrow"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈsɒrəʊ/",
+  "us": "/ˈsɑːroʊ/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "undertake",
+  "w": "undertake",
+  "zipf": 3.73,
+  "pos": "v.",
+  "zipfBand": "C1",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "undertake"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˌʌndəˈteɪk/",
+  "us": "/ˌʌndərˈteɪk/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "vest",
+  "w": "vest",
+  "zipf": 3.73,
+  "pos": "n.",
+  "zipfBand": "C1",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "C1",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈvɛst/",
+  "us": "/ˈvɛst/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "atom",
+  "w": "atom",
+  "zipf": 3.72,
+  "pos": "n.",
+  "zipfBand": "C1",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "atom"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng+override",
+  "ipaNote": "stress or vowel corrected after espeak-ng 1.51",
+  "uk": "/ˈætəm/",
+  "us": "/ˈætəm/",
+  "missingImg": true,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "kokoro"
+ },
+ {
+  "id": "bleed",
+  "w": "bleed",
+  "zipf": 3.72,
+  "pos": "v.",
+  "zipfBand": "C1",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "bleed"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈbliːd/",
+  "us": "/ˈbliːd/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "caption",
+  "w": "caption",
+  "zipf": 3.72,
+  "pos": "n.",
+  "zipfBand": "C1",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "caption"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng+override",
+  "ipaNote": "stress or vowel corrected after espeak-ng 1.51",
+  "uk": "/ˈkæpʃən/",
+  "us": "/ˈkæpʃən/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "choke",
+  "w": "choke",
+  "zipf": 3.72,
+  "pos": "v.",
+  "zipfBand": "C1",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "choke"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈtʃəʊk/",
+  "us": "/ˈtʃoʊk/",
+  "missingImg": true,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "kokoro"
+ },
+ {
+  "id": "condemn",
+  "w": "condemn",
+  "zipf": 3.72,
+  "pos": "v.",
+  "zipfBand": "C1",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "condemn"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/kəˈndɛm/",
+  "us": "/kəˈndɛm/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "downstairs",
+  "w": "downstairs",
+  "zipf": 3.72,
+  "pos": "adv.",
+  "zipfBand": "C1",
+  "published": [
+   {
+    "pos": "adjective",
+    "cefr": "B1",
+    "headword": "downstairs"
+   },
+   {
+    "pos": "adverb",
+    "cefr": "A2",
+    "headword": "downstairs"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [
+   {
+    "pos": "adjective",
+    "cefr": "B1"
+   }
+  ],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈdaʊnsteəz/",
+  "us": "/ˈdaʊnstɛrz/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "jeep",
+  "w": "jeep",
+  "zipf": 3.72,
+  "pos": "n.",
+  "zipfBand": "C1",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "C1",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈdʒiːp/",
+  "us": "/ˈdʒiːp/",
+  "missingImg": true,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "kokoro"
+ },
+ {
+  "id": "motto",
+  "w": "motto",
+  "zipf": 3.72,
+  "pos": "n.",
+  "zipfBand": "C1",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "motto"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈmɒtəʊ/",
+  "us": "/ˈmɑːtoʊ/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "nationality",
+  "w": "nationality",
+  "zipf": 3.72,
+  "pos": "n.",
+  "zipfBand": "C1",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A1",
+    "headword": "nationality"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A1"
+  ],
+  "otherPos": [],
+  "cefr": "A1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng+override",
+  "ipaNote": "stress or vowel corrected after espeak-ng 1.51",
+  "uk": "/ˌnæʃəˈnæləti/",
+  "us": "/ˌnæʃəˈnæləti/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "pe",
+  "w": "PE",
+  "zipf": 3.72,
+  "pos": "n.",
+  "zipfBand": "C1",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "C1",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "espeak-ng+override",
+  "ipaNote": "stress or vowel corrected after espeak-ng 1.51",
+  "uk": "/ˌpiːˈiː/",
+  "us": "/ˌpiːˈiː/",
+  "missingImg": true,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "kokoro"
+ },
+ {
+  "id": "petrol",
+  "w": "petrol",
+  "zipf": 3.72,
+  "pos": "n.",
+  "zipfBand": "C1",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "petrol"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈpɛtrəl/",
+  "us": "/ˈpɛtrəl/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "radioactive",
+  "w": "radioactive",
+  "zipf": 3.72,
+  "pos": "adj.",
+  "zipfBand": "C1",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "C1",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˌreɪdɪəʊˈaktɪv/",
+  "us": "/ˌreɪdɪoʊˈæktɪv/",
+  "missingImg": true,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "kokoro"
+ },
+ {
+  "id": "razor",
+  "w": "razor",
+  "zipf": 3.72,
+  "pos": "n.",
+  "zipfBand": "C1",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "razor"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈreɪzə/",
+  "us": "/ˈreɪzər/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "strawberry",
+  "w": "strawberry",
+  "zipf": 3.72,
+  "pos": "n.",
+  "zipfBand": "C1",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "strawberry"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈstrɔːbəri/",
+  "us": "/ˈstrɔːbɛri/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "thrill",
+  "w": "thrill",
+  "zipf": 3.72,
+  "pos": "n.",
+  "zipfBand": "C1",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "thrill"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈθrɪl/",
+  "us": "/ˈθrɪl/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "abnormal",
+  "w": "abnormal",
+  "zipf": 3.71,
+  "pos": "adj.",
+  "zipfBand": "C1",
+  "published": [
+   {
+    "pos": "adjective",
+    "cefr": "B1",
+    "headword": "abnormal"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng+override",
+  "ipaNote": "stress or vowel corrected after espeak-ng 1.51",
+  "uk": "/æbˈnɔːməl/",
+  "us": "/æbˈnɔːrməl/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "accuse",
+  "w": "accuse",
+  "zipf": 3.71,
+  "pos": "v.",
+  "zipfBand": "C1",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "accuse"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/əˈkjuːz/",
+  "us": "/əˈkjuːz/",
+  "missingImg": true,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "kokoro"
+ },
+ {
+  "id": "ample",
+  "w": "ample",
+  "zipf": 3.71,
+  "pos": "adj.",
+  "zipfBand": "C1",
+  "published": [
+   {
+    "pos": "adjective",
+    "cefr": "B2",
+    "headword": "ample"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng+override",
+  "ipaNote": "stress or vowel corrected after espeak-ng 1.51",
+  "uk": "/ˈæmpəl/",
+  "us": "/ˈæmpəl/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "backward",
+  "w": "backward",
+  "zipf": 3.71,
+  "pos": "adv.",
+  "zipfBand": "C1",
+  "published": [
+   {
+    "pos": "adverb",
+    "cefr": "B2",
+    "headword": "backward"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng+override",
+  "ipaNote": "stress or vowel corrected after espeak-ng 1.51",
+  "uk": "/ˈbækwəd/",
+  "us": "/ˈbækwərd/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "bingo",
+  "w": "bingo",
+  "zipf": 3.71,
+  "pos": "n.",
+  "zipfBand": "C1",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "C1",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈbɪŋɡəʊ/",
+  "us": "/ˈbɪŋɡoʊ/",
+  "missingImg": true,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "kokoro"
+ },
+ {
+  "id": "cubic",
+  "w": "cubic",
+  "zipf": 3.71,
+  "pos": "adj.",
+  "zipfBand": "C1",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "C1",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈkjuːbɪk/",
+  "us": "/ˈkjuːbɪk/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "digest",
+  "w": "digest",
+  "zipf": 3.71,
+  "pos": "v.",
+  "zipfBand": "C1",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "digest"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [
+   {
+    "pos": "noun",
+    "cefr": "B2"
+   }
+  ],
+  "cefr": "C1",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/daɪˈdʒɛst/",
+  "us": "/daɪˈdʒɛst/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "disadvantage",
+  "w": "disadvantage",
+  "zipf": 3.71,
+  "pos": "n.",
+  "zipfBand": "C1",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "disadvantage"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˌdɪsəˈdvantɪdʒ/",
+  "us": "/ˌdɪsəˈdvæntɪdʒ/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "energetic",
+  "w": "energetic",
+  "zipf": 3.71,
+  "pos": "adj.",
+  "zipfBand": "C1",
+  "published": [
+   {
+    "pos": "adjective",
+    "cefr": "A2",
+    "headword": "energetic"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˌɛnəˈdʒɛtɪk/",
+  "us": "/ˌɛnərˈdʒɛtɪk/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "friction",
+  "w": "friction",
+  "zipf": 3.71,
+  "pos": "n.",
+  "zipfBand": "C1",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "C1",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈfrɪkʃən/",
+  "us": "/ˈfrɪkʃən/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "hopeless",
+  "w": "hopeless",
+  "zipf": 3.71,
+  "pos": "adj.",
+  "zipfBand": "C1",
+  "published": [
+   {
+    "pos": "adjective",
+    "cefr": "B1",
+    "headword": "hopeless"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈhəʊpləs/",
+  "us": "/ˈhoʊpləs/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "litter",
+  "w": "litter",
+  "zipf": 3.71,
+  "pos": "n.",
+  "zipfBand": "C1",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "litter"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈlɪtə/",
+  "us": "/ˈlɪtər/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "outdoors",
+  "w": "outdoors",
+  "zipf": 3.71,
+  "pos": "adv.",
+  "zipfBand": "C1",
+  "published": [
+   {
+    "pos": "adverb",
+    "cefr": "B1",
+    "headword": "outdoors"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/aʊˈtdɔːz/",
+  "us": "/aʊˈtdoːrz/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "pedestrian",
+  "w": "pedestrian",
+  "zipf": 3.71,
+  "pos": "n.",
+  "zipfBand": "C1",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "pedestrian"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/pəˈdɛstriən/",
+  "us": "/pəˈdɛstriən/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "recorder",
+  "w": "recorder",
+  "zipf": 3.71,
+  "pos": "n.",
+  "zipfBand": "C1",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "C1",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/rɪˈkɔːdə/",
+  "us": "/rɪˈkoːrdər/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "salute",
+  "w": "salute",
+  "zipf": 3.71,
+  "pos": "v.",
+  "zipfBand": "C1",
+  "published": [],
+  "publishedVia": null,
+  "samePosLevels": [],
+  "otherPos": [],
+  "cefr": "C1",
+  "decision": "zipf-band",
+  "differ": false,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/səˈluːt/",
+  "us": "/səˈluːt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "stove",
+  "w": "stove",
+  "zipf": 3.71,
+  "pos": "n.",
+  "zipfBand": "C1",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "stove"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "A2"
+  ],
+  "otherPos": [],
+  "cefr": "A2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈstəʊv/",
+  "us": "/ˈstoʊv/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "upward",
+  "w": "upward",
+  "zipf": 3.71,
+  "pos": "adj.",
+  "zipfBand": "C1",
+  "published": [
+   {
+    "pos": "adjective",
+    "cefr": "B1",
+    "headword": "upward"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/ˈʌpwəd/",
+  "us": "/ˈʌpwərd/",
+  "missingImg": true,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "kokoro"
+ },
+ {
+  "id": "adore",
+  "w": "adore",
+  "zipf": 3.7,
+  "pos": "v.",
+  "zipfBand": "C1",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "adore"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B2"
+  ],
+  "otherPos": [],
+  "cefr": "B2",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/əˈdɔː/",
+  "us": "/əˈdoːr/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "alphabet",
+  "w": "alphabet",
+  "zipf": 3.7,
+  "pos": "n.",
+  "zipfBand": "C1",
+  "published": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "alphabet"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng+override",
+  "ipaNote": "stress or vowel corrected after espeak-ng 1.51",
+  "uk": "/ˈælfəbet/",
+  "us": "/ˈælfəˌbɛt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ },
+ {
+  "id": "appoint",
+  "w": "appoint",
+  "zipf": 3.7,
+  "pos": "v.",
+  "zipfBand": "C1",
+  "published": [
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "appoint"
+   }
+  ],
+  "publishedVia": null,
+  "samePosLevels": [
+   "B1"
+  ],
+  "otherPos": [],
+  "cefr": "B1",
+  "decision": "cefr-j-same-pos",
+  "differ": true,
+  "ipaSource": "espeak-ng",
+  "ipaNote": "espeak-ng 1.51, stress moved before a vowel onset, flap and syllabic consonants normalized",
+  "uk": "/əˈpɔɪnt/",
+  "us": "/əˈpɔɪnt/",
+  "missingImg": false,
+  "missingUk": false,
+  "missingUs": false,
+  "headwordAudio": "upstream"
+ }
+]
