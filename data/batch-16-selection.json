@@ -1,0 +1,2801 @@
+[
+ {
+  "id": "capsule",
+  "w": "capsule",
+  "zipf": 3.7,
+  "zipfRaw": 3.7,
+  "zipfVia": "capsule",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "capsule"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "compulsory",
+  "w": "compulsory",
+  "zipf": 3.7,
+  "zipfRaw": 3.7,
+  "zipfVia": "compulsory",
+  "cefrj": [
+   {
+    "pos": "adjective",
+    "cefr": "B2",
+    "headword": "compulsory"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "grape",
+  "w": "grape",
+  "zipf": 3.7,
+  "zipfRaw": 3.7,
+  "zipfVia": "grape",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "A1",
+    "headword": "grape"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "haircut",
+  "w": "haircut",
+  "zipf": 3.7,
+  "zipfRaw": 3.7,
+  "zipfVia": "haircut",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "A1",
+    "headword": "haircut"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "rot",
+  "w": "rot",
+  "zipf": 3.7,
+  "zipfRaw": 3.7,
+  "zipfVia": "rot",
+  "cefrj": [],
+  "cefrj_via": null
+ },
+ {
+  "id": "spear",
+  "w": "spear",
+  "zipf": 3.7,
+  "zipfRaw": 3.7,
+  "zipfVia": "spear",
+  "cefrj": [],
+  "cefrj_via": null
+ },
+ {
+  "id": "stain",
+  "w": "stain",
+  "zipf": 3.7,
+  "zipfRaw": 3.7,
+  "zipfVia": "stain",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "stain"
+   },
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "stain"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "trousers",
+  "w": "trousers",
+  "zipf": 3.7,
+  "zipfRaw": 3.7,
+  "zipfVia": "trousers",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "A1",
+    "headword": "trousers"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "unwilling",
+  "w": "unwilling",
+  "zipf": 3.7,
+  "zipfRaw": 3.7,
+  "zipfVia": "unwilling",
+  "cefrj": [
+   {
+    "pos": "adjective",
+    "cefr": "B2",
+    "headword": "unwilling"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "whichever",
+  "w": "whichever",
+  "zipf": 3.7,
+  "zipfRaw": 3.7,
+  "zipfVia": "whichever",
+  "cefrj": [
+   {
+    "pos": "determiner",
+    "cefr": "B1",
+    "headword": "whichever"
+   },
+   {
+    "pos": "pronoun",
+    "cefr": "B2",
+    "headword": "whichever"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "chalk",
+  "w": "chalk",
+  "zipf": 3.69,
+  "zipfRaw": 3.69,
+  "zipfVia": "chalk",
+  "cefrj": [],
+  "cefrj_via": null
+ },
+ {
+  "id": "feather",
+  "w": "feather",
+  "zipf": 3.69,
+  "zipfRaw": 3.69,
+  "zipfVia": "feather",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "feather"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "irrigation",
+  "w": "irrigation",
+  "zipf": 3.69,
+  "zipfRaw": 3.69,
+  "zipfVia": "irrigation",
+  "cefrj": [],
+  "cefrj_via": null
+ },
+ {
+  "id": "mustard",
+  "w": "mustard",
+  "zipf": 3.69,
+  "zipfRaw": 3.69,
+  "zipfVia": "mustard",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "mustard"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "neighbour",
+  "w": "neighbour",
+  "zipf": 3.69,
+  "zipfRaw": 3.69,
+  "zipfVia": "neighbour",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "A1",
+    "headword": "neighbour"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "squirrel",
+  "w": "squirrel",
+  "zipf": 3.69,
+  "zipfRaw": 3.69,
+  "zipfVia": "squirrel",
+  "cefrj": [],
+  "cefrj_via": null
+ },
+ {
+  "id": "clone",
+  "w": "clone",
+  "zipf": 3.68,
+  "zipfRaw": 3.68,
+  "zipfVia": "clone",
+  "cefrj": [
+   {
+    "pos": "verb",
+    "cefr": "A2",
+    "headword": "clone"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "greeting",
+  "w": "greeting",
+  "zipf": 3.68,
+  "zipfRaw": 3.68,
+  "zipfVia": "greeting",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "greeting"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "scarf",
+  "w": "scarf",
+  "zipf": 3.68,
+  "zipfRaw": 3.68,
+  "zipfVia": "scarf",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "scarf"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "scenery",
+  "w": "scenery",
+  "zipf": 3.68,
+  "zipfRaw": 3.68,
+  "zipfVia": "scenery",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "scenery"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "sidewalk",
+  "w": "sidewalk",
+  "zipf": 3.68,
+  "zipfRaw": 3.68,
+  "zipfVia": "sidewalk",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "sidewalk"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "skeptical",
+  "w": "skeptical",
+  "zipf": 3.68,
+  "zipfRaw": 3.68,
+  "zipfVia": "skeptical",
+  "cefrj": [],
+  "cefrj_via": null
+ },
+ {
+  "id": "sleepy",
+  "w": "sleepy",
+  "zipf": 3.68,
+  "zipfRaw": 3.68,
+  "zipfVia": "sleepy",
+  "cefrj": [
+   {
+    "pos": "adjective",
+    "cefr": "A2",
+    "headword": "sleepy"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "bakery",
+  "w": "bakery",
+  "zipf": 3.67,
+  "zipfRaw": 3.67,
+  "zipfVia": "bakery",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "bakery"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "disappoint",
+  "w": "disappoint",
+  "zipf": 3.67,
+  "zipfRaw": 3.67,
+  "zipfVia": "disappoint",
+  "cefrj": [
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "disappoint"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "dusty",
+  "w": "dusty",
+  "zipf": 3.67,
+  "zipfRaw": 3.67,
+  "zipfVia": "dusty",
+  "cefrj": [
+   {
+    "pos": "adjective",
+    "cefr": "B1",
+    "headword": "dusty"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "fibre",
+  "w": "fibre",
+  "zipf": 3.67,
+  "zipfRaw": 3.67,
+  "zipfVia": "fibre",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "fibre"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "govern",
+  "w": "govern",
+  "zipf": 3.67,
+  "zipfRaw": 3.67,
+  "zipfVia": "govern",
+  "cefrj": [
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "govern"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "mist",
+  "w": "mist",
+  "zipf": 3.67,
+  "zipfRaw": 3.67,
+  "zipfVia": "mist",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "mist"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "noisy",
+  "w": "noisy",
+  "zipf": 3.67,
+  "zipfRaw": 3.67,
+  "zipfVia": "noisy",
+  "cefrj": [
+   {
+    "pos": "adjective",
+    "cefr": "A2",
+    "headword": "noisy"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "parcel",
+  "w": "parcel",
+  "zipf": 3.67,
+  "zipfRaw": 3.67,
+  "zipfVia": "parcel",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "parcel"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "ripe",
+  "w": "ripe",
+  "zipf": 3.67,
+  "zipfRaw": 3.67,
+  "zipfVia": "ripe",
+  "cefrj": [
+   {
+    "pos": "adjective",
+    "cefr": "B1",
+    "headword": "ripe"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "translator",
+  "w": "translator",
+  "zipf": 3.67,
+  "zipfRaw": 3.67,
+  "zipfVia": "translator",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "translator"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "tutor",
+  "w": "tutor",
+  "zipf": 3.67,
+  "zipfRaw": 3.67,
+  "zipfVia": "tutor",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "tutor"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "wander",
+  "w": "wander",
+  "zipf": 3.67,
+  "zipfRaw": 3.67,
+  "zipfVia": "wander",
+  "cefrj": [
+   {
+    "pos": "verb",
+    "cefr": "A2",
+    "headword": "wander"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "accelerate",
+  "w": "accelerate",
+  "zipf": 3.66,
+  "zipfRaw": 3.66,
+  "zipfVia": "accelerate",
+  "cefrj": [],
+  "cefrj_via": null
+ },
+ {
+  "id": "advertise",
+  "w": "advertise",
+  "zipf": 3.66,
+  "zipfRaw": 3.66,
+  "zipfVia": "advertise",
+  "cefrj": [
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "advertise"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "brewery",
+  "w": "brewery",
+  "zipf": 3.66,
+  "zipfRaw": 3.66,
+  "zipfVia": "brewery",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "brewery"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "chew",
+  "w": "chew",
+  "zipf": 3.66,
+  "zipfRaw": 3.66,
+  "zipfVia": "chew",
+  "cefrj": [
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "chew"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "disagreement",
+  "w": "disagreement",
+  "zipf": 3.66,
+  "zipfRaw": 3.66,
+  "zipfVia": "disagreement",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "disagreement"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "forbid",
+  "w": "forbid",
+  "zipf": 3.66,
+  "zipfRaw": 3.66,
+  "zipfVia": "forbid",
+  "cefrj": [
+   {
+    "pos": "verb",
+    "cefr": "A2",
+    "headword": "forbid"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "pint",
+  "w": "pint",
+  "zipf": 3.66,
+  "zipfRaw": 3.66,
+  "zipfVia": "pint",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "pint"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "pronounce",
+  "w": "pronounce",
+  "zipf": 3.66,
+  "zipfRaw": 3.66,
+  "zipfVia": "pronounce",
+  "cefrj": [
+   {
+    "pos": "verb",
+    "cefr": "A2",
+    "headword": "pronounce"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "remark",
+  "w": "remark",
+  "zipf": 3.66,
+  "zipfRaw": 3.66,
+  "zipfVia": "remark",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "remark"
+   },
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "remark"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "bamboo",
+  "w": "bamboo",
+  "zipf": 3.65,
+  "zipfRaw": 3.65,
+  "zipfVia": "bamboo",
+  "cefrj": [],
+  "cefrj_via": null
+ },
+ {
+  "id": "courtyard",
+  "w": "courtyard",
+  "zipf": 3.65,
+  "zipfRaw": 3.65,
+  "zipfVia": "courtyard",
+  "cefrj": [],
+  "cefrj_via": null
+ },
+ {
+  "id": "fetch",
+  "w": "fetch",
+  "zipf": 3.65,
+  "zipfRaw": 3.65,
+  "zipfVia": "fetch",
+  "cefrj": [
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "fetch"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "furnished",
+  "w": "furnished",
+  "zipf": 3.65,
+  "zipfRaw": 3.65,
+  "zipfVia": "furnished",
+  "cefrj": [],
+  "cefrj_via": null
+ },
+ {
+  "id": "panda",
+  "w": "panda",
+  "zipf": 3.65,
+  "zipfRaw": 3.65,
+  "zipfVia": "panda",
+  "cefrj": [],
+  "cefrj_via": null
+ },
+ {
+  "id": "refresh",
+  "w": "refresh",
+  "zipf": 3.65,
+  "zipfRaw": 3.65,
+  "zipfVia": "refresh",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "refresh"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "accustomed",
+  "w": "accustomed",
+  "zipf": 3.64,
+  "zipfRaw": 3.64,
+  "zipfVia": "accustomed",
+  "cefrj": [],
+  "cefrj_via": null
+ },
+ {
+  "id": "applicant",
+  "w": "applicant",
+  "zipf": 3.64,
+  "zipfRaw": 3.64,
+  "zipfVia": "applicant",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "applicant"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "camel",
+  "w": "camel",
+  "zipf": 3.64,
+  "zipfRaw": 3.64,
+  "zipfVia": "camel",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "camel"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "cocoa",
+  "w": "cocoa",
+  "zipf": 3.64,
+  "zipfRaw": 3.64,
+  "zipfVia": "cocoa",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "cocoa"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "cozy",
+  "w": "cozy",
+  "zipf": 3.64,
+  "zipfRaw": 3.64,
+  "zipfVia": "cozy",
+  "cefrj": [
+   {
+    "pos": "adjective",
+    "cefr": "B2",
+    "headword": "cozy"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "pest",
+  "w": "pest",
+  "zipf": 3.64,
+  "zipfRaw": 3.64,
+  "zipfVia": "pest",
+  "cefrj": [],
+  "cefrj_via": null
+ },
+ {
+  "id": "salesman",
+  "w": "salesman",
+  "zipf": 3.64,
+  "zipfRaw": 3.64,
+  "zipfVia": "salesman",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "salesman"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "swell",
+  "w": "swell",
+  "zipf": 3.64,
+  "zipfRaw": 3.64,
+  "zipfVia": "swell",
+  "cefrj": [
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "swell"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "symptom",
+  "w": "symptom",
+  "zipf": 3.64,
+  "zipfRaw": 3.64,
+  "zipfVia": "symptom",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "symptom"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "thirst",
+  "w": "thirst",
+  "zipf": 3.64,
+  "zipfRaw": 3.64,
+  "zipfVia": "thirst",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "thirst"
+   },
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "thirst"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "vinegar",
+  "w": "vinegar",
+  "zipf": 3.64,
+  "zipfRaw": 3.64,
+  "zipfVia": "vinegar",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "vinegar"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "astronomy",
+  "w": "astronomy",
+  "zipf": 3.63,
+  "zipfRaw": 3.63,
+  "zipfVia": "astronomy",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "astronomy"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "buddhism",
+  "w": "Buddhism",
+  "zipf": 3.63,
+  "zipfRaw": 3.63,
+  "zipfVia": "buddhism",
+  "cefrj": [],
+  "cefrj_via": null
+ },
+ {
+  "id": "fax",
+  "w": "fax",
+  "zipf": 3.63,
+  "zipfRaw": 3.63,
+  "zipfVia": "fax",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "fax"
+   },
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "fax"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "inspect",
+  "w": "inspect",
+  "zipf": 3.63,
+  "zipfRaw": 3.63,
+  "zipfVia": "inspect",
+  "cefrj": [
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "inspect"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "mushroom",
+  "w": "mushroom",
+  "zipf": 3.63,
+  "zipfRaw": 3.63,
+  "zipfVia": "mushroom",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "mushroom"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "seldom",
+  "w": "seldom",
+  "zipf": 3.63,
+  "zipfRaw": 3.63,
+  "zipfVia": "seldom",
+  "cefrj": [
+   {
+    "pos": "adverb",
+    "cefr": "B2",
+    "headword": "seldom"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "yogurt",
+  "w": "yogurt",
+  "zipf": 3.63,
+  "zipfRaw": 3.63,
+  "zipfVia": "yogurt",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "A1",
+    "headword": "yogurt"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "barbecue",
+  "w": "barbecue",
+  "zipf": 3.62,
+  "zipfRaw": 3.62,
+  "zipfVia": "barbecue",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "barbecue"
+   },
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "barbecue"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "carrot",
+  "w": "carrot",
+  "zipf": 3.62,
+  "zipfRaw": 3.62,
+  "zipfVia": "carrot",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "carrot"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "damp",
+  "w": "damp",
+  "zipf": 3.62,
+  "zipfRaw": 3.62,
+  "zipfVia": "damp",
+  "cefrj": [
+   {
+    "pos": "adjective",
+    "cefr": "B1",
+    "headword": "damp"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "freeway",
+  "w": "freeway",
+  "zipf": 3.61,
+  "zipfRaw": 3.61,
+  "zipfVia": "freeway",
+  "cefrj": [],
+  "cefrj_via": null
+ },
+ {
+  "id": "granny",
+  "w": "granny",
+  "zipf": 3.61,
+  "zipfRaw": 3.61,
+  "zipfVia": "granny",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "granny"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "interrupt",
+  "w": "interrupt",
+  "zipf": 3.61,
+  "zipfRaw": 3.61,
+  "zipfVia": "interrupt",
+  "cefrj": [
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "interrupt"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "lantern",
+  "w": "lantern",
+  "zipf": 3.61,
+  "zipfRaw": 3.61,
+  "zipfVia": "lantern",
+  "cefrj": [],
+  "cefrj_via": null
+ },
+ {
+  "id": "mosquito",
+  "w": "mosquito",
+  "zipf": 3.61,
+  "zipfRaw": 3.61,
+  "zipfVia": "mosquito",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "mosquito"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "novelist",
+  "w": "novelist",
+  "zipf": 3.61,
+  "zipfRaw": 3.61,
+  "zipfVia": "novelist",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "novelist"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "pavement",
+  "w": "pavement",
+  "zipf": 3.61,
+  "zipfRaw": 3.61,
+  "zipfVia": "pavement",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "pavement"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "refrigerator",
+  "w": "refrigerator",
+  "zipf": 3.61,
+  "zipfRaw": 3.61,
+  "zipfVia": "refrigerator",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "refrigerator"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "sock",
+  "w": "sock",
+  "zipf": 3.61,
+  "zipfRaw": 3.61,
+  "zipfVia": "sock",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "sock"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "tailor",
+  "w": "tailor",
+  "zipf": 3.61,
+  "zipfRaw": 3.61,
+  "zipfVia": "tailor",
+  "cefrj": [],
+  "cefrj_via": null
+ },
+ {
+  "id": "unrest",
+  "w": "unrest",
+  "zipf": 3.61,
+  "zipfRaw": 3.61,
+  "zipfVia": "unrest",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "unrest"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "waiter",
+  "w": "waiter",
+  "zipf": 3.61,
+  "zipfRaw": 3.61,
+  "zipfVia": "waiter",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "A1",
+    "headword": "waiter"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "astronaut",
+  "w": "astronaut",
+  "zipf": 3.6,
+  "zipfRaw": 3.6,
+  "zipfVia": "astronaut",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "astronaut"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "attain",
+  "w": "attain",
+  "zipf": 3.6,
+  "zipfRaw": 3.6,
+  "zipfVia": "attain",
+  "cefrj": [
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "attain"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "careless",
+  "w": "careless",
+  "zipf": 3.6,
+  "zipfRaw": 3.6,
+  "zipfVia": "careless",
+  "cefrj": [
+   {
+    "pos": "adjective",
+    "cefr": "B1",
+    "headword": "careless"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "chant",
+  "w": "chant",
+  "zipf": 3.6,
+  "zipfRaw": 3.6,
+  "zipfVia": "chant",
+  "cefrj": [],
+  "cefrj_via": null
+ },
+ {
+  "id": "cheerful",
+  "w": "cheerful",
+  "zipf": 3.6,
+  "zipfRaw": 3.6,
+  "zipfVia": "cheerful",
+  "cefrj": [
+   {
+    "pos": "adjective",
+    "cefr": "B1",
+    "headword": "cheerful"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "granddaughter",
+  "w": "granddaughter",
+  "zipf": 3.6,
+  "zipfRaw": 3.6,
+  "zipfVia": "granddaughter",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "granddaughter"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "gymnastics",
+  "w": "gymnastics",
+  "zipf": 3.6,
+  "zipfRaw": 3.6,
+  "zipfVia": "gymnastics",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "gymnastics"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "humorous",
+  "w": "humorous",
+  "zipf": 3.6,
+  "zipfRaw": 3.6,
+  "zipfVia": "humorous",
+  "cefrj": [
+   {
+    "pos": "adjective",
+    "cefr": "B1",
+    "headword": "humorous"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "muddy",
+  "w": "muddy",
+  "zipf": 3.6,
+  "zipfRaw": 3.6,
+  "zipfVia": "muddy",
+  "cefrj": [
+   {
+    "pos": "adjective",
+    "cefr": "B2",
+    "headword": "muddy"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "strait",
+  "w": "strait",
+  "zipf": 3.6,
+  "zipfRaw": 3.6,
+  "zipfVia": "strait",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "strait"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "bravery",
+  "w": "bravery",
+  "zipf": 3.59,
+  "zipfRaw": 3.59,
+  "zipfVia": "bravery",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "bravery"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "claw",
+  "w": "claw",
+  "zipf": 3.59,
+  "zipfRaw": 3.59,
+  "zipfVia": "claw",
+  "cefrj": [],
+  "cefrj_via": null
+ },
+ {
+  "id": "congratulate",
+  "w": "congratulate",
+  "zipf": 3.59,
+  "zipfRaw": 3.59,
+  "zipfVia": "congratulate",
+  "cefrj": [
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "congratulate"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "garment",
+  "w": "garment",
+  "zipf": 3.59,
+  "zipfRaw": 3.59,
+  "zipfVia": "garment",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "garment"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "librarian",
+  "w": "librarian",
+  "zipf": 3.59,
+  "zipfRaw": 3.59,
+  "zipfVia": "librarian",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "librarian"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "madam",
+  "w": "madam",
+  "zipf": 3.59,
+  "zipfRaw": 3.59,
+  "zipfVia": "madam",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "madam"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "outgoing",
+  "w": "outgoing",
+  "zipf": 3.59,
+  "zipfRaw": 3.59,
+  "zipfVia": "outgoing",
+  "cefrj": [],
+  "cefrj_via": null
+ },
+ {
+  "id": "tease",
+  "w": "tease",
+  "zipf": 3.59,
+  "zipfRaw": 3.59,
+  "zipfVia": "tease",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "tease"
+   },
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "tease"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "typhoon",
+  "w": "typhoon",
+  "zipf": 3.59,
+  "zipfRaw": 3.59,
+  "zipfVia": "typhoon",
+  "cefrj": [],
+  "cefrj_via": null
+ },
+ {
+  "id": "adolescent",
+  "w": "adolescent",
+  "zipf": 3.58,
+  "zipfRaw": 3.58,
+  "zipfVia": "adolescent",
+  "cefrj": [],
+  "cefrj_via": null
+ },
+ {
+  "id": "competence",
+  "w": "competence",
+  "zipf": 3.58,
+  "zipfRaw": 3.58,
+  "zipfVia": "competence",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "competence"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "cushion",
+  "w": "cushion",
+  "zipf": 3.58,
+  "zipfRaw": 3.58,
+  "zipfVia": "cushion",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "cushion"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "cyclist",
+  "w": "cyclist",
+  "zipf": 3.58,
+  "zipfRaw": 3.58,
+  "zipfVia": "cyclist",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "cyclist"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "dorm",
+  "w": "dorm",
+  "zipf": 3.58,
+  "zipfRaw": 3.58,
+  "zipfVia": "dorm",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "dorm"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "pineapple",
+  "w": "pineapple",
+  "zipf": 3.58,
+  "zipfRaw": 3.58,
+  "zipfVia": "pineapple",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "pineapple"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "scissors",
+  "w": "scissors",
+  "zipf": 3.58,
+  "zipfRaw": 3.58,
+  "zipfVia": "scissors",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "scissors"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "seaside",
+  "w": "seaside",
+  "zipf": 3.58,
+  "zipfRaw": 3.58,
+  "zipfVia": "seaside",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "seaside"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "ambiguous",
+  "w": "ambiguous",
+  "zipf": 3.57,
+  "zipfRaw": 3.57,
+  "zipfVia": "ambiguous",
+  "cefrj": [
+   {
+    "pos": "adjective",
+    "cefr": "B2",
+    "headword": "ambiguous"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "cigar",
+  "w": "cigar",
+  "zipf": 3.57,
+  "zipfRaw": 3.57,
+  "zipfVia": "cigar",
+  "cefrj": [],
+  "cefrj_via": null
+ },
+ {
+  "id": "comprehension",
+  "w": "comprehension",
+  "zipf": 3.57,
+  "zipfRaw": 3.57,
+  "zipfVia": "comprehension",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "comprehension"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "discourage",
+  "w": "discourage",
+  "zipf": 3.57,
+  "zipfRaw": 3.57,
+  "zipfVia": "discourage",
+  "cefrj": [
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "discourage"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "handwriting",
+  "w": "handwriting",
+  "zipf": 3.57,
+  "zipfRaw": 3.57,
+  "zipfVia": "handwriting",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "handwriting"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "invent",
+  "w": "invent",
+  "zipf": 3.57,
+  "zipfRaw": 3.57,
+  "zipfVia": "invent",
+  "cefrj": [
+   {
+    "pos": "verb",
+    "cefr": "A2",
+    "headword": "invent"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "mummy",
+  "w": "mummy",
+  "zipf": 3.57,
+  "zipfRaw": 3.57,
+  "zipfVia": "mummy",
+  "cefrj": [],
+  "cefrj_via": null
+ },
+ {
+  "id": "poisonous",
+  "w": "poisonous",
+  "zipf": 3.57,
+  "zipfRaw": 3.57,
+  "zipfVia": "poisonous",
+  "cefrj": [
+   {
+    "pos": "adjective",
+    "cefr": "B1",
+    "headword": "poisonous"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "traveler",
+  "w": "traveler",
+  "zipf": 3.57,
+  "zipfRaw": 3.57,
+  "zipfVia": "traveler",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "traveler"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "windy",
+  "w": "windy",
+  "zipf": 3.57,
+  "zipfRaw": 3.57,
+  "zipfVia": "windy",
+  "cefrj": [
+   {
+    "pos": "adjective",
+    "cefr": "A2",
+    "headword": "windy"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "antarctic",
+  "w": "Antarctic",
+  "zipf": 3.56,
+  "zipfRaw": 3.56,
+  "zipfVia": "antarctic",
+  "cefrj": [],
+  "cefrj_via": null
+ },
+ {
+  "id": "catastrophe",
+  "w": "catastrophe",
+  "zipf": 3.56,
+  "zipfRaw": 3.56,
+  "zipfVia": "catastrophe",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "catastrophe"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "disturb",
+  "w": "disturb",
+  "zipf": 3.56,
+  "zipfRaw": 3.56,
+  "zipfVia": "disturb",
+  "cefrj": [
+   {
+    "pos": "verb",
+    "cefr": "A2",
+    "headword": "disturb"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "hardship",
+  "w": "hardship",
+  "zipf": 3.56,
+  "zipfRaw": 3.56,
+  "zipfVia": "hardship",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "hardship"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "hen",
+  "w": "hen",
+  "zipf": 3.56,
+  "zipfRaw": 3.56,
+  "zipfVia": "hen",
+  "cefrj": [],
+  "cefrj_via": null
+ },
+ {
+  "id": "mister",
+  "w": "mister",
+  "zipf": 3.56,
+  "zipfRaw": 3.56,
+  "zipfVia": "mister",
+  "cefrj": [],
+  "cefrj_via": null
+ },
+ {
+  "id": "rhyme",
+  "w": "rhyme",
+  "zipf": 3.56,
+  "zipfRaw": 3.56,
+  "zipfVia": "rhyme",
+  "cefrj": [
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "rhyme"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "waitress",
+  "w": "waitress",
+  "zipf": 3.56,
+  "zipfRaw": 3.56,
+  "zipfVia": "waitress",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "A1",
+    "headword": "waitress"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "walnut",
+  "w": "walnut",
+  "zipf": 3.56,
+  "zipfRaw": 3.56,
+  "zipfVia": "walnut",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "walnut"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "acquaintance",
+  "w": "acquaintance",
+  "zipf": 3.55,
+  "zipfRaw": 3.55,
+  "zipfVia": "acquaintance",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "acquaintance"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "cabbage",
+  "w": "cabbage",
+  "zipf": 3.55,
+  "zipfRaw": 3.55,
+  "zipfVia": "cabbage",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "cabbage"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "cater",
+  "w": "cater",
+  "zipf": 3.55,
+  "zipfRaw": 3.55,
+  "zipfVia": "cater",
+  "cefrj": [],
+  "cefrj_via": null
+ },
+ {
+  "id": "cloudy",
+  "w": "cloudy",
+  "zipf": 3.55,
+  "zipfRaw": 3.55,
+  "zipfVia": "cloudy",
+  "cefrj": [
+   {
+    "pos": "adjective",
+    "cefr": "A1",
+    "headword": "cloudy"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "educator",
+  "w": "educator",
+  "zipf": 3.55,
+  "zipfRaw": 3.55,
+  "zipfVia": "educator",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "educator"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "kite",
+  "w": "kite",
+  "zipf": 3.55,
+  "zipfRaw": 3.55,
+  "zipfVia": "kite",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "A1",
+    "headword": "kite"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "oneself",
+  "w": "oneself",
+  "zipf": 3.55,
+  "zipfRaw": 3.55,
+  "zipfVia": "oneself",
+  "cefrj": [
+   {
+    "pos": "pronoun",
+    "cefr": "B1",
+    "headword": "oneself"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "rag",
+  "w": "rag",
+  "zipf": 3.55,
+  "zipfRaw": 3.55,
+  "zipfVia": "rag",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "rag"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "suitcase",
+  "w": "suitcase",
+  "zipf": 3.55,
+  "zipfRaw": 3.55,
+  "zipfVia": "suitcase",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "suitcase"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "buffet",
+  "w": "buffet",
+  "zipf": 3.54,
+  "zipfRaw": 3.54,
+  "zipfVia": "buffet",
+  "cefrj": [],
+  "cefrj_via": null
+ },
+ {
+  "id": "clap",
+  "w": "clap",
+  "zipf": 3.54,
+  "zipfRaw": 3.54,
+  "zipfVia": "clap",
+  "cefrj": [
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "clap"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "interpreter",
+  "w": "interpreter",
+  "zipf": 3.54,
+  "zipfRaw": 3.54,
+  "zipfVia": "interpreter",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "interpreter"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "kettle",
+  "w": "kettle",
+  "zipf": 3.54,
+  "zipfRaw": 3.54,
+  "zipfVia": "kettle",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "kettle"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "pea",
+  "w": "pea",
+  "zipf": 3.54,
+  "zipfRaw": 3.54,
+  "zipfVia": "pea",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "pea"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "sideways",
+  "w": "sideways",
+  "zipf": 3.54,
+  "zipfRaw": 3.54,
+  "zipfVia": "sideways",
+  "cefrj": [],
+  "cefrj_via": null
+ },
+ {
+  "id": "vase",
+  "w": "vase",
+  "zipf": 3.54,
+  "zipfRaw": 3.54,
+  "zipfVia": "vase",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "A1",
+    "headword": "vase"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "yummy",
+  "w": "yummy",
+  "zipf": 3.54,
+  "zipfRaw": 3.54,
+  "zipfVia": "yummy",
+  "cefrj": [
+   {
+    "pos": "adjective",
+    "cefr": "B2",
+    "headword": "yummy"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "numb",
+  "w": "numb",
+  "zipf": 3.53,
+  "zipfRaw": 3.53,
+  "zipfVia": "numb",
+  "cefrj": [],
+  "cefrj_via": null
+ },
+ {
+  "id": "overlook",
+  "w": "overlook",
+  "zipf": 3.53,
+  "zipfRaw": 3.53,
+  "zipfVia": "overlook",
+  "cefrj": [
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "overlook"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "tidy",
+  "w": "tidy",
+  "zipf": 3.53,
+  "zipfRaw": 3.53,
+  "zipfVia": "tidy",
+  "cefrj": [
+   {
+    "pos": "adjective",
+    "cefr": "A2",
+    "headword": "tidy"
+   },
+   {
+    "pos": "verb",
+    "cefr": "A2",
+    "headword": "tidy"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "comb",
+  "w": "comb",
+  "zipf": 3.52,
+  "zipfRaw": 3.52,
+  "zipfVia": "comb",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "comb"
+   },
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "comb"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "fluent",
+  "w": "fluent",
+  "zipf": 3.52,
+  "zipfRaw": 3.52,
+  "zipfVia": "fluent",
+  "cefrj": [
+   {
+    "pos": "adjective",
+    "cefr": "B1",
+    "headword": "fluent"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "outward",
+  "w": "outward",
+  "zipf": 3.52,
+  "zipfRaw": 3.52,
+  "zipfVia": "outward",
+  "cefrj": [
+   {
+    "pos": "adjective",
+    "cefr": "B1",
+    "headword": "outward"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "practise",
+  "w": "practise",
+  "zipf": 3.52,
+  "zipfRaw": 3.52,
+  "zipfVia": "practise",
+  "cefrj": [
+   {
+    "pos": "verb",
+    "cefr": "A1",
+    "headword": "practise"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "socket",
+  "w": "socket",
+  "zipf": 3.52,
+  "zipfRaw": 3.52,
+  "zipfVia": "socket",
+  "cefrj": [],
+  "cefrj_via": null
+ },
+ {
+  "id": "starvation",
+  "w": "starvation",
+  "zipf": 3.52,
+  "zipfRaw": 3.52,
+  "zipfVia": "starvation",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "starvation"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "starve",
+  "w": "starve",
+  "zipf": 3.52,
+  "zipfRaw": 3.52,
+  "zipfVia": "starve",
+  "cefrj": [
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "starve"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "unfit",
+  "w": "unfit",
+  "zipf": 3.52,
+  "zipfRaw": 3.52,
+  "zipfVia": "unfit",
+  "cefrj": [
+   {
+    "pos": "adjective",
+    "cefr": "B1",
+    "headword": "unfit"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "aloud",
+  "w": "aloud",
+  "zipf": 3.51,
+  "zipfRaw": 3.51,
+  "zipfVia": "aloud",
+  "cefrj": [
+   {
+    "pos": "adverb",
+    "cefr": "B1",
+    "headword": "aloud"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "appendix",
+  "w": "appendix",
+  "zipf": 3.51,
+  "zipfRaw": 3.51,
+  "zipfVia": "appendix",
+  "cefrj": [],
+  "cefrj_via": null
+ },
+ {
+  "id": "chemist",
+  "w": "chemist",
+  "zipf": 3.51,
+  "zipfRaw": 3.51,
+  "zipfVia": "chemist",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "chemist"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "postage",
+  "w": "postage",
+  "zipf": 3.51,
+  "zipfRaw": 3.51,
+  "zipfVia": "postage",
+  "cefrj": [],
+  "cefrj_via": null
+ },
+ {
+  "id": "prohibit",
+  "w": "prohibit",
+  "zipf": 3.51,
+  "zipfRaw": 3.51,
+  "zipfVia": "prohibit",
+  "cefrj": [
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "prohibit"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "pronunciation",
+  "w": "pronunciation",
+  "zipf": 3.51,
+  "zipfRaw": 3.51,
+  "zipfVia": "pronunciation",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "pronunciation"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "tyre",
+  "w": "tyre",
+  "zipf": 3.51,
+  "zipfRaw": 3.51,
+  "zipfVia": "tyre",
+  "cefrj": [],
+  "cefrj_via": null
+ },
+ {
+  "id": "correspond",
+  "w": "correspond",
+  "zipf": 3.5,
+  "zipfRaw": 3.5,
+  "zipfVia": "correspond",
+  "cefrj": [
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "correspond"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "equip",
+  "w": "equip",
+  "zipf": 3.5,
+  "zipfRaw": 3.5,
+  "zipfVia": "equip",
+  "cefrj": [
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "equip"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "kangaroo",
+  "w": "kangaroo",
+  "zipf": 3.5,
+  "zipfRaw": 3.5,
+  "zipfVia": "kangaroo",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "kangaroo"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "litre",
+  "w": "litre",
+  "zipf": 3.5,
+  "zipfRaw": 3.5,
+  "zipfVia": "litre",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "litre"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "microscope",
+  "w": "microscope",
+  "zipf": 3.5,
+  "zipfRaw": 3.5,
+  "zipfVia": "microscope",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "microscope"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "multiply",
+  "w": "multiply",
+  "zipf": 3.5,
+  "zipfRaw": 3.5,
+  "zipfVia": "multiply",
+  "cefrj": [
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "multiply"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "organise",
+  "w": "organise",
+  "zipf": 3.5,
+  "zipfRaw": 3.5,
+  "zipfVia": "organise",
+  "cefrj": [
+   {
+    "pos": "verb",
+    "cefr": "A2",
+    "headword": "organise"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "outing",
+  "w": "outing",
+  "zipf": 3.5,
+  "zipfRaw": 3.5,
+  "zipfVia": "outing",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "outing"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "ancestor",
+  "w": "ancestor",
+  "zipf": 3.49,
+  "zipfRaw": 3.49,
+  "zipfVia": "ancestor",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "ancestor"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "botanical",
+  "w": "botanical",
+  "zipf": 3.49,
+  "zipfRaw": 3.49,
+  "zipfVia": "botanical",
+  "cefrj": [],
+  "cefrj_via": null
+ },
+ {
+  "id": "cheque",
+  "w": "cheque",
+  "zipf": 3.49,
+  "zipfRaw": 3.49,
+  "zipfVia": "cheque",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "cheque"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "fisherman",
+  "w": "fisherman",
+  "zipf": 3.49,
+  "zipfRaw": 3.49,
+  "zipfVia": "fisherman",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "fisherman"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "loaf",
+  "w": "loaf",
+  "zipf": 3.49,
+  "zipfRaw": 3.49,
+  "zipfVia": "loaf",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "loaf"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "paddle",
+  "w": "paddle",
+  "zipf": 3.49,
+  "zipfRaw": 3.49,
+  "zipfVia": "paddle",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "paddle"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "parrot",
+  "w": "parrot",
+  "zipf": 3.49,
+  "zipfRaw": 3.49,
+  "zipfVia": "parrot",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "parrot"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "stocking",
+  "w": "stocking",
+  "zipf": 3.49,
+  "zipfRaw": 3.49,
+  "zipfVia": "stocking",
+  "cefrj": [],
+  "cefrj_via": null
+ },
+ {
+  "id": "traveller",
+  "w": "traveller",
+  "zipf": 3.49,
+  "zipfRaw": 3.49,
+  "zipfVia": "traveller",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "traveller"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "unconditional",
+  "w": "unconditional",
+  "zipf": 3.49,
+  "zipfRaw": 3.49,
+  "zipfVia": "unconditional",
+  "cefrj": [],
+  "cefrj_via": null
+ },
+ {
+  "id": "abolish",
+  "w": "abolish",
+  "zipf": 3.48,
+  "zipfRaw": 3.48,
+  "zipfVia": "abolish",
+  "cefrj": [
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "abolish"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "accumulate",
+  "w": "accumulate",
+  "zipf": 3.48,
+  "zipfRaw": 3.48,
+  "zipfVia": "accumulate",
+  "cefrj": [
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "accumulate"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "admirable",
+  "w": "admirable",
+  "zipf": 3.48,
+  "zipfRaw": 3.48,
+  "zipfVia": "admirable",
+  "cefrj": [
+   {
+    "pos": "adjective",
+    "cefr": "B2",
+    "headword": "admirable"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "anyhow",
+  "w": "anyhow",
+  "zipf": 3.48,
+  "zipfRaw": 3.48,
+  "zipfVia": "anyhow",
+  "cefrj": [
+   {
+    "pos": "adverb",
+    "cefr": "B1",
+    "headword": "anyhow"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "contradictory",
+  "w": "contradictory",
+  "zipf": 3.48,
+  "zipfRaw": 3.48,
+  "zipfVia": "contradictory",
+  "cefrj": [
+   {
+    "pos": "adjective",
+    "cefr": "B2",
+    "headword": "contradictory"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "crossroads",
+  "w": "crossroads",
+  "zipf": 3.48,
+  "zipfRaw": 3.48,
+  "zipfVia": "crossroads",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "crossroads"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "digital-versatile-disk",
+  "w": "digital versatile disk",
+  "zipf": 3.48,
+  "zipfRaw": 3.48,
+  "zipfVia": "digital versatile disk",
+  "cefrj": [],
+  "cefrj_via": null
+ },
+ {
+  "id": "foreigner",
+  "w": "foreigner",
+  "zipf": 3.48,
+  "zipfRaw": 3.48,
+  "zipfVia": "foreigner",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "A1",
+    "headword": "foreigner"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "pianist",
+  "w": "pianist",
+  "zipf": 3.48,
+  "zipfRaw": 3.48,
+  "zipfVia": "pianist",
+  "cefrj": [],
+  "cefrj_via": null
+ },
+ {
+  "id": "postpone",
+  "w": "postpone",
+  "zipf": 3.48,
+  "zipfRaw": 3.48,
+  "zipfVia": "postpone",
+  "cefrj": [
+   {
+    "pos": "verb",
+    "cefr": "B2",
+    "headword": "postpone"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "sparrow",
+  "w": "sparrow",
+  "zipf": 3.48,
+  "zipfRaw": 3.48,
+  "zipfVia": "sparrow",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "sparrow"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "teamwork",
+  "w": "teamwork",
+  "zipf": 3.48,
+  "zipfRaw": 3.48,
+  "zipfVia": "teamwork",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B1",
+    "headword": "teamwork"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "wrestle",
+  "w": "wrestle",
+  "zipf": 3.48,
+  "zipfRaw": 3.48,
+  "zipfVia": "wrestle",
+  "cefrj": [],
+  "cefrj_via": null
+ },
+ {
+  "id": "analyse",
+  "w": "analyse",
+  "zipf": 3.47,
+  "zipfRaw": 3.47,
+  "zipfVia": "analyse",
+  "cefrj": [
+   {
+    "pos": "verb",
+    "cefr": "B1",
+    "headword": "analyse"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "ox",
+  "w": "ox",
+  "zipf": 3.47,
+  "zipfRaw": 3.47,
+  "zipfVia": "ox",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "B2",
+    "headword": "ox"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "pear",
+  "w": "pear",
+  "zipf": 3.47,
+  "zipfRaw": 3.47,
+  "zipfVia": "pear",
+  "cefrj": [
+   {
+    "pos": "noun",
+    "cefr": "A2",
+    "headword": "pear"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "unbearable",
+  "w": "unbearable",
+  "zipf": 3.47,
+  "zipfRaw": 3.47,
+  "zipfVia": "unbearable",
+  "cefrj": [
+   {
+    "pos": "adjective",
+    "cefr": "B2",
+    "headword": "unbearable"
+   }
+  ],
+  "cefrj_via": null
+ },
+ {
+  "id": "annoy",
+  "w": "annoy",
+  "zipf": 3.46,
+  "zipfRaw": 3.46,
+  "zipfVia": "annoy",
+  "cefrj": [
+   {
+    "pos": "verb",
+    "cefr": "A2",
+    "headword": "annoy"
+   }
+  ],
+  "cefrj_via": null
+ }
+]

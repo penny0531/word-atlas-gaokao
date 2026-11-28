@@ -1,5 +1,5 @@
 {
-  "source": "A sentence file may play only when the current example normalizes to verified[id][index]. Kokoro slots were synthesized locally from that exact text with kokoro-onnx 0.6.1, voice af_heart, lang en-us, speed 1.0. Retained slots are upstream recordings whose script still matches; they were not regenerated. verified clips are US English unless clipAccent says otherwise. high/0 remains the British ElevenLabs everyday clip. Retained second examples remain US ElevenLabs. Kokoro clips are US af_heart and must not be described as British. A later text edit that does not update this script fails validation and withholds playback. Batch 15 added 400 new-card examples with the same Kokoro voice, language, and speed. Older verified scripts were not regenerated.",
+  "source": "A sentence file may play only when the current example normalizes to verified[id][index]. Kokoro slots were synthesized locally from that exact text with kokoro-onnx 0.6.1, voice af_heart, lang en-us, speed 1.0. Retained slots are upstream recordings whose script still matches; they were not regenerated. verified clips are US English unless clipAccent says otherwise. high/0 remains the British ElevenLabs everyday clip. Retained second examples remain US ElevenLabs. Kokoro clips are US af_heart and must not be described as British. A later text edit that does not update this script fails validation and withholds playback. Batch 15 added 400 new-card examples with the same Kokoro voice, language, and speed. Older verified scripts were not regenerated. Batch 16 added 400 new-card examples with the same Kokoro voice, language, and speed. Older verified scripts were not regenerated.",
   "generator": {
     "engine": "kokoro-onnx",
     "engineVersion": "0.6.1",
@@ -17589,6 +17589,806 @@
     "appoint": {
       "0": "they appoint a new captain in march.",
       "1": "the office will appoint a time for the interview and send it by friday noon."
+    },
+    "capsule": {
+      "0": "swallow this capsule with warm water.",
+      "1": "the museum capsule is only a training model, yet visitors can still see how little room the crew had."
+    },
+    "compulsory": {
+      "0": "lab goggles are compulsory here.",
+      "1": "sports day is compulsory for every class, though students who are ill can bring a note from the clinic."
+    },
+    "grape": {
+      "0": "a sour grape made her blink.",
+      "1": "she rinsed every grape before packing lunch, because the market fruit still had dust on the skin."
+    },
+    "haircut": {
+      "0": "his new haircut looks much shorter.",
+      "1": "i need a haircut before the photo morning, so i booked the shop beside the school gate."
+    },
+    "rot": {
+      "0": "those apples rot in a warm box.",
+      "1": "gardeners cut the rot out of the branch so the healthy wood can dry before the next rain."
+    },
+    "spear": {
+      "0": "a wooden spear stands in the glass case.",
+      "1": "the coastal chapter shows a fishing spear and explains that families used it to catch fish."
+    },
+    "stain": {
+      "0": "a tea stain sits on the sleeve.",
+      "1": "open ink will stain the chart if the pen rolls, so cap it before you close the folder."
+    },
+    "trousers": {
+      "0": "those grey trousers need a hem.",
+      "1": "pack a dry pair of trousers for the field walk, because the grass stays wet until noon."
+    },
+    "unwilling": {
+      "0": "he is unwilling to share the password.",
+      "1": "unwilling helpers slow a group project, so the teacher lets students choose jobs they can accept."
+    },
+    "whichever": {
+      "0": "whichever seat is free, take it.",
+      "1": "keep whichever fits in the bag, and return the spare torch to the office before dark."
+    },
+    "chalk": {
+      "0": "blue chalk marked the diagram.",
+      "1": "please leave a spare stick of chalk on the tray, because the afternoon class still has a diagram to draw."
+    },
+    "feather": {
+      "0": "a blue feather lay on the step.",
+      "1": "the guide said every feather on the display came from birds that had already died of natural causes."
+    },
+    "irrigation": {
+      "0": "irrigation keeps the rice field green.",
+      "1": "the village plans new irrigation so dry weeks do not ruin the vegetables along the canal."
+    },
+    "mustard": {
+      "0": "this mustard is too sharp for me.",
+      "1": "add a little mustard to the potato salad if you like a sharper taste, and leave the rest in the jar."
+    },
+    "neighbour": {
+      "0": "our neighbour watered the plants.",
+      "1": "ask a neighbour to take the parcel if you will be in the lab all afternoon."
+    },
+    "squirrel": {
+      "0": "a squirrel crossed the bike path.",
+      "1": "the park notice asks visitors not to feed a squirrel, because human snacks can make the animals ill."
+    },
+    "clone": {
+      "0": "this plant clone matches the parent.",
+      "1": "in the lab lesson, students read how scientists clone a plant from one cell and then compare it with seed-grown plants."
+    },
+    "greeting": {
+      "0": "a warm greeting opened the meeting.",
+      "1": "learn a simple greeting before the exchange visit, and use the guest's language for the first hello."
+    },
+    "scarf": {
+      "0": "her red scarf slipped in the wind.",
+      "1": "wind pulled her scarf across her face on the bridge, so she tied it before the next gust."
+    },
+    "scenery": {
+      "0": "the lake scenery stopped the bus.",
+      "1": "mountain scenery fills the first chapter, while the play later uses painted scenery for the same valley."
+    },
+    "sidewalk": {
+      "0": "the sidewalk was icy at dawn.",
+      "1": "stay on the sidewalk while the bus turns, and do not step out between the parked cars."
+    },
+    "skeptical": {
+      "0": "i am skeptical of that rumour.",
+      "1": "a skeptical reader checks the date and the source before trusting a surprising claim in the paper."
+    },
+    "sleepy": {
+      "0": "the baby looks sleepy already.",
+      "1": "a sleepy afternoon class needs a short break, or the notes will be full of half-finished lines."
+    },
+    "bakery": {
+      "0": "the bakery opens before school.",
+      "1": "we bought rolls at the bakery near the station, then ate them on the bench while the train was late."
+    },
+    "disappoint": {
+      "0": "the delay did disappoint the team.",
+      "1": "do not disappoint the readers by hiding a weak result; explain it and show what you will change."
+    },
+    "dusty": {
+      "0": "dusty boxes blocked the cupboard.",
+      "1": "a dusty path led to the old storehouse, and we wiped the window before reading the labels."
+    },
+    "fibre": {
+      "0": "oats add fibre to breakfast.",
+      "1": "cotton fibre and dietary fibre share a name, but one is cloth and the other is part of what you eat."
+    },
+    "govern": {
+      "0": "clear rules govern the election.",
+      "1": "councils govern local schools together with the city, and parents can read the minutes online."
+    },
+    "mist": {
+      "0": "morning mist hid the far goal.",
+      "1": "the mist lifted before the ferry left, so passengers could see both banks of the river."
+    },
+    "noisy": {
+      "0": "the canteen is noisy at noon.",
+      "1": "a noisy corridor makes oral practice hard, so the group moved into an empty music room."
+    },
+    "parcel": {
+      "0": "a parcel arrived during maths.",
+      "1": "write the room number on the parcel, or the office will not know which club should open it."
+    },
+    "ripe": {
+      "0": "the tomatoes turned ripe overnight.",
+      "1": "the time is ripe for a new bus timetable, now that the bridge has reopened to students."
+    },
+    "translator": {
+      "0": "our translator kept every joke.",
+      "1": "a translator works from a written page and can pause to check a name before the magazine is printed."
+    },
+    "tutor": {
+      "0": "my tutor checked the essay plan.",
+      "1": "a weekend tutor can explain one weak topic, but the student still has to finish the practice alone."
+    },
+    "wander": {
+      "0": "we wander through the old market.",
+      "1": "minds wander when a lecture runs long, so the speaker paused and asked a short question."
+    },
+    "accelerate": {
+      "0": "the cart began to accelerate downhill.",
+      "1": "extra practice can accelerate progress, but only if the student understands each step first."
+    },
+    "advertise": {
+      "0": "they advertise the concert on the radio.",
+      "1": "clubs may advertise a saturday fair in the school paper, as long as the notice states the time and place."
+    },
+    "brewery": {
+      "0": "the old brewery is now a museum.",
+      "1": "geography class studied how a riverside brewery uses local water, without suggesting that students should drink."
+    },
+    "chew": {
+      "0": "chew each bite of bread well.",
+      "1": "the nurse said you should chew slowly if a piece feels stuck, and raise a hand if you still cannot swallow."
+    },
+    "disagreement": {
+      "0": "a small disagreement delayed the vote.",
+      "1": "the disagreement was about the route, not about whether the team should go, so they settled it with a map."
+    },
+    "forbid": {
+      "0": "house rules forbid shoes on the mat.",
+      "1": "teachers forbid students to run in the lab, and a broken rule can mean leaving the room."
+    },
+    "pint": {
+      "0": "please buy a pint of milk.",
+      "1": "a british pint is a little more than half a litre, which the recipe card shows beside the cup size."
+    },
+    "pronounce": {
+      "0": "pronounce the last consonant clearly.",
+      "1": "the principal will pronounce the holiday dates on friday, once the office has checked the calendar."
+    },
+    "remark": {
+      "0": "she remarked that the gate was shut.",
+      "1": "one careless remark about the opening line upset him, so the chair asked everyone to keep criticism kind."
+    },
+    "bamboo": {
+      "0": "bamboo grows fast beside the wall.",
+      "1": "the craft room uses dried bamboo for frames, and students sand the ends so nobody gets a splinter."
+    },
+    "courtyard": {
+      "0": "children read in the courtyard.",
+      "1": "the hotel courtyard stays quiet at night, which makes it a good place to revise before bed."
+    },
+    "fetch": {
+      "0": "please fetch the key from the office.",
+      "1": "i will fetch the spare maps from the store and be back before the group reaches the gate."
+    },
+    "furnished": {
+      "0": "the furnished room includes a desk.",
+      "1": "a furnished flat costs more each month, but students then need not buy beds before term starts."
+    },
+    "panda": {
+      "0": "the panda chewed a bamboo stalk.",
+      "1": "visitors may photograph the panda, but they must stay behind the rail and must not tap the glass."
+    },
+    "refresh": {
+      "0": "a cold drink can refresh you.",
+      "1": "refresh the lab page if the graph vanishes, and wait until the new numbers finish loading."
+    },
+    "accustomed": {
+      "0": "i am accustomed to early drills.",
+      "1": "new students become accustomed to the timetable within a month, once the bells no longer surprise them."
+    },
+    "applicant": {
+      "0": "each applicant brought a short form.",
+      "1": "the club reads every applicant with the same checklist, so a famous school name is not an advantage."
+    },
+    "camel": {
+      "0": "a camel rested by the well.",
+      "1": "the textbook compares the hump of a camel with a water store, then warns that the animal still needs real water."
+    },
+    "cocoa": {
+      "0": "hot cocoa warmed our hands.",
+      "1": "the cook mixed cocoa with milk rather than water, so the drink was thick enough for a cold morning."
+    },
+    "cozy": {
+      "0": "the reading corner feels cozy.",
+      "1": "a cozy cabin is pleasant in the rain, provided the stove is safe and the window can still open."
+    },
+    "pest": {
+      "0": "aphids are a pest on the beans.",
+      "1": "calling a classmate a pest is unkind; talk about the behaviour, not a label that sticks."
+    },
+    "salesman": {
+      "0": "the salesman explained the warranty.",
+      "1": "a travelling salesman used to carry samples from town to town, which the history unit describes without nostalgia."
+    },
+    "swell": {
+      "0": "his wrist began to swell.",
+      "1": "the river may swell after a night of rain, so the path along the bank stays closed until noon."
+    },
+    "symptom": {
+      "0": "a fever can be a symptom.",
+      "1": "report every symptom to the clinic, including a sore throat, so the nurse can decide the next step."
+    },
+    "thirst": {
+      "0": "thirst woke him before dawn.",
+      "1": "her thirst for maps began in primary school, when one atlas filled a whole shelf at home."
+    },
+    "vinegar": {
+      "0": "a spoon of vinegar lifts the soup.",
+      "1": "rice vinegar is milder than the dark kind, which the cooking note explains beside the salt."
+    },
+    "astronomy": {
+      "0": "astronomy club meets on thursdays.",
+      "1": "astronomy asks how stars form, while astrology claims to read character from them, and the two are not the same."
+    },
+    "buddhism": {
+      "0": "buddhism spread along the trade roads.",
+      "1": "the history chapter treats buddhism as a religion with temples, texts, and festivals, and it asks students to write with respect."
+    },
+    "fax": {
+      "0": "the office kept the fax.",
+      "1": "please fax the signed form if the scanner fails, and file the paper copy with the club records."
+    },
+    "inspect": {
+      "0": "inspect the cable for a crack.",
+      "1": "officials inspect the kitchen twice a year, and the canteen must show how it stores milk and meat."
+    },
+    "mushroom": {
+      "0": "a brown mushroom grew by the path.",
+      "1": "summer clubs mushroomed after the fair, and the office could hardly list every new name."
+    },
+    "seldom": {
+      "0": "she seldom misses a morning run.",
+      "1": "seldom does the lab close on a weekday, so a locked door usually means a safety check is under way."
+    },
+    "yogurt": {
+      "0": "yogurt and oats make a quick breakfast.",
+      "1": "keep the yogurt cold on the trip, or it will separate and taste sharp by the time you unpack."
+    },
+    "barbecue": {
+      "0": "saturday's barbecue is in the yard.",
+      "1": "they barbecue corn as well as chicken, so guests who do not eat meat still have a full plate."
+    },
+    "carrot": {
+      "0": "grate a carrot into the salad.",
+      "1": "the cook roasted a carrot beside the potatoes, and the sweeter taste surprised the younger students."
+    },
+    "damp": {
+      "0": "the towels are still damp.",
+      "1": "a damp basement smells of earth, so the club stores paper upstairs rather than under the stairs."
+    },
+    "freeway": {
+      "0": "the freeway skirts the old town.",
+      "1": "repairs closed one freeway lane, so the team bus left an hour early and still reached the stadium."
+    },
+    "granny": {
+      "0": "granny knits socks every winter.",
+      "1": "my granny tells the same ferry story each visit, and the details grow kinder, not louder."
+    },
+    "interrupt": {
+      "0": "wait, and do not interrupt her answer.",
+      "1": "a fire drill may interrupt the test, and students should leave the papers face down before they walk out."
+    },
+    "lantern": {
+      "0": "a red lantern hung over the gate.",
+      "1": "children carried a paper lantern along the river, and adults kept the candles away from loose sleeves."
+    },
+    "mosquito": {
+      "0": "a mosquito buzzed by my ear.",
+      "1": "close the screen if a mosquito is in the dorm, and do not scratch a bite until you have washed your hands."
+    },
+    "novelist": {
+      "0": "the novelist signed the last page.",
+      "1": "a novelist may change a town's name, which the literature guide says is a choice, not a mistake."
+    },
+    "pavement": {
+      "0": "wet leaves covered the pavement.",
+      "1": "in britain people walk on the pavement, while the same word can mean the road surface in american english."
+    },
+    "refrigerator": {
+      "0": "the refrigerator hums in the corner.",
+      "1": "label every jar in the refrigerator, or the next class will not know which sample belongs to which group."
+    },
+    "sock": {
+      "0": "one sock is still on the line.",
+      "1": "bring a spare sock if the field is muddy, because a wet foot makes the afternoon hike miserable."
+    },
+    "tailor": {
+      "0": "the tailor shortened both sleeves.",
+      "1": "teachers tailor the passage to the class, so beginners read a shorter text with the same question."
+    },
+    "unrest": {
+      "0": "the chapter describes urban unrest.",
+      "1": "historians study the unrest through diaries and newspapers, and the essay must separate facts from slogans."
+    },
+    "waiter": {
+      "0": "the waiter brought extra napkins.",
+      "1": "ask the waiter to repeat the dish if the name is unclear, rather than guessing from the picture."
+    },
+    "astronaut": {
+      "0": "the astronaut waved from the screen.",
+      "1": "an astronaut trains for months before a flight, and the science page lists sleep, food, and exercise in orbit."
+    },
+    "attain": {
+      "0": "she hopes to attain a higher band.",
+      "1": "students attain fluency by using the language every week, not by collecting unused word lists."
+    },
+    "careless": {
+      "0": "a careless sum spoiled the graph.",
+      "1": "careless notes are hard to revise from, so he recopied the formulas before the weekend test."
+    },
+    "chant": {
+      "0": "the team chant filled the hall.",
+      "1": "students chant the irregular verbs together for two minutes, then write five of them from memory."
+    },
+    "cheerful": {
+      "0": "a cheerful voice answered the phone.",
+      "1": "she stayed cheerful after the loss and thanked the other team before she left the court."
+    },
+    "granddaughter": {
+      "0": "his granddaughter visits on sundays.",
+      "1": "the letter is for his granddaughter in another city, so he checked the postcode twice."
+    },
+    "gymnastics": {
+      "0": "gymnastics is her first choice.",
+      "1": "school gymnastics teaches safe landings before difficult moves, and mats stay down for the whole session."
+    },
+    "humorous": {
+      "0": "his humorous speech eased the room.",
+      "1": "a humorous example can explain a rule, provided the joke does not mock a classmate."
+    },
+    "muddy": {
+      "0": "the pitch is muddy after the rain.",
+      "1": "muddy shoes stay outside the lab, and the mat by the door is there for that reason."
+    },
+    "strait": {
+      "0": "the strait is narrow but deep.",
+      "1": "ships cross the strait at marked times, which the map shows with a thin blue line."
+    },
+    "bravery": {
+      "0": "her bravery calmed the younger children.",
+      "1": "the story praises bravery that protects others, not a risk taken only to impress the crowd."
+    },
+    "claw": {
+      "0": "the crab's claw tapped the glass.",
+      "1": "the cat may claw the curtain if it is shut in, so we leave the door ajar during the visit."
+    },
+    "congratulate": {
+      "0": "we congratulate her on the prize.",
+      "1": "friends congratulate him on the scholarship, and he thanks the teacher who read every draft."
+    },
+    "garment": {
+      "0": "this garment needs a cooler wash.",
+      "1": "each garment in the play has a label, so the crew can return it to the right rail after the show."
+    },
+    "librarian": {
+      "0": "the librarian renewed the book.",
+      "1": "ask the librarian which shelf holds the atlases, instead of pulling out every large volume."
+    },
+    "madam": {
+      "0": "madam, your coat is on the chair.",
+      "1": "the letter begins dear madam, because the writer does not know the officer's name."
+    },
+    "outgoing": {
+      "0": "an outgoing student greeted the guests.",
+      "1": "the outgoing captain handed her notes to the next captain after the final match."
+    },
+    "tease": {
+      "0": "do not tease him about his accent.",
+      "1": "friends may tease one another lightly, but the joke stops when the other person stops smiling."
+    },
+    "typhoon": {
+      "0": "the typhoon closed the ferry.",
+      "1": "during a typhoon, students stay indoors, and the school sends the all-clear before anyone leaves."
+    },
+    "adolescent": {
+      "0": "an adolescent needs more sleep than a rumour suggests.",
+      "1": "adolescent growth can be uneven, so the clinic asks students not to compare heights every week."
+    },
+    "competence": {
+      "0": "language competence grows with use.",
+      "1": "the test checks competence in reading and writing, not how fast a student can recite a list."
+    },
+    "cushion": {
+      "0": "this cushion belongs on the window seat.",
+      "1": "thick mats cushion a fall in gymnastics, which is why they stay down until the last student finishes."
+    },
+    "cyclist": {
+      "0": "a cyclist waited at the crossing.",
+      "1": "every cyclist on the school ride wears a helmet, and lights are required once the sky dims."
+    },
+    "dorm": {
+      "0": "lights-out in the dorm is ten.",
+      "1": "the dorm has a quiet floor during exams, and visitors sign the book at the door."
+    },
+    "pineapple": {
+      "0": "the pineapple is ripe enough to cut.",
+      "1": "she trimmed the pineapple before adding it to the rice, so the sharp core did not stay in the dish."
+    },
+    "scissors": {
+      "0": "these scissors are blunt.",
+      "1": "pass the scissors handle first, and close the blades before they go back into the drawer."
+    },
+    "seaside": {
+      "0": "we spent sunday at the seaside.",
+      "1": "the seaside town rents bicycles in summer, and the path ends before the rocky point."
+    },
+    "ambiguous": {
+      "0": "the ending is deliberately ambiguous.",
+      "1": "an ambiguous instruction caused two groups to measure different sides of the same triangle."
+    },
+    "cigar": {
+      "0": "a cigar is still tobacco.",
+      "1": "the clinic states that a cigar harms the lungs, and the school shop does not sell tobacco to students."
+    },
+    "comprehension": {
+      "0": "comprehension comes before speed.",
+      "1": "the comprehension passage is about a river town, and the last question asks for the writer's purpose."
+    },
+    "discourage": {
+      "0": "one low mark should not discourage you.",
+      "1": "signs discourage visitors from feeding the birds, because bread can harm them."
+    },
+    "handwriting": {
+      "0": "his handwriting is small but clear.",
+      "1": "untidy handwriting can hide a correct answer, so she rewrote the final line before handing the paper in."
+    },
+    "invent": {
+      "0": "she did not invent the machine alone.",
+      "1": "people invent tools to solve a problem, whereas they discover a star that was already there."
+    },
+    "mummy": {
+      "0": "mummy packed an extra apple.",
+      "1": "the museum mummy lies in a glass case, and the label asks visitors not to use a flash."
+    },
+    "poisonous": {
+      "0": "those red berries are poisonous.",
+      "1": "the lab label says the leaves are poisonous, so students wear gloves and do not taste them."
+    },
+    "traveler": {
+      "0": "a tired traveler asked for water.",
+      "1": "one traveler missed the morning train and used the delay to rewrite field notes in the station cafe."
+    },
+    "windy": {
+      "0": "it is too windy for the kite.",
+      "1": "a windy platform makes loose papers fly, so the group clips every sheet before the train arrives."
+    },
+    "antarctic": {
+      "0": "the antarctic is covered in ice.",
+      "1": "an antarctic research station recycles water, which the science article explains with a simple diagram."
+    },
+    "catastrophe": {
+      "0": "the flood was a catastrophe for the town.",
+      "1": "calling a missed bus a catastrophe wastes the word, which reporters keep for events that harm many people."
+    },
+    "disturb": {
+      "0": "a closed door means you should not disturb the baby.",
+      "1": "heavy steps disturb the sand samples, so the class walks around the trays rather than across them."
+    },
+    "hardship": {
+      "0": "the diary records real hardship.",
+      "1": "they faced hardship after the harvest failed, and the neighbours shared rice until the next season."
+    },
+    "hen": {
+      "0": "a brown hen guarded twelve eggs.",
+      "1": "a hen in the school garden lays eggs for the cooking class, and students do not chase her."
+    },
+    "mister": {
+      "0": "mister cole coaches the junior team.",
+      "1": "children sometimes say mister when they do not know a man's name, though mister plus the surname is more polite."
+    },
+    "rhyme": {
+      "0": "cat and hat form a rhyme.",
+      "1": "time does not rhyme with team, so the poem's last line had to change before the show."
+    },
+    "waitress": {
+      "0": "the waitress recommended the soup.",
+      "1": "thank the waitress when the plate arrives, and ask her to repeat a word you did not catch."
+    },
+    "walnut": {
+      "0": "a walnut cracked under the spoon.",
+      "1": "she added a chopped walnut to the salad, after checking that nobody at the table had a nut allergy."
+    },
+    "acquaintance": {
+      "0": "he is an acquaintance, not a close friend.",
+      "1": "a nodding acquaintance with the map is not enough; the hike leader wants everyone to find the stream alone."
+    },
+    "cabbage": {
+      "0": "shred the cabbage for the dumplings.",
+      "1": "red cabbage keeps its colour if you add a little vinegar, which the cooking note puts in bold."
+    },
+    "cater": {
+      "0": "the canteen can cater for sixty.",
+      "1": "this club caters to quiet readers as well as students who want the stage."
+    },
+    "cloudy": {
+      "0": "it is cloudy, so the solar panel is idle.",
+      "1": "a cloudy morning can still become bright, which the weather diary from last may shows in three lines."
+    },
+    "educator": {
+      "0": "the educator visited three classrooms.",
+      "1": "an educator designs the task so that a wrong answer still teaches the next step."
+    },
+    "kite": {
+      "0": "the kite caught in the tree.",
+      "1": "hold the kite until the wind is steady, then let the line out a little at a time."
+    },
+    "oneself": {
+      "0": "one should introduce oneself first.",
+      "1": "if one hurts oneself on the court, the office needs a short report the same day."
+    },
+    "rag": {
+      "0": "wipe the bench with a dry rag.",
+      "1": "the rag in the art room is for paint, not for the dishes, and it stays in the red box."
+    },
+    "suitcase": {
+      "0": "her suitcase would not shut.",
+      "1": "weigh the suitcase before you leave home, because the coach will not store a bag that is over the limit."
+    },
+    "buffet": {
+      "0": "lunch is a buffet in the hall.",
+      "1": "strong wind can buffet a tent, so the camp team ties every rope before anyone sleeps."
+    },
+    "clap": {
+      "0": "we clap when the choir finishes.",
+      "1": "do not clap during the quiet movement; wait until the conductor lowers both hands."
+    },
+    "interpreter": {
+      "0": "the interpreter sat beside the guest.",
+      "1": "an interpreter speaks while people talk and has no time to rewrite a whole paragraph."
+    },
+    "kettle": {
+      "0": "the kettle switched itself off.",
+      "1": "fill the kettle before the meeting, and keep the cord away from the sink."
+    },
+    "pea": {
+      "0": "she flicked a pea back into the bowl.",
+      "1": "frozen peas keep their colour, which is why the cook uses them when fresh pods are out of season."
+    },
+    "sideways": {
+      "0": "the sign had slipped sideways.",
+      "1": "turn the sofa sideways if you want it through the door, or the legs will catch on the frame."
+    },
+    "vase": {
+      "0": "the vase holds three branches.",
+      "1": "move the vase off the piano before rehearsal, because a bump would send water onto the keys."
+    },
+    "yummy": {
+      "0": "this stew tastes yummy.",
+      "1": "yummy is fine among friends, but a formal report should say delicious or tasty instead."
+    },
+    "numb": {
+      "0": "my toes went numb in the snow.",
+      "1": "his fingers were numb after the snowball game, so he warmed them before he tried to write."
+    },
+    "overlook": {
+      "0": "do not overlook the second question.",
+      "1": "our room overlooks the sports field, so we can watch the finish without leaving the desk."
+    },
+    "tidy": {
+      "0": "her desk is tidy again.",
+      "1": "please tidy the lab bench before you leave, including the cables and the spare cups."
+    },
+    "comb": {
+      "0": "this comb is missing two teeth.",
+      "1": "comb your hair before the photo, and put the comb back in the blue cup."
+    },
+    "fluent": {
+      "0": "she is fluent in french.",
+      "1": "he became fluent by reading every day, not by memorising a list the night before a test."
+    },
+    "outward": {
+      "0": "the outward trip takes two hours.",
+      "1": "his outward calm hid a lot of worry, which we noticed only after the exam papers were collected."
+    },
+    "practise": {
+      "0": "practise the scale before the song.",
+      "1": "musicians practise slowly at first, then raise the speed only when the notes stay clean."
+    },
+    "socket": {
+      "0": "the lamp plug fits this socket.",
+      "1": "the ball of the shoulder sits in a small socket, which the biology diagram draws without extra labels."
+    },
+    "starvation": {
+      "0": "the text defines starvation carefully.",
+      "1": "the geography unit describes starvation as a dangerous lack of food and asks how supplies reach a village."
+    },
+    "starve": {
+      "0": "do not starve yourself before a match.",
+      "1": "plants starve without light as surely as people starve without food, which the biology note puts side by side."
+    },
+    "unfit": {
+      "0": "pond water is unfit to drink.",
+      "1": "he felt unfit for the race after a cold, so the coach told him to rest and watch."
+    },
+    "aloud": {
+      "0": "read the line aloud.",
+      "1": "she repeated the phone number aloud so the clerk could hear each digit."
+    },
+    "appendix": {
+      "0": "the appendix lists every source.",
+      "1": "pain near the appendix needs a doctor, so he stopped the race and called the school clinic."
+    },
+    "chemist": {
+      "0": "the chemist wrote the formula clearly.",
+      "1": "in britain a chemist can mean the person in a pharmacy, so the shop sign did not point to a research lab."
+    },
+    "postage": {
+      "0": "the postage is higher for a parcel.",
+      "1": "check the postage before you queue, because a thick envelope may need an extra stamp."
+    },
+    "prohibit": {
+      "0": "local law prohibits fires on this hill.",
+      "1": "signs prohibit visitors from touching the models, and a guard repeats the rule at the door."
+    },
+    "pronunciation": {
+      "0": "that vowel pronunciation still varies.",
+      "1": "check the pronunciation in a dictionary when the spelling does not show which syllable is strong."
+    },
+    "tyre": {
+      "0": "the front tyre is flat.",
+      "1": "a worn tyre on the bicycle needs replacing before the long ride, or the rim may bend."
+    },
+    "correspond": {
+      "0": "we correspond by email once a month.",
+      "1": "these figures correspond to last year's table, so the rise is easy to see."
+    },
+    "equip": {
+      "0": "the lab will equip every group with goggles.",
+      "1": "good courses equip students with methods they can reuse, not only with facts for one test."
+    },
+    "kangaroo": {
+      "0": "a kangaroo crossed the dirt road.",
+      "1": "the article explains that a young kangaroo stays in the pouch, and the photo shows only the mother's feet."
+    },
+    "litre": {
+      "0": "add one litre of water.",
+      "1": "a litre is a thousand millilitres, which the measuring jug marks with a line near the top."
+    },
+    "microscope": {
+      "0": "adjust the microscope, then sketch the cells.",
+      "1": "under the microscope, the leaf shows small openings, and the worksheet asks students to count a sample of them."
+    },
+    "multiply": {
+      "0": "multiply twelve by four.",
+      "1": "weeds multiply if the bed is left bare, so the garden group covers the soil after harvest."
+    },
+    "organise": {
+      "0": "who will organise the book sale?",
+      "1": "they organise the files by date, which makes last march easy to find during the review."
+    },
+    "outing": {
+      "0": "the outing ends before supper.",
+      "1": "rain moved the outing from the lake to the museum, and the same worksheet still applied."
+    },
+    "ancestor": {
+      "0": "an ancestor planted the old tree.",
+      "1": "the family book names each ancestor for five generations, with the village written beside the year."
+    },
+    "botanical": {
+      "0": "the botanical garden opens at nine.",
+      "1": "a botanical drawing shows roots as well as flowers, which the art teacher asked the class to notice."
+    },
+    "cheque": {
+      "0": "she paid by cheque.",
+      "1": "write the amount on the cheque in words and in figures, then sign it on the line at the bottom."
+    },
+    "fisherman": {
+      "0": "the fisherman mended a net.",
+      "1": "a fisherman on the lake sets out before dawn, and the geography photo shows the lamps on the boats."
+    },
+    "loaf": {
+      "0": "buy one loaf for the picnic.",
+      "1": "do not loaf around the hall during the drill; the coach wants every player on the line."
+    },
+    "paddle": {
+      "0": "she dropped a paddle beside the canoe.",
+      "1": "we paddle slowly near the reeds so the birds stay on the water."
+    },
+    "parrot": {
+      "0": "the parrot whistled at the window.",
+      "1": "do not parrot the model essay; change the examples so the argument is yours."
+    },
+    "stocking": {
+      "0": "a stocking hung by the fireplace.",
+      "1": "she bought a thicker stocking for the play, because the stage lights made the thin pair look pale."
+    },
+    "traveller": {
+      "0": "the traveller folded a wet map.",
+      "1": "every traveller on the coastal path must carry a light, because the cliff road has no lamps after dusk."
+    },
+    "unconditional": {
+      "0": "the offer was unconditional.",
+      "1": "their support was unconditional, so she could try the new club without having to win first."
+    },
+    "abolish": {
+      "0": "the school will abolish that fine.",
+      "1": "historians compare how different countries abolish an old rule, and the essay must cite the dates."
+    },
+    "accumulate": {
+      "0": "dust can accumulate under the bed.",
+      "1": "small errors accumulate if nobody checks the sum, and the final chart then misleads the class."
+    },
+    "admirable": {
+      "0": "her patience is admirable.",
+      "1": "it was admirable of him to share the notes, even though he had finished them late the night before."
+    },
+    "anyhow": {
+      "0": "anyhow, we still made the bus.",
+      "1": "the paint was thin; anyhow, the title stayed readable from the back row."
+    },
+    "contradictory": {
+      "0": "the two reports look contradictory.",
+      "1": "his diary and the lab note were contradictory, so he checked the date before handing either page in."
+    },
+    "crossroads": {
+      "0": "we turned left at the crossroads.",
+      "1": "she stood at a crossroads in her studies, unsure whether to choose chemistry or art."
+    },
+    "digital-versatile-disk": {
+      "0": "this digital versatile disk holds the photos.",
+      "1": "the library still lends a digital versatile disk of the play, because not every home can stream the file."
+    },
+    "foreigner": {
+      "0": "a foreigner asked the way to the museum.",
+      "1": "the foreigner visiting the school shared a song from home, and the class learned the chorus."
+    },
+    "pianist": {
+      "0": "the pianist bowed twice.",
+      "1": "a young pianist practised the left hand slowly, then joined the school concert on sunday."
+    },
+    "postpone": {
+      "0": "we postponed the match until monday.",
+      "1": "they postponed printing the paper until the missing chart arrived, rather than guessing the numbers."
+    },
+    "sparrow": {
+      "0": "a sparrow sat on the rail.",
+      "1": "sparrows gathered near the canteen bins, and the guard asked students not to feed them."
+    },
+    "teamwork": {
+      "0": "teamwork saved the relay.",
+      "1": "good teamwork means listening as well as scoring, which the coach repeated before every game."
+    },
+    "wrestle": {
+      "0": "they wrestle on a soft mat.",
+      "1": "i still wrestle with this formula, but writing each step in words makes it less frightening."
+    },
+    "analyse": {
+      "0": "first analyse the graph, then draft.",
+      "1": "we analyse both the rise and the dip, because a single peak does not explain the whole month."
+    },
+    "ox": {
+      "0": "an ox stood in the old photo.",
+      "1": "one ox can pull a wooden cart, which the museum model shows beside the rice tools."
+    },
+    "pear": {
+      "0": "this pear is still hard.",
+      "1": "she sliced a pear into the salad, then saved the second one for the ride home."
+    },
+    "unbearable": {
+      "0": "the heat felt unbearable.",
+      "1": "an unbearable noise from the drill stopped the quiz, and the class moved to the library."
+    },
+    "annoy": {
+      "0": "loud chewing can annoy people nearby.",
+      "1": "it will annoy the librarian if phones ring, so we silence them before the doors open."
     }
   }
 }
