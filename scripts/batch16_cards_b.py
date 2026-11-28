@@ -134,7 +134,7 @@ CARDS_B = [
     C(
         "thirst",
         "health",
-        [("n.", "渴；渴望", "the feeling of needing a drink, or a strong wish"), ("v.", "渴望", "to want something very strongly")],
+        [("n.", "渴；渴望", "the feeling of needing a drink, or a strong wish")],
         [
             ("Thirst woke him before dawn.", "渴在黎明前把他渴醒了。"),
             ("Her thirst for maps began in primary school, when one atlas filled a whole shelf at home.", "她对地图的渴望从小学就开始了，那时家里一整层架子都是一本地图册。"),
@@ -142,7 +142,7 @@ CARDS_B = [
         ["thirst for knowledge｜对知识的渴望", "die of thirst｜渴死"],
         ["thirsty (adj. 渴的)", "thirstily (adv. 口渴地)"],
         ["craving（强烈的愿望）"],
-        tip="口渴是 thirst，形容词 thirsty。thirst for 表示对知识或成功的渴望。动词 thirst 不如名词常见。",
+        tip="口渴和渴望都是名词。thirst for 表示对知识或成功的渴望。形容词是 thirsty。动词 thirst 很少用，本卡不列。",
     ),
     C(
         "vinegar",
@@ -225,6 +225,7 @@ CARDS_B = [
         ],
         ["seldom if ever｜极少", "seldom seen｜很少见到"],
         syn=["rarely（很少）"],
+        ant=["often（经常）"],
         tip="seldom 放在句首时，后面要部分倒装：Seldom does he...。它的意思接近 rarely，和 often 相反。",
     ),
     C(
@@ -405,6 +406,7 @@ CARDS_B = [
         ],
         ["social unrest｜社会动荡", "civil unrest｜内乱"],
         ["restless (adj. 不安宁的)", "uneasy (adj. 不安的)"],
+        ["turmoil（动荡）"],
         ["calm（平静）", "order（秩序）"],
         tip="unrest 不可数，多用于历史或新闻。写作时陈述事实，不要把它写成行动指南。",
     ),
@@ -456,6 +458,7 @@ CARDS_B = [
         ],
         ["a careless mistake｜粗心的错误", "careless with｜对……粗心"],
         ["care (n. 小心)", "careful (adj. 仔细的)", "carelessly (adv. 粗心地)", "carelessness (n. 粗心)"],
+        ["thoughtless（粗心的）"],
         ["careful（仔细的）"],
         tip="careless with money 或 careless about details。反义 careful 已在库里。副词 carelessly。",
     ),

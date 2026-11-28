@@ -100,6 +100,27 @@ whichever, chalk, mustard, clone, skeptical, govern, translator, remark, furnish
 
 新词的两条例句都用本地 Kokoro `af_heart`、美式、语速 1.0 录。已经挂在旧卡上的例句录音没有重录。同 id 上未挂到旧卡的上游例句文件换成了新句子，否则新卡会播错句子。稿和 SHA-256 在 `data/batch-16-sentence-audio.json`。`data/sentence-audio-provenance.json` 只为这 200 张新卡追加了核对脚本。开屏「欢迎打开高考词图」没有重录。
 
+## 复核修订
+
+独立复核标出 7 张卡把反义词放进了近义、反义栏却是空的。只改了这 7 张，外加 4 处不改英文例句的顺手修订。英文例句一个字都没动，所以没有重录。已有 2997 张卡和其他新卡没有改。
+
+近义里的反义词改放到反义，格式仍是「词（中文）」：
+
+- `furnished`：`unfurnished（不带家具的）` 改到反义。近义留空。词族里的 unfurnished (adj. 不带家具的) 不动。提示里的「反义是 unfurnished」仍然对。
+- `careless`：`careful（仔细的）` 改到反义。近义改为 thoughtless（粗心的）。
+- `multiply`：`divide（除）` 改到反义。近义留空。两句英文仍分别是乘法和繁殖，没有改。提示里的「反义在算术里是 divide」仍然对。
+- `unconditional`：`conditional（有条件的）` 改到反义。近义改为 absolute（无条件的）。
+- `aloud`：`silently（默默地）` 改到反义。近义改为 out loud（出声地）。
+- `unrest`：`calm（平静）` 和 `order（秩序）` 改到反义。近义改为 turmoil（动荡）。
+- `windy`：`calm（无风的）` 改到反义。近义改为 breezy（有风的）。
+
+另外四处，都没有改英文：
+
+- `thirst` 去掉了没有例句的动词义项，两句仍是名词「渴」和「渴望」。提示改成说明动词很少用、本卡不列。
+- `seldom` 的反义补上 often（经常），和提示里「和 often 相反」一致。
+- `traveler` 的词族 travelling 改成美式 traveling，和词头一致。
+- `capsule` 第二句中文里的「船员」改成「航天员」。英文 crew 没动，录音没重录。
+
 ## 校验
 
 - `npm test`：28 项通过。

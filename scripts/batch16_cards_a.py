@@ -22,7 +22,7 @@ CARDS_A = [
         [("n.", "胶囊；太空舱", "a small case of medicine, or a spacecraft cabin")],
         [
             ("Swallow this capsule with warm water.", "用温水吞下这粒胶囊。"),
-            ("The museum capsule is only a training model, yet visitors can still see how little room the crew had.", "博物馆里的太空舱只是训练模型，参观者仍能看到船员的空间有多么小。"),
+            ("The museum capsule is only a training model, yet visitors can still see how little room the crew had.", "博物馆里的太空舱只是训练模型，参观者仍能看到航天员的空间有多么小。"),
         ],
         ["a medicine capsule｜一粒胶囊", "a space capsule｜太空舱"],
         ["encapsulate (v. 概括；封装)", "capsular (adj. 囊状的)"],
@@ -631,6 +631,7 @@ CARDS_A = [
         ],
         ["a furnished flat｜带家具的公寓", "furnished accommodation｜配备家具的住处"],
         ["furnish (v. 为……配备家具)", "furniture (n. 家具)", "unfurnished (adj. 不带家具的)"],
+        [],
         ["unfurnished（不带家具的）"],
         tip="furnished 是已经配了家具。家具的总称 furniture 不可数。反义是 unfurnished。",
     ),

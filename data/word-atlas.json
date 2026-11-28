@@ -5647,7 +5647,7 @@
   ],
   "fam": [
    "travel (v. 旅行)",
-   "travelling (n. 旅行)"
+   "traveling (n. 旅行)"
   ],
   "syn": [
    "traveller（旅行者，英式）"
@@ -7841,9 +7841,11 @@
    "wind (n. 风)"
   ],
   "syn": [
+   "breezy（有风的）"
+  ],
+  "ant": [
    "calm（无风的）"
   ],
-  "ant": [],
   "tip": "windy 形容天气。wind 已在库里，作名词是风，作动词是缠绕或蜿蜒，读音不同。比较级 windier。",
   "cefr": "A2",
   "topic": "nature",
@@ -19394,7 +19396,7 @@
    },
    {
     "en": "The museum capsule is only a training model, yet visitors can still see how little room the crew had.",
-    "zh": "博物馆里的太空舱只是训练模型，参观者仍能看到船员的空间有多么小。"
+    "zh": "博物馆里的太空舱只是训练模型，参观者仍能看到航天员的空间有多么小。"
    }
   ],
   "col": [
@@ -108719,9 +108721,11 @@
    "loud (adj. 大声的)"
   ],
   "syn": [
+   "out loud（出声地）"
+  ],
+  "ant": [
    "silently（默默地）"
   ],
-  "ant": [],
   "tip": "aloud 是出声，不一定很大。loud 已在库里，强调声音大。read aloud 是朗读。",
   "cefr": "B1",
   "topic": "education",
@@ -120380,9 +120384,11 @@
    "carelessness (n. 粗心)"
   ],
   "syn": [
+   "thoughtless（粗心的）"
+  ],
+  "ant": [
    "careful（仔细的）"
   ],
-  "ant": [],
   "tip": "careless with money 或 careless about details。反义 careful 已在库里。副词 carelessly。",
   "cefr": "B1",
   "topic": "daily",
@@ -128381,10 +128387,10 @@
    "multiplication (n. 乘法；增加)",
    "multiple (adj. 多重的)"
   ],
-  "syn": [
+  "syn": [],
+  "ant": [
    "divide（除）"
   ],
-  "ant": [],
   "tip": "三乘以四说 multiply three by four。重音在第一个音节。名词 multiplication。反义在算术里是 divide。",
   "cefr": "B2",
   "topic": "science",
@@ -134263,7 +134269,9 @@
   "syn": [
    "rarely（很少）"
   ],
-  "ant": [],
+  "ant": [
+   "often（经常）"
+  ],
   "tip": "seldom 放在句首时，后面要部分倒装：Seldom does he...。它的意思接近 rarely，和 often 相反。",
   "cefr": "B2",
   "topic": "daily",
@@ -134462,11 +134470,6 @@
     "pos": "n.",
     "zh": "渴；渴望",
     "en": "the feeling of needing a drink, or a strong wish"
-   },
-   {
-    "pos": "v.",
-    "zh": "渴望",
-    "en": "to want something very strongly"
    }
   ],
   "ex": [
@@ -134491,7 +134494,7 @@
    "craving（强烈的愿望）"
   ],
   "ant": [],
-  "tip": "口渴是 thirst，形容词 thirsty。thirst for 表示对知识或成功的渴望。动词 thirst 不如名词常见。",
+  "tip": "口渴和渴望都是名词。thirst for 表示对知识或成功的渴望。形容词是 thirsty。动词 thirst 很少用，本卡不列。",
   "cefr": "B2",
   "topic": "health",
   "note": "",
@@ -137554,10 +137557,12 @@
    "uneasy (adj. 不安的)"
   ],
   "syn": [
+   "turmoil（动荡）"
+  ],
+  "ant": [
    "calm（平静）",
    "order（秩序）"
   ],
-  "ant": [],
   "tip": "unrest 不可数，多用于历史或新闻。写作时陈述事实，不要把它写成行动指南。",
   "cefr": "B2",
   "topic": "history",
@@ -143888,10 +143893,10 @@
    "furniture (n. 家具)",
    "unfurnished (adj. 不带家具的)"
   ],
-  "syn": [
+  "syn": [],
+  "ant": [
    "unfurnished（不带家具的）"
   ],
-  "ant": [],
   "tip": "furnished 是已经配了家具。家具的总称 furniture 不可数。反义是 unfurnished。",
   "cefr": "C1",
   "topic": "daily",
@@ -144118,9 +144123,11 @@
    "conditionally (adv. 有条件地)"
   ],
   "syn": [
+   "absolute（无条件的）"
+  ],
+  "ant": [
    "conditional（有条件的）"
   ],
-  "ant": [],
   "tip": "unconditional offer 在英国升学里是无条件录取。反义 conditional。不要漏掉字母 l 前面的结构。",
   "cefr": "C1",
   "topic": "emotion",
