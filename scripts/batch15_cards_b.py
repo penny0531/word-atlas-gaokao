@@ -212,14 +212,17 @@ CARDS_B = [
     C(
         "conductor",
         "arts",
-        [("n.", "指挥；售票员", "a person who directs musicians, or who sells tickets on a bus or train")],
+        [
+            ("n.", "指挥；售票员", "a person who directs musicians, or who sells tickets on a bus or train"),
+            ("n.", "导体", "a material that lets heat or electricity pass through"),
+        ],
         [
             ("The conductor raised the baton.", "指挥举起了指挥棒。"),
-            ("Ask the bus conductor for a student ticket if the machine by the door is broken.", "门口的机器坏了就向公共汽车售票员买学生票。"),
+            ("Copper is a good conductor, so the lab uses it when the circuit will not close.", "铜是良导体，所以电路合不上时实验室用它。"),
         ],
-        ["an orchestra conductor｜乐队指挥", "a bus conductor｜公共汽车售票员"],
+        ["an orchestra conductor｜乐队指挥", "a bus conductor｜公共汽车售票员", "a good conductor｜良导体"],
         fam=["conduct (v. 指挥；传导)", "conduction (n. 传导)"],
-        tip="conductor 在音乐里是指挥，在公共汽车上是售票员。动词都是 conduct。物理里导体也是这个词。",
+        tip="conductor 可以是指挥、公共汽车售票员，也可以是物理里的导体。动词是 conduct。",
     ),
     C(
         "explode",
@@ -470,7 +473,7 @@ CARDS_B = [
         ],
         ["a kindergarten teacher｜幼儿教师", "in kindergarten｜在上幼儿园"],
         fam=["kindergartener (n. 幼儿园小朋友；幼儿教师)"],
-        tip="kindergarten 在美式里常指入学前的一年。英式幼儿学校也说 nursery school。",
+        tip="高考里常把 kindergarten 译成幼儿园。美式多指上一年级前的那一年，大约五岁，不是整个学前阶段。英式幼儿班更常说 nursery。",
     ),
     C(
         "playground",
@@ -583,8 +586,8 @@ CARDS_B = [
             ("She emptied the drawer onto the desk and found the stamp under a stack of forms.", "她把抽屉倒在桌上，在一叠表格底下找到了邮票。"),
         ],
         ["the top drawer｜最上层抽屉", "open a drawer｜打开抽屉"],
-        fam=["draw (v. 拉；画)"],
-        tip="drawer 是抽屉，重音在第一个音节。画画的人是 a person who draws，不要读成同一个重音去理解。",
+        fam=["draw (v. 拉)"],
+        tip="drawer 是抽屉，来自 draw「拉出」。重音在第一个音节。不要把它理解成画画的人。",
     ),
     C(
         "queue",

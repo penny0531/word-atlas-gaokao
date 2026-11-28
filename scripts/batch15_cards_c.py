@@ -172,7 +172,6 @@ CARDS_C = [
             ("The diploma arrives by post next month, so the ceremony itself does not hand you the paper.", "文凭下个月寄到，典礼当天并不把证书交到你手上。"),
         ],
         ["a high school diploma｜高中文凭", "receive a diploma｜获得文凭"],
-        fam=["diplomacy (n. 外交)"],
         syn=["certificate（证书）"],
         tip="diploma 是学历证书。diplomacy 是外交，词根相近但意思不同，不要混。",
     ),

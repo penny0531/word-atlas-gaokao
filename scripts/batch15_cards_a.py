@@ -301,7 +301,7 @@ CARDS_A = [
         ],
         ["envy sb sth｜羡慕某人某物", "the envy of｜……所羡慕的对象"],
         ["envious (adj. 羡慕的；妒忌的)", "enviable (adj. 令人羡慕的)"],
-        ["begrudge（吝于给；妒忌）"],
+        ["be jealous of（妒忌）"],
         tip="envy sb sth。形容词是 envious，形容人；enviable 形容令人羡慕的事物。the envy of the class 是全班羡慕的对象。",
     ),
     C(
@@ -525,7 +525,7 @@ CARDS_A = [
         [("v.", "刮（须、毛）", "to cut hair very close to the skin")],
         [
             ("He forgot to shave before the photo.", "拍照前他忘了刮脸。"),
-            ("She will shave the extra pencil marks off the board with a blade meant for that job.", "她会用专用刀片把黑板上多出来的铅笔印刮掉。"),
+            ("He will shave the beard on his chin before Sunday's match.", "星期天比赛前，他会把下巴上的胡子刮掉。"),
         ],
         ["shave off｜刮掉", "a close shave｜刮得很干净；侥幸脱险"],
         ["shaver (n. 电动剃须刀)", "clean-shaven (adj. 胡子刮净的)"],
@@ -643,7 +643,7 @@ CARDS_A = [
         [("v.", "原谅", "to forgive someone"), ("n.", "原谅；赦免", "forgiveness, or an official act that frees someone")],
         [
             ("Pardon me, I took your pencil.", "原谅我，我拿了你的铅笔。"),
-            ("I beg your pardon: the room number is 214, not 240, so we are on the wrong floor.", "请再说一遍：房间号是 214 不是 240，所以我们走错了楼层。"),
+            ("I beg your pardon: the room number is 214, not 240, so we are on the wrong floor.", "请原谅：房间号是 214，不是 240，所以我们走错了楼层。"),
         ],
         ["beg your pardon｜请再说一遍；请原谅", "pardon sb for｜原谅某人某事"],
         ["pardonable (adj. 可原谅的)"],

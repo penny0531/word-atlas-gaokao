@@ -6238,11 +6238,11 @@
    "open a drawer｜打开抽屉"
   ],
   "fam": [
-   "draw (v. 拉；画)"
+   "draw (v. 拉)"
   ],
   "syn": [],
   "ant": [],
-  "tip": "drawer 是抽屉，重音在第一个音节。画画的人是 a person who draws，不要读成同一个重音去理解。",
+  "tip": "drawer 是抽屉，来自 draw「拉出」。重音在第一个音节。不要把它理解成画画的人。",
   "cefr": "A2",
   "topic": "daily",
   "note": "",
@@ -14485,7 +14485,7 @@
    },
    {
     "en": "I beg your pardon: the room number is 214, not 240, so we are on the wrong floor.",
-    "zh": "请再说一遍：房间号是 214 不是 240，所以我们走错了楼层。"
+    "zh": "请原谅：房间号是 214，不是 240，所以我们走错了楼层。"
    }
   ],
   "col": [
@@ -87795,8 +87795,8 @@
     "zh": "拍照前他忘了刮脸。"
    },
    {
-    "en": "She will shave the extra pencil marks off the board with a blade meant for that job.",
-    "zh": "她会用专用刀片把黑板上多出来的铅笔印刮掉。"
+    "en": "He will shave the beard on his chin before Sunday's match.",
+    "zh": "星期天比赛前，他会把下巴上的胡子刮掉。"
    }
   ],
   "col": [
@@ -124914,7 +124914,7 @@
    "amply (adv. 充足地)"
   ],
   "syn": [
-   "plenty（充足）",
+   "plentiful（充足的）",
    "abundant（丰富的）"
   ],
   "ant": [
@@ -125965,6 +125965,11 @@
     "pos": "n.",
     "zh": "指挥；售票员",
     "en": "a person who directs musicians, or who sells tickets on a bus or train"
+   },
+   {
+    "pos": "n.",
+    "zh": "导体",
+    "en": "a material that lets heat or electricity pass through"
    }
   ],
   "ex": [
@@ -125973,13 +125978,14 @@
     "zh": "指挥举起了指挥棒。"
    },
    {
-    "en": "Ask the bus conductor for a student ticket if the machine by the door is broken.",
-    "zh": "门口的机器坏了就向公共汽车售票员买学生票。"
+    "en": "Copper is a good conductor, so the lab uses it when the circuit will not close.",
+    "zh": "铜是良导体，所以电路合不上时实验室用它。"
    }
   ],
   "col": [
    "an orchestra conductor｜乐队指挥",
-   "a bus conductor｜公共汽车售票员"
+   "a bus conductor｜公共汽车售票员",
+   "a good conductor｜良导体"
   ],
   "fam": [
    "conduct (v. 指挥；传导)",
@@ -125987,7 +125993,7 @@
   ],
   "syn": [],
   "ant": [],
-  "tip": "conductor 在音乐里是指挥，在公共汽车上是售票员。动词都是 conduct。物理里导体也是这个词。",
+  "tip": "conductor 可以是指挥、公共汽车售票员，也可以是物理里的导体。动词是 conduct。",
   "cefr": "B2",
   "topic": "arts",
   "note": "",
@@ -127280,7 +127286,7 @@
    "enviable (adj. 令人羡慕的)"
   ],
   "syn": [
-   "begrudge（吝于给；妒忌）"
+   "be jealous of（妒忌）"
   ],
   "ant": [],
   "tip": "envy sb sth。形容词是 envious，形容人；enviable 形容令人羡慕的事物。the envy of the class 是全班羡慕的对象。",
@@ -131972,9 +131978,7 @@
    "a high school diploma｜高中文凭",
    "receive a diploma｜获得文凭"
   ],
-  "fam": [
-   "diplomacy (n. 外交)"
-  ],
+  "fam": [],
   "syn": [
    "certificate（证书）"
   ],
@@ -134829,7 +134833,7 @@
   ],
   "syn": [],
   "ant": [],
-  "tip": "kindergarten 在美式里常指入学前的一年。英式幼儿学校也说 nursery school。",
+  "tip": "高考里常把 kindergarten 译成幼儿园。美式多指上一年级前的那一年，大约五岁，不是整个学前阶段。英式幼儿班更常说 nursery。",
   "cefr": "B2",
   "topic": "education",
   "note": "",
@@ -135045,8 +135049,8 @@
     "zh": "水箱能装两立方米。"
    },
    {
-    "en": "A cubic equation can have more than one answer, so test each one in the original line.",
-    "zh": "三次方程可以有不止一个解，所以把每个解代回原式检验。"
+    "en": "Label the carton 240 cubic centimetres after you measure its length, width and height.",
+    "zh": "量完长、宽、高之后，在纸箱上标 240 立方厘米。"
    }
   ],
   "col": [
@@ -135243,10 +135247,10 @@
    "a cotton vest｜棉汗衫",
    "a safety vest｜安全背心"
   ],
-  "fam": [
-   "waistcoat (n. 西装背心，英式)"
+  "fam": [],
+  "syn": [
+   "waistcoat（西装背心，英式）"
   ],
-  "syn": [],
   "ant": [],
   "tip": "英式 vest 常指内衣汗衫。美式 vest 多指西装背心，英式叫 waistcoat。安全背心两边都说 vest。",
   "cefr": "C1",

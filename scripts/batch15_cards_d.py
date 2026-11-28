@@ -195,7 +195,7 @@ CARDS_D = [
             ("The orange vest makes the volunteer easy to see when cars pass the school gate.", "橙色背心让志愿者在车辆经过校门时容易被看见。"),
         ],
         ["a cotton vest｜棉汗衫", "a safety vest｜安全背心"],
-        fam=["waistcoat (n. 西装背心，英式)"],
+        syn=["waistcoat（西装背心，英式）"],
         tip="英式 vest 常指内衣汗衫。美式 vest 多指西装背心，英式叫 waistcoat。安全背心两边都说 vest。",
     ),
     C(
@@ -428,7 +428,7 @@ CARDS_D = [
         ],
         ["ample evidence｜充分的证据", "ample space｜足够的空间"],
         fam=["amply (adv. 充足地)"],
-        syn=["plenty（充足）", "abundant（丰富的）"],
+        syn=["plentiful（充足的）", "abundant（丰富的）"],
         ant=["insufficient（不足的）"],
         tip="ample 比 enough 更强调充裕。abundant 本库另有一条，常形容自然供给。",
     ),
@@ -465,7 +465,7 @@ CARDS_D = [
         [("adj.", "立方的", "related to a cube, or measured in cubes")],
         [
             ("The tank holds two cubic metres.", "水箱能装两立方米。"),
-            ("A cubic equation can have more than one answer, so test each one in the original line.", "三次方程可以有不止一个解，所以把每个解代回原式检验。"),
+            ("Label the carton 240 cubic centimetres after you measure its length, width and height.", "量完长、宽、高之后，在纸箱上标 240 立方厘米。"),
         ],
         ["a cubic metre｜一立方米", "cubic centimetre｜立方厘米"],
         fam=["cube (n. 立方体；立方)"],

@@ -97,6 +97,10 @@ yourselves, autonomous, enthusiastic, paperwork, convey, zoom, addicted, cube, r
 
 播放路径只有 `audio/ex/{id}.mp3` 和 `audio/ex2/{id}.mp3`。161 条第一条例句、27 条第二条例句的路径上原先有未挂到任何卡的上游录音，内容不是本批的新句子。这些文件换成了新句子的 Kokoro 录音，否则新卡会播错句子。原先 2797 张卡的例句文件一个都没改。被换掉的上游字节仍在起点提交 `2fb93d13` 里。稿和 SHA-256 在 `data/batch-15-sentence-audio.json`。`data/sentence-audio-provenance.json` 只为这 200 张新卡追加了核对脚本。
 
+## 复核修订
+
+独立复核标出 6 处必须改的语言问题，都改在这 200 张新卡上。`pardon` 的第二句中文改成「请原谅」，英文没动，录音没重录。`shave` 的第二句改成刮胡子，`conductor` 补上「导体」并换了第二句，`cubic` 的第二句改成体积。这三句英文变了，只重录了对应的 Kokoro（`af_heart`，en-us，语速 1.0）。`envy` 的近义改为 be jealous of，`ample` 的近义改为 plentiful。顺手改了 drawer、diploma、kindergarten、vest 的词族或提示，没有重录。
+
 ## 校验
 
 - `npm test`：28 项通过。
