@@ -1,0 +1,249 @@
+{
+ "outlineLinesWc": 3530,
+ "uniqueHeadwords": 3487,
+ "catalogBefore": 2797,
+ "target": 200,
+ "first": {
+  "id": "relay",
+  "w": "relay",
+  "zipf": 3.86
+ },
+ "last": {
+  "id": "appoint",
+  "w": "appoint",
+  "zipf": 3.7
+ },
+ "zipfCounts": {
+  "3.86": 4,
+  "3.85": 14,
+  "3.84": 12,
+  "3.83": 12,
+  "3.82": 11,
+  "3.81": 11,
+  "3.8": 16,
+  "3.79": 10,
+  "3.78": 9,
+  "3.77": 12,
+  "3.76": 9,
+  "3.75": 14,
+  "3.74": 17,
+  "3.73": 13,
+  "3.72": 15,
+  "3.71": 18,
+  "3.7": 3
+ },
+ "inWindowSkips": [
+  {
+   "id": "absorb",
+   "w": "absorb",
+   "zipf": 3.81
+  },
+  {
+   "id": "distribute",
+   "w": "distribute",
+   "zipf": 3.79
+  },
+  {
+   "id": "attach",
+   "w": "attach",
+   "zipf": 3.75
+  }
+ ],
+ "leftoversSameZipf": [
+  {
+   "id": "capsule",
+   "w": "capsule",
+   "zipf": 3.7
+  },
+  {
+   "id": "compulsory",
+   "w": "compulsory",
+   "zipf": 3.7
+  },
+  {
+   "id": "grape",
+   "w": "grape",
+   "zipf": 3.7
+  },
+  {
+   "id": "haircut",
+   "w": "haircut",
+   "zipf": 3.7
+  },
+  {
+   "id": "rot",
+   "w": "rot",
+   "zipf": 3.7
+  },
+  {
+   "id": "spear",
+   "w": "spear",
+   "zipf": 3.7
+  },
+  {
+   "id": "stain",
+   "w": "stain",
+   "zipf": 3.7
+  },
+  {
+   "id": "trousers",
+   "w": "trousers",
+   "zipf": 3.7
+  },
+  {
+   "id": "unwilling",
+   "w": "unwilling",
+   "zipf": 3.7
+  },
+  {
+   "id": "whichever",
+   "w": "whichever",
+   "zipf": 3.7
+  }
+ ],
+ "nextNewHeadword": {
+  "id": "capsule",
+  "w": "capsule",
+  "zipf": 3.7
+ },
+ "startsWithExpectedTies": [
+  "relay",
+  "sunlight",
+  "taxpayer",
+  "yourselves"
+ ],
+ "media": {
+  "plate": 161,
+  "missingPlate": [
+   "yourselves",
+   "autonomous",
+   "enthusiastic",
+   "paperwork",
+   "convey",
+   "zoom",
+   "addicted",
+   "cube",
+   "rainfall",
+   "carpenter",
+   "dioxide",
+   "forwards",
+   "communism",
+   "grandpa",
+   "madame",
+   "seize",
+   "vacant",
+   "encouragement",
+   "hesitate",
+   "algebra",
+   "scar",
+   "stainless",
+   "rigid",
+   "upwards",
+   "amusement",
+   "compass",
+   "worthwhile",
+   "compact-disk",
+   "devotion",
+   "dilemma",
+   "millionaire",
+   "atom",
+   "choke",
+   "jeep",
+   "pe",
+   "radioactive",
+   "accuse",
+   "bingo",
+   "upward"
+  ],
+  "uk": 161,
+  "us": 161,
+  "missingUk": [
+   "yourselves",
+   "autonomous",
+   "enthusiastic",
+   "paperwork",
+   "convey",
+   "zoom",
+   "addicted",
+   "cube",
+   "rainfall",
+   "carpenter",
+   "dioxide",
+   "forwards",
+   "communism",
+   "grandpa",
+   "madame",
+   "seize",
+   "vacant",
+   "encouragement",
+   "hesitate",
+   "algebra",
+   "scar",
+   "stainless",
+   "rigid",
+   "upwards",
+   "amusement",
+   "compass",
+   "worthwhile",
+   "compact-disk",
+   "devotion",
+   "dilemma",
+   "millionaire",
+   "atom",
+   "choke",
+   "jeep",
+   "pe",
+   "radioactive",
+   "accuse",
+   "bingo",
+   "upward"
+  ],
+  "missingUs": [
+   "yourselves",
+   "autonomous",
+   "enthusiastic",
+   "paperwork",
+   "convey",
+   "zoom",
+   "addicted",
+   "cube",
+   "rainfall",
+   "carpenter",
+   "dioxide",
+   "forwards",
+   "communism",
+   "grandpa",
+   "madame",
+   "seize",
+   "vacant",
+   "encouragement",
+   "hesitate",
+   "algebra",
+   "scar",
+   "stainless",
+   "rigid",
+   "upwards",
+   "amusement",
+   "compass",
+   "worthwhile",
+   "compact-disk",
+   "devotion",
+   "dilemma",
+   "millionaire",
+   "atom",
+   "choke",
+   "jeep",
+   "pe",
+   "radioactive",
+   "accuse",
+   "bingo",
+   "upward"
+  ],
+  "unusedEx": 161,
+  "unusedEx2": 27,
+  "partialPlate": []
+ },
+ "zipfViaNotSelf": [],
+ "cefrjVia": [],
+ "batch14Check": "bicycle→referee reproduced; skips admire, calculate, conclude, distinguish"
+}

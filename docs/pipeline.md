@@ -59,6 +59,8 @@ curl -L -o .local/kokoro/models/voices-v1.0.bin \
 
 第十四批里没有上游词头文件的 32 个新 id，用 `scripts/atlas/gen_kokoro_headword_audio_batch14.py` 另录。声音、语速和 mp3 规格与上面相同。它拒绝覆盖已有词头文件，也不写例句或开屏口播。没有同 id 上游插画、又不能免费画出来的词，插画位留空。
 
+第十五批的 39 个缺词头 id，连同 400 条新例句，用 `scripts/atlas/gen_kokoro_batch15_audio.py` 另录。词头仍是美音 `af_heart` / `en-us`、英音 `bf_emma` / `en-gb`，语速 1.0，只读孤立词头。例句全部是 `af_heart` / `en-us` / 1.0。脚本只允许写这 200 个新 id 的音频路径；同 id 上未挂到旧卡的上游例句文件会被换成新句子，旧卡的例句字节、开屏口播和已有词头文件不改。没有同 id 插画的 39 个词继续留空，不调用付费图像接口。
+
 ## 质量边界
 
 自动校验覆盖结构、字段、顺序和文件，不覆盖语义正确性。插画和例句没有逐条人工审校；发现问题请提 Issue 或 PR。例句录音另有音素覆盖、时长和 mp3 整文件解码检查，见 `data/kokoro-sentence-audio-manifest.json`。抽查 ASR 只在生成机器上运行，网站不下载语音模型。
